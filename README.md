@@ -1,5 +1,12 @@
 # simc
 
+## Gems
+
+| Gem                        | Id     |
+| -------------------------- | ------ |
+| +60 Mastery / +28 Haste    | 192960 |
+| +70 Versatility / +33 Crit | 192932 |
+
 ## Enchants
 
 ### Head
