@@ -39,14 +39,16 @@ feet=,id=193519,bonus_id=9498/9499/9405,crafted_stats=32/40,enchant_id=6607,craf
 finger1=,id=193000,bonus_id=9498/9405/9499/8780,gem_id=192932,enchant_id=6568,crafted_stats=32/40,crafting_quality=5
 # Band of Burning Thorns (476)
 finger2=,id=207159,bonus_id=9563/1494,enchant_id=6568
-# Nymue's Unraveling Spindle (463)
-trinket1=,id=208615,bonus_id=9559/7982/1494
 # Belor'relos, the Suncaller (463)
-trinket2=,id=207172,bonus_id=9559/7982/1494
+trinket1=,id=207172,bonus_id=9559/7982/1494
+# Nymue's Unraveling Spindle (463)
+trinket2=,id=208615,bonus_id=9559/7982/1494
 # Staff of Incandescent Torment (476)
 main_hand=,id=207794,bonus_id=6652/7979/9560/1507/8767,enchant_id=6643
 
 ### Gear from Bags
+# Ashes of the Embersoul (460)
+# trinket1=,id=207167,bonus_id=9562/1491
 # Vibrant Wildercloth Shawl (476)
 # back=,id=193511,bonus_id=9498/9405/9499/8795/9379/8960,crafting_quality=5
 # Vibrant Wildercloth Vestments (476)
