@@ -22,15 +22,15 @@ neck=,id=208443,bonus_id=9563/6652/8783/10245/1494/8767
 # Devout Ashdevil's Hatespikes (463)
 shoulder=,id=207270,bonus_id=6652/9600/9559/9513/1494/8767
 # Vibrant Wildercloth Shawl (476)
-back=,id=193511,bonus_id=9498/9405/9499/8795,enchant_id=6604,crafting_quality=5
+back=,id=193511,bonus_id=9498/9405/9499/8795/9379/8960,enchant_id=6604,crafting_quality=5
 # Vibrant Wildercloth Vestments (476)
-chest=,id=193509,bonus_id=9498/9405/9499/8795/9379/8960,enchant_id=6625,crafting_quality=5
-# Frigid Conservator's Bands (463)
-wrist=,id=210372,bonus_id=9559/9506/6652/9516/1494/8767,gem_id=192960,enchant_id=6586
+chest=,id=193509,bonus_id=9498/9405/9499/8795,enchant_id=6625,crafting_quality=5
+# Vibrant Wildercloth Wristwraps (476)
+wrist=,id=193510,bonus_id=9498/9405/9499/9379/8960,crafted_stats=32/40,crafting_quality=5
 # Devout Ashdevil's Claws (476)
 hands=,id=207273,bonus_id=6652/9600/9567/9513/1507/8767
 # Vibrant Wildercloth Girdle (476)
-waist=,id=193516,bonus_id=9498/9405/9499/8795/9379/8960,enchant_id=6904,crafting_quality=5
+waist=,id=193516,bonus_id=9498/9405/9499/8795,enchant_id=6904,crafting_quality=5
 # Devout Ashdevil's Tights (463)
 legs=,id=207271,bonus_id=6652/9600/9559/9513/1494/8767,enchant_id=6540
 # Vibrant Wildercloth Slippers (476)
@@ -50,11 +50,11 @@ main_hand=,id=207794,bonus_id=6652/7979/9560/1507/8767,enchant_id=6643
 # Ashes of the Embersoul (460)
 # trinket1=,id=207167,bonus_id=9562/1491
 # Vibrant Wildercloth Shawl (476)
-# back=,id=193511,bonus_id=9498/9405/9499/8795/9379/8960,crafting_quality=5
+# back=,id=193511,bonus_id=9498/9405/9499/8795/9379/8960,enchant_id=6604,crafting_quality=5
 # Vibrant Wildercloth Vestments (476)
-# chest=,id=193509,bonus_id=9498/9405/9499/8795,crafting_quality=5
+# chest=,id=193509,bonus_id=9498/9405/9499/8795,enchant_id=6625,crafting_quality=5
 # Vibrant Wildercloth Girdle (476)
-# waist=,id=193516,bonus_id=9498/9405/9499/8795,crafting_quality=5
+# waist=,id=193516,bonus_id=9498/9405/9499/8795,enchant_id=6904,crafting_quality=5
 # Vibrant Wildercloth Wristwraps
 # wrist=,id=193510,bonus_id=9498/9405/9499/9379/8960,crafted_stats=32/36,crafting_quality=5
 # Vibrant Wildercloth Wristwraps
