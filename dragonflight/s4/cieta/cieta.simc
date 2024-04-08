@@ -1,0 +1,163 @@
+# Cieta - Demonology - 2024-01-12 14:59 - US/Thunderhorn
+# SimC Addon 10.2.0-01
+# WoW 10.2.0.52808, TOC 100200
+# Requires SimulationCraft 1000-01 or newer
+
+warlock="Cieta"
+level=70
+race=gnome
+region=us
+server=thunderhorn
+role=spell
+professions=alchemy=75/herbalism=31
+spec=demonology
+
+talents=BoQAj5LiEN4VXhSin5RcWeAUggcASSkkAppAplkESBAAAAAK5ABJBKREkkkSaJRCBAAAAAAJC
+
+
+# Devout Ashdevil's Grimhorns (476)
+head=,id=207272,bonus_id=6652/9600/9567/9513/1507/8767,enchant_id=7052
+# Slumbering Ursine Talisman (463)
+neck=,id=208443,bonus_id=9563/6652/8783/10245/1494/8767
+# Devout Ashdevil's Hatespikes (463)
+shoulder=,id=207270,bonus_id=6652/9600/9559/9513/1494/8767
+# Vibrant Wildercloth Shawl (476)
+back=,id=193511,bonus_id=9498/9405/9499/8795/9379/8960,enchant_id=6604,crafting_quality=5
+# Vibrant Wildercloth Vestments (476)
+chest=,id=193509,bonus_id=9498/9405/9499/8795,enchant_id=6625,crafting_quality=5
+# Vibrant Wildercloth Wristwraps (476)
+wrist=,id=193510,bonus_id=9498/9405/9499/9379/8960,crafted_stats=32/40,crafting_quality=5
+# Devout Ashdevil's Claws (476)
+hands=,id=207273,bonus_id=6652/9600/9567/9513/1507/8767
+# Vibrant Wildercloth Girdle (476)
+waist=,id=193516,bonus_id=9498/9405/9499/8795,enchant_id=6904,crafting_quality=5
+# Devout Ashdevil's Tights (463)
+legs=,id=207271,bonus_id=6652/9600/9559/9513/1494/8767,enchant_id=6540
+# Vibrant Wildercloth Slippers (476)
+feet=,id=193519,bonus_id=9498/9499/9405,crafted_stats=32/40,enchant_id=6607,crafting_quality=5
+# Ring-Bound Hourglass (476)
+finger1=,id=193000,bonus_id=9498/9405/9499/8780,gem_id=192932,enchant_id=6568,crafted_stats=32/40,crafting_quality=5
+# Band of Burning Thorns (476)
+finger2=,id=207159,bonus_id=9563/1494,enchant_id=6568
+# Belor'relos, the Suncaller (463)
+trinket1=,id=207172,bonus_id=9559/7982/1494
+# Nymue's Unraveling Spindle (463)
+trinket2=,id=208615,bonus_id=9559/7982/1494
+# Staff of Incandescent Torment (476)
+main_hand=,id=207794,bonus_id=6652/7979/9560/1507/8767,enchant_id=6643
+
+### Gear from Bags
+# Pendant of Impending Perils (486)
+# neck=,id=192996,bonus_id=10357/9405/8780,crafted_stats=32/36,crafting_quality=5
+# Pendant of Impending Perils (486)
+# neck=,id=192996,bonus_id=10357/9405/8780,crafted_stats=32/40,crafting_quality=5
+# Pendant of Impending Perils (486)
+# neck=,id=192996,bonus_id=10357/9405/8780,crafted_stats=32/49,crafting_quality=5
+# Pendant of Impending Perils (486)
+# neck=,id=192996,bonus_id=10357/9405/8780,crafted_stats=36/40,crafting_quality=5
+# Pendant of Impending Perils (486)
+# neck=,id=192996,bonus_id=10357/9405/8780,crafted_stats=36/49,crafting_quality=5
+# Pendant of Impending Perils (486)
+# neck=,id=192996,bonus_id=10357/9405/8780,crafted_stats=40/49,crafting_quality=5
+#
+# Surveyor's Cloth Robe (486)
+# chest=,id=193515,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Surveyor's Cloth Robe (486)
+# chest=,id=193515,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Surveyor's Cloth Robe (486)
+# chest=,id=193515,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Surveyor's Cloth Robe (486)
+# chest=,id=193515,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Surveyor's Cloth Robe (486)
+# chest=,id=193515,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Surveyor's Cloth Robe (486)
+# chest=,id=193515,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Surveyor's Seasoned Cord (486)
+# waist=,id=201940,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Surveyor's Seasoned Cord (486)
+# waist=,id=201940,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Surveyor's Seasoned Cord (486)
+# waist=,id=201940,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Surveyor's Seasoned Cord (486)
+# waist=,id=201940,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Surveyor's Seasoned Cord (486)
+# waist=,id=201940,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Surveyor's Seasoned Cord (486)
+# waist=,id=201940,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Surveyor's Cloth Treads (486)
+# feet=,id=193498,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Surveyor's Cloth Treads (486)
+# feet=,id=193498,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Surveyor's Cloth Treads (486)
+# feet=,id=193498,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Surveyor's Cloth Treads (486)
+# feet=,id=193498,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Surveyor's Cloth Treads (486)
+# feet=,id=193498,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Surveyor's Cloth Treads (486)
+# feet=,id=193498,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Band of New Beginnings (486)
+# finger1=,id=194082,bonus_id=10357/9405/8780,crafted_stats=32/36,crafting_quality=5
+# Band of New Beginnings (486)
+# finger1=,id=194082,bonus_id=10357/9405/8780,crafted_stats=32/40,crafting_quality=5
+# Band of New Beginnings (486)
+# finger1=,id=194082,bonus_id=10357/9405/8780,crafted_stats=32/49,crafting_quality=5
+# Band of New Beginnings (486)
+# finger1=,id=194082,bonus_id=10357/9405/8780,crafted_stats=36/40,crafting_quality=5
+# Band of New Beginnings (486)
+# finger1=,id=194082,bonus_id=10357/9405/8780,crafted_stats=36/49,crafting_quality=5
+# Band of New Beginnings (486)
+# finger1=,id=194082,bonus_id=10357/9405/8780,crafted_stats=40/49,crafting_quality=5
+#
+# Overseer's Writhebark Stave (486)
+# main_hand=,id=194893,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Overseer's Writhebark Stave (486)
+# main_hand=,id=194893,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Overseer's Writhebark Stave (486)
+# main_hand=,id=194893,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Overseer's Writhebark Stave (486)
+# main_hand=,id=194893,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Overseer's Writhebark Stave (486)
+# main_hand=,id=194893,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Overseer's Writhebark Stave (486)
+# main_hand=,id=194893,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+
+### Weekly Reward Choices
+# Vibrant Wildercloth Wristwraps (502)
+# wrist=,id=193510,bonus_id=10249/9405/9379/8960,crafted_stats=32/40,crafting_quality=5
+# Vibrant Wildercloth Wristwraps (502)
+# wrist=,id=193510,bonus_id=10249/9405/9379/8960,crafted_stats=32/36,crafting_quality=5
+# Vibrant Wildercloth Wristwraps (502)
+# wrist=,id=193510,bonus_id=10249/9405/9379/8960,crafted_stats=32/49,crafting_quality=5
+# Vibrant Wildercloth Wristwraps (502)
+# wrist=,id=193510,bonus_id=10249/9405/9379/8960,crafted_stats=36/40,crafting_quality=5
+# Vibrant Wildercloth Wristwraps (502)
+# wrist=,id=193510,bonus_id=10249/9405/9379/8960,crafted_stats=36/49,crafting_quality=5
+# Vibrant Wildercloth Wristwraps (502)
+# wrist=,id=193510,bonus_id=10249/9405/9379/8960,crafted_stats=40/49,crafting_quality=5
+#
+# Vibrant Wildercloth Shawl (502)
+# wrist=,id=193511,bonus_id=10249/9405/9379/8960,crafted_stats=32/40,crafting_quality=5
+# Vibrant Wildercloth Shawl (502)
+# wrist=,id=193511,bonus_id=10249/9405/9379/8960,crafted_stats=32/36,crafting_quality=5
+# Vibrant Wildercloth Shawl (502)
+# wrist=,id=193511,bonus_id=10249/9405/9379/8960,crafted_stats=32/49,crafting_quality=5
+# Vibrant Wildercloth Shawl (502)
+# wrist=,id=193511,bonus_id=10249/9405/9379/8960,crafted_stats=36/40,crafting_quality=5
+# Vibrant Wildercloth Shawl (502)
+# wrist=,id=193511,bonus_id=10249/9405/9379/8960,crafted_stats=36/49,crafting_quality=5
+# Vibrant Wildercloth Shawl (502)
+# wrist=,id=193511,bonus_id=10249/9405/9379/8960,crafted_stats=40/49,crafting_quality=5
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2707:231/c:2706:161/c:2245:1967/i:198058:1/i:206959:5
+#
+# slot_high_watermarks=0:450:473/1:450:476/2:441:463/3:428:476/4:441:476/5:444:467/6:447:467/7:450:473/8:428:463/9:424:467/10:424:470/11:450:463/12:454:463/13:444:463/14:97:450/15:1:444/16:444:454
+
+# Checksum: a05e8f26
