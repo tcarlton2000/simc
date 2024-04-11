@@ -1,0 +1,247 @@
+# Ninjanda - Windwalker - 2024-03-29 20:34 - US/Thunderhorn
+# SimC Addon 10.2.0-01
+# WoW 10.2.6.53989, TOC 100206
+# Requires SimulationCraft 1000-01 or newer
+
+monk="Ninjanda"
+level=70
+race=void_elf
+region=us
+server=thunderhorn
+role=attack
+professions=alchemy=1/
+spec=windwalker
+
+talents=B0QAeJVyolP8xRXAFmS4CX44UBAAAAAAARSkkElkIRAAAAgEJJFJASSCkIJRkQrIJRSSLBAAA0A
+
+# Saved Loadout: icy veins ez mode
+# talents=B0QAeJVyolP8xRXAFmS4CX44UBAAAAAAARSkkElkIRAAAAgEJJFJASSCkIJRkQrIJRSSLBAAA0A
+
+# Mystic Heron's Hatsuburi (480)
+head=,id=207245,enchant_id=7052,bonus_id=9600/41/9639/9513/9572/1511/8767
+# Amulet of Eonar's Chosen (476)
+neck=,id=208445,gem_id=192985/192945/192945,bonus_id=6652/7980/9477/8782/9571/1507/8767
+# Mystic Heron's Hopeful Effigy (476)
+shoulder=,id=207243,bonus_id=6652/9639/9511/9567/1507/8767
+# Vibrant Wildercloth Shawl  (476)
+back=,id=193511,enchant_id=6595,bonus_id=8836/8840/8902/9405/9499/8795/9498,crafted_stats=36/32,crafting_quality=5
+# Mystic Heron's Burdens (483)
+chest=,id=207248,enchant_id=6625,bonus_id=6652/9515/9639/9574/1514/8767
+# Red Linen Shirt (1)
+shirt=,id=2575
+# Thermal Bindings (483)
+wrist=,id=134461,bonus_id=9574/9639/6652/9600/9506/9144/9876/8767
+# Mystic Heron's Glovebills (480)
+hands=,id=207246,bonus_id=6652/7980/9514/9572/1511/8767
+# Hound-Jowl Waistband (467)
+waist=,id=159341,bonus_id=9639/6652/9599/9506/9144/9564/9464/8767
+# Mystic Heron's Waders (480)
+legs=,id=207244,enchant_id=6493,bonus_id=6652/9512/9639/9572/1511/8767
+# Decapod Slippers (483)
+feet=,id=133190,enchant_id=6607,bonus_id=9639/6652/9506/9144/9581/9889/8767
+# Signet of Titanic Insight  (476)
+finger1=,id=192999,enchant_id=6556,gem_id=192919,bonus_id=8836/8840/8902/8780/9405/8790/9499/9614/8960/9498,crafted_stats=40/32,crafting_quality=5
+# Ring-Bound Hourglass  (476)
+finger2=,id=193000,enchant_id=6556,gem_id=192945,bonus_id=8836/8840/8902/8780/9405/8790/9499/9498,crafted_stats=40/32,crafting_quality=5
+# Mirror of Fractured Tomorrows (450)
+trinket1=,id=207581,bonus_id=9636/42/9543/1501/8767
+# Idol of the Life-Binder  (463)
+trinket2=,id=193003,bonus_id=8836/8840/8902/9405/9498,crafting_quality=5
+# Rashon, the Immortal Blaze (463)
+main_hand=,id=207793,enchant_id=6633,bonus_id=6652/7982/9584/9559/1494/8767
+
+### Gear from Bags
+#
+# Drowsed Shepherd's Hood (454)
+# head=,id=210707,bonus_id=9560/9506/1511/8767/9599
+#
+# Cold Crisp Collar (441)
+# neck=,id=210379,bonus_id=9552/6652/8784/10245/1472/8767
+#
+# Anarchist's Pendant (428)
+# neck=,id=144180,bonus_id=6652/8812/9536/7756/8784/9519/3318/8766
+#
+# Alc's Pendant of Fiery Dreams (428)
+# neck=,id=109957,bonus_id=6652/8811/9536/7756/8783/9518/3313/8766
+#
+# Heart of Azeroth (194)
+# neck=,id=158075,bonus_id=4932/4933/4935/1477
+#
+# Slumbering Ursine Talisman (460)
+# neck=,id=208443,bonus_id=6652/8783/10245/7979/9562/1491/8767
+#
+# Chain of the Green Flight (467)
+# neck=,id=137311,bonus_id=9568/9639/6652/8783/9516/9144/9840/8767
+#
+# Doubtridden Shoulderguards (428)
+# shoulder=,id=143972,bonus_id=6652/9536/7756/3318/8766
+#
+# Winter Forager's Cape (441)
+# back=,id=210407,bonus_id=9552/9506/6652/1472/8767
+#
+# Shadowfeather Shawl (467)
+# back=,id=136977,bonus_id=9568/9639/6652/9506/9144/9840/8767
+#
+# Crystalline Tender's Shroud (441)
+# back=,id=210381,bonus_id=9552/9506/41/1472/8767
+#
+# Cloak of Cleansing Flame (428)
+# back=,id=144147,bonus_id=6652/9536/7756/3318/8766
+#
+# Vest of the Champion (58)
+# chest=,id=159902
+#
+# 7th Legionnaire's Tunic (59)
+# chest=,id=163657,bonus_id=1473/4785
+#
+# Crystalline Tender's Vest (441)
+# chest=,id=210352,bonus_id=9552/9506/41/1472/8767
+#
+# Dream Wardens Tabard (1)
+# tabard=,id=210501
+#
+# Needlessly Complex Wristguards  (476)
+# wrist=,id=198327,enchant_id=6580,gem_id=201409,bonus_id=8836/8840/8902/9405/9499/8948/8864/9498/9599,crafted_stats=32,crafting_quality=5
+#
+# Crystalline Tender's Wristbands (447)
+# wrist=,id=210375,bonus_id=9554/9506/6652/9600/1478/8767
+#
+# Thermal Bindings (457)
+# wrist=,id=134461,bonus_id=9561/9639/6652/9599/9506/9144/9461/8767
+#
+# Crystalbinder Gloves (428)
+# hands=,id=109850,bonus_id=6652/9536/7756/3313/8766
+#
+# Bloody Dragonhide Belt (467)
+# waist=,id=207131,bonus_id=6652/9599/9505/7979/9564/1498/8767
+#
+# Salty Shell-Studded Girdle (457)
+# waist=,id=133368,bonus_id=9561/9639/6652/9599/9506/9144/9843/8767
+#
+# Eternal Sentinel's Cord (473)
+# waist=,id=207135,bonus_id=6652/9599/9508/7980/9570/1504/8767
+#
+# Belt of Gleaming Determination (480)
+# waist=,id=158306,bonus_id=9573/9639/6652/9599/9506/9144/9844/8767
+#
+# Salty Shell-Studded Girdle (476)
+# waist=,id=133368,enchant_id=6904,bonus_id=9571/9639/6652/9600/9506/9144/9882/8767
+#
+# Darkbinder Leggings (428)
+# legs=,id=143979,bonus_id=6652/9536/7756/3318/8766
+#
+# Legguards of Endless Horrors (463)
+# legs=,id=134451,bonus_id=9563/9639/6652/9506/9144/9836/8767
+#
+# Blight Toadskin Leggings (480)
+# legs=,id=159345,enchant_id=6544,bonus_id=9639/6652/9506/9144/9572/9844/8767
+#
+# Decapod Slippers (476)
+# feet=,id=133190,enchant_id=6607,bonus_id=9639/6652/9506/9144/9567/9882/8767
+#
+# Vigorous Sandstompers (483)
+# feet=,id=207838,bonus_id=9574/9639/6652/9506/9144/1576/8767
+#
+# Band of Growing Leaves (428)
+# finger1=,id=109768,bonus_id=6652/8811/9536/7756/9518/3313/8766
+#
+# Beautiful Blizzard Binding (441)
+# finger1=,id=210376,bonus_id=9552/6652/9599/1472/8767
+#
+# Snipping Sleet Circle (441)
+# finger1=,id=210377,bonus_id=9552/6652/9516/1472/8767
+#
+# Ring of Contempt (476)
+# finger1=,id=134490,bonus_id=9571/9639/6652/9599/9144/9849/8767
+#
+# Viscous Ring (428)
+# finger1=,id=144139,bonus_id=6652/8811/9536/7756/9519/3318/8766
+#
+# Snipping Sleet Circle (441)
+# finger1=,id=210377,bonus_id=9552/6652/9600/1472/8767
+#
+# Screaming Black Dragonscale (424)
+# trinket1=,id=202612,bonus_id=6652/9411/9320/1475/8767
+#
+# Kyrakka's Searing Embers (437)
+# trinket1=,id=193748,bonus_id=9539/9635/6652/1659/8766
+#
+# Irideus Fragment (428)
+# trinket1=,id=193743,bonus_id=9536/9636/6652/1650/8766
+#
+# Echoing Tyrstone (450)
+# trinket1=,id=207552,bonus_id=9636/6652/9543/1501/8767
+#
+# Echoing Tyrstone (476)
+# trinket1=,id=207552,bonus_id=9571/9639/6652/9144/1527/8767
+#
+# Revitalizing Voodoo Totem (463)
+# trinket1=,id=158320,bonus_id=9563/9639/6652/9144/9458/8767
+#
+# Water's Beating Heart (437)
+# trinket1=,id=193736,bonus_id=9636/6652/9539/1659/8766
+#
+# Mirror of Fractured Tomorrows (437)
+# trinket1=,id=207581,bonus_id=9636/6652/9539/1488/8766
+#
+# Coagulated Genesaur Blood (476)
+# trinket1=,id=110004,bonus_id=9639/6652/9144/9567/9875/8767
+#
+# Blossom of Amirdrassil (457)
+# trinket1=,id=207171,bonus_id=6652/7982/9561/1488/8767
+#
+# Price of Progress (428)
+# trinket1=,id=144159,bonus_id=6652/9536/7756/3318/8766
+#
+# Iridal, the Earth's Master (476)
+# main_hand=,id=208321,enchant_id=6643,bonus_id=9639/6652/9147/9529/9567/1546/8767
+#
+# Spirited Stag's Branch (450)
+# main_hand=,id=209921,bonus_id=6652/9543/1507/8767
+#
+# Illuminating Pillar of the Isles  (437)
+# main_hand=,id=194898,bonus_id=8836/8840/8902/9405/8793/9373/8913/8960/9366,crafted_stats=36/49,crafting_quality=5
+#
+# Vakash, the Shadowed Inferno (467)
+# main_hand=,id=207788,bonus_id=6652/7979/10247/9564/1498/8767
+#
+# Vakash, the Shadowed Inferno (463)
+# main_hand=,id=207788,bonus_id=6652/7979/9563/10247/1494/8767
+#
+# Eternal Kindler's Greatstaff (467)
+# main_hand=,id=207795,enchant_id=6643,bonus_id=6652/7979/9564/1498/8767
+#
+# Conflux Caller's Baton (457)
+# main_hand=,id=207999,bonus_id=9561/9639/6652/9147/1579/8767
+#
+# Frigid Conservator's Mallet (441)
+# main_hand=,id=210399,bonus_id=9552/6652/1472/8767
+#
+# Staff of Rampant Growth (463)
+# main_hand=,id=150408,enchant_id=6643,bonus_id=9559/9877/8767
+#
+# Ancestor's Necromantic Focus (454)
+# off_hand=,id=207983,bonus_id=9560/9639/6652/9144/1576/8767
+#
+# Grovekeeper's Barrier (1)
+# off_hand=,id=210686
+#
+# Solena's Watchful Collection (460)
+# off_hand=,id=159669,bonus_id=9562/9639/6652/9144/9455/8767
+
+### Weekly Reward Choices
+#
+# finger1=,id=159458,bonus_id=9573/9639/6652/9600/9144/9844/8767
+#
+# Mystic Heron's Burdens (470)
+# chest=,id=207248,bonus_id=6652/9515/9569/9639/1501/8767
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2708:44/c:2709:54/c:2707:8/c:2706:21/c:2245:500/i:206959:1
+#
+# slot_high_watermarks=0:480:480/1:476:476/2:476:476/3:483:483/4:480:480/5:480:480/6:483:483/7:483:483/8:480:480/9:476:476/10:476:476/11:476:476/12:476:476/13:467:467/14:415:454/15:376:454/16:460:460
+
+# Checksum: 88d81847
