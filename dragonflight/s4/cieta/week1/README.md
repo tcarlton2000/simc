@@ -35,11 +35,10 @@ Note: Change steps to account for the 90 crest limit.
 
 ### Results
 
-Best Spark Raw Crafted: `<link here>`
-Best Embellishment upgrade: `<link here>`
-
-Whelping Quest Crafted: `<link here>`
-Combination of all crafted: `<link here>`
+* Best Spark Raw Crafted: `<link here>`
+* Best Embellishment upgrade: `<link here>`
+* Whelping Quest Crafted: `<link here>`
+* Combination of all crafted: `<link here>`
 
 ## Currency Count
 
