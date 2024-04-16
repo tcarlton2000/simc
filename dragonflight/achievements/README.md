@@ -51,18 +51,29 @@
 
 #### Wake Me Up
 
-| Achievement                               | Character with most progress | Progress |
-| ----------------------------------------- | ---------------------------- | -------- |
-| A Legendary Album                         | Cieta                        | ???      |
-| Great Shots Galore!                       | ???                          | ???      |
-| Lead Climber                              | ???                          | ???      |
-| How Did These Get Here?                   | ???                          | ???      |
-| Dragonscale Expedition: The Highest Peaks | ???                          | ???      |
-| Well Supplied                             | ???                          | ???      |
-| Adventurer of The Waking Shores           | ???                          | ???      |
-| Treasure of The Waking Shores             | ???                          | ???      |
+| Achievement                               | Character with most progress | Progress  |
+| ----------------------------------------- | ---------------------------- | --------- |
+| A Legendary Album                         | Cieta                        | ???       |
+| Great Shots Galore!                       | Andazaros?                   | 68/100    |
+| Lead Climber                              | Andazaros                    | COMPLETED |
+| How Did These Get Here?                   | ???                          | ???       |
+| Dragonscale Expedition: The Highest Peaks | ???                          | ???       |
+| Well Supplied                             | ???                          | ???       |
+| Adventurer of The Waking Shores           | ???                          | ???       |
+| Treasure of The Waking Shores             | ???                          | ???       |
 
 #### Army of the Fed
+
+| Achievement                          | Character with most progress | Progress |
+| ------------------------------------ | ---------------------------- | -------- |
+| Soupervisor                          | ???                          | ???      |
+| Leftovers' Revenge                   | ???                          | ???      |
+| Secret Fishing Spots                 | ???                          | ???      |
+| Taking From Nature                   | ???                          | ???      |
+| We're Going to Need a Bigger Harpoon | ???                          | ???      |
+| Lend a Helping Span                  | ???                          | ???      |
+| Adventurer of The Azure Span         | ???                          | ???      |
+| Treasures of The Azure Span          | ???                          | ???      |
 
 #### Flight Club
 
