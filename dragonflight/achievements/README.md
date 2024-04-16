@@ -51,6 +51,17 @@
 
 #### Wake Me Up
 
+| Achievement                               | Character with most progress | Progress |
+| ----------------------------------------- | ---------------------------- | -------- |
+| A Legendary Album                         | Cieta                        | ???      |
+| Great Shots Galore!                       | ???                          | ???      |
+| Lead Climber                              | ???                          | ???      |
+| How Did These Get Here?                   | ???                          | ???      |
+| Dragonscale Expedition: The Highest Peaks | ???                          | ???      |
+| Well Supplied                             | ???                          | ???      |
+| Adventurer of The Waking Shores           | ???                          | ???      |
+| Treasure of The Waking Shores             | ???                          | ???      |
+
 #### Army of the Fed
 
 #### Flight Club
