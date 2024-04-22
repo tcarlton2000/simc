@@ -80,13 +80,13 @@
 
 | Achievement                          | Character with most progress | Progress  |
 | ------------------------------------ | ---------------------------- | --------- |
-| Soupervisor                          | ???                          | COMPLETED |
-| Leftovers' Revenge                   | ???                          | COMPLETED |
-| Secret Fishing Spots                 | ???                          | COMPLETED |
+| Soupervisor                          | Andazaros                    | COMPLETED |
+| Leftovers' Revenge                   | Andazaros                    | COMPLETED |
+| Secret Fishing Spots                 | Andazaros                    | COMPLETED |
 | Taking From Nature                   | ???                          | ???       |
 | We're Going to Need a Bigger Harpoon | ???                          | ???       |
-| Lend a Helping Span                  | ???                          | COMPLETED |
-| Adventurer of The Azure Span         | ???                          | COMPLETED |
+| Lend a Helping Span                  | Andazaros                    | COMPLETED |
+| Adventurer of The Azure Span         | Andazaros                    | COMPLETED |
 | Treasures of The Azure Span          | Andazaros                    | COMPLETED |
 
 #### Flight Club
