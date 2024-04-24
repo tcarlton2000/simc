@@ -60,6 +60,32 @@ main_hand=,id=207794,bonus_id=6652/7979/9560/1507/8767,enchant_id=6643
 # Pendant of Impending Perils (486)
 # neck=,id=192996,bonus_id=10357/9405/8780,crafted_stats=40/49,crafting_quality=5
 #
+# Surveyor's Tailored Cloak (486)
+# wrist=,id=193500,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Surveyor's Tailored Cloak (486)
+# wrist=,id=193500,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Surveyor's Tailored Cloak (486)
+# wrist=,id=193500,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Surveyor's Tailored Cloak (486)
+# wrist=,id=193500,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Surveyor's Tailored Cloak (486)
+# wrist=,id=193500,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Surveyor's Tailored Cloak (486)
+# wrist=,id=193500,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Surveyor's Cloth Bands (486)
+# wrist=,id=193497,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Surveyor's Cloth Bands (486)
+# wrist=,id=193497,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Surveyor's Cloth Bands (486)
+# wrist=,id=193497,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Surveyor's Cloth Bands (486)
+# wrist=,id=193497,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Surveyor's Cloth Bands (486)
+# wrist=,id=193497,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Surveyor's Cloth Bands (486)
+# wrist=,id=193497,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
 # Surveyor's Cloth Robe (486)
 # chest=,id=193515,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
 # Surveyor's Cloth Robe (486)
