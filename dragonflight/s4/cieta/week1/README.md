@@ -11,11 +11,29 @@
 
 ### Acquired Gear
 
+| Item                            | Slot      | Track          | Item Level |
+| ------------------------------- | --------- | -------------- | ---------- |
+| Snipping Sleet Circle           | Finger    | Veteran 1/8    | 480        |
+| Cobalt Watcher's Handwraps      | Hands     | Veteran 1/8    | 480        |
+| Bottomless Reliquary Satchel    | Trinket   | Explorer 2/8   | 457        |
+| Empowered Shortsword of Insight | Main Hand | Veteran 1/8    | 480        |
+
 #### Weekly quest
+
+| Item                  | Slot | Track        | Item Level |
+| --------------------- | ---- | ------------ | ---------- |
+| Cobalt Watcher's Cowl | Head | Champion 4/8 | 502        |
 
 #### Timewalking quest
 
 #### Timewalking drops
+
+| Item                            | Slot      | Track          | Item Level |
+| ------------------------------- | --------- | -------------- | ---------- |
+| Gloves of Oblivion              | Hands     | Adventurer 1/8 | 467        |
+| Icon of Unyielding Courage      | Trinket   | Adventurer 1/8 | 467        |
+| Timbal's Focusing Crystal       | Trinket   | Adventurer 1/8 | 467        |
+| Cord of Reconstruction          | Waist     | Adventurer 1/8 | 467        |
 
 #### LFR drops
 
@@ -29,7 +47,7 @@ Note: Change steps to account for the 90 crest limit.
    1. Top gear with all acquired gear on it
 2. Compare acquired to shard crafted
    1. Dropimizer for crafted gear (all stats) using above at starter
-3. Compare acquired + shard crafted to used whelping crests until all 90 are used
+3. Compare acquired + shard crafted to used whelping crests until all 120 are used
    1. Top Gear with each item upgraded + crafted item as a vault selection
    2. Add item and run until out of crests.
 
