@@ -124,6 +124,11 @@ main_hand=,id=207794,bonus_id=6652/7979/9560/1507/8767,enchant_id=6643
 # main_hand=,id=194893,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
 # Overseer's Writhebark Stave (486)
 # main_hand=,id=194893,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Snipping Sleet Circle (480)
+# finger1=,id=210377,bonus_id=8902/10341/6652/9600/1511/8767
+# Cobalt Watcher's Handwraps (480)
+# hands=,id=191986,bonus_id=10341/1602/8767
 
 ### Weekly Reward Choices
 # Vibrant Wildercloth Wristwraps (502)
