@@ -151,6 +151,19 @@ main_hand=,id=207794,bonus_id=6652/7979/9560/1507/8767,enchant_id=6643
 # Overseer's Writhebark Stave (486)
 # main_hand=,id=194893,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
 #
+# Core Explorer's Compendium (486)
+# off_hand=1,id=194877,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Core Explorer's Compendium (486)
+# off_hand=1,id=194877,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Core Explorer's Compendium (486)
+# off_hand=1,id=194877,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Core Explorer's Compendium (486)
+# off_hand=1,id=194877,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Core Explorer's Compendium (486)
+# off_hand=1,id=194877,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Core Explorer's Compendium (486)
+# off_hand=1,id=194877,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
 # Snipping Sleet Circle (480)
 # finger1=,id=210377,bonus_id=8902/10341/6652/9600/1511/8767
 # Cobalt Watcher's Handwraps (480)
