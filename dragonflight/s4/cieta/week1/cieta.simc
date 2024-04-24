@@ -47,6 +47,19 @@ trinket2=,id=208615,bonus_id=9559/7982/1494
 main_hand=,id=207794,bonus_id=6652/7979/9560/1507/8767,enchant_id=6643
 
 ### Gear from Bags
+# Surveyor's Seasoned Hood (486)
+# head=,id=201936,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Surveyor's Seasoned Hood (486)
+# head=,id=201936,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Surveyor's Seasoned Hood (486)
+# head=,id=201936,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Surveyor's Seasoned Hood (486)
+# head=,id=201936,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Surveyor's Seasoned Hood (486)
+# head=,id=201936,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Surveyor's Seasoned Hood (486)
+# head=,id=201936,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
 # Pendant of Impending Perils (486)
 # neck=,id=192996,bonus_id=10357/9405/8780,crafted_stats=32/36,crafting_quality=5
 # Pendant of Impending Perils (486)
@@ -59,6 +72,19 @@ main_hand=,id=207794,bonus_id=6652/7979/9560/1507/8767,enchant_id=6643
 # neck=,id=192996,bonus_id=10357/9405/8780,crafted_stats=36/49,crafting_quality=5
 # Pendant of Impending Perils (486)
 # neck=,id=192996,bonus_id=10357/9405/8780,crafted_stats=40/49,crafting_quality=5
+#
+# Surveyor's Seasoned Shoulders (486)
+# head=,id=201937,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Surveyor's Seasoned Shoulders (486)
+# head=,id=201937,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Surveyor's Seasoned Shoulders (486)
+# head=,id=201937,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Surveyor's Seasoned Shoulders (486)
+# head=,id=201937,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Surveyor's Seasoned Shoulders (486)
+# head=,id=201937,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Surveyor's Seasoned Shoulders (486)
+# head=,id=201937,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
 #
 # Surveyor's Tailored Cloak (486)
 # wrist=,id=193500,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
@@ -99,6 +125,19 @@ main_hand=,id=207794,bonus_id=6652/7979/9560/1507/8767,enchant_id=6643
 # Surveyor's Cloth Robe (486)
 # chest=,id=193515,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
 #
+# Surveyor's Seasoned Gloves (486)
+# head=,id=201938,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Surveyor's Seasoned Gloves (486)
+# head=,id=201938,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Surveyor's Seasoned Gloves (486)
+# head=,id=201938,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Surveyor's Seasoned Gloves (486)
+# head=,id=201938,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Surveyor's Seasoned Gloves (486)
+# head=,id=201938,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Surveyor's Seasoned Gloves (486)
+# head=,id=201938,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
 # Surveyor's Seasoned Cord (486)
 # waist=,id=201940,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
 # Surveyor's Seasoned Cord (486)
@@ -111,6 +150,19 @@ main_hand=,id=207794,bonus_id=6652/7979/9560/1507/8767,enchant_id=6643
 # waist=,id=201940,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
 # Surveyor's Seasoned Cord (486)
 # waist=,id=201940,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Surveyor's Seasoned Pants (486)
+# head=,id=201939,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Surveyor's Seasoned Pants (486)
+# head=,id=201939,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Surveyor's Seasoned Pants (486)
+# head=,id=201939,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Surveyor's Seasoned Pants (486)
+# head=,id=201939,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Surveyor's Seasoned Pants (486)
+# head=,id=201939,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Surveyor's Seasoned Pants (486)
+# head=,id=201939,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
 #
 # Surveyor's Cloth Treads (486)
 # feet=,id=193498,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
