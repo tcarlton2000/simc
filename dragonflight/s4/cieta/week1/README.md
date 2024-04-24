@@ -11,12 +11,12 @@
 
 ### Acquired Gear
 
-| Item                            | Slot      | Track          | Item Level |
-| ------------------------------- | --------- | -------------- | ---------- |
-| Snipping Sleet Circle           | Finger    | Veteran 1/8    | 480        |
-| Cobalt Watcher's Handwraps      | Hands     | Veteran 1/8    | 480        |
-| Bottomless Reliquary Satchel    | Trinket   | Explorer 2/8   | 457        |
-| Empowered Shortsword of Insight | Main Hand | Veteran 1/8    | 480        |
+| Item                            | Slot      | Track        | Item Level |
+| ------------------------------- | --------- | ------------ | ---------- |
+| Snipping Sleet Circle           | Finger    | Veteran 1/8  | 480        |
+| Cobalt Watcher's Handwraps      | Hands     | Veteran 1/8  | 480        |
+| Bottomless Reliquary Satchel    | Trinket   | Explorer 2/8 | 457        |
+| Empowered Shortsword of Insight | Main Hand | Veteran 1/8  | 480        |
 
 #### Weekly quest
 
@@ -28,14 +28,19 @@
 
 #### Timewalking drops
 
-| Item                            | Slot      | Track          | Item Level |
-| ------------------------------- | --------- | -------------- | ---------- |
-| Gloves of Oblivion              | Hands     | Adventurer 1/8 | 467        |
-| Icon of Unyielding Courage      | Trinket   | Adventurer 1/8 | 467        |
-| Timbal's Focusing Crystal       | Trinket   | Adventurer 1/8 | 467        |
-| Cord of Reconstruction          | Waist     | Adventurer 1/8 | 467        |
+| Item                            | Slot    | Track          | Item Level |
+| ------------------------------- | ------- | -------------- | ---------- |
+| Gloves of Oblivion              | Hands   | Adventurer 1/8 | 467        |
+| Icon of Unyielding Courage      | Trinket | Adventurer 1/8 | 467        |
+| Timbal's Focusing Crystal       | Trinket | Adventurer 1/8 | 467        |
+| Cord of Reconstruction          | Waist   | Adventurer 1/8 | 467        |
+| Jeweled Boots of Sanctification | Feet    | Adventurer 1/8 | 467        |
 
 #### LFR drops
+
+| Item                   | Slot | Track       | Item Level |
+| ---------------------- | ---- | ----------- | ---------- |
+| Councilor's Terrormask | Head | Veteran 1/8 | 480        |
 
 ## Sims
 
