@@ -77,3 +77,11 @@
 | Haste       | 36    |
 | Mastery     | 49    |
 | Versatility | 40    |
+
+### Embellishments
+
+| Item                | Value |
+| ------------------- | ----- |
+| Embellishent Label  | 8960  |
+| Rolling Shadowflame | 9379  |
+| Blue Silken Lining  | 8932  |

@@ -26,6 +26,10 @@
 
 #### Timewalking quest
 
+| Item                           | Slot  | Track        | Item Level |
+| ------------------------------ | ----- | ------------ | ---------- |
+| Clasps of the Diligent Steward | Wrist | Champion 3/8 | 499        |
+
 #### Timewalking drops
 
 | Item                            | Slot    | Track          | Item Level |
@@ -35,12 +39,19 @@
 | Timbal's Focusing Crystal       | Trinket | Adventurer 1/8 | 467        |
 | Cord of Reconstruction          | Waist   | Adventurer 1/8 | 467        |
 | Jeweled Boots of Sanctification | Feet    | Adventurer 1/8 | 467        |
+| Sarannis' Mystic Sheen          | Back    | Adventurer 1/8 | 467        |
 
 #### LFR drops
 
 | Item                   | Slot | Track       | Item Level |
 | ---------------------- | ---- | ----------- | ---------- |
 | Councilor's Terrormask | Head | Veteran 1/8 | 480        |
+
+#### Mythic drops
+
+| Item            | Slot  | Track        | Item Level |
+| --------------- | ----- | ------------ | ---------- |
+| Sky Saddle Cord | Waist | Champion 1/8 | 493        |
 
 ## Sims
 
@@ -58,10 +69,50 @@ Note: Change steps to account for the 90 crest limit.
 
 ### Results
 
-* Best Spark Raw Crafted: `<link here>`
-* Best Embellishment upgrade: `<link here>`
-* Whelping Quest Crafted: `<link here>`
-* Combination of all crafted: `<link here>`
+#### Spark Crafted
+
+https://www.raidbots.com/simbot/report/ghNsoyaxSvmjsxaXap4Fsn
+
+Use Vibrant Wildercloth Slippers with Crit/Vers stats.
+
+##### Blue Silken Lining vs Shadowflame
+
+https://www.raidbots.com/simbot/report/tVt5nWXnwZwH6wVMhCkqfG
+
+Shadowflame sims better than Blue Silken Lining
+
+#### Acquired Items
+
+##### As Is
+
+https://www.raidbots.com/simbot/report/mBFPirJeHMgC2JpEwcehfK
+
+Comparing current gear to items without any upgrades.
+
+Use Sky Saddle Cord (493) and Clasps of the Diligent Steward (499).
+
+##### Best
+
+https://www.raidbots.com/simbot/report/j2q4GeBJd7ZkBKER6QgXRN
+
+Even at max upgrade, nothing beats currently equipped.
+
+#### Whelpling Crafted
+
+Comparing previous step equipped with all other items max whelping upgraded.
+
+| Iteration | Link                                                          | Result            | DPS     | DPS Increase |
+| --------- | ------------------------------------------------------------- | ----------------- | ------- | ------------ |
+| 1         | https://www.raidbots.com/simbot/report/joJm1jJhoo89Wj8x9dCCQU | Staff (Crit/Vers) | 180,556 | +5,062       |
+| 2         | https://www.raidbots.com/simbot/report/bUQAw92mpmFk2YtBzh6ncs | Neck (Crit/Vers)  | 184,369 | +3,873       |
+| 3         | https://www.raidbots.com/simbot/report/9mYUhkwWrSHWmAoonqULmm | Pants (Crit/Vers) | 187,233 | +2,848       |
+| 4         | https://www.raidbots.com/simbot/report/wUJeDJPmefnJV1wCHNnEXR | Ring (Crit/Vers)  | 187,924 | +711         |
+
+**Final Decision**
+
+Use https://www.raidbots.com/simbot/report/9mYUhkwWrSHWmAoonqULmm as final result.
+
+Craft Staff, Neck, and Pants (ignore Ring)
 
 ## Currency Count
 

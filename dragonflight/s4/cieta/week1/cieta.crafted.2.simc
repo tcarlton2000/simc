@@ -1,0 +1,180 @@
+# Cieta - Demonology - 2024-01-12 14:59 - US/Thunderhorn
+# SimC Addon 10.2.0-01
+# WoW 10.2.0.52808, TOC 100200
+# Requires SimulationCraft 1000-01 or newer
+
+warlock="Cieta"
+level=70
+race=gnome
+region=us
+server=thunderhorn
+role=spell
+professions=alchemy=75/herbalism=31
+spec=demonology
+
+talents=BoQAj5LiEN4VXhSin5RcWeAUggcASSkkAppAplkESBAAAAAK5ABJBKREkkkSaJRCBAAAAAAJC
+
+
+# Devout Ashdevil's Grimhorns (476)
+head=,id=207272,bonus_id=6652/9600/9567/9513/1507/8767,enchant_id=7052
+# Pendant of Impending Perils (486)
+neck=,id=192996,bonus_id=10357/9405/8780,crafted_stats=32/40,crafting_quality=5,gem_id=192982
+# Devout Ashdevil's Hatespikes (463)
+shoulder=,id=207270,bonus_id=6652/9600/9559/9513/1494/8767
+# Vibrant Wildercloth Shawl (476)
+back=,id=193511,bonus_id=9498/9405/9499/8795,enchant_id=6604,crafting_quality=5
+# Vibrant Wildercloth Vestments (476)
+chest=,id=193509,bonus_id=9498/9405/9499/8795/9379/8960,enchant_id=6625,crafting_quality=5
+# Clasps of the Diligent Steward (499)
+wrist=,id=204393,bonus_id=6652/10532/10872/7979/10315/10884/1550/8767
+# Devout Ashdevil's Claws (476)
+hands=,id=207273,bonus_id=6652/9600/9567/9513/1507/8767
+# Sky Saddle Cord (493)
+waist=,id=193691,bonus_id=10313/9635/6652/10532/10870/3172/8767,enchant_id=6904
+# Devout Ashdevil's Tights (463)
+legs=,id=207271,bonus_id=6652/9600/9559/9513/1494/8767,enchant_id=6540
+# Vibrant Wildercloth Slippers (502)
+feet=,id=193519,bonus_id=8836/8840/8902/9405/9379/8960/10249,crafted_stats=32/40,crafting_quality=5
+# Ring-Bound Hourglass (476)
+finger1=,id=193000,bonus_id=9498/9405/9499/8780,gem_id=192932,enchant_id=6568,crafted_stats=32/40,crafting_quality=5
+# Snipping Sleet Circle (480)
+finger2=,id=210377,bonus_id=8902/10341/6652/9600/1511/8767,enchant_id=6568
+# Belor'relos, the Suncaller (463)
+trinket1=,id=207172,bonus_id=9559/7982/1494
+# Nymue's Unraveling Spindle (463)
+trinket2=,id=208615,bonus_id=9559/7982/1494
+# Overseer's Writhebark Stave (486)
+main_hand=,id=194893,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5,enchant_id=6643
+
+### Gear from Bags
+# Devout Ashdevil's Tights (463)
+# chest=,id=207275,bonus_id=6652/9600/9559/9513/1494/8767,enchant_id=6625
+#
+# Cobalt Watcher's Handwraps (480)
+# hands=,id=191986,bonus_id=10341/1602/8767
+# Bottomless Reliquary Satchel (457)
+# trinket1=,id=198695,bonus_id=10322/1531
+# Gloves of Oblivion (467)
+# hands=,id=123998,bonus_id=10305/7756/9878/8766
+# Icon of Unyielding Courage (467)
+# trinket1=,id=188309,bonus_id=10305/7756/9878/8766
+# Timbal's Focusing Crystal (467)
+# trinket1=,id=133461,bonus_id=10305/7756/9878/8766
+# Cord of Reconstruction (467)
+# waist=,id=133449,bonus_id=10305/7756/10533/42/9878/8766
+# Empowered Shortsword of Insight (480)
+# main_hand=,id=197956,bonus_id=10341/1602/8767
+# Cobalt Watcher's Cowl (502)
+# head=,id=191987,bonus_id=10316/1624/8767
+# Councilor's Terrormask (480)
+# head=,id=195485,bonus_id=6652/10533/10871/7982/10341/10884/1563/8767
+# Jeweled Boots of Sanctification (467)
+# feet=,id=123988,bonus_id=10305/7756/10870/9878/8766
+# Sarannis' Mystic Sheen (467)
+# back=,id=188369,bonus_id=10305/7756/10870/40/9878/8766
+
+### Weekly Reward Choices
+#
+# Surveyor's Seasoned Shoulders (486)
+# head=,id=201937,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Surveyor's Seasoned Shoulders (486)
+# head=,id=201937,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Surveyor's Seasoned Shoulders (486)
+# head=,id=201937,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Surveyor's Seasoned Shoulders (486)
+# head=,id=201937,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Surveyor's Seasoned Shoulders (486)
+# head=,id=201937,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Surveyor's Seasoned Shoulders (486)
+# head=,id=201937,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Surveyor's Tailored Cloak (486)
+# wrist=,id=193500,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Surveyor's Tailored Cloak (486)
+# wrist=,id=193500,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Surveyor's Tailored Cloak (486)
+# wrist=,id=193500,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Surveyor's Tailored Cloak (486)
+# wrist=,id=193500,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Surveyor's Tailored Cloak (486)
+# wrist=,id=193500,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Surveyor's Tailored Cloak (486)
+# wrist=,id=193500,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Surveyor's Cloth Bands (486)
+# wrist=,id=193497,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Surveyor's Cloth Bands (486)
+# wrist=,id=193497,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Surveyor's Cloth Bands (486)
+# wrist=,id=193497,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Surveyor's Cloth Bands (486)
+# wrist=,id=193497,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Surveyor's Cloth Bands (486)
+# wrist=,id=193497,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Surveyor's Cloth Bands (486)
+# wrist=,id=193497,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Surveyor's Cloth Robe (486)
+# chest=,id=193515,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Surveyor's Cloth Robe (486)
+# chest=,id=193515,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Surveyor's Cloth Robe (486)
+# chest=,id=193515,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Surveyor's Cloth Robe (486)
+# chest=,id=193515,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Surveyor's Cloth Robe (486)
+# chest=,id=193515,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Surveyor's Cloth Robe (486)
+# chest=,id=193515,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Surveyor's Seasoned Cord (486)
+# waist=,id=201940,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Surveyor's Seasoned Cord (486)
+# waist=,id=201940,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Surveyor's Seasoned Cord (486)
+# waist=,id=201940,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Surveyor's Seasoned Cord (486)
+# waist=,id=201940,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Surveyor's Seasoned Cord (486)
+# waist=,id=201940,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Surveyor's Seasoned Cord (486)
+# waist=,id=201940,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Surveyor's Seasoned Pants (486)
+# legs=,id=201939,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Surveyor's Seasoned Pants (486)
+# legs=,id=201939,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Surveyor's Seasoned Pants (486)
+# legs=,id=201939,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Surveyor's Seasoned Pants (486)
+# legs=,id=201939,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Surveyor's Seasoned Pants (486)
+# legs=,id=201939,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Surveyor's Seasoned Pants (486)
+# legs=,id=201939,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Band of New Beginnings (486)
+# finger1=,id=194082,bonus_id=10357/9405/8780,crafted_stats=32/36,crafting_quality=5
+# Band of New Beginnings (486)
+# finger1=,id=194082,bonus_id=10357/9405/8780,crafted_stats=32/40,crafting_quality=5
+# Band of New Beginnings (486)
+# finger1=,id=194082,bonus_id=10357/9405/8780,crafted_stats=32/49,crafting_quality=5
+# Band of New Beginnings (486)
+# finger1=,id=194082,bonus_id=10357/9405/8780,crafted_stats=36/40,crafting_quality=5
+# Band of New Beginnings (486)
+# finger1=,id=194082,bonus_id=10357/9405/8780,crafted_stats=36/49,crafting_quality=5
+# Band of New Beginnings (486)
+# finger1=,id=194082,bonus_id=10357/9405/8780,crafted_stats=40/49,crafting_quality=5
+#
+# Snipping Sleet Circle (489)
+# finger1=,id=210377,bonus_id=8902/10344/6652/9600/1520/8767
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2707:231/c:2706:161/c:2245:1967/i:198058:1/i:206959:5
+#
+# slot_high_watermarks=0:450:473/1:450:476/2:441:463/3:428:476/4:441:476/5:444:467/6:447:467/7:450:473/8:428:463/9:424:467/10:424:470/11:450:463/12:454:463/13:444:463/14:97:450/15:1:444/16:444:454
+
+# Checksum: a05e8f26

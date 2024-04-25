@@ -33,8 +33,8 @@ hands=,id=207273,bonus_id=6652/9600/9567/9513/1507/8767
 waist=,id=193516,bonus_id=9498/9405/9499/8795/9379/8960,enchant_id=6904,crafting_quality=5
 # Devout Ashdevil's Tights (463)
 legs=,id=207271,bonus_id=6652/9600/9559/9513/1494/8767,enchant_id=6540
-# Vibrant Wildercloth Slippers (476)
-feet=,id=193519,bonus_id=9498/9499/9405,crafted_stats=32/40,enchant_id=6607,crafting_quality=5
+# Vibrant Wildercloth Slippers (502)
+feet=,id=193519,bonus_id=8836/8840/8902/9405/9379/8960/10249,crafted_stats=32/40,crafting_quality=5
 # Ring-Bound Hourglass (476)
 finger1=,id=193000,bonus_id=9498/9405/9499/8780,gem_id=192932,enchant_id=6568,crafted_stats=32/40,crafting_quality=5
 # Band of Burning Thorns (476)
@@ -164,32 +164,6 @@ main_hand=,id=207794,bonus_id=6652/7979/9560/1507/8767,enchant_id=6643
 # Surveyor's Seasoned Pants (486)
 # head=,id=201939,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
 #
-# Surveyor's Cloth Treads (486)
-# feet=,id=193498,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
-# Surveyor's Cloth Treads (486)
-# feet=,id=193498,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
-# Surveyor's Cloth Treads (486)
-# feet=,id=193498,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
-# Surveyor's Cloth Treads (486)
-# feet=,id=193498,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
-# Surveyor's Cloth Treads (486)
-# feet=,id=193498,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
-# Surveyor's Cloth Treads (486)
-# feet=,id=193498,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
-#
-# Vibrant Wildercloth Slippers (502)
-# feet=,id=193519,bonus_id=8836/8840/8902/9405/9379/8960/10249,crafted_stats=32/40,crafting_quality=5
-# Vibrant Wildercloth Slippers (502)
-# feet=,id=193519,bonus_id=8836/8840/8902/9405/9379/8960/10249,crafted_stats=32/36,crafting_quality=5
-# Vibrant Wildercloth Slippers (502)
-# feet=,id=193519,bonus_id=8836/8840/8902/9405/9379/8960/10249,crafted_stats=32/49,crafting_quality=5
-# Vibrant Wildercloth Slippers (502)
-# feet=,id=193519,bonus_id=8836/8840/8902/9405/9379/8960/10249,crafted_stats=36/40,crafting_quality=5
-# Vibrant Wildercloth Slippers (502)
-# feet=,id=193519,bonus_id=8836/8840/8902/9405/9379/8960/10249,crafted_stats=36/49,crafting_quality=5
-# Vibrant Wildercloth Slippers (502)
-# feet=,id=193519,bonus_id=8836/8840/8902/9405/9379/8960/10249,crafted_stats=40/49,crafting_quality=5
-#
 # Band of New Beginnings (486)
 # finger1=,id=194082,bonus_id=10357/9405/8780,crafted_stats=32/36,crafting_quality=5
 # Band of New Beginnings (486)
@@ -259,45 +233,6 @@ main_hand=,id=207794,bonus_id=6652/7979/9560/1507/8767,enchant_id=6643
 # back=,id=188369,bonus_id=10305/7756/10870/40/9878/8766
 
 ### Weekly Reward Choices
-# Vibrant Wildercloth Wristwraps (502)
-# wrist=,id=193510,bonus_id=10249/9405/9379/8960,crafted_stats=32/40,crafting_quality=5
-# Vibrant Wildercloth Wristwraps (502)
-# wrist=,id=193510,bonus_id=10249/9405/9379/8960,crafted_stats=32/36,crafting_quality=5
-# Vibrant Wildercloth Wristwraps (502)
-# wrist=,id=193510,bonus_id=10249/9405/9379/8960,crafted_stats=32/49,crafting_quality=5
-# Vibrant Wildercloth Wristwraps (502)
-# wrist=,id=193510,bonus_id=10249/9405/9379/8960,crafted_stats=36/40,crafting_quality=5
-# Vibrant Wildercloth Wristwraps (502)
-# wrist=,id=193510,bonus_id=10249/9405/9379/8960,crafted_stats=36/49,crafting_quality=5
-# Vibrant Wildercloth Wristwraps (502)
-# wrist=,id=193510,bonus_id=10249/9405/9379/8960,crafted_stats=40/49,crafting_quality=5
-#
-# Vibrant Wildercloth Shawl (502)
-# wrist=,id=193511,bonus_id=10249/9405/9379/8960,crafted_stats=32/40,crafting_quality=5
-# Vibrant Wildercloth Shawl (502)
-# wrist=,id=193511,bonus_id=10249/9405/9379/8960,crafted_stats=32/36,crafting_quality=5
-# Vibrant Wildercloth Shawl (502)
-# wrist=,id=193511,bonus_id=10249/9405/9379/8960,crafted_stats=32/49,crafting_quality=5
-# Vibrant Wildercloth Shawl (502)
-# wrist=,id=193511,bonus_id=10249/9405/9379/8960,crafted_stats=36/40,crafting_quality=5
-# Vibrant Wildercloth Shawl (502)
-# wrist=,id=193511,bonus_id=10249/9405/9379/8960,crafted_stats=36/49,crafting_quality=5
-# Vibrant Wildercloth Shawl (502)
-# wrist=,id=193511,bonus_id=10249/9405/9379/8960,crafted_stats=40/49,crafting_quality=5
-#
-# Illuminating Pillar of the Isles (502)
-# main_hand=,id=194898,bonus_id=10249/9405,crafted_stats=32/40,crafting_quality=5
-# Illuminating Pillar of the Isles (502)
-# main_hand=,id=194898,bonus_id=10249/9405,crafted_stats=32/36,crafting_quality=5
-# Illuminating Pillar of the Isles (502)
-# main_hand=,id=194898,bonus_id=10249/9405,crafted_stats=32/49,crafting_quality=5
-# Illuminating Pillar of the Isles (502)
-# main_hand=,id=194898,bonus_id=10249/9405,crafted_stats=36/40,crafting_quality=5
-# Illuminating Pillar of the Isles (502)
-# main_hand=,id=194898,bonus_id=10249/9405,crafted_stats=36/49,crafting_quality=5
-# Illuminating Pillar of the Isles (502)
-# main_hand=,id=194898,bonus_id=10249/9405,crafted_stats=40/49,crafting_quality=5
-#
 ### End of Weekly Reward Choices
 
 ### Additional Character Info
