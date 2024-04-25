@@ -108,11 +108,49 @@ Comparing previous step equipped with all other items max whelping upgraded.
 | 3         | https://www.raidbots.com/simbot/report/9mYUhkwWrSHWmAoonqULmm | Pants (Crit/Vers) | 187,233 | +2,848       |
 | 4         | https://www.raidbots.com/simbot/report/wUJeDJPmefnJV1wCHNnEXR | Ring (Crit/Vers)  | 187,924 | +711         |
 
+#### Neck Gem Sockets
+
+https://www.raidbots.com/simbot/report/xzXVCV83MjJt6ZSgcpQL9d
+
+Zen Malygite in other two sockets.
+
+#### Change Embellishment?
+
+After all gear, gems are now moving to Mastery. Check if Blue Silken Lining is better after all gear upgrades are done.
+
+https://www.raidbots.com/simbot/report/3LDTbJYiqPv4tMVipCiHV2
+
+No, stil with Rolling Shadowflame.
+
 **Final Decision**
 
 Use https://www.raidbots.com/simbot/report/9mYUhkwWrSHWmAoonqULmm as final result.
 
 Craft Staff, Neck, and Pants (ignore Ring)
+
+## Final Stats Weight
+
+https://www.raidbots.com/simbot/report/jdjPtuNbTS4AqWCyLbcpym
+
+| Stat            | Weight |
+| --------------- | ------ |
+| Intellect       | 11.57  |
+| Versatility     | 7.49   |
+| Mastery         | 7.04   |
+| Critical Strike | 6.97   |
+| Haste           | 3.00   |
+
+Versatility > Mastery == Crit >> Haste
+
+## Mythic+ Runs to Target
+
+https://www.raidbots.com/simbot/report/pWEZs81ZDEaSdP1vxYxryk
+
+| Priority | Dungeons                                                                         |
+| -------- | -------------------------------------------------------------------------------- |
+| 1        | The Nokhud Offensive, The Azure Vault                                            |
+| 2        | Ruby Life Pools, Neltharus                                                       |
+| 3        | Brackenhide Hollow, Uldaman: Legacy of Tyr, Halls of Infusion, Algeth'ar Academy |
 
 ## Currency Count
 
