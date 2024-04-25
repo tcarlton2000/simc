@@ -152,6 +152,12 @@ https://www.raidbots.com/simbot/report/pWEZs81ZDEaSdP1vxYxryk
 | 2        | Ruby Life Pools, Neltharus                                                       |
 | 3        | Brackenhide Hollow, Uldaman: Legacy of Tyr, Halls of Infusion, Algeth'ar Academy |
 
+## Are Heroics worth doing?
+
+https://www.raidbots.com/simbot/report/6sFz2pnQmnx8gcbrCeXarP
+
+Only four dungeons drops upgrades and the best upgrade is only 2.8% (a trinket). Doesn't seem worth the time.
+
 ## Currency Count
 
 ### Current
