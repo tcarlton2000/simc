@@ -124,9 +124,11 @@ No, stil with Rolling Shadowflame.
 
 **Final Decision**
 
-Use https://www.raidbots.com/simbot/report/9mYUhkwWrSHWmAoonqULmm as final result.
+~~Use https://www.raidbots.com/simbot/report/9mYUhkwWrSHWmAoonqULmm as final result.
 
-Craft Staff, Neck, and Pants (ignore Ring)
+Craft Staff, Neck, and Pants (ignore Ring)~~
+
+Changed final result to https://www.raidbots.com/simbot/report/6xGa3oVLg5EiBckFpAbmDo.
 
 ## Final Stats Weight
 
