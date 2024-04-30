@@ -1,0 +1,187 @@
+# Cieta - Demonology - 2024-04-30 15:14 - US/Thunderhorn
+# SimC Addon 10.2.0-01
+# WoW 10.2.6.54358, TOC 100206
+# Requires SimulationCraft 1000-01 or newer
+
+warlock="Cieta"
+level=70
+race=void_elf
+region=us
+server=thunderhorn
+role=spell
+professions=alchemy=75/herbalism=31
+spec=demonology
+
+talents=BoQAj5LiEN4VXhSin5RcWeAUggcASSkkAppAplkESBAAAAAK5ABJBKREkkkSaJRCBAAAAAAJC
+
+
+# Devout Ashdevil's Grimhorns (476)
+head=,id=207272,enchant_id=7052,bonus_id=9599/9513/9567/1507/8767
+# Pendant of Impending Perils  (486)
+neck=,id=192996,gem_id=192991/192938/192938,bonus_id=8837/8838/4785/9477/8782/9405/8795/10357,crafted_stats=49/40,crafting_quality=5
+# Devout Ashdevil's Hatespikes (463)
+shoulder=,id=207270,bonus_id=6652/9511/9559/1494/8767
+# Vibrant Wildercloth Shawl  (476)
+back=,id=193511,enchant_id=6604,bonus_id=8836/8840/8902/9405/9499/8795/8932/8960/9498,crafted_stats=40/49,crafting_quality=5
+# Surveyor's Cloth Robe  (486)
+chest=,id=193515,enchant_id=6625,bonus_id=8837/8838/4785/9405/10357/8795,crafted_stats=49/40,crafting_quality=5
+# Clasps of the Diligent Steward (499)
+wrist=,id=204393,enchant_id=6574,bonus_id=6652/10532/10872/7979/10315/10884/1550/8767
+# Devout Ashdevil's Claws (476)
+hands=,id=207273,bonus_id=6652/9639/9567/9514/1507
+# Sky Saddle Cord (493)
+waist=,id=193691,enchant_id=6904,bonus_id=10313/9635/6652/10532/10870/3172/8767
+# Devout Ashdevil's Tights (463)
+legs=,id=207271,enchant_id=6540,bonus_id=6652/9512/9559/1494/8767
+# Vibrant Wildercloth Slippers  (502)
+feet=,id=193519,enchant_id=6613,bonus_id=8836/8840/8902/9405/8795/8932/8960/10249,crafted_stats=49/36,crafting_quality=5
+# Ring-Bound Hourglass  (476)
+finger1=,id=193000,enchant_id=6568,gem_id=192932,bonus_id=8836/8840/8902/8780/9405/8795/9499/9498,crafted_stats=40/36,crafting_quality=5
+# Snipping Sleet Circle (480)
+finger2=,id=210377,enchant_id=6568,bonus_id=8902/10341/6652/9600/1511/8767
+# Belor'relos, the Suncaller (463)
+trinket1=,id=207172,bonus_id=6652/7982/9559/1494/8767
+# Nymue's Unraveling Spindle (463)
+trinket2=,id=208615,bonus_id=7982/9559/1494/8767
+# Overseer's Writhebark Stave  (486)
+main_hand=,id=194893,enchant_id=6643,bonus_id=8851/8852/9405/10357/8795,crafted_stats=40/32,crafting_quality=5
+
+### Gear from Bags
+#
+# Councilor's Terrormask (480)
+# head=,id=195485,bonus_id=6652/10533/10871/7982/10341/10884/1563/8767
+#
+# Cobalt Watcher's Cowl (502)
+# head=,id=191987,bonus_id=10316/1624/8767
+#
+# Slumbering Ursine Talisman (463)
+# neck=,id=208443,bonus_id=6652/8783/10244/7979/9563/1494/8767
+#
+# Cloak of Fading Echoes (454)
+# back=,id=134405,bonus_id=9560/9639/6652/9506/9144/9458/8767
+#
+# Sarannis' Mystic Sheen (467)
+# back=,id=188369,bonus_id=10305/7756/10870/40/9878/8766
+#
+# Devout Ashdevil's Razorhide (463)
+# chest=,id=207275,bonus_id=6652/7982/9515/9559/1494/8767
+#
+# Vibrant Wildercloth Vestments  (476)
+# chest=,id=193509,enchant_id=6625,bonus_id=8836/8840/8902/9405/9499/8795/9379/8960/9498,crafted_stats=40/32,crafting_quality=5
+#
+# Blessed Ohn'ir Robes (499)
+# chest=,id=193683,bonus_id=10315/9639/6652/10870/9144/3178/8767
+#
+# Tabard of Summer Flames (1)
+# tabard=,id=35280
+#
+# Suffused Cuffs (457)
+# wrist=,id=204783,bonus_id=10322/8902/10864/9216/1579
+#
+# Vibrant Wildercloth Wristwraps  (476)
+# wrist=,id=193510,enchant_id=6586,bonus_id=8836/8840/8902/9405/9499/8795/9498/9599,crafted_stats=40/32,crafting_quality=5
+#
+# Gloves of Oblivion (467)
+# hands=,id=123998,bonus_id=10305/7756/9878/8766
+#
+# Cobalt Watcher's Handwraps (480)
+# hands=,id=191986,bonus_id=10341/1602/8767
+#
+# Blooming Redeemer's Sash (476)
+# waist=,id=207124,bonus_id=6652/9600/9508/7980/9571/1507/8767
+#
+# Vibrant Wildercloth Girdle  (476)
+# waist=,id=193516,enchant_id=6904,bonus_id=8836/8840/8902/9405/9499/8795/9379/8960/9498/9599,crafted_stats=36/49,crafting_quality=5
+#
+# Cord of Reconstruction (467)
+# waist=,id=133449,bonus_id=10305/7756/10533/42/9878/8766
+#
+# Wind Soarer's Breeches (346)
+# legs=,id=193750,bonus_id=7978/7975/6652/10864,drop_level=70
+#
+# Vibrant Wildercloth Slippers  (476)
+# feet=,id=193519,enchant_id=6607,bonus_id=8836/8840/8902/9405/9499/8795/9498,crafted_stats=32/40,crafting_quality=5
+#
+# Jeweled Boots of Sanctification (467)
+# feet=,id=123988,bonus_id=10305/7756/10870/9878/8766
+#
+# Band of Burning Thorns (463)
+# finger1=,id=207159,enchant_id=6568,bonus_id=6652/9599/7979/9563/1494/8767
+#
+# Soul of the Netherlord (163)
+# finger1=,id=151649,bonus_id=1811/3630,drop_level=45
+#
+# Suffused Signet (454)
+# finger1=,id=204745,bonus_id=10321/8902/1576
+#
+# Philosopher's Stone (24)
+# trinket1=,id=9149
+#
+# Idol of Pure Decay (493)
+# trinket1=,id=193660,bonus_id=10313/9635/6652/3172/8767
+#
+# Ashes of the Embersoul (463)
+# trinket1=,id=207167,bonus_id=6652/7979/9563/1494/8767
+#
+# Timbal's Focusing Crystal (467)
+# trinket1=,id=133461,bonus_id=10305/7756/9878/8766
+#
+# Bottomless Reliquary Satchel (457)
+# trinket1=,id=198695,bonus_id=10322/1531
+#
+# Icon of Unyielding Courage (467)
+# trinket1=,id=188309,bonus_id=10305/7756/9878/8766
+#
+# Darkmoon Deck Box: Dance  (424)
+# trinket1=,id=198478,bonus_id=8836/8840/8902/9405/9366,crafting_quality=5
+#
+# Ulthalesh, the Deadwind Harvester (57)
+# main_hand=,id=128942,gem_id=133048/132985/133037,bonus_id=747/1519,gem_bonus_id=1477/1809/3/3631/1469/1809/4/4790/4792/1478/1809/0/0
+#
+# Empowered Shortsword of Insight (480)
+# main_hand=,id=197956,bonus_id=10341/1602/8767
+#
+# Larodar's Moonblade (467)
+# main_hand=,id=207790,bonus_id=6652/7979/9564/1498/8767
+#
+# Primal Molten Spellblade  (424)
+# main_hand=,id=190506,enchant_id=6654,bonus_id=8836/8840/8902/9405/8790/9366,crafted_stats=40/49,crafting_quality=5
+#
+# Staff of Incandescent Torment (476)
+# main_hand=,id=207794,enchant_id=6643,bonus_id=6652/7979/9567/1507/8767
+#
+# Ceremonial Ohn'ir Dagger (489)
+# main_hand=,id=192020,bonus_id=10344/1611/8767
+#
+# Kokia's Burnout Rod (496)
+# off_hand=,id=193766,bonus_id=10314/9639/6652/9144/3175/8767
+
+### Weekly Reward Choices
+#
+# Koroleth's Crackling Dagger (509)
+# main_hand=,id=193687,bonus_id=10330/9639/6652/9147/3188/8767
+#
+# Flare-Singed Strap (509)
+# waist=,id=193780,bonus_id=10330/9639/6652/10533/10870/9144/3188/8767
+#
+# Spellboon Saber (506)
+# main_hand=,id=193710,bonus_id=10329/9635/6652/9147/3185/8767
+#
+# Cursed Robes of the Sinister Savant (486)
+# chest=,id=217215,bonus_id=6652/7982/10343/10865/10884/1478/8767
+#
+# Amice of the Sinister Savant (486)
+# shoulder=,id=217214,bonus_id=6652/7982/10343/10869/10884/1478/8767
+#
+# Reanimator's Wicked Cassock (480)
+# chest=,id=202600,bonus_id=6652/10871/7982/10341/10884/1537/8767
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2245:1402
+#
+# slot_high_watermarks=0:502:502/1:486:486/2:463:480/3:499:502/4:493:499/5:463:480/6:502:502/7:499:499/8:480:483/9:476:476/10:467:480/11:476:480/12:486:502/13:489:489/14:333:454/15:97:454/16:496:496
+
+# Checksum: 86a48e08
