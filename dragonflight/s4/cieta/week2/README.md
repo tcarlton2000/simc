@@ -60,8 +60,14 @@
 
 ### Results
 
+https://www.raidbots.com/simbot/report/rB3cqKCrPkRWHkbEdSJ8bu
+
 #### Acquired Gear
 
 #### Buillion
 
-#### Whelping Crests Used
+Get Dreambinder, Loom of the Great Cycle
+
+#### Whelpling Crests Used
+
+Only upgrade for whelpling crests is the ring.

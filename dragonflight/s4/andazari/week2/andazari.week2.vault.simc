@@ -27,32 +27,32 @@ talents=BsPA/gf1fDREKLfAcG9Z2HkF/JCAikkQiIREikECJSSEJIIRkERSSSSKJBAAAAAAAAAAAA
 
 # Arctic Warden's Warhelm (489)
 head=,id=210390,bonus_id=8902/10344/10871/6652/9599/1520/8767
-# Glittering Gelid Goldchain (450)
-neck=,id=210380,bonus_id=9555/6652/8783/10244/1481/8767
-# Skewers of the Risen Nightmare (454)
-shoulder=,id=207198,bonus_id=6652/9511/9556/1485/8767
-# Shroud of the Risen Nightmare (454)
-back=,id=207195,bonus_id=6652/9556/1485/8767
-# Casket of the Risen Nightmare (460)
-chest=,id=207203,bonus_id=6652/9515/9558/1491/8767
-# Vambraces of the Risen Nightmare (454)
-wrist=,id=207196,bonus_id=6652/9599/9556/1485/8767
-# Thorns of the Risen Nightmare (454)
-hands=,id=207201,bonus_id=9514/9556/1485/8767
-# Wyrmforged Girdle (480)
-waist=,id=192011,bonus_id=10341/10871/1602/8767
-# Greaves of the Risen Nightmare (454)
-legs=,id=207199,bonus_id=42/7982/9512/9556/1485/8767
-# Graveboots of the Risen Nightmare (454)
-feet=,id=207202,bonus_id=41/9556/1485/8767
+# Pendant of Impending Perils (486)
+neck=,id=192996,bonus_id=10357/9405/8780,crafted_stats=36/49,crafting_quality=5
+# Explorer's Expert Spaulders (486)
+shoulder=,id=201952,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Surveyor's Tailored Cloak (486)
+back=,id=193500,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Wyrmforged Breastplate (480)
+chest=,id=192006,bonus_id=10341/10871/1602/8767
+# Explorer's Plate Bracers (486)
+wrist=,id=189539,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+# Explorer's Expert Gauntlets (486)
+hands=,id=201953,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Icebound Girdle (499)
+waist=,id=200746,bonus_id=6652/10532/10872/7979/10315/10884/1582/8767
+# Wyrmforged Legguards (480)
+legs=,id=192009,bonus_id=10341/10871/1602/8767
+# Explorer's Plate Boots (486)
+feet=,id=189537,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
 # Suffused Signet (454)
 finger1=,id=204745,bonus_id=10321/8902/1576
-# Snipping Sleet Circle (447)
-finger2=,id=210377,bonus_id=9554/6652/9600/1478/8767
+# Band of New Beginnings (486)
+finger2=,id=194082,bonus_id=10357/9405/8780,crafted_stats=36/49,crafting_quality=5
 # Bushwhacker's Compass (437)
 trinket1=,id=198490,bonus_id=8902/6652/9551/1511/8766
-# Idol of Trampling Hooves (444)
-trinket2=,id=193679,bonus_id=9636/6652/9541/1666/8767
+# Lifeflame Ampoule (489)
+trinket2=,id=198451,bonus_id=10344/1563/8767
 # Cavalry's Charging Lance (502)
 main_hand=,id=197922,enchant_id=3368,bonus_id=10316/1624/8767
 
@@ -88,8 +88,8 @@ main_hand=,id=197922,enchant_id=3368,bonus_id=10316/1624/8767
 # Flame-Etched Breastplate (460)
 # chest=,id=208436,bonus_id=6652/9505/7979/9562/1491/8767
 #
-# Wyrmforged Breastplate (480)
-# chest=,id=192006,bonus_id=10341/10871/1602/8767
+# Wyrmforged Girdle (480)
+# waist=,id=192011,bonus_id=10341/10871/1602/8767
 #
 # Dream Wardens Tabard (1)
 # tabard=,id=210501
@@ -112,9 +112,6 @@ main_hand=,id=197922,enchant_id=3368,bonus_id=10316/1624/8767
 # Icebound Girdle (499)
 # waist=,id=200746,bonus_id=6652/10532/10872/7979/10315/10884/1582/8767
 #
-# Wyrmforged Legguards (480)
-# legs=,id=192009,bonus_id=10341/10871/1602/8767
-#
 # Wyrmforged Legguards (421)
 # legs=,id=192009,bonus_id=9546/8902/6652/1543/8766
 #
@@ -126,9 +123,6 @@ main_hand=,id=197922,enchant_id=3368,bonus_id=10316/1624/8767
 #
 # Rime Ridden Ring (441)
 # finger1=,id=210378,bonus_id=9552/6652/9599/1472/8767
-#
-# Lifeflame Ampoule (489)
-# trinket1=,id=198451,bonus_id=10344/1563/8767
 #
 # Ancestral Protector's Stone (480)
 # trinket1=,id=197934,bonus_id=10341/1554/8767
@@ -167,6 +161,71 @@ main_hand=,id=197922,enchant_id=3368,bonus_id=10316/1624/8767
 #
 # Thorns of the Risen Nightmare (486)
 # hands=,id=217222,bonus_id=6652/7982/10343/10866/10884/1478/8767
+#
+# Explorer's Expert Helm (486)
+# head=,id=201951,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Explorer's Expert Helm (486)
+# head=,id=201951,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Explorer's Expert Helm (486)
+# head=,id=201951,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Explorer's Expert Helm (486)
+# head=,id=201951,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Explorer's Expert Helm (486)
+# head=,id=201951,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Explorer's Expert Helm (486)
+# head=,id=201951,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Explorer's Plate Chestguard (486)
+# chest=,id=189538,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Explorer's Plate Chestguard (486)
+# chest=,id=189538,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Explorer's Plate Chestguard (486)
+# chest=,id=189538,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Explorer's Plate Chestguard (486)
+# chest=,id=189538,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Explorer's Plate Chestguard (486)
+# chest=,id=189538,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Explorer's Plate Chestguard (486)
+# chest=,id=189538,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Explorer's Expert Clasp (486)
+# waist=,id=201955,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Explorer's Expert Clasp (486)
+# waist=,id=201955,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Explorer's Expert Clasp (486)
+# waist=,id=201955,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Explorer's Expert Clasp (486)
+# waist=,id=201955,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Explorer's Expert Clasp (486)
+# waist=,id=201955,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Explorer's Expert Clasp (486)
+# waist=,id=201955,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Explorer's Expert Greaves (486)
+# legs=,id=201954,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Explorer's Expert Greaves (486)
+# legs=,id=201954,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Explorer's Expert Greaves (486)
+# legs=,id=201954,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Explorer's Expert Greaves (486)
+# legs=,id=201954,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Explorer's Expert Greaves (486)
+# legs=,id=201954,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Explorer's Expert Greaves (486)
+# legs=,id=201954,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Draconium Great Axe (486)
+# main_hand=,id=201324,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Draconium Great Axe (486)
+# main_hand=,id=201324,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Draconium Great Axe (486)
+# main_hand=,id=201324,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Draconium Great Axe (486)
+# main_hand=,id=201324,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Draconium Great Axe (486)
+# main_hand=,id=201324,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Draconium Great Axe (486)
+# main_hand=,id=201324,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
 #
 ### End of Weekly Reward Choices
 

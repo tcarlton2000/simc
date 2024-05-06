@@ -1,0 +1,374 @@
+# Demanda - Havoc - 2024-05-04 22:15 - US/Thunderhorn
+# SimC Addon 10.2.0-01
+# WoW 10.2.6.54499, TOC 100206
+# Requires SimulationCraft 1000-01 or newer
+
+demonhunter="Demanda"
+level=70
+race=night_elf
+region=us
+server=thunderhorn
+role=attack
+
+spec=havoc
+
+talents=BEkAzqt9tQbK6xteCyjwasgfTKJJRSCSSiIBSCAAAAAAItQkEJJtkkGkDEIpJKtIJRA
+
+# Saved Loadout: Icy Veins Easy Mode
+# talents=BEkAzqt9tQbK6xteCyjwasgfTKJJRSCSSiIBSCAAAAAAItQkEJJtkkGkDEIpJKtIJRA
+
+# Screaming Torchfiend's Burning Scowl (454)
+head=,id=207263,enchant_id=7052,bonus_id=6652/9599/9513/9556/1485/8767
+# Pendant of Impending Perils (486)
+neck=,id=192996,bonus_id=10357/9405/8780,crafted_stats=32/49,crafting_quality=5
+# Screaming Torchfiend's Horned Memento (454)
+shoulder=,id=207261,bonus_id=6652/7982/8096/9511/9556/1485/8767
+# Suffused Shawl (493)
+back=,id=204733,bonus_id=8902/10313/10872/6652/1615/8767
+# Suffused Vest (480)
+chest=,id=204760,bonus_id=8902/10341/10871/6652/1602/8767
+# Ottuk Hide Bindings (489)
+wrist=,id=191996,bonus_id=10344/10871/1611/8767
+# Screaming Torchfiend's Grasp (454)
+hands=,id=207264,bonus_id=9514/9556/1485/8767
+# Ottuk Hide Sash (480)
+waist=,id=191995,bonus_id=10341/10871/1602/8767
+# Screaming Torchfiend's Blazewraps (454)
+legs=,id=207262,bonus_id=6652/9512/9556/1485/8767
+# Ottuk Hide Waders (480)
+feet=,id=191991,bonus_id=10341/10871/1602/8767
+# Suffused Signet (476)
+finger1=,id=204745,bonus_id=10328/8902/1598
+# Band of New Beginnings (486)
+finger2=,id=194082,bonus_id=10357/9405/8780,crafted_stats=32/49,crafting_quality=5
+# Bushwhacker's Compass (437)
+trinket1=,id=198490,bonus_id=8902/41/9551/1511/8766
+# Blood of the Khansguard (437)
+trinket2=,id=198627,bonus_id=8902/6652/9551/1511/8766
+# Primal Molten Longsword (502)
+main_hand=,id=190507,bonus_id=10249/9405/8902/8960/8932,crafted_stats=32/49,crafting_quality=5
+# Draconium Sword (486)
+off_hand=,id=190484,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+
+
+### Gear from Bags
+#
+# Drowsed Shepherd's Hood (454)
+# head=,id=210707,bonus_id=9560/9506/9599/1511/8767
+#
+# Amnesia (369)
+# neck=,id=200210,bonus_id=6652/7936/8783/1472/5864/8766
+#
+# Glittering Gelid Goldchain (441)
+# neck=,id=210380,bonus_id=9552/6652/8784/10245/1472/8767
+#
+# Mantle of Yearned Freedom (389)
+# shoulder=,id=193642,bonus_id=8965/7977/6652/8822/8817/9144/1611/8767
+#
+# Suffused Epaulets (460)
+# shoulder=,id=204759,bonus_id=10323/8902/10870/9218/1582/8766
+#
+# Strigine Epaulets (454)
+# shoulder=,id=207127,bonus_id=43/9507/7982/9556/1485/8767
+#
+# Arctic Warden's Cloak (441)
+# back=,id=210408,bonus_id=9552/9506/6652/1472/8767
+#
+# Screaming Torchfiend's Shawl (454)
+# back=,id=207258,bonus_id=6652/9556/1485/8767
+#
+# Suffused Shawl (457)
+# back=,id=204733,bonus_id=10322/8902/6652/1579
+#
+# Frigid Conservator's Wrap (444)
+# back=,id=210382,bonus_id=9553/9506/42/1475/8767
+#
+# Arctic Warden's Cloak (441)
+# back=,id=210408,bonus_id=9552/9506/6652/1472/8767
+#
+# Winter Forager's Cape (441)
+# back=,id=210407,bonus_id=9552/9506/6652/1472/8767
+#
+# Frigid Conservator's Wrap (441)
+# back=,id=210382,bonus_id=9552/9506/6652/1472/8767
+#
+# Cloak of Lost Devotion (379)
+# back=,id=193629,enchant_id=6591,bonus_id=8962/7977/6652/8822/8819/9144/1601/8767
+#
+# Winter Forager's Cape (441)
+# back=,id=210407,bonus_id=9552/9506/6652/1472/8767
+#
+# Winter Forager's Cape (441)
+# back=,id=210407,bonus_id=9552/9506/6652/1472/8767
+#
+# Deeprock Cape (411)
+# back=,id=204915,enchant_id=6591,bonus_id=6652/9316/1633/8767
+#
+# Crystalline Tender's Shroud (441)
+# back=,id=210381,bonus_id=9552/9506/6652/1472/8767
+#
+# Drape of the Loyal Vassal (441)
+# back=,id=158375,bonus_id=9552/9636/6652/9506/9144/3311/8767
+#
+# Screaming Torchfiend's Binding (454)
+# chest=,id=207266,bonus_id=6652/7982/9515/9556/1485/8767
+#
+# Suffused Vest (457)
+# chest=,id=204760,bonus_id=10322/8902/10864/9217/1579
+#
+# Robes of the Ashen Grove (454)
+# chest=,id=207129,bonus_id=42/9507/7982/9556/1485/8767
+#
+# Kinslayer's Vest (415)
+# chest=,id=202527,bonus_id=6652/8096/9231/9317/1466/8767
+#
+# Screaming Torchfiend's Armlets (454)
+# wrist=,id=207259,bonus_id=6652/9599/9556/1485/8767
+#
+# Crystalline Tender's Wristbands (444)
+# wrist=,id=210375,bonus_id=9553/9506/6652/9516/1475/8767
+#
+# Crystalline Tender's Wristbands (441)
+# wrist=,id=210375,bonus_id=9552/9506/6652/9599/1472/8767
+#
+# Suffused Grips (480)
+# hands=,id=204781,bonus_id=8902/10341/10871/6652/1602/8767
+#
+# Crystalline Tender's Gloves (441)
+# hands=,id=210353,bonus_id=9552/9506/6652/1472/8767
+#
+# Suffused Grips (480)
+# hands=,id=204781,bonus_id=8902/10341/10871/6652/1602/8767
+#
+# Grasps of Awakened Fury (460)
+# hands=,id=208438,bonus_id=6652/9505/7979/9562/1491/8767
+#
+# Suffused Grips (460)
+# hands=,id=204781,bonus_id=10323/8902/6652/1582/8766
+#
+# Crystalline Tender's Gloves (450)
+# hands=,id=210353,bonus_id=9555/9506/6652/1481/8767
+#
+# Life-Bound Belt  (424)
+# waist=,id=193407,bonus_id=8836/8840/8902/9405/8797/8960/8791/9366/9415,crafted_stats=40/32,crafting_quality=5
+#
+# Screaming Torchfiend's Clasp (454)
+# waist=,id=207260,bonus_id=6652/9600/9556/1485/8767
+#
+# Eternal Sentinel's Cord (454)
+# waist=,id=207135,bonus_id=42/9600/9507/7982/9556/1485/8767
+#
+# Crystalline Tender's Belt (441)
+# waist=,id=210371,bonus_id=9552/9506/6652/9600/1472/8767
+#
+# Crystalline Tender's Belt (441)
+# waist=,id=210371,bonus_id=9552/9506/6652/9599/1472/8767
+#
+# Suffused Breeches (460)
+# legs=,id=204779,bonus_id=10323/8902/10870/9221/1582/8766
+#
+# Crystalline Tender's Trousers (441)
+# legs=,id=210363,bonus_id=9552/9506/6652/1472/8767
+#
+# Crystalline Tender's Trousers (441)
+# legs=,id=210363,bonus_id=9552/9506/40/1472/8767
+#
+# Frenzied Incarnate Legwraps (454)
+# legs=,id=207132,bonus_id=6652/9507/7982/9556/1485/8767
+#
+# Crystalline Tender's Trousers (444)
+# legs=,id=210363,bonus_id=9553/9506/6652/1475/8767
+#
+# Toxic Thorn Footwraps  (424)
+# feet=,id=193452,enchant_id=6612,bonus_id=8836/8840/8902/8960/9405/9366,crafting_quality=5
+#
+# Crystalline Tender's Boots (444)
+# feet=,id=210393,bonus_id=9553/9506/6652/1475/8767
+#
+# Ohn'ahran Plainswalker Moccasins (376)
+# feet=,id=200460,enchant_id=6612,bonus_id=1472
+#
+# Sunless Boots (250)
+# feet=,id=204929,bonus_id=8902/6652
+#
+# Crystalline Tender's Boots (450)
+# feet=,id=210393,bonus_id=9506/6652/9555/1481/8767
+#
+# Rousing Earth Striders (460)
+# feet=,id=208439,bonus_id=6652/9505/7979/9562/1491/8767
+#
+# Rousing Earth Striders (460)
+# feet=,id=208439,bonus_id=6652/9505/7979/9562/1491/8767
+#
+# Suffused Loop (415)
+# finger1=,id=204746,bonus_id=9321/6652/9414/1537/8767
+#
+# Band of New Beginnings  (408)
+# finger1=,id=194082,enchant_id=6549,gem_id=192921,bonus_id=8837/8838/4785/8780/9405/8791/9372,crafted_stats=32/40,crafting_quality=5
+#
+# Bottle of Spiraling Winds (346)
+# trinket1=,id=193697,bonus_id=7978/7975/6652,drop_level=70
+#
+# Neltharic Saber (476)
+# main_hand=,id=204957,bonus_id=10328/8902/40/3155/8766
+#
+# Thorncaller Claw (454)
+# main_hand=,id=207784,bonus_id=6652/7982/9418/9556/1485/8767
+#
+# Winter Forager's Chopper (441)
+# main_hand=,id=210397,bonus_id=9552/6652/1472/8767
+#
+# Winter Forager's Chopper (454)
+# main_hand=,id=210397,bonus_id=6652/9556/1485/8767
+#
+# Winter Forager's Chopper (441)
+# main_hand=,id=210397,bonus_id=9552/6652/1472/8767
+#
+# Crystalline Tender's Glaive (441)
+# main_hand=,id=210386,bonus_id=9552/6652/1472/8767
+#
+# Remnant Charglaive (454)
+# main_hand=,id=207791,bonus_id=6652/7982/9556/1485/8767
+#
+# Crystalline Tender's Glaive (441)
+# main_hand=,id=210386,bonus_id=9552/6652/1472/8767
+#
+# Primal Molten Warglaive  (424)
+# main_hand=,id=190508,enchant_id=6643,bonus_id=8836/8840/8902/9405/8791/9366,crafted_stats=36/49,crafting_quality=5
+#
+# Winter Forager's Chopper (454)
+# main_hand=,id=210397,bonus_id=6652/9556/1485/8767
+#
+# Twinblades of the Deceiver (10)
+# main_hand=,id=127829,bonus_id=719
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+
+### Weekly Reward Choices
+#
+# Pioneer's Practiced Cowl (486)
+# head=,id=201941,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Pioneer's Practiced Cowl (486)
+# head=,id=201941,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Pioneer's Practiced Cowl (486)
+# head=,id=201941,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Pioneer's Practiced Cowl (486)
+# head=,id=201941,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Pioneer's Practiced Cowl (486)
+# head=,id=201941,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Pioneer's Practiced Cowl (486)
+# head=,id=201941,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Pioneer's Practiced Shoulderpads (486)
+# shoulder=,id=201942,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Pioneer's Practiced Shoulderpads (486)
+# shoulder=,id=201942,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Pioneer's Practiced Shoulderpads (486)
+# shoulder=,id=201942,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Pioneer's Practiced Shoulderpads (486)
+# shoulder=,id=201942,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Pioneer's Practiced Shoulderpads (486)
+# shoulder=,id=201942,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Pioneer's Practiced Shoulderpads (486)
+# shoulder=,id=201942,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Pioneer's Leather Tunic (486)
+# chest=,id=193390,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Pioneer's Leather Tunic (486)
+# chest=,id=193390,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Pioneer's Leather Tunic (486)
+# chest=,id=193390,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Pioneer's Leather Tunic (486)
+# chest=,id=193390,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Pioneer's Leather Tunic (486)
+# chest=,id=193390,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Pioneer's Leather Tunic (486)
+# chest=,id=193390,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Pioneer's Leather Wristguards (486)
+# wrist=,id=193388,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Pioneer's Leather Wristguards (486)
+# wrist=,id=193388,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Pioneer's Leather Wristguards (486)
+# wrist=,id=193388,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Pioneer's Leather Wristguards (486)
+# wrist=,id=193388,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Pioneer's Leather Wristguards (486)
+# wrist=,id=193388,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Pioneer's Leather Wristguards (486)
+# wrist=,id=193388,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Pioneer's Practiced Gloves (486)
+# hands=,id=201943,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Pioneer's Practiced Gloves (486)
+# hands=,id=201943,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Pioneer's Practiced Gloves (486)
+# hands=,id=201943,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Pioneer's Practiced Gloves (486)
+# hands=,id=201943,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Pioneer's Practiced Gloves (486)
+# hands=,id=201943,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Pioneer's Practiced Gloves (486)
+# hands=,id=201943,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Pioneer's Practiced Belt (486)
+# waist=,id=201945,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Pioneer's Practiced Belt (486)
+# waist=,id=201945,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Pioneer's Practiced Belt (486)
+# waist=,id=201945,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Pioneer's Practiced Belt (486)
+# waist=,id=201945,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Pioneer's Practiced Belt (486)
+# waist=,id=201945,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Pioneer's Practiced Belt (486)
+# waist=,id=201945,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Pioneer's Practiced Leggings (486)
+# legs=,id=201944,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Pioneer's Practiced Leggings (486)
+# legs=,id=201944,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Pioneer's Practiced Leggings (486)
+# legs=,id=201944,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Pioneer's Practiced Leggings (486)
+# legs=,id=201944,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Pioneer's Practiced Leggings (486)
+# legs=,id=201944,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Pioneer's Practiced Leggings (486)
+# legs=,id=201944,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Pioneer's Leather Boots (486)
+# feet=,id=193386,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Pioneer's Leather Boots (486)
+# feet=,id=193386,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Pioneer's Leather Boots (486)
+# feet=,id=193386,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Pioneer's Leather Boots (486)
+# feet=,id=193386,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Pioneer's Leather Boots (486)
+# feet=,id=193386,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Pioneer's Leather Boots (486)
+# feet=,id=193386,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:1792:1/c:2245:1597/i:198058:1/i:206959:5/i:190453:3/i:206960:1
+#
+# slot_high_watermarks=0:454:502/1:450:502/2:460:489/3:480:502/4:480:509/5:460:480/6:480:502/7:489:499/8:480:489/9:447:476/10:437:480/11:493:493/12:0:515/13:10:489/14:460:460/15:454:454/16:10:496
+
+# Checksum: 80dfc18d
