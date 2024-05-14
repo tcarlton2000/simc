@@ -1,0 +1,20 @@
+# Cieta - Demonology - 2024-01-12 14:59 - US/Thunderhorn
+# SimC Addon 10.2.0-01
+# WoW 10.2.0.52808, TOC 100200
+# Requires SimulationCraft 1000-01 or newer
+
+warlock="Cieta"
+level=70
+race=gnome
+region=us
+server=thunderhorn
+role=spell
+professions=alchemy=75/herbalism=31
+spec=demonology
+
+talents=BoQAj5LiEN4VXhSin5RcWeAUggcASSkkAppAplkESBAAAAAK5ABJBKREkkkSaJRCBAAAAAAJC
+
+# Devout Ashdevil's Grimhorns (476)
+head=,id=207272,bonus_id=6652/9600/9567/9513/1507/8767,enchant_id=7052
+# Slumbering Ursine Talisman (463)
+neck=,id=208443,bonus_id=9563/6652/8783/10245/1494/8767

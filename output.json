@@ -1,0 +1,100 @@
+{
+    "header": [
+        "# Cieta - Demonology - 2024-01-12 14:59 - US/Thunderhorn",
+        "# SimC Addon 10.2.0-01",
+        "# WoW 10.2.0.52808, TOC 100200",
+        "# Requires SimulationCraft 1000-01 or newer",
+        "",
+        "warlock=\"Cieta\"",
+        "level=70",
+        "race=void_elf",
+        "region=us",
+        "server=thunderhorn",
+        "role=spell",
+        "professions=alchemy=75/herbalism=31",
+        "spec=demonology",
+        "",
+        "talents=BoQAj5LiEN4VXhSin5RcWeAUggcASSkkAppAplkESBAAAAAK5ABJBKREkkkSaJRCBAAAAAAJC",
+        "",
+        ""
+    ],
+    "equipped": [
+        {
+            "name": "Devout Ashdevil's Grimhorns",
+            "slot": "head",
+            "id": "207272"
+        },
+        {
+            "name": "Slumbering Ursine Talisman",
+            "slot": "neck",
+            "id": "208443"
+        },
+        {
+            "name": "Devout Ashdevil's Hatespikes",
+            "slot": "shoulder",
+            "id": "207270"
+        },
+        {
+            "name": "Vibrant Wildercloth Shawl",
+            "slot": "back",
+            "id": "193511"
+        },
+        {
+            "name": "Vibrant Wildercloth Vestments",
+            "slot": "chest",
+            "id": "193509"
+        },
+        {
+            "name": "Vibrant Wildercloth Wristwraps",
+            "slot": "wrist",
+            "id": "193510"
+        },
+        {
+            "name": "Devout Ashdevil's Claws",
+            "slot": "hands",
+            "id": "207273"
+        },
+        {
+            "name": "Vibrant Wildercloth Girdle",
+            "slot": "waist",
+            "id": "193516"
+        },
+        {
+            "name": "Devout Ashdevil's Tights",
+            "slot": "legs",
+            "id": "207271"
+        },
+        {
+            "name": "Vibrant Wildercloth Slippers",
+            "slot": "feet",
+            "id": "193519"
+        },
+        {
+            "name": "Ring-Bound Hourglass",
+            "slot": "finger1",
+            "id": "193000"
+        },
+        {
+            "name": "Band of Burning Thorns",
+            "slot": "finger2",
+            "id": "207159"
+        },
+        {
+            "name": "Belor'relos, the Suncaller",
+            "slot": "trinket1",
+            "id": "207172"
+        },
+        {
+            "name": "Nymue's Unraveling Spindle",
+            "slot": "trinket2",
+            "id": "208615"
+        },
+        {
+            "name": "Staff of Incandescent Torment",
+            "slot": "main_hand",
+            "id": "207794"
+        }
+    ],
+    "inBag": [],
+    "inVault": []
+}
