@@ -211,20 +211,18 @@ main_hand=,id=208616,enchant_id=6643,bonus_id=9418/10414/1546/8767
 
 ### Weekly Reward Choices
 #
-# Chillworn's Infusion Staff (515)
-# main_hand=,id=193761,bonus_id=10332/9639/6652/9147/3194/8767
-#
-# Eternal Sentry's Ring (512)
-# finger1=,id=193804,bonus_id=10331/9639/6652/10532/9144/3191/8767
-#
-# Vessel of Searing Shadow (480)
-# trinket1=,id=202615,bonus_id=6652/7982/10341/10884/1537/8767
-#
-# Grimhorns of the Sinister Savant (486)
-# head=,id=217212,bonus_id=6652/10532/7982/10343/10867/10884/1478/8767
-#
-# Erethos, the Empty Promise (489)
-# main_hand=,id=202565,bonus_id=40/7982/10344/10884/1537/8767
+# Torc of Passed Time (502)
+# neck=,id=201759,bonus_id=10249/9405/8782,crafted_stats=32/36,crafting_quality=5
+# Torc of Passed Time (502)
+# neck=,id=201759,bonus_id=10249/9405/8782,crafted_stats=32/40,crafting_quality=5
+# Torc of Passed Time (502)
+# neck=,id=201759,bonus_id=10249/9405/8782,crafted_stats=32/49,crafting_quality=5
+# Torc of Passed Time (502)
+# neck=,id=201759,bonus_id=10249/9405/8782,crafted_stats=36/40,crafting_quality=5
+# Torc of Passed Time (502)
+# neck=,id=201759,bonus_id=10249/9405/8782,crafted_stats=36/49,crafting_quality=5
+# Torc of Passed Time (502)
+# neck=,id=201759,bonus_id=10249/9405/8782,crafted_stats=40/49,crafting_quality=5
 #
 ### End of Weekly Reward Choices
 

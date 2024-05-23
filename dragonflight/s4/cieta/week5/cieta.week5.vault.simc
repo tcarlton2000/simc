@@ -1,6 +1,6 @@
-# Cieta - Demonology - 2024-05-14 16:08 - US/Thunderhorn
+# Cieta - Demonology - 2024-05-21 16:38 - US/Thunderhorn
 # SimC Addon 10.2.0-01
-# WoW 10.2.7.54673, TOC 100207
+# WoW 10.2.7.54762, TOC 100207
 # Requires SimulationCraft 1000-01 or newer
 
 warlock="Cieta"
@@ -23,8 +23,8 @@ head=,id=217212,enchant_id=7052,bonus_id=6652/10532/7982/10867/10884/10348/1494/
 neck=,id=192996,gem_id=192991/192938/192938,bonus_id=8837/8838/4785/9477/8782/9405/8795/10357,crafted_stats=49/40,crafting_quality=5
 # Amice of the Sinister Savant (509)
 shoulder=,id=217214,bonus_id=6652/10869/10330/9639/10884/1501/8767
-# Crystalline Tender's Shroud (489)
-back=,id=210381,enchant_id=6592,bonus_id=8902/10871/6652/10344/1520/8767
+# Crystalline Tender's Shroud (502)
+back=,id=210381,enchant_id=6592,bonus_id=8902/10871/6652/10348/1533/8767
 # Cursed Robes of the Sinister Savant (502)
 chest=,id=217215,enchant_id=6625,bonus_id=6652/10316/9639/10865/1494
 # Clasps of the Diligent Steward (502)
@@ -44,23 +44,26 @@ finger2=,id=192999,enchant_id=6568,gem_id=192938,bonus_id=8836/8840/8902/8780/94
 # Belor'relos, the Suncaller (515)
 trinket1=,id=207172,bonus_id=6652/10414/1546/8767
 # Nymue's Unraveling Spindle (515)
-trinket2=,id=208615,bonus_id=6652/10414/1546/8767
+trinket2=,id=208615,bonus_id=10414/1546/8767
 # Dreambinder, Loom of the Great Cycle (515)
 main_hand=,id=208616,enchant_id=6643,bonus_id=9418/10414/1546/8767
 
 ### Gear from Bags
 #
+# Cobalt Watcher's Cowl (502)
+# head=,id=191987,bonus_id=10316/1624/8767/10872/10532
+#
 # Councilor's Terrormask (480)
 # head=,id=195485,bonus_id=6652/10533/10871/7982/10341/10884/1563/8767
 #
-# Cobalt Watcher's Cowl (502)
-# head=,id=191987,bonus_id=10316/1624/8767/10872/10532
+# Cold Crisp Collar (467)
+# neck=,id=210379,bonus_id=10305/8902/6652/8784/10245/1498/8766
 #
 # Slumbering Ursine Talisman (499)
 # neck=,id=208443,bonus_id=6652/8783/10245/7979/10315/10884/1530/8767
 #
-# Cold Crisp Collar (467)
-# neck=,id=210379,bonus_id=10305/8902/6652/8784/10245/1498/8766
+# Frigid Conservator's Shoulders (480)
+# shoulder=,id=210366,bonus_id=8902/10341/10871/6652/1511/8767
 #
 # Suffused Shoulderpads (460)
 # shoulder=,id=204758,bonus_id=10323/8902/10870/9218/1582/8766
@@ -68,14 +71,14 @@ main_hand=,id=208616,enchant_id=6643,bonus_id=9418/10414/1546/8767
 # Boastful Stalker's Epaulets (499)
 # shoulder=,id=193667,bonus_id=10315/9639/6652/10870/9144/3178/8767
 #
+# Suffused Shoulderpads (489)
+# shoulder=,id=204758,bonus_id=8902/10344/10871/6652/1611/8767
+#
 # Devout Ashdevil's Hatespikes (463)
 # shoulder=,id=207270,bonus_id=6652/9511/9559/1494/8767
 #
-# Frigid Conservator's Shoulders (480)
-# shoulder=,id=210366,bonus_id=8902/10341/10871/6652/1511/8767
-#
-# Suffused Shoulderpads (489)
-# shoulder=,id=204758,bonus_id=8902/10344/10871/6652/1611/8767
+# Ascended Squallspires (486)
+# shoulder=,id=195493,bonus_id=6652/10871/7982/10343/10884/1563/8767
 #
 # Sarannis' Mystic Sheen (476)
 # back=,id=188369,bonus_id=7756/10870/40/10308/9887/8766
@@ -83,26 +86,41 @@ main_hand=,id=208616,enchant_id=6643,bonus_id=9418/10414/1546/8767
 # Cloak of Fading Echoes (454)
 # back=,id=134405,bonus_id=9560/9639/6652/9506/9144/9458/8767
 #
+# Cloak of Lost Devotion (502)
+# back=,id=193629,bonus_id=10316/9639/6652/10870/9144/3181/8767
+#
 # Vibrant Wildercloth Shawl  (476)
 # back=,id=193511,enchant_id=6604,bonus_id=8836/8840/8902/9405/9499/8795/8932/8960/9498,crafted_stats=40/49,crafting_quality=5
-#
-# Vibrant Wildercloth Vestments  (476)
-# chest=,id=193509,enchant_id=6625,bonus_id=8836/8840/8902/9405/9499/8795/9379/8960/9498,crafted_stats=40/32,crafting_quality=5
 #
 # Suffused Vestment (480)
 # chest=,id=204789,bonus_id=8902/10341/10871/1602/8767
 #
-# Sundered Edgelord's Breastplate (480)
-# chest=,id=204422,bonus_id=6652/10871/7982/10341/10884/1537/8767
-#
 # Surveyor's Cloth Robe  (486)
 # chest=,id=193515,enchant_id=6625,bonus_id=8837/8838/4785/9405/10357/8795,crafted_stats=49/40,crafting_quality=5
+#
+# Vibrant Wildercloth Vestments  (476)
+# chest=,id=193509,enchant_id=6625,bonus_id=8836/8840/8902/9405/9499/8795/9379/8960/9498,crafted_stats=40/32,crafting_quality=5
+#
+# Cobalt Watcher's Vestment (480)
+# chest=,id=191983,bonus_id=10341/10871/6652/8902/1602/8767
+#
+# Egg Sac Robes (467)
+# chest=,id=188417,bonus_id=10305/7756/9875/8766
+#
+# Ornate Woolen Stola (467)
+# chest=,id=127519,bonus_id=10305/7756/9875/8766
+#
+# Sundered Edgelord's Breastplate (480)
+# chest=,id=204422,bonus_id=6652/10871/7982/10341/10884/1537/8767
 #
 # Tabard of Summer Flames (1)
 # tabard=,id=35280
 #
+# Cobalt Watcher's Cuffs (480)
+# wrist=,id=191990,bonus_id=10341/10871/6652/10532/8902/1602/8767
+#
 # Vibrant Wildercloth Wristwraps  (476)
-# wrist=,id=193510,enchant_id=6586,bonus_id=8836/8840/8902/9405/9499/8795/9498/9600,crafted_stats=40/32,crafting_quality=5
+# wrist=,id=193510,enchant_id=6586,bonus_id=8836/8840/8902/9405/9499/8795/9498/9599,crafted_stats=40/32,crafting_quality=5
 #
 # Cobalt Watcher's Handwraps (460)
 # hands=,id=191986,bonus_id=10323/6652/1582/8766
@@ -110,11 +128,23 @@ main_hand=,id=208616,enchant_id=6643,bonus_id=9418/10414/1546/8767
 # Gloves of Oblivion (489)
 # hands=,id=123998,bonus_id=7756/10312/9924/8767
 #
+# Cold Sweat Grips (467)
+# hands=,id=188460,bonus_id=10305/7756/9875/8766
+#
 # Cobalt Watcher's Handwraps (489)
 # hands=,id=191986,bonus_id=10344/1611/8767/10871
 #
+# Traditionally Dyed Handguards (467)
+# hands=,id=127506,bonus_id=10305/7756/9875/8766
+#
+# Traditionally Dyed Handguards (467)
+# hands=,id=127506,bonus_id=10305/7756/9875/8766
+#
+# Sky Saddle Cord (493)
+# waist=,id=193691,enchant_id=6904,bonus_id=10313/9635/6652/10532/10870/3172/8767
+#
 # Vibrant Wildercloth Girdle  (476)
-# waist=,id=193516,enchant_id=6904,bonus_id=8836/8840/8902/9405/9499/8795/9379/8960/9498/9600,crafted_stats=36/49,crafting_quality=5
+# waist=,id=193516,enchant_id=6904,bonus_id=8836/8840/8902/9405/9499/8795/9379/8960/9498/9599,crafted_stats=36/49,crafting_quality=5
 #
 # Blooming Redeemer's Sash (489)
 # waist=,id=207124,bonus_id=6652/10532/10871/7982/10344/10884/1520/8767
@@ -122,26 +152,32 @@ main_hand=,id=208616,enchant_id=6643,bonus_id=9418/10414/1546/8767
 # Cord of Reconstruction (467)
 # waist=,id=133449,bonus_id=10305/7756/10533/42/9878/8766
 #
-# Sky Saddle Cord (493)
-# waist=,id=193691,enchant_id=6904,bonus_id=10313/9635/6652/10532/10870/3172/8767
+# Cobalt Watcher's Cord (480)
+# waist=,id=191989,bonus_id=10341/10871/6652/10532/8902/1602/8767
+#
+# Cobalt Watcher's Leggings (480)
+# legs=,id=191988,bonus_id=10341/10871/6652/8902/1602/8767
 #
 # Frigid Conservator's Leggings (467)
 # legs=,id=210361,bonus_id=10305/8902/6652/1498/8766
 #
 # Frigid Conservator's Leggings (467)
 # legs=,id=210361,bonus_id=10305/8902/6652/1498/8766
-#
-# Vibrant Wildercloth Slippers  (476)
-# feet=,id=193519,enchant_id=6607,bonus_id=8836/8840/8902/9405/9499/8795/9498,crafted_stats=32/40,crafting_quality=5
 #
 # Jeweled Boots of Sanctification (467)
 # feet=,id=123988,bonus_id=10305/7756/10870/9878/8766
 #
-# Beautiful Blizzard Binding (480)
-# finger1=,id=210376,bonus_id=8902/10341/6652/10533/1511/8767
+# Vibrant Wildercloth Slippers  (476)
+# feet=,id=193519,enchant_id=6607,bonus_id=8836/8840/8902/9405/9499/8795/9498,crafted_stats=32/40,crafting_quality=5
 #
 # Soul of the Netherlord (163)
 # finger1=,id=151649,bonus_id=1811/3630,drop_level=45
+#
+# Beautiful Blizzard Binding (480)
+# finger1=,id=210376,bonus_id=8902/10341/6652/10533/1511/8767
+#
+# Onyx Impostor's Birthright (502)
+# finger1=,id=204398,bonus_id=6652/10533/7979/10316/10884/1550/8767
 #
 # Ring-Bound Hourglass  (476)
 # finger1=,id=193000,enchant_id=6568,gem_id=192932,bonus_id=8836/8840/8902/8780/9405/8795/9499/9498,crafted_stats=40/36,crafting_quality=5
@@ -149,17 +185,8 @@ main_hand=,id=208616,enchant_id=6643,bonus_id=9418/10414/1546/8767
 # Snipping Sleet Circle (489)
 # finger1=,id=210377,enchant_id=6568,bonus_id=8902/6652/9600/10344/1520/8767/10532
 #
-# Bottomless Reliquary Satchel (457)
-# trinket1=,id=198695,bonus_id=10322/1531
-#
-# Nymue's Unraveling Spindle (463)
-# trinket1=,id=208615,bonus_id=7982/9559/1494/8767
-#
-# Belor'relos, the Suncaller (463)
-# trinket1=,id=207172,bonus_id=6652/7982/9559/1494/8767
-#
-# Ashes of the Embersoul (463)
-# trinket1=,id=207167,bonus_id=6652/7979/9563/1494/8767
+# Time-Breaching Talon (502)
+# trinket1=,id=193791,bonus_id=10316/9639/6652/9144/3181/8767
 #
 # Darkmoon Deck Box: Dance  (424)
 # trinket1=,id=198478,bonus_id=8836/8840/8902/9405/9366,crafting_quality=5
@@ -170,29 +197,38 @@ main_hand=,id=208616,enchant_id=6643,bonus_id=9418/10414/1546/8767
 # Icon of Unyielding Courage (467)
 # trinket1=,id=188309,bonus_id=10305/7756/9878/8766
 #
-# Philosopher's Stone (24)
-# trinket1=,id=9149
+# Bottomless Reliquary Satchel (480)
+# trinket1=,id=198695,bonus_id=10341/6652/8902/1554/8767
 #
-# Time-Breaching Talon (502)
-# trinket1=,id=193791,bonus_id=10316/9639/6652/9144/3181/8767
+# The Cartographer's Calipers (493)
+# trinket1=,id=198532,bonus_id=10313/6652/8902/1567/8767
+#
+# Idol of Pure Decay (502)
+# trinket1=,id=193660,bonus_id=9635/6652/10316/3181/8767
 #
 # Magmaclaw Lure (457)
 # trinket1=,id=205262,bonus_id=10322/8902/1579
 #
+# Philosopher's Stone (24)
+# trinket1=,id=9149
+#
+# Bottomless Reliquary Satchel (457)
+# trinket1=,id=198695,bonus_id=10322/1531
+#
 # Empowered Shortsword of Insight (480)
 # main_hand=,id=197956,bonus_id=10341/1602/8767
 #
-# Overseer's Writhebark Stave  (486)
-# main_hand=,id=194893,enchant_id=6643,bonus_id=8851/8852/9405/10357/8795,crafted_stats=40/32,crafting_quality=5
+# Constructor's Worklight (467)
+# main_hand=,id=188454,bonus_id=10305/7756/9876/8766
 #
 # Primal Molten Spellblade  (424)
 # main_hand=,id=190506,enchant_id=6654,bonus_id=8836/8840/8902/9405/8790/9366,crafted_stats=40/49,crafting_quality=5
 #
+# Maruuk Battle Standard (480)
+# main_hand=,id=192033,bonus_id=10341/6652/8902/1602/8767
+#
 # Ceremonial Ohn'ir Dagger (489)
 # main_hand=,id=192020,bonus_id=10344/1611/8767
-#
-# Larodar's Moonblade (467)
-# main_hand=,id=207790,bonus_id=6652/7979/9564/1498/8767
 #
 # Koroleth's Crackling Dagger (499)
 # main_hand=,id=193687,bonus_id=10315/9639/6652/9147/3178/8767
@@ -200,38 +236,44 @@ main_hand=,id=208616,enchant_id=6643,bonus_id=9418/10414/1546/8767
 # Ulthalesh, the Deadwind Harvester (57)
 # main_hand=,id=128942,gem_id=133048/132985/133037,bonus_id=747/1519,gem_bonus_id=1477/1809/3/3631/1469/1809/4/4790/4792/1478/1809/0/0
 #
-# Frigid Conservator's Implement (493)
-# off_hand=,id=210384,bonus_id=8902/10313/6652/1524/8767
+# Overseer's Writhebark Stave  (486)
+# main_hand=,id=194893,enchant_id=6643,bonus_id=8851/8852/9405/10357/8795,crafted_stats=40/32,crafting_quality=5
 #
 # Suffused Scepter (493)
 # off_hand=,id=204756,bonus_id=8902/10313/6652/1615/8767
+#
+# Frigid Conservator's Implement (493)
+# off_hand=,id=210384,bonus_id=8902/10313/6652/1524/8767
+#
+# Irontorch Igniter (502)
+# off_hand=,id=193783,bonus_id=10316/9639/6652/9144/3181/8767
 #
 # Kokia's Burnout Rod (496)
 # off_hand=,id=193766,bonus_id=10314/9639/6652/9144/3175/8767
 
 ### Weekly Reward Choices
 #
-# Chillworn's Infusion Staff (515)
-# main_hand=,id=193761,bonus_id=10332/9639/6652/9147/3194/8767
+# Infused Elemental Bands (515)
+# wrist=,id=193635,bonus_id=10332/9639/6652/10531/10870/9144/3194/8767
 #
-# Eternal Sentry's Ring (512)
-# finger1=,id=193804,bonus_id=10331/9639/6652/10532/9144/3191/8767
+# Kokia's Burnout Rod (512)
+# off_hand=,id=193766,bonus_id=10331/9639/6652/9144/3191/8767
 #
-# Vessel of Searing Shadow (480)
-# trinket1=,id=202615,bonus_id=6652/7982/10341/10884/1537/8767
+# Sky Saddle Cord (489)
+# waist=,id=193691,bonus_id=10344/9636/6652/10533/10870/9144/3168/8767
 #
-# Grimhorns of the Sinister Savant (486)
-# head=,id=217212,bonus_id=6652/10532/7982/10343/10867/10884/1478/8767
+# Decorated Commander's Cindercloak (480)
+# back=,id=195482,bonus_id=6652/10871/7982/10341/10884/1563/8767
 #
-# Erethos, the Empty Promise (489)
-# main_hand=,id=202565,bonus_id=40/7982/10344/10884/1537/8767
+# Coattails of the Rightful Heir (489)
+# legs=,id=202585,bonus_id=6652/10871/7982/10344/10884/1537/8767
 #
 ### End of Weekly Reward Choices
 
 ### Additional Character Info
 #
-# upgrade_currencies=c:2245:1271
+# upgrade_currencies=c:2245:1868
 #
-# slot_high_watermarks=0:502:502/1:499:502/2:509:509/3:502:502/4:509:509/5:502:502/6:502:502/7:502:502/8:502:502/9:489:489/10:502:502/11:489:502/12:515:515/13:499:499/14:333:476/15:97:476/16:496:496
+# slot_high_watermarks=0:502:502/1:499:502/2:509:509/3:502:502/4:509:509/5:502:502/6:502:502/7:502:502/8:502:502/9:502:502/10:515:515/11:502:502/12:515:515/13:499:499/14:333:476/15:97:476/16:502:502
 
-# Checksum: 6f85a97e
+# Checksum: 6ec20171

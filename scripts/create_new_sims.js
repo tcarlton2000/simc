@@ -144,11 +144,18 @@ const bonusIdsForCraftedGear = (craftedProperties) => {
  * @returns {number[]}
  */
 const getBonusIds = (item) => {
+    const bonusIds = []
+
+    // Add max sockets to necks.
+    if (item.slot === 'neck') {
+        bonusIds.push(8782);
+    }
+
     if (item.type === ItemTypes.TRACK) {
-        return bonusIdsForTrackGear(item.properties);
+        return bonusIds.concat(bonusIdsForTrackGear(item.properties));
     }
     if (item.type === ItemTypes.CRAFTED) {
-        return bonusIdsForCraftedGear(item.properties);
+        return bonusIds.concat(bonusIdsForCraftedGear(item.properties));
     }
     
     throw new Error("Invalid item type");
