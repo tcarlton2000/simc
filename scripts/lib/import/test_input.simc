@@ -14,7 +14,5 @@ spec=demonology
 
 talents=BoQAj5LiEN4VXhSin5RcWeAUggcASSkkAppAplkESBAAAAAK5ABJBKREkkkSaJRCBAAAAAAJC
 
-# Devout Ashdevil's Grimhorns (476)
-head=,id=207272,bonus_id=6652/9600/9567/9513/1507/8767,enchant_id=7052
-# Slumbering Ursine Talisman (463)
-neck=,id=208443,bonus_id=9563/6652/8783/10245/1494/8767
+# Grimhorns of the Sinister Savant (502)
+head=,id=217212,enchant_id=7052,bonus_id=6652/10532/7982/10867/10884/10348/1494/8767

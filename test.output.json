@@ -26,7 +26,7 @@
             "slot": "head",
             "id": 217212,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 480,
                 "trackInfo": {
                     "track": "Veteran",
@@ -39,9 +39,10 @@
             "name": "Pendant of Impending Perils ",
             "slot": "neck",
             "id": 192996,
-            "type": 1,
-            "properties": {
-                "baseItemLevel": 486
+            "type": 0,
+            "craftedProperties": {
+                "type": "WHELPLING_CRAFTED",
+                "quality": 5
             },
             "gemIds": [
                 192991,
@@ -54,7 +55,7 @@
             "slot": "shoulder",
             "id": 217214,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 480,
                 "trackInfo": {
                     "track": "Hero",
@@ -67,7 +68,7 @@
             "slot": "back",
             "id": 210381,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 441,
                 "trackInfo": {
                     "track": "Veteran",
@@ -81,7 +82,7 @@
             "slot": "chest",
             "id": 217215,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 480,
                 "trackInfo": {
                     "track": "Champion",
@@ -95,7 +96,7 @@
             "slot": "wrist",
             "id": 204393,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 421,
                 "trackInfo": {
                     "track": "Champion",
@@ -109,7 +110,7 @@
             "slot": "hands",
             "id": 204787,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 350,
                 "trackInfo": {
                     "track": "Veteran",
@@ -122,7 +123,7 @@
             "slot": "waist",
             "id": 193780,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 509,
                 "trackInfo": {
                     "track": "Hero",
@@ -136,7 +137,7 @@
             "slot": "legs",
             "id": 217213,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 480,
                 "trackInfo": {
                     "track": "Champion",
@@ -149,9 +150,11 @@
             "name": "Vibrant Wildercloth Slippers ",
             "slot": "feet",
             "id": 193519,
-            "type": 1,
-            "properties": {
-                "baseItemLevel": 502
+            "type": 0,
+            "craftedProperties": {
+                "type": "SPARK_CRAFTED",
+                "quality": 5,
+                "embellishment": "BLUE_SILKEN_LINING"
             },
             "enchantId": 6613
         },
@@ -159,9 +162,10 @@
             "name": "Band of New Beginnings ",
             "slot": "finger1",
             "id": 194082,
-            "type": 1,
-            "properties": {
-                "baseItemLevel": 486
+            "type": 0,
+            "craftedProperties": {
+                "type": "WHELPLING_CRAFTED",
+                "quality": 5
             },
             "enchantId": 6568,
             "gemIds": [
@@ -172,9 +176,11 @@
             "name": "Signet of Titanic Insight ",
             "slot": "finger2",
             "id": 192999,
-            "type": 1,
-            "properties": {
-                "baseItemLevel": 502
+            "type": 0,
+            "craftedProperties": {
+                "type": "SPARK_CRAFTED",
+                "quality": 5,
+                "embellishment": "BLUE_SILKEN_LINING"
             },
             "enchantId": 6568,
             "gemIds": [
@@ -186,7 +192,7 @@
             "slot": "trinket1",
             "id": 207172,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 441,
                 "trackInfo": {
                     "track": "Awakened",
@@ -199,7 +205,7 @@
             "slot": "trinket2",
             "id": 208615,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 441,
                 "trackInfo": {
                     "track": "Awakened",
@@ -212,7 +218,7 @@
             "slot": "main_hand",
             "id": 208616,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 441,
                 "trackInfo": {
                     "track": "Awakened",
@@ -228,7 +234,7 @@
             "slot": "head",
             "id": 191987,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 350,
                 "trackInfo": {
                     "track": "Champion",
@@ -241,7 +247,7 @@
             "slot": "head",
             "id": 195485,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 389,
                 "trackInfo": {
                     "track": "Veteran",
@@ -254,7 +260,7 @@
             "slot": "neck",
             "id": 210379,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 441
             }
         },
@@ -263,7 +269,7 @@
             "slot": "neck",
             "id": 208443,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 441,
                 "trackInfo": {
                     "track": "Champion",
@@ -276,7 +282,7 @@
             "slot": "shoulder",
             "id": 210366,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 441,
                 "trackInfo": {
                     "track": "Veteran",
@@ -289,7 +295,7 @@
             "slot": "shoulder",
             "id": 204758,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 350
             }
         },
@@ -298,7 +304,7 @@
             "slot": "shoulder",
             "id": 193667,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 499,
                 "trackInfo": {
                     "track": "Champion",
@@ -311,7 +317,7 @@
             "slot": "shoulder",
             "id": 204758,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 350,
                 "trackInfo": {
                     "track": "Veteran",
@@ -324,7 +330,7 @@
             "slot": "shoulder",
             "id": 207270,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 441
             }
         },
@@ -333,7 +339,7 @@
             "slot": "shoulder",
             "id": 195493,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 395,
                 "trackInfo": {
                     "track": "Veteran",
@@ -346,7 +352,7 @@
             "slot": "back",
             "id": 188369,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 476
             }
         },
@@ -355,7 +361,7 @@
             "slot": "back",
             "id": 134405,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 454
             }
         },
@@ -364,7 +370,7 @@
             "slot": "back",
             "id": 193629,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 502,
                 "trackInfo": {
                     "track": "Champion",
@@ -377,7 +383,7 @@
             "slot": "back",
             "id": 193511,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 476
             },
             "enchantId": 6604
@@ -387,7 +393,7 @@
             "slot": "chest",
             "id": 204789,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 350,
                 "trackInfo": {
                     "track": "Veteran",
@@ -400,7 +406,7 @@
             "slot": "chest",
             "id": 193515,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 486
             },
             "enchantId": 6625
@@ -410,7 +416,7 @@
             "slot": "chest",
             "id": 193509,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 476
             },
             "enchantId": 6625
@@ -420,7 +426,7 @@
             "slot": "chest",
             "id": 191983,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 350,
                 "trackInfo": {
                     "track": "Veteran",
@@ -433,7 +439,7 @@
             "slot": "chest",
             "id": 188417,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 467
             }
         },
@@ -442,7 +448,7 @@
             "slot": "chest",
             "id": 127519,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 467
             }
         },
@@ -451,7 +457,7 @@
             "slot": "chest",
             "id": 204422,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 415,
                 "trackInfo": {
                     "track": "Veteran",
@@ -464,7 +470,7 @@
             "slot": "tabard",
             "id": 35280,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 1
             }
         },
@@ -473,7 +479,7 @@
             "slot": "wrist",
             "id": 191990,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 350,
                 "trackInfo": {
                     "track": "Veteran",
@@ -486,7 +492,7 @@
             "slot": "wrist",
             "id": 193510,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 476
             },
             "enchantId": 6586
@@ -496,7 +502,7 @@
             "slot": "hands",
             "id": 191986,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 350
             }
         },
@@ -505,7 +511,7 @@
             "slot": "hands",
             "id": 123998,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 489
             }
         },
@@ -514,7 +520,7 @@
             "slot": "hands",
             "id": 188460,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 467
             }
         },
@@ -523,7 +529,7 @@
             "slot": "hands",
             "id": 191986,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 350,
                 "trackInfo": {
                     "track": "Veteran",
@@ -536,7 +542,7 @@
             "slot": "hands",
             "id": 127506,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 467
             }
         },
@@ -545,7 +551,7 @@
             "slot": "hands",
             "id": 127506,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 467
             }
         },
@@ -554,7 +560,7 @@
             "slot": "waist",
             "id": 193691,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 493,
                 "trackInfo": {
                     "track": "Champion",
@@ -568,7 +574,7 @@
             "slot": "waist",
             "id": 193516,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 476
             },
             "enchantId": 6904
@@ -578,7 +584,7 @@
             "slot": "waist",
             "id": 207124,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 441,
                 "trackInfo": {
                     "track": "Veteran",
@@ -591,7 +597,7 @@
             "slot": "waist",
             "id": 133449,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 467
             }
         },
@@ -600,7 +606,7 @@
             "slot": "waist",
             "id": 191989,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 350,
                 "trackInfo": {
                     "track": "Veteran",
@@ -613,7 +619,7 @@
             "slot": "legs",
             "id": 191988,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 350,
                 "trackInfo": {
                     "track": "Veteran",
@@ -626,7 +632,7 @@
             "slot": "legs",
             "id": 210361,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 441
             }
         },
@@ -635,7 +641,7 @@
             "slot": "legs",
             "id": 210361,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 441
             }
         },
@@ -644,7 +650,7 @@
             "slot": "feet",
             "id": 123988,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 467
             }
         },
@@ -652,9 +658,10 @@
             "name": "Vibrant Wildercloth Slippers ",
             "slot": "feet",
             "id": 193519,
-            "type": 1,
-            "properties": {
-                "baseItemLevel": 476
+            "type": 0,
+            "craftedProperties": {
+                "type": "SPARK_CRAFTED",
+                "quality": 5
             },
             "enchantId": 6607
         },
@@ -663,7 +670,7 @@
             "slot": "finger1",
             "id": 151649,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 163
             }
         },
@@ -672,7 +679,7 @@
             "slot": "finger1",
             "id": 210376,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 441,
                 "trackInfo": {
                     "track": "Veteran",
@@ -685,7 +692,7 @@
             "slot": "finger1",
             "id": 204398,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 424,
                 "trackInfo": {
                     "track": "Champion",
@@ -698,7 +705,7 @@
             "slot": "finger1",
             "id": 193000,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 476
             },
             "enchantId": 6568,
@@ -711,7 +718,7 @@
             "slot": "finger1",
             "id": 210377,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 441,
                 "trackInfo": {
                     "track": "Veteran",
@@ -725,7 +732,7 @@
             "slot": "trinket1",
             "id": 193791,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 502,
                 "trackInfo": {
                     "track": "Champion",
@@ -738,7 +745,7 @@
             "slot": "trinket1",
             "id": 198478,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 467
             }
         },
@@ -747,7 +754,7 @@
             "slot": "trinket1",
             "id": 133461,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 467
             }
         },
@@ -756,7 +763,7 @@
             "slot": "trinket1",
             "id": 188309,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 480
             }
         },
@@ -765,7 +772,7 @@
             "slot": "trinket1",
             "id": 198695,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 411,
                 "trackInfo": {
                     "track": "Veteran",
@@ -778,7 +785,7 @@
             "slot": "trinket1",
             "id": 198532,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 407,
                 "trackInfo": {
                     "track": "Champion",
@@ -791,7 +798,7 @@
             "slot": "trinket1",
             "id": 193660,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 457,
                 "trackInfo": {
                     "track": "Champion",
@@ -804,7 +811,7 @@
             "slot": "trinket1",
             "id": 205262,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": -83
             }
         },
@@ -813,7 +820,7 @@
             "slot": "trinket1",
             "id": 9149,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 457
             }
         },
@@ -822,7 +829,7 @@
             "slot": "trinket1",
             "id": 198695,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 421
             }
         },
@@ -831,7 +838,7 @@
             "slot": "main_hand",
             "id": 197956,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 337,
                 "trackInfo": {
                     "track": "Veteran",
@@ -844,7 +851,7 @@
             "slot": "main_hand",
             "id": 188454,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 424
             }
         },
@@ -853,7 +860,7 @@
             "slot": "main_hand",
             "id": 190506,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 480
             },
             "enchantId": 6654
@@ -863,7 +870,7 @@
             "slot": "main_hand",
             "id": 192033,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 359,
                 "trackInfo": {
                     "track": "Veteran",
@@ -876,7 +883,7 @@
             "slot": "main_hand",
             "id": 192020,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 360,
                 "trackInfo": {
                     "track": "Veteran",
@@ -889,7 +896,7 @@
             "slot": "main_hand",
             "id": 193687,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 57,
                 "trackInfo": {
                     "track": "Champion",
@@ -902,7 +909,7 @@
             "slot": "main_hand",
             "id": 128942,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 439
             },
             "gemIds": [
@@ -916,7 +923,7 @@
             "slot": "main_hand",
             "id": 194893,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 493
             },
             "enchantId": 6643
@@ -926,7 +933,7 @@
             "slot": "off_hand",
             "id": 204756,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 350,
                 "trackInfo": {
                     "track": "Champion",
@@ -939,7 +946,7 @@
             "slot": "off_hand",
             "id": 210384,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 450,
                 "trackInfo": {
                     "track": "Champion",
@@ -952,7 +959,7 @@
             "slot": "off_hand",
             "id": 193783,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 496,
                 "trackInfo": {
                     "track": "Champion",
@@ -967,7 +974,7 @@
             "slot": "wrist",
             "id": 193635,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 515,
                 "trackInfo": {
                     "track": "Hero",
@@ -980,7 +987,7 @@
             "slot": "off_hand",
             "id": 193766,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 512,
                 "trackInfo": {
                     "track": "Hero",
@@ -993,7 +1000,7 @@
             "slot": "waist",
             "id": 193691,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 489,
                 "trackInfo": {
                     "track": "Veteran",
@@ -1006,7 +1013,7 @@
             "slot": "back",
             "id": 195482,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 389,
                 "trackInfo": {
                     "track": "Veteran",
@@ -1019,7 +1026,7 @@
             "slot": "legs",
             "id": 202585,
             "type": 1,
-            "properties": {
+            "trackProperties": {
                 "baseItemLevel": 424,
                 "trackInfo": {
                     "track": "Veteran",

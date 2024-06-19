@@ -1,7 +1,14 @@
-const fs = require('fs');
-const item = require('../item/item');
-const readline = require('readline');
-const Types = require('../types');
+// @ts-check
+
+const item = require('../item');
+
+/**
+ * @typedef {Object} Gearset
+ * @property {string[]} header
+ * @property {item.Item[]} equipped List of items that are equipped.
+ * @property {item.Item[]} inBag List of items that are in bag.
+ * @property {item.Item[]} inVault List of items in Great Vault.
+ */
 
 /** @typedef {number} FileState */
 const FileState = {
@@ -9,26 +16,22 @@ const FileState = {
     EQUIPPED_GEAR: 1,
     GEAR_IN_BAGS: 2,
     VAULT_GEAR: 3,
-}
+};
 
 /**
  * Loads a SimC file and returns a Gearset.
- * 
- * @param {string} inputFilename 
- * @returns {Promise<Types.Gearset>}
+ *
+ * @param {string[]} simcLines
+ * @returns {Gearset}
  */
-async function importSimc(inputFilename) {
-    const fileStream = fs.createReadStream(inputFilename);
-    const rl = readline.createInterface({
-        input: fileStream,
-        crlfDelay: Infinity
-    });
-
+function fromSimc(simcLines) {
     let fileState = FileState.HEADER;
     const headerLines = [];
-    const equippedLines = []
+    const equippedLines = [];
+    const bagLines = [];
+    const vaultLines = [];
 
-    for await (const line of rl) {
+    for (const line of simcLines) {
         fileState = determineFileState(line, fileState);
 
         switch (fileState) {
@@ -38,22 +41,28 @@ async function importSimc(inputFilename) {
             case FileState.EQUIPPED_GEAR:
                 equippedLines.push(line);
                 break;
+            case FileState.GEAR_IN_BAGS:
+                bagLines.push(line);
+                break;
+            case FileState.VAULT_GEAR:
+                vaultLines.push(line);
+                break;
         }
     }
 
     return {
         header: headerLines,
-        equipped: parseEquippedLines(equippedLines),
-        inBag: [],
-        inVault: [],
+        equipped: parseGearLines(equippedLines),
+        inBag: parseGearLines(bagLines),
+        inVault: parseGearLines(vaultLines),
     };
 }
 
 /**
  * Returns the current file state based on current line.
- * 
- * @param {string} line 
- * @param {FileState} currentState 
+ *
+ * @param {string} line
+ * @param {FileState} currentState
  * @returns {FileState}
  */
 function determineFileState(line, currentState) {
@@ -73,13 +82,13 @@ function determineFileState(line, currentState) {
 }
 
 /**
- * Converts the equipped item lines from a SimC input a list of Items.
- * 
+ * Converts the gear item lines from a SimC input a list of Items.
+ *
  * @param {string[]} lines
- * @returns {Types.Item[]}
+ * @returns {item.Item[]}
  */
-function parseEquippedLines(lines) {
-    const equipped = [];
+function parseGearLines(lines) {
+    const items = [];
 
     let descriptionLine = '';
     let statsLine = '';
@@ -92,13 +101,13 @@ function parseEquippedLines(lines) {
         }
 
         if (descriptionLine.length > 0 && statsLine.length > 0) {
-            equipped.push(item.fromSimc(descriptionLine, statsLine));
+            items.push(item.fromSimc(descriptionLine, statsLine));
             descriptionLine = '';
             statsLine = '';
         }
     }
 
-    return equipped;
+    return items;
 }
 
-exports.importSimc = importSimc;
+module.exports = { fromSimc };
