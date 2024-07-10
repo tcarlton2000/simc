@@ -1,0 +1,1031 @@
+{
+    "header": [
+        "# Cieta - Demonology - 2024-05-21 16:38 - US/Thunderhorn",
+        "# SimC Addon 10.2.0-01",
+        "# WoW 10.2.7.54762, TOC 100207",
+        "# Requires SimulationCraft 1000-01 or newer",
+        "",
+        "warlock=\"Cieta\"",
+        "level=70",
+        "race=void_elf",
+        "region=us",
+        "server=thunderhorn",
+        "role=spell",
+        "professions=alchemy=75/herbalism=31",
+        "spec=demonology",
+        "",
+        "talents=BoQAj5LiEN4VXhSin5RcWeAUgAIJRSCkmCRaJJh0CAAAAAQgIJpERkkIpkWSkQAAAAAAQSC",
+        "",
+        "# Saved Loadout: Naked Tyrant M+",
+        "# talents=BoQAj5LiEN4VXhSin5RcWeAUgAIJRSCkmCRaJJh0CAAAAAQgIJpERkkIpkWSkQAAAAAAQSC",
+        ""
+    ],
+    "equipped": [
+        {
+            "name": "Grimhorns of the Sinister Savant",
+            "slot": "head",
+            "id": 217212,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 480,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 8
+                }
+            },
+            "enchantId": 7052
+        },
+        {
+            "name": "Pendant of Impending Perils ",
+            "slot": "neck",
+            "id": 192996,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 486
+            },
+            "gemIds": [
+                192991,
+                192938,
+                192938
+            ]
+        },
+        {
+            "name": "Amice of the Sinister Savant",
+            "slot": "shoulder",
+            "id": 217214,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 480,
+                "trackInfo": {
+                    "track": "Hero",
+                    "trackNumber": 2
+                }
+            }
+        },
+        {
+            "name": "Crystalline Tender's Shroud",
+            "slot": "back",
+            "id": 210381,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 441,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 8
+                }
+            },
+            "enchantId": 6592
+        },
+        {
+            "name": "Cursed Robes of the Sinister Savant",
+            "slot": "chest",
+            "id": 217215,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 480,
+                "trackInfo": {
+                    "track": "Champion",
+                    "trackNumber": 4
+                }
+            },
+            "enchantId": 6625
+        },
+        {
+            "name": "Clasps of the Diligent Steward",
+            "slot": "wrist",
+            "id": 204393,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 421,
+                "trackInfo": {
+                    "track": "Champion",
+                    "trackNumber": 4
+                }
+            },
+            "enchantId": 6574
+        },
+        {
+            "name": "Suffused Handwraps",
+            "slot": "hands",
+            "id": 204787,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 350,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 8
+                }
+            }
+        },
+        {
+            "name": "Flare-Singed Strap",
+            "slot": "waist",
+            "id": 193780,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 509,
+                "trackInfo": {
+                    "track": "Hero",
+                    "trackNumber": 2
+                }
+            },
+            "enchantId": 6904
+        },
+        {
+            "name": "Leggings of the Sinister Savant",
+            "slot": "legs",
+            "id": 217213,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 480,
+                "trackInfo": {
+                    "track": "Champion",
+                    "trackNumber": 4
+                }
+            },
+            "enchantId": 6541
+        },
+        {
+            "name": "Vibrant Wildercloth Slippers ",
+            "slot": "feet",
+            "id": 193519,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 502
+            },
+            "enchantId": 6613
+        },
+        {
+            "name": "Band of New Beginnings ",
+            "slot": "finger1",
+            "id": 194082,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 486
+            },
+            "enchantId": 6568,
+            "gemIds": [
+                192938
+            ]
+        },
+        {
+            "name": "Signet of Titanic Insight ",
+            "slot": "finger2",
+            "id": 192999,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 502
+            },
+            "enchantId": 6568,
+            "gemIds": [
+                192938
+            ]
+        },
+        {
+            "name": "Belor'relos, the Suncaller",
+            "slot": "trinket1",
+            "id": 207172,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 441,
+                "trackInfo": {
+                    "track": "Awakened",
+                    "trackNumber": 8
+                }
+            }
+        },
+        {
+            "name": "Nymue's Unraveling Spindle",
+            "slot": "trinket2",
+            "id": 208615,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 441,
+                "trackInfo": {
+                    "track": "Awakened",
+                    "trackNumber": 8
+                }
+            }
+        },
+        {
+            "name": "Dreambinder, Loom of the Great Cycle",
+            "slot": "main_hand",
+            "id": 208616,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 441,
+                "trackInfo": {
+                    "track": "Awakened",
+                    "trackNumber": 8
+                }
+            },
+            "enchantId": 6643
+        }
+    ],
+    "inBag": [
+        {
+            "name": "Cobalt Watcher's Cowl",
+            "slot": "head",
+            "id": 191987,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 350,
+                "trackInfo": {
+                    "track": "Champion",
+                    "trackNumber": 4
+                }
+            }
+        },
+        {
+            "name": "Councilor's Terrormask",
+            "slot": "head",
+            "id": 195485,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 389,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 1
+                }
+            }
+        },
+        {
+            "name": "Cold Crisp Collar",
+            "slot": "neck",
+            "id": 210379,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 441
+            }
+        },
+        {
+            "name": "Slumbering Ursine Talisman",
+            "slot": "neck",
+            "id": 208443,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 441,
+                "trackInfo": {
+                    "track": "Champion",
+                    "trackNumber": 3
+                }
+            }
+        },
+        {
+            "name": "Frigid Conservator's Shoulders",
+            "slot": "shoulder",
+            "id": 210366,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 441,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 1
+                }
+            }
+        },
+        {
+            "name": "Suffused Shoulderpads",
+            "slot": "shoulder",
+            "id": 204758,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 350
+            }
+        },
+        {
+            "name": "Boastful Stalker's Epaulets",
+            "slot": "shoulder",
+            "id": 193667,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 499,
+                "trackInfo": {
+                    "track": "Champion",
+                    "trackNumber": 3
+                }
+            }
+        },
+        {
+            "name": "Suffused Shoulderpads",
+            "slot": "shoulder",
+            "id": 204758,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 350,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 4
+                }
+            }
+        },
+        {
+            "name": "Devout Ashdevil's Hatespikes",
+            "slot": "shoulder",
+            "id": 207270,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 441
+            }
+        },
+        {
+            "name": "Ascended Squallspires",
+            "slot": "shoulder",
+            "id": 195493,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 395,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 3
+                }
+            }
+        },
+        {
+            "name": "Sarannis' Mystic Sheen",
+            "slot": "back",
+            "id": 188369,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 476
+            }
+        },
+        {
+            "name": "Cloak of Fading Echoes",
+            "slot": "back",
+            "id": 134405,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 454
+            }
+        },
+        {
+            "name": "Cloak of Lost Devotion",
+            "slot": "back",
+            "id": 193629,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 502,
+                "trackInfo": {
+                    "track": "Champion",
+                    "trackNumber": 4
+                }
+            }
+        },
+        {
+            "name": "Vibrant Wildercloth Shawl ",
+            "slot": "back",
+            "id": 193511,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 476
+            },
+            "enchantId": 6604
+        },
+        {
+            "name": "Suffused Vestment",
+            "slot": "chest",
+            "id": 204789,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 350,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 1
+                }
+            }
+        },
+        {
+            "name": "Surveyor's Cloth Robe ",
+            "slot": "chest",
+            "id": 193515,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 486
+            },
+            "enchantId": 6625
+        },
+        {
+            "name": "Vibrant Wildercloth Vestments ",
+            "slot": "chest",
+            "id": 193509,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 476
+            },
+            "enchantId": 6625
+        },
+        {
+            "name": "Cobalt Watcher's Vestment",
+            "slot": "chest",
+            "id": 191983,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 350,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 1
+                }
+            }
+        },
+        {
+            "name": "Egg Sac Robes",
+            "slot": "chest",
+            "id": 188417,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 467
+            }
+        },
+        {
+            "name": "Ornate Woolen Stola",
+            "slot": "chest",
+            "id": 127519,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 467
+            }
+        },
+        {
+            "name": "Sundered Edgelord's Breastplate",
+            "slot": "chest",
+            "id": 204422,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 415,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 1
+                }
+            }
+        },
+        {
+            "name": "Tabard of Summer Flames",
+            "slot": "tabard",
+            "id": 35280,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 1
+            }
+        },
+        {
+            "name": "Cobalt Watcher's Cuffs",
+            "slot": "wrist",
+            "id": 191990,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 350,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 1
+                }
+            }
+        },
+        {
+            "name": "Vibrant Wildercloth Wristwraps ",
+            "slot": "wrist",
+            "id": 193510,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 476
+            },
+            "enchantId": 6586
+        },
+        {
+            "name": "Cobalt Watcher's Handwraps",
+            "slot": "hands",
+            "id": 191986,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 350
+            }
+        },
+        {
+            "name": "Gloves of Oblivion",
+            "slot": "hands",
+            "id": 123998,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 489
+            }
+        },
+        {
+            "name": "Cold Sweat Grips",
+            "slot": "hands",
+            "id": 188460,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 467
+            }
+        },
+        {
+            "name": "Cobalt Watcher's Handwraps",
+            "slot": "hands",
+            "id": 191986,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 350,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 4
+                }
+            }
+        },
+        {
+            "name": "Traditionally Dyed Handguards",
+            "slot": "hands",
+            "id": 127506,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 467
+            }
+        },
+        {
+            "name": "Traditionally Dyed Handguards",
+            "slot": "hands",
+            "id": 127506,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 467
+            }
+        },
+        {
+            "name": "Sky Saddle Cord",
+            "slot": "waist",
+            "id": 193691,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 493,
+                "trackInfo": {
+                    "track": "Champion",
+                    "trackNumber": 1
+                }
+            },
+            "enchantId": 6904
+        },
+        {
+            "name": "Vibrant Wildercloth Girdle ",
+            "slot": "waist",
+            "id": 193516,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 476
+            },
+            "enchantId": 6904
+        },
+        {
+            "name": "Blooming Redeemer's Sash",
+            "slot": "waist",
+            "id": 207124,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 441,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 4
+                }
+            }
+        },
+        {
+            "name": "Cord of Reconstruction",
+            "slot": "waist",
+            "id": 133449,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 467
+            }
+        },
+        {
+            "name": "Cobalt Watcher's Cord",
+            "slot": "waist",
+            "id": 191989,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 350,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 1
+                }
+            }
+        },
+        {
+            "name": "Cobalt Watcher's Leggings",
+            "slot": "legs",
+            "id": 191988,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 350,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 1
+                }
+            }
+        },
+        {
+            "name": "Frigid Conservator's Leggings",
+            "slot": "legs",
+            "id": 210361,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 441
+            }
+        },
+        {
+            "name": "Frigid Conservator's Leggings",
+            "slot": "legs",
+            "id": 210361,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 441
+            }
+        },
+        {
+            "name": "Jeweled Boots of Sanctification",
+            "slot": "feet",
+            "id": 123988,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 467
+            }
+        },
+        {
+            "name": "Vibrant Wildercloth Slippers ",
+            "slot": "feet",
+            "id": 193519,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 476
+            },
+            "enchantId": 6607
+        },
+        {
+            "name": "Soul of the Netherlord",
+            "slot": "finger1",
+            "id": 151649,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 163
+            }
+        },
+        {
+            "name": "Beautiful Blizzard Binding",
+            "slot": "finger1",
+            "id": 210376,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 441,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 1
+                }
+            }
+        },
+        {
+            "name": "Onyx Impostor's Birthright",
+            "slot": "finger1",
+            "id": 204398,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 424,
+                "trackInfo": {
+                    "track": "Champion",
+                    "trackNumber": 4
+                }
+            }
+        },
+        {
+            "name": "Ring-Bound Hourglass ",
+            "slot": "finger1",
+            "id": 193000,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 476
+            },
+            "enchantId": 6568,
+            "gemIds": [
+                192932
+            ]
+        },
+        {
+            "name": "Snipping Sleet Circle",
+            "slot": "finger1",
+            "id": 210377,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 441,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 4
+                }
+            },
+            "enchantId": 6568
+        },
+        {
+            "name": "Time-Breaching Talon",
+            "slot": "trinket1",
+            "id": 193791,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 502,
+                "trackInfo": {
+                    "track": "Champion",
+                    "trackNumber": 4
+                }
+            }
+        },
+        {
+            "name": "Timbal's Focusing Crystal",
+            "slot": "trinket1",
+            "id": 198478,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 467
+            }
+        },
+        {
+            "name": "Icon of Unyielding Courage",
+            "slot": "trinket1",
+            "id": 133461,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 467
+            }
+        },
+        {
+            "name": "Bottomless Reliquary Satchel",
+            "slot": "trinket1",
+            "id": 188309,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 480
+            }
+        },
+        {
+            "name": "The Cartographer's Calipers",
+            "slot": "trinket1",
+            "id": 198695,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 411,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 1
+                }
+            }
+        },
+        {
+            "name": "Idol of Pure Decay",
+            "slot": "trinket1",
+            "id": 198532,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 407,
+                "trackInfo": {
+                    "track": "Champion",
+                    "trackNumber": 1
+                }
+            }
+        },
+        {
+            "name": "Magmaclaw Lure",
+            "slot": "trinket1",
+            "id": 193660,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 457,
+                "trackInfo": {
+                    "track": "Champion",
+                    "trackNumber": 4
+                }
+            }
+        },
+        {
+            "name": "Philosopher's Stone",
+            "slot": "trinket1",
+            "id": 205262,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": -83
+            }
+        },
+        {
+            "name": "Bottomless Reliquary Satchel",
+            "slot": "trinket1",
+            "id": 9149,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 457
+            }
+        },
+        {
+            "name": "Empowered Shortsword of Insight",
+            "slot": "trinket1",
+            "id": 198695,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 421
+            }
+        },
+        {
+            "name": "Constructor's Worklight",
+            "slot": "main_hand",
+            "id": 197956,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 337,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 1
+                }
+            }
+        },
+        {
+            "name": "Primal Molten Spellblade ",
+            "slot": "main_hand",
+            "id": 188454,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 424
+            }
+        },
+        {
+            "name": "Maruuk Battle Standard",
+            "slot": "main_hand",
+            "id": 190506,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 480
+            },
+            "enchantId": 6654
+        },
+        {
+            "name": "Ceremonial Ohn'ir Dagger",
+            "slot": "main_hand",
+            "id": 192033,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 359,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 1
+                }
+            }
+        },
+        {
+            "name": "Koroleth's Crackling Dagger",
+            "slot": "main_hand",
+            "id": 192020,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 360,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 4
+                }
+            }
+        },
+        {
+            "name": "Ulthalesh, the Deadwind Harvester",
+            "slot": "main_hand",
+            "id": 193687,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 57,
+                "trackInfo": {
+                    "track": "Champion",
+                    "trackNumber": 3
+                }
+            }
+        },
+        {
+            "name": "Overseer's Writhebark Stave ",
+            "slot": "main_hand",
+            "id": 128942,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 439
+            },
+            "gemIds": [
+                133048,
+                132985,
+                133037
+            ]
+        },
+        {
+            "name": "Suffused Scepter",
+            "slot": "main_hand",
+            "id": 194893,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 493
+            },
+            "enchantId": 6643
+        },
+        {
+            "name": "Frigid Conservator's Implement",
+            "slot": "off_hand",
+            "id": 204756,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 350,
+                "trackInfo": {
+                    "track": "Champion",
+                    "trackNumber": 1
+                }
+            }
+        },
+        {
+            "name": "Irontorch Igniter",
+            "slot": "off_hand",
+            "id": 210384,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 450,
+                "trackInfo": {
+                    "track": "Champion",
+                    "trackNumber": 1
+                }
+            }
+        },
+        {
+            "name": "Kokia's Burnout Rod",
+            "slot": "off_hand",
+            "id": 193783,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 496,
+                "trackInfo": {
+                    "track": "Champion",
+                    "trackNumber": 4
+                }
+            }
+        }
+    ],
+    "inVault": [
+        {
+            "name": "Infused Elemental Bands",
+            "slot": "wrist",
+            "id": 193635,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 515,
+                "trackInfo": {
+                    "track": "Hero",
+                    "trackNumber": 4
+                }
+            }
+        },
+        {
+            "name": "Kokia's Burnout Rod",
+            "slot": "off_hand",
+            "id": 193766,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 512,
+                "trackInfo": {
+                    "track": "Hero",
+                    "trackNumber": 3
+                }
+            }
+        },
+        {
+            "name": "Sky Saddle Cord",
+            "slot": "waist",
+            "id": 193691,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 489,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 4
+                }
+            }
+        },
+        {
+            "name": "Decorated Commander's Cindercloak",
+            "slot": "back",
+            "id": 195482,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 389,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 1
+                }
+            }
+        },
+        {
+            "name": "Coattails of the Rightful Heir",
+            "slot": "legs",
+            "id": 202585,
+            "type": 1,
+            "properties": {
+                "baseItemLevel": 424,
+                "trackInfo": {
+                    "track": "Veteran",
+                    "trackNumber": 4
+                }
+            }
+        }
+    ]
+}

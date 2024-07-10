@@ -1,17 +1,18 @@
-const Types = require('./types');
+// @ts-check
 
-const ItemTypes = Types.ItemTypes;
-const CraftedTypes = Types.CraftedTypes;
-const Embellishments = Types.Embellishments;
+const item = require('./item');
+const CraftedTypes = require('./item/crafted_item').CraftedTypes;
+const ItemTypes = item.ItemTypes;
+const Embellishments = require('./item/crafted_item').Embellishments;
 
-/** @type Types.Item[] */
+/** @type item.Item[] */
 exports.items = [
     {
         name: 'Torc of Passed Time',
         slot: 'neck',
         id: 201759,
         type: ItemTypes.CRAFTED,
-        properties: {
+        craftedProperties: {
             type: CraftedTypes.SPARK_CRAFTED,
             quality: 5,
         },
