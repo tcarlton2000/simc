@@ -83,9 +83,9 @@ function bonusIdsForTrackGear(trackProperties) {
  */
 function getTrackPropertiesFromStatsLine(itemLevel, bonusIds) {
     const trackInfo = track_info.fromSimc(bonusIds);
-    // if (!trackInfo) {
-    //     throw new Error('Cannot determine track for item');
-    // }
+    if (!trackInfo) {
+        throw new Error('Cannot determine track for item');
+    }
 
     return {
         baseItemLevel: getBaseItemLevelFromStatsLine(itemLevel, bonusIds),
