@@ -3,6 +3,7 @@
 const item = require('./item');
 const CraftedTypes = require('./item/crafted_item').CraftedTypes;
 const ItemTypes = item.ItemTypes;
+const Embellishments = require('./item/crafted_item').Embellishments;
 
 /** @type item.Item[] */
 exports.items = [
