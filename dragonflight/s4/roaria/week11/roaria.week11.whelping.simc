@@ -1,0 +1,297 @@
+# Roaria - Frost - 2024-07-10 07:30 - US/Thunderhorn
+# SimC Addon 10.2.0-01
+# WoW 10.2.7.55261, TOC 100207
+# Requires SimulationCraft 1000-01 or newer
+
+mage="Roaria"
+level=70
+race=worgen
+region=us
+server=thunderhorn
+role=spell
+professions=alchemy=210/jewelcrafting=150
+spec=frost
+
+talents=BAEArSxcnei16P8xFL3rzzOyRSEUSDJSkigcgkQERkEAAASJhESSSSIJJJJJBAAAAAAAAAiA
+
+# Saved Loadout: Wowhead Raia General
+# talents=BAEArSxcnei16P8xFL3rzzOyRSEUSDJSkigcgkQERkEAAASJhESSSSIJJJJJBAAAAAAAAAiA
+
+# Surveyor's Seasoned Hood (486)
+head=,id=201936,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Pendant of Impending Perils (486)
+neck=,id=192996,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Surveyor's Seasoned Shoulders (486)
+shoulder=,id=201937,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Suffused Shawl (493)
+back=,id=204733,bonus_id=8902/10313/10872/6652/1615/8767
+# Cobalt Watcher's Vestment (502)
+chest=,id=191983,bonus_id=10316/10872/1624/8767
+# Wound Dressing (1)
+shirt=,id=44693
+# Surveyor's Cloth Bands (486)
+wrist=,id=193497,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Surveyor's Seasoned Gloves (486)
+hands=,id=201938,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Surveyor's Seasoned Cord (486)
+waist=,id=201940,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Surveyor's Seasoned Pants (486)
+legs=,id=201939,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Heatbinder's Burning Slippers (499)
+feet=,id=204409,bonus_id=6652/10872/7979/10315/10884/1556/8767
+# Suffused Loop (480)
+finger1=,id=204746,bonus_id=8902/10341/6652/10533/1602/8767
+# Band of New Beginnings (486)
+finger2=,id=194082,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+# Firecaller's Focus (489)
+trinket1=,id=204901,bonus_id=8902/10344/6652/1611/8767
+# Azure Arcanic Amplifier (480)
+trinket2=,id=198407,bonus_id=10341/1554/8767
+# Overseer's Writhebark Stave (486)
+main_hand=,id=194893,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+
+### Gear from Bags
+#
+# Wayward Chronomancer's Chronocap (441)
+# head=,id=207290,bonus_id=6652/9600/9552/9513/1472
+#
+# Frigid Conservator's Hood (467)
+# head=,id=210357,bonus_id=10305/8902/6652/10532/1498/8766
+#
+# Membrane of C'Thun (112)
+# head=,id=59490,bonus_id=9052,drop_level=35
+#
+# Wicked Witch's Hat (97)
+# head=,id=28586,bonus_id=9034,drop_level=30
+#
+# Frigid Conservator's Hood (480)
+# head=,id=210357,bonus_id=8902/10341/10871/6652/10533/1511/8767
+#
+# Firelord's Hood (37)
+# head=,id=60243
+#
+# Firehawk Hood (37)
+# head=,id=71287
+#
+# Valiona's Medallion (112)
+# neck=,id=59512,bonus_id=9052,drop_level=35
+#
+# Cold Crisp Collar (441)
+# neck=,id=210379,bonus_id=9552/6652/8783/10244/1472/8767
+#
+# Cobalt Watcher's Shoulderpads (480)
+# shoulder=,id=192015,bonus_id=10341/10871/1602/8767
+#
+# Forest Wind Shoulderpads (97)
+# shoulder=,id=28647,bonus_id=9034,drop_level=30
+#
+# Feludius' Mantle (112)
+# shoulder=,id=59510,bonus_id=9052,drop_level=35
+#
+# Firehawk Mantle (37)
+# shoulder=,id=71290
+#
+# Firelord's Mantle (37)
+# shoulder=,id=60246
+#
+# Royal Cloak of Arathi Kings (97)
+# back=,id=28529,bonus_id=9034,drop_level=30
+#
+# Crystal Scholar's Cape (385)
+# back=,id=200323,bonus_id=6652/8943/9343/1468
+#
+# Frigid Conservator's Wrap (480)
+# back=,id=210382,bonus_id=8902/10341/10871/6652/1511/8767
+#
+# Firelord's Robes (37)
+# chest=,id=60244
+#
+# Dalaran Nurse's Gown (35)
+# chest=,id=44692
+#
+# Frigid Conservator's Gown (480)
+# chest=,id=210349,bonus_id=8902/10341/10871/6652/1511/8767
+#
+# Firehawk Robes (37)
+# chest=,id=71289
+#
+# Robes of the Burning Acolyte (112)
+# chest=,id=59482,bonus_id=9052,drop_level=35
+#
+# Cobalt Watcher's Vestment (480)
+# chest=,id=191983,bonus_id=10341/10871/1602/8767
+#
+# Wayward Chronomancer's Patchwork (463)
+# chest=,id=207293,bonus_id=6652/9515/9559/1494/8767
+#
+# Antiseptic-Soaked Dressing (1)
+# shirt=,id=44694
+#
+# Tabard of Therazane (33)
+# tabard=,id=65907
+#
+# Gnomeregan Tabard (1)
+# tabard=,id=45578
+#
+# Gilneas Tabard (1)
+# tabard=,id=64882
+#
+# Stalker's War Bands (97)
+# wrist=,id=28454,bonus_id=9034,drop_level=30
+#
+# Proto-Handler's Gauntlets (112)
+# hands=,id=59472,bonus_id=9052,drop_level=35
+#
+# Firehawk Gloves (37)
+# hands=,id=71286
+#
+# Solar Synthesis Gloves (441)
+# hands=,id=210702,bonus_id=9552/9506/1498/8767
+#
+# Firelord's Gloves (37)
+# hands=,id=60247
+#
+# Hands of the Twilight Council (112)
+# hands=,id=59498,bonus_id=9052,drop_level=35
+#
+# Phoenix-Plume Gloves (480)
+# hands=,id=202578,bonus_id=6652/10871/7982/10341/10884/1537/8767
+#
+# Firehawk Gloves (37)
+# hands=,id=71286
+#
+# Handwraps of Flowing Thought (97)
+# hands=,id=28507,bonus_id=9034,drop_level=30
+#
+# Nethershard Girdle (97)
+# waist=,id=28565,bonus_id=9034,drop_level=30
+#
+# Suffused Cord (480)
+# waist=,id=204784,bonus_id=8902/10341/10871/6652/10532/1602/8767
+#
+# Coil of Ten-Thousand Screams (112)
+# waist=,id=59485,bonus_id=9052,drop_level=35
+#
+# Frigid Conservator's Sash (454)
+# waist=,id=210369,bonus_id=9506/6652/9599/9556/1485/8767
+#
+# Firehawk Leggings (37)
+# legs=,id=71288
+#
+# Frigid Conservator's Leggings (467)
+# legs=,id=210361,bonus_id=10305/8902/6652/1498/8766
+#
+# Firelord's Leggings (37)
+# legs=,id=60245
+#
+# Umbrafen Britches of the Fireflash (66)
+# legs=,id=24762,bonus_id=6654/1693,drop_level=30
+#
+# Firehawk Leggings (37)
+# legs=,id=71288
+#
+# Trial-Fire Trousers (97)
+# legs=,id=28594,bonus_id=9034,drop_level=30
+#
+# Melodious Slippers (37)
+# feet=,id=58485
+#
+# Frigid Conservator's Slippers (480)
+# feet=,id=210391,bonus_id=8902/10341/10871/6652/1511/8767
+#
+# Frigid Conservator's Slippers (493)
+# feet=,id=210391,bonus_id=8902/10313/10872/6652/1524/8767
+#
+# Rime Ridden Ring (467)
+# finger1=,id=210378,bonus_id=10305/8902/6652/10533/1498/8766
+#
+# Garona's Signet Ring (97)
+# finger1=,id=28649,bonus_id=9034,drop_level=30
+#
+# Snipping Sleet Circle (441)
+# finger1=,id=210377,bonus_id=9552/6652/9600/1472/8767
+#
+# Rime Ridden Ring (441)
+# finger1=,id=210378,bonus_id=9552/6652/9599/1472/8767
+#
+# Crushing Weight (112)
+# trinket1=,id=59506,bonus_id=9052,drop_level=35
+#
+# Ruthless Gladiator's Badge of Dominance (37)
+# trinket1=,id=72448
+#
+# Ashes of the Embersoul (447)
+# trinket1=,id=207167,bonus_id=6652/7982/9554/1478/8767
+#
+# Bottomless Reliquary Satchel (437)
+# trinket1=,id=198695,bonus_id=8902/6652/9551/1511/8766
+#
+# Belor'relos, the Suncaller (450)
+# trinket1=,id=207172,bonus_id=40/7982/9555/1481/8767
+#
+# Obsidian Seared Hexsword  (424)
+# main_hand=,id=190511,bonus_id=8836/8840/8902/9405/8793/9366,crafted_stats=36/49,crafting_quality=5
+#
+# Jaded Crystal Dagger (467)
+# main_hand=,id=133467,bonus_id=10305/7756/9878/8766
+#
+# Neltharic Ritual Knife (460)
+# main_hand=,id=204954,bonus_id=10323/8902/6652/3139/8766
+#
+# Heretical Gavel (1)
+# main_hand=,id=206776
+#
+# Dragonheart Piercer (112)
+# main_hand=,id=63532,bonus_id=9052,drop_level=35
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+#
+# Cold Crisp Collar (480)
+# neck=,id=210379,bonus_id=8902/10341/6652/8783/10245/1511/8767
+#
+# Cobalt Watcher's Cuffs (480)
+# wrist=,id=191990,bonus_id=10341/10871/1602/8767/10532
+#
+# Cobalt Watcher's Cord (480)
+# waist=,id=191989,bonus_id=10341/10871/1602/8767/10532
+#
+# Suffused Spellblade (480)
+# main_hand=,id=204752,bonus_id=8902/10341/6652/1602/8767
+#
+# Frigid Conservator's Implement (441)
+# off_hand=,id=210384,bonus_id=9552/6652/1472/8767
+
+### Weekly Reward Choices
+#
+# Core Explorer's Compendium (486)
+# off_hand=,id=194877,bonus_id=10357/9405,crafted_stats=32/36,crafting_quality=5
+# Core Explorer's Compendium (486)
+# off_hand=,id=194877,bonus_id=10357/9405,crafted_stats=32/40,crafting_quality=5
+# Core Explorer's Compendium (486)
+# off_hand=,id=194877,bonus_id=10357/9405,crafted_stats=32/49,crafting_quality=5
+# Core Explorer's Compendium (486)
+# off_hand=,id=194877,bonus_id=10357/9405,crafted_stats=36/40,crafting_quality=5
+# Core Explorer's Compendium (486)
+# off_hand=,id=194877,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Core Explorer's Compendium (486)
+# off_hand=,id=194877,bonus_id=10357/9405,crafted_stats=40/49,crafting_quality=5
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2245:1748/i:206959:4/i:204673:1/i:206960:1
+#
+# slot_high_watermarks=0:480:556/1:480:502/2:480:556/3:502:556/4:480:556/5:467:556/6:499:556/7:480:556/8:480:556/9:467:502/10:480:515/11:493:502/12:450:556/13:480:499/14:1:502/15:1:493/16:441:502
+
+# Checksum: 272e99

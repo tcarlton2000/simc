@@ -1,0 +1,189 @@
+# Revan - Holy - 2024-07-08 10:46 - US/Thunderhorn
+# SimC Addon 10.2.0-01
+# WoW 10.2.7.55261, TOC 100207
+# Requires SimulationCraft 1000-01 or newer
+
+paladin="Revan"
+level=70
+race=draenei
+region=us
+server=thunderhorn
+role=attack
+professions=engineering=100/jewelcrafting=105
+spec=holy
+
+talents=BEEAomTTpSA9oX6huYLb5nP3rDAAAQAAJBAAIAlkUQKtIJtCSTiDUSSgioBSCJRSCRKoJiAACAUACRSI
+
+
+# Explorer's Expert Helm  (486)
+head=,id=201951,enchant_id=7052,bonus_id=8851/8852/9405/10357/8790/9414,crafted_stats=32/36,crafting_quality=5
+# Earthspeaker's Brooch (499)
+neck=,id=200762,bonus_id=6652/8783/10245/7979/10315/10884/1582/8767
+# Explorer's Expert Spaulders  (486)
+shoulder=,id=201952,bonus_id=8851/8852/9405/10357/8791,crafted_stats=40/32,crafting_quality=5
+# Suffused Shawl (489)
+back=,id=204733,bonus_id=8902/10344/10871/6652/1611/8767
+# Wyrmforged Breastplate (489)
+chest=,id=192006,bonus_id=10344/10871/6652/8902/1611/8767
+# Tabard of Therazane (33)
+tabard=,id=65907
+# Explorer's Plate Bracers  (486)
+wrist=,id=189539,bonus_id=8837/8838/4785/9405/10357/8790/9414,crafted_stats=32/36,crafting_quality=5
+# Explorer's Expert Gauntlets  (486)
+hands=,id=201953,bonus_id=8851/8852/9405/10357/8791,crafted_stats=49/40,crafting_quality=5
+# Smoldering Chevalier's Greatbelt (502)
+waist=,id=207157,bonus_id=6652/10532/10872/7979/10316/10884/1533/8767
+# Wyrmforged Legguards (480)
+legs=,id=192009,bonus_id=10341/10871/6652/8902/1602/8767
+# Barreldodger Boots (467)
+feet=,id=143989,bonus_id=6652/10305/7756/9851/8766
+# Band of New Beginnings  (486)
+finger1=,id=194082,gem_id=192912,bonus_id=8837/8838/4785/8780/9405/8790/10357,crafted_stats=49/40,crafting_quality=5
+# Suffused Band (489)
+finger2=,id=204735,bonus_id=8902/10344/6652/10532/1611/8767
+# Vision of the Predator (467)
+trinket1=,id=144136,bonus_id=6652/10305/7756/9851/8766
+# Emerald Coach's Whistle (476)
+trinket2=,id=193718,bonus_id=10308/9636/6652/3155/8766
+# Draconium Axe  (486)
+main_hand=,id=190487,bonus_id=8851/8852/9405/10357/8790,crafted_stats=32/49,crafting_quality=5
+# Draconium Defender  (486)
+off_hand=,id=201322,bonus_id=8851/8852/9405/10357/8791,crafted_stats=49/36,crafting_quality=5
+
+### Gear from Bags
+#
+# Zealous Pyreknight's Barbute (454)
+# head=,id=207191,bonus_id=9599/9560/9513/1485
+#
+# Suffused Choker (460)
+# neck=,id=204732,bonus_id=10323/8902/6652/8783/10245/1582/8766
+#
+# Suffused Choker (493)
+# neck=,id=204732,bonus_id=8902/10313/6652/8784/10244/1615/8767
+#
+# Mindbreaker Pendant (467)
+# neck=,id=144117,bonus_id=6652/8812/10305/7756/10245/8784/9851/8766
+#
+# Zealous Pyreknight's Ailettes (454)
+# shoulder=,id=207189,bonus_id=6652/9511/9556/1485/8767
+#
+# Suffused Mantle (454)
+# shoulder=,id=204763,bonus_id=10321/8902/43/1576
+#
+# Cloak of Cleansing Flame (467)
+# back=,id=144147,bonus_id=6652/10305/7756/9851/8766
+#
+# Suffused Greatcloak (454)
+# back=,id=204896,bonus_id=10321/8902/6652/1576
+#
+# Breastplate of Wracking Souls (467)
+# chest=,id=143967,bonus_id=6652/10305/7756/9851/8766
+#
+# Wyrmforged Breastplate (480)
+# chest=,id=192006,bonus_id=10341/10871/6652/8902/1602/8767
+#
+# Brick Breastplate of the Peerless (81)
+# chest=,id=82067,bonus_id=6654/1685,drop_level=35
+#
+# Heartfire Sentinel's Brigandine (486)
+# chest=,id=217196,bonus_id=6652/7982/10343/10865/10884/1478/8767
+#
+# Zealous Pyreknight's Warplate (457)
+# chest=,id=207194,enchant_id=6625,bonus_id=6652/9515/9557/1488/8767
+#
+# Dark Silk Shirt (1)
+# shirt=,id=4333
+#
+# Dream Wardens Tabard (1)
+# tabard=,id=210501
+#
+# Dream Wardens Tabard (1)
+# tabard=,id=210501
+#
+# Zealous Pyreknight's Jeweled Gauntlets (454)
+# hands=,id=207192,bonus_id=6652/9514/9556/1485/8767
+#
+# Suffused Legguards (480)
+# legs=,id=204764,bonus_id=8902/10341/10871/6652/1602/8767
+#
+# Zealous Pyreknight's Cuisses (454)
+# legs=,id=207190,bonus_id=6652/7982/9512/9556/1485/8767
+#
+# Venerated Professor's Greaves (476)
+# legs=,id=193706,bonus_id=10308/9636/6652/10864/3155/8766
+#
+# Zealous Pyreknight's Dreamstompers (454)
+# feet=,id=207193,enchant_id=6606,bonus_id=6652/9556/1485/8767
+#
+# Starless Warboots (250)
+# feet=,id=204946,bonus_id=8902/6652
+#
+# Suffused Signet (480)
+# finger1=,id=204745,bonus_id=8902/10341/6652/10532/1602/8767
+#
+# Liadrin's Fury Unleashed (163)
+# finger1=,id=137048,bonus_id=1811/3630,drop_level=45
+#
+# Signet of Titanic Insight  (424)
+# finger1=,id=192999,enchant_id=6549,gem_id=192947,bonus_id=8836/8840/8902/8780/9405/8790/9366,crafted_stats=49/40,crafting_quality=5
+#
+# Dreambound Band (467)
+# finger1=,id=209358,bonus_id=10305/10532/1589/8766
+#
+# Ashes of the Embersoul (463)
+# trinket1=,id=207167,bonus_id=6652/7979/9563/1494/8767
+#
+# Branch of the Tormented Ancient (463)
+# trinket1=,id=207169,bonus_id=6652/7982/9559/1494/8767
+#
+# Porcelain Crab (441)
+# trinket1=,id=133192,bonus_id=9552/9636/6652/9144/9458/8767
+#
+# Sustaining Alchemist Stone  (424)
+# trinket1=,id=191491,bonus_id=8836/8840/8902/9405/9366,crafting_quality=5
+#
+# Shikaari Huntress' Arrowhead (489)
+# trinket1=,id=198542,bonus_id=10344/6652/8902/1563/8767
+#
+# Idol of the Dreamer  (424)
+# trinket1=,id=193005,bonus_id=8836/8840/8902/9405/9366,crafting_quality=5
+#
+# Breath of the Plains (460)
+# trinket1=,id=198539,bonus_id=10323/6652/8902/1534/8766
+#
+# Obsidian Seared Runeaxe  (424)
+# main_hand=,id=190512,enchant_id=6643,bonus_id=8836/8840/8902/9405/8790/9366,crafted_stats=32/40,crafting_quality=5
+#
+# Arctic Warden's Greatsword (463)
+# main_hand=,id=210401,enchant_id=6653,bonus_id=6652/9559/1494/8767
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+#
+# Primal Molten Defender  (424)
+# off_hand=,id=190503,bonus_id=8836/8840/8902/9405/8790/9366,crafted_stats=36/32,crafting_quality=5
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+
+### Weekly Reward Choices
+#
+# neck=,id=193647,bonus_id=10344/9636/6652/8784/10245/9144/3168/8767
+#
+# legs=,id=193694,bonus_id=10344/9636/6652/10870/9144/3168/8767
+#
+# Heartfire Sentinel's Forgehelm (486)
+# head=,id=217198,bonus_id=6652/10532/7982/10343/10867/10884/1478/8767
+#
+# Heartfire Sentinel's Protectors (486)
+# hands=,id=217197,bonus_id=6652/7982/10343/10866/10884/1478/8767
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2122:15/c:2245:1518/i:204440:1/i:206959:6/i:190453:4/i:206960:1
+#
+# slot_high_watermarks=0:486:556/1:499:502/2:486:556/3:489:556/4:502:556/5:480:556/6:467:556/7:486:556/8:486:556/9:486:502/10:476:515/11:489:502/12:463:556/13:486:499/14:382:483/15:343:480/16:486:502
+
+# Checksum: b74c09e8

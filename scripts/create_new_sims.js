@@ -170,9 +170,9 @@ for (const item of items) {
         for (i = 0; i < craftedStatIds.length; i++) {
             const stat1 = craftedStatIds[i];
             for (j = i + 1; j < craftedStatIds.length; j++) {
-                const stat2 = craftedStatIds[j]
-                const line2 = `${line2_template},crafted_stats=${stat1}/${stat2},crafting_quality=${item.properties.quality}`;
-        
+                const stat2 = craftedStatIds[j];
+                const line2 = `${line2_template},crafted_stats=${stat1}/${stat2},crafting_quality=${item.craftedProperties.quality}`;
+
                 console.log(line1);
                 console.log(line2);
             }

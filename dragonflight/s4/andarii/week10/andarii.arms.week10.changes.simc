@@ -1,0 +1,221 @@
+# Andarii - Fury - 2024-07-08 10:49 - US/Thunderhorn
+# SimC Addon 10.2.0-01
+# WoW 10.2.7.55261, TOC 100207
+# Requires SimulationCraft 1000-01 or newer
+
+warrior="Andarii"
+level=70
+race=night_elf
+region=us
+server=thunderhorn
+role=attack
+professions=mining=21/skinning=100
+spec=arms
+
+talents=BcEAAAAAAAAAAAAAAAAAAAAAAAQRikEJkDkoVKJJAAAAQQEiCJQREQiIJhmEhAEOQIAAAAAAAAkolICIEFEA
+
+# Molten Vanguard's Domeplate (463)
+head=,id=207182,enchant_id=7052,bonus_id=9599/9513/9563/1494/8767
+# Slumbering Ursine Talisman (463)
+neck=,id=208443,bonus_id=6652/8783/10244/7979/9563/1494/8767
+# Molten Vanguard's Shouldervents (463)
+shoulder=,id=207180,bonus_id=6652/9511/9559/1494/8767
+# Winter Forager's Cape (480)
+back=,id=210407,bonus_id=8902/10341/10871/6652/1511/8767
+# Molten Vanguard's Plackart (463)
+chest=,id=207185,enchant_id=6625,bonus_id=6652/9515/9559/1494/8767
+# Green Holiday Shirt (1)
+shirt=,id=17723
+# Vigilant Protector's Bracers (463)
+wrist=,id=210205,enchant_id=6574,bonus_id=6652/9599/9505/7979/9563/1494/8767
+# Molten Vanguard's Crushers (463)
+hands=,id=207183,bonus_id=9514/9559/1494/8767
+# Primal Molten Greatbelt  (476)
+waist=,id=190501,enchant_id=6904,bonus_id=8836/8840/8902/9405/9499/8794/9379/8960/9498/9599,crafted_stats=36/32,crafting_quality=5
+# Primal Molten Legplates  (476)
+legs=,id=190499,enchant_id=6830,bonus_id=8836/8840/8902/9405/9499/8794/9379/8960/9498,crafted_stats=32/40,crafting_quality=5
+# Fused Obsidian Sabatons (486)
+feet=,id=207156,bonus_id=6652/10871/7982/10343/10884/1517/8767
+# Band of Burning Thorns (463)
+finger1=,id=207159,bonus_id=6652/9600/7979/9563/1494/8767
+# Signet of Titanic Insight  (476)
+finger2=,id=192999,enchant_id=6568,gem_id=192938,bonus_id=8836/8840/8902/8780/9405/8794/9499/9498,crafted_stats=49/36,crafting_quality=5
+# Branch of the Tormented Ancient (463)
+trinket1=,id=207169,bonus_id=6652/7982/9559/1494/8767
+# Cataclysmic Signet Brand (486)
+trinket2=,id=207166,bonus_id=6652/7982/10343/10884/1517/8767
+# Arctic Warden's Greatsword (489)
+main_hand=,id=210401,bonus_id=8902/10344/6652/1520/8767
+
+### Gear from Bags
+#
+# Arctic Warden's Warhelm (467)
+# head=,id=210390,bonus_id=10305/8902/6652/10532/1498/8766
+#
+# Emerald Guardian's Casque (483)
+# head=,id=207151,bonus_id=6652/10532/10871/7982/10342/10884/1514/8767
+#
+# Cold Crisp Collar (480)
+# neck=,id=210379,bonus_id=8902/10341/6652/8783/10245/1511/8767
+#
+# Cold Crisp Collar (467)
+# neck=,id=210379,bonus_id=10305/8902/6652/8784/10244/1498/8766
+#
+# Suffused Mantle (480)
+# shoulder=,id=204763,bonus_id=8902/10341/10871/6652/1602/8767
+#
+# Arctic Warden's Cloak (480)
+# back=,id=210408,bonus_id=8902/10341/10871/6652/1511/8767
+#
+# Crystalline Tender's Shroud (480)
+# back=,id=210381,bonus_id=8902/10341/10871/6652/1511/8767
+#
+# Crystalline Tender's Shroud (493)
+# back=,id=210381,bonus_id=8902/10313/10872/6652/1524/8767
+#
+# Frigid Conservator's Wrap (467)
+# back=,id=210382,bonus_id=10305/8902/6652/1498/8766
+#
+# Arctic Warden's Cloak (480)
+# back=,id=210408,bonus_id=8902/10341/10871/6652/1511/8767
+#
+# Arctic Warden's Cloak (480)
+# back=,id=210408,bonus_id=8902/10341/10871/6652/1511/8767
+#
+# Suffused Drape (460)
+# back=,id=204898,bonus_id=10323/8902/6652/1582/8766
+#
+# Suffused Shawl (457)
+# back=,id=204733,bonus_id=10322/8902/41/1579
+#
+# Arctic Warden's Cloak (467)
+# back=,id=210408,bonus_id=10305/8902/6652/1498/8766
+#
+# Suffused Breastplate (457)
+# chest=,id=204767,bonus_id=10322/8902/6652/1579
+#
+# Arctic Warden's Chestplate (493)
+# chest=,id=210350,bonus_id=8902/10313/10872/6652/1524/8767
+#
+# Arctic Warden's Chestplate (489)
+# chest=,id=210350,bonus_id=8902/10344/10871/6652/1520/8767
+#
+# Agonizing Manacles (480)
+# wrist=,id=207150,bonus_id=6652/10532/10871/7982/10341/10884/1511/8767
+#
+# Suffused Armplates (480)
+# wrist=,id=204761,bonus_id=8902/10341/10871/6652/10533/1602/8767
+#
+# Starless Armplates (480)
+# wrist=,id=204952,bonus_id=8902/10341/10871/6652/10533/3159/8767
+#
+# Eldermoss Gauntlets (486)
+# hands=,id=207155,bonus_id=6652/10871/7982/10343/10884/1517/8767
+#
+# Primal Molten Greatbelt  (424)
+# waist=,id=190501,bonus_id=8836/8840/8902/9405/8793/9379/8960/9366/9414,crafted_stats=49/40,crafting_quality=5
+#
+# Suffused Girdle (480)
+# waist=,id=204762,bonus_id=8902/10341/10871/6652/10532/1602/8767
+#
+# Arctic Warden's Legplates (467)
+# legs=,id=210360,bonus_id=10305/8902/6652/1498/8766
+#
+# Arctic Warden's Legplates (467)
+# legs=,id=210360,bonus_id=10305/8902/6652/1498/8766
+#
+# Arctic Warden's Legplates (467)
+# legs=,id=210360,bonus_id=10305/8902/6652/1498/8766
+#
+# Suffused Legguards (460)
+# legs=,id=204764,bonus_id=10323/8902/6652/1582/8766
+#
+# Suffused Sabatons (454)
+# feet=,id=204766,bonus_id=10321/8902/6652/1576
+#
+# Starless Warboots (480)
+# feet=,id=204946,bonus_id=8902/10341/10871/6652/3159/8767
+#
+# Suffused Sabatons (480)
+# feet=,id=204766,bonus_id=8902/10341/10871/6652/1602/8767
+#
+# Suffused Sabatons (454)
+# feet=,id=204766,bonus_id=10321/8902/6652/1576
+#
+# Primal Molten Sabatons  (424)
+# feet=,id=190496,enchant_id=6612,bonus_id=8836/8840/8902/9405/8793/9379/8960/9366,crafted_stats=49/36,crafting_quality=5
+#
+# Suffused Loop (480)
+# finger1=,id=204746,bonus_id=8902/10341/6652/10532/1602/8767
+#
+# Beautiful Blizzard Binding (480)
+# finger1=,id=210376,bonus_id=8902/10341/6652/10533/1511/8767
+#
+# Heatbound Medallion (502)
+# trinket1=,id=204736,bonus_id=8902/10316/6652/1624/8767
+#
+# Heatbound Medallion (463)
+# trinket1=,id=204736,bonus_id=10324/8902/6652/1585/8766
+#
+# Gift of Ursine Vengeance (483)
+# trinket1=,id=207173,bonus_id=6652/7982/10342/10884/1514/8767
+#
+# Dancing Dream Blossoms (489)
+# trinket1=,id=209953,bonus_id=8902/10344/6652/1533/8767
+#
+# Heatbound Medallion (489)
+# trinket1=,id=204736,bonus_id=8902/10344/6652/1611/8767
+#
+# Alacritous Alchemist Stone  (424)
+# trinket1=,id=191492,bonus_id=8836/8840/8902/9405/9366,crafting_quality=5
+#
+# Battle-Scarred Scale (457)
+# trinket1=,id=193477,bonus_id=10322/6652/8902/1579
+#
+# Friendship Censer (480)
+# trinket1=,id=204728,bonus_id=8902/10341/6652/3159/8767
+#
+# Bushwhacker's Compass (454)
+# trinket1=,id=198490,bonus_id=10321/6652/8902/1528
+#
+# Darkmoon Deck Box: Dance  (424)
+# trinket1=,id=198478,bonus_id=8836/8840/8902/9405/9366,crafting_quality=5
+#
+# Primal Molten Greataxe  (476)
+# main_hand=,id=190510,enchant_id=6655,bonus_id=8836/8840/8902/9405/9499/8794/9498,crafted_stats=36/49,crafting_quality=5
+#
+# Suffused Hacker (454)
+# main_hand=,id=204744,bonus_id=10321/8902/6652/1576
+#
+# Suffused Greatsword (493)
+# main_hand=,id=204747,bonus_id=8902/10313/6652/1615/8767
+#
+# Obsidian Seared Claymore  (437)
+# main_hand=,id=190514,enchant_id=6643,bonus_id=8836/8840/8902/9405/9373/8793/9366,crafted_stats=49/36,crafting_quality=5
+#
+# Arctic Warden's Greatsword (467)
+# main_hand=,id=210401,bonus_id=10305/8902/6652/1498/8766
+#
+# Suffused Hacker (457)
+# main_hand=,id=204744,bonus_id=10322/8902/6652/1579
+#
+# Verdant Matrix Beacon (486)
+# off_hand=,id=207798,bonus_id=6652/7982/10343/10884/1517/8767
+
+### Weekly Reward Choices
+#
+# waist=,id=195524,bonus_id=6652/10532/10871/7982/10344/10884/1563/8767
+#
+# hands=,id=217217,bonus_id=40/7982/10343/10866/10884/1478/8767
+#
+# legs=,id=202597,bonus_id=6652/10871/7982/10341/10884/1537/8767
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2245:1750
+#
+# slot_high_watermarks=0:483:556/1:480:502/2:480:556/3:493:556/4:480:556/5:476:556/6:486:556/7:480:556/8:486:556/9:480:502/10:489:515/11:493:502/12:493:556/13:0:499/14:457:483/15:454:480/16:486:502
+
+# Checksum: 4453a1db
