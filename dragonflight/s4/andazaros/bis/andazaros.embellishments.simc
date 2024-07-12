@@ -1,0 +1,140 @@
+# Andazaros - Shadow - 2024-07-11 19:40 - US/Thunderhorn
+# SimC Addon 10.2.0-01
+# WoW 10.2.7.55261, TOC 100207
+# Requires SimulationCraft 1000-01 or newer
+
+priest="Andazaros"
+level=70
+race=human
+region=us
+server=thunderhorn
+role=spell
+professions=tailoring=100/enchanting=100
+spec=shadow
+
+talents=BIQA/KVNHBYFUG61hTBXiMbcYGSiQAAAAAAAAAAAAAioIRSSDSSSSkIINSSSkGBJIki0CJBQSA
+
+
+# Mask of the Furnace Seraph (502)
+head=,id=202542,bonus_id=10348/1559
+# Pendant of Impending Perils (486)
+neck=,id=192996,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Devotion of the Furnace Seraph (502)
+shoulder=,id=202540,bonus_id=10348/1559
+# Surveyor's Tailored Cloak (486)
+back=,id=193500,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Command of the Furnace Seraph (502)
+chest=,id=202545,bonus_id=10348/1553
+# Surveyor's Cloth Bands (486)
+wrist=,id=193497,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Grasp of the Furnace Seraph (502)
+hands=,id=202543,bonus_id=10348/1553
+# Vibrant Wildercloth Girdle (502)
+waist=,id=193516,bonus_id=10249/8960/8932/9405,crafted_stats=36/40,crafting_quality=5
+# Breeches of the Furnace Seraph (502)
+legs=,id=202541,bonus_id=10348/1559
+# Surveyor's Cloth Treads (486)
+feet=,id=193498,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Band of New Beginnings (486)
+finger1=,id=194082,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+# Signet of Titanic Insight (502)
+finger2=,id=192999,bonus_id=10249/8960/8932/9405,crafted_stats=32/49,crafting_quality=5
+# Dancing Dream Blossoms (489)
+trinket1=,id=209953,bonus_id=8902/6652/10344/1533/8767
+# Friendship Censer (493)
+trinket2=,id=204728,bonus_id=8902/10313/6652/3172/8767
+# Overseer's Writhebark Stave (486)
+main_hand=,id=194893,bonus_id=10357/9405,crafted_stats=36/49,crafting_quality=5
+
+### Gear from Bags
+#
+
+
+### Weekly Reward Choices
+#
+# Torc of Passed Time (502)
+# neck=,id=201759,bonus_id=10249/8960/8932/9405,crafted_stats=32/36,crafting_quality=5
+# Torc of Passed Time (502)
+# neck=,id=201759,bonus_id=10249/8960/8932/9405,crafted_stats=32/40,crafting_quality=5
+# Torc of Passed Time (502)
+# neck=,id=201759,bonus_id=10249/8960/8932/9405,crafted_stats=32/49,crafting_quality=5
+# Torc of Passed Time (502)
+# neck=,id=201759,bonus_id=10249/8960/8932/9405,crafted_stats=36/40,crafting_quality=5
+# Torc of Passed Time (502)
+# neck=,id=201759,bonus_id=10249/8960/8932/9405,crafted_stats=36/49,crafting_quality=5
+# Torc of Passed Time (502)
+# neck=,id=201759,bonus_id=10249/8960/8932/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Vibrant Wildercloth Shawl (502)
+# back=,id=193511,bonus_id=10249/8960/8932/9405,crafted_stats=32/36,crafting_quality=5
+# Vibrant Wildercloth Shawl (502)
+# back=,id=193511,bonus_id=10249/8960/8932/9405,crafted_stats=32/40,crafting_quality=5
+# Vibrant Wildercloth Shawl (502)
+# back=,id=193511,bonus_id=10249/8960/8932/9405,crafted_stats=32/49,crafting_quality=5
+# Vibrant Wildercloth Shawl (502)
+# back=,id=193511,bonus_id=10249/8960/8932/9405,crafted_stats=36/40,crafting_quality=5
+# Vibrant Wildercloth Shawl (502)
+# back=,id=193511,bonus_id=10249/8960/8932/9405,crafted_stats=36/49,crafting_quality=5
+# Vibrant Wildercloth Shawl (502)
+# back=,id=193511,bonus_id=10249/8960/8932/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Vibrant Wildercloth Wristwraps (502)
+# wrist=,id=193510,bonus_id=10249/8960/8932/9405,crafted_stats=32/36,crafting_quality=5
+# Vibrant Wildercloth Wristwraps (502)
+# wrist=,id=193510,bonus_id=10249/8960/8932/9405,crafted_stats=32/40,crafting_quality=5
+# Vibrant Wildercloth Wristwraps (502)
+# wrist=,id=193510,bonus_id=10249/8960/8932/9405,crafted_stats=32/49,crafting_quality=5
+# Vibrant Wildercloth Wristwraps (502)
+# wrist=,id=193510,bonus_id=10249/8960/8932/9405,crafted_stats=36/40,crafting_quality=5
+# Vibrant Wildercloth Wristwraps (502)
+# wrist=,id=193510,bonus_id=10249/8960/8932/9405,crafted_stats=36/49,crafting_quality=5
+# Vibrant Wildercloth Wristwraps (502)
+# wrist=,id=193510,bonus_id=10249/8960/8932/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Vibrant Wildercloth Girdle (502)
+# waist=,id=193516,bonus_id=10249/8960/8932/9405,crafted_stats=32/36,crafting_quality=5
+# Vibrant Wildercloth Girdle (502)
+# waist=,id=193516,bonus_id=10249/8960/8932/9405,crafted_stats=32/40,crafting_quality=5
+# Vibrant Wildercloth Girdle (502)
+# waist=,id=193516,bonus_id=10249/8960/8932/9405,crafted_stats=32/49,crafting_quality=5
+
+# Vibrant Wildercloth Girdle (502)
+# waist=,id=193516,bonus_id=10249/8960/8932/9405,crafted_stats=36/49,crafting_quality=5
+# Vibrant Wildercloth Girdle (502)
+# waist=,id=193516,bonus_id=10249/8960/8932/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Vibrant Wildercloth Slacks (502)
+# legs=,id=193518,bonus_id=10249/8960/8932/9405,crafted_stats=32/36,crafting_quality=5
+# Vibrant Wildercloth Slacks (502)
+# legs=,id=193518,bonus_id=10249/8960/8932/9405,crafted_stats=32/40,crafting_quality=5
+# Vibrant Wildercloth Slacks (502)
+# legs=,id=193518,bonus_id=10249/8960/8932/9405,crafted_stats=32/49,crafting_quality=5
+# Vibrant Wildercloth Slacks (502)
+# legs=,id=193518,bonus_id=10249/8960/8932/9405,crafted_stats=36/40,crafting_quality=5
+# Vibrant Wildercloth Slacks (502)
+# legs=,id=193518,bonus_id=10249/8960/8932/9405,crafted_stats=36/49,crafting_quality=5
+# Vibrant Wildercloth Slacks (502)
+# legs=,id=193518,bonus_id=10249/8960/8932/9405,crafted_stats=40/49,crafting_quality=5
+#
+# Vibrant Wildercloth Slippers (502)
+# feet=,id=193519,bonus_id=10249/8960/8932/9405,crafted_stats=32/36,crafting_quality=5
+# Vibrant Wildercloth Slippers (502)
+# feet=,id=193519,bonus_id=10249/8960/8932/9405,crafted_stats=32/40,crafting_quality=5
+# Vibrant Wildercloth Slippers (502)
+# feet=,id=193519,bonus_id=10249/8960/8932/9405,crafted_stats=32/49,crafting_quality=5
+# Vibrant Wildercloth Slippers (502)
+# feet=,id=193519,bonus_id=10249/8960/8932/9405,crafted_stats=36/40,crafting_quality=5
+# Vibrant Wildercloth Slippers (502)
+# feet=,id=193519,bonus_id=10249/8960/8932/9405,crafted_stats=36/49,crafting_quality=5
+# Vibrant Wildercloth Slippers (502)
+# feet=,id=193519,bonus_id=10249/8960/8932/9405,crafted_stats=40/49,crafting_quality=5
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2122:4/c:1792:3316/c:2245:1988/i:206959:9/i:206960:1/i:204682:1
+#
+# slot_high_watermarks=0:480:556/1:480:502/2:480:556/3:480:556/4:496:556/5:502:556/6:480:556/7:476:556/8:480:556/9:476:502/10:489:515/11:489:502/12:502:556/13:493:499/14:418:502/15:1:493/16:480:502
+
+# Checksum: 7a8d3ba3
