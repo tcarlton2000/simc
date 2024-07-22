@@ -278,6 +278,140 @@ exports.leather = [
 ];
 
 /** @type item.Item[] */
+exports.mail = [
+    {
+        name: 'Trailblazer\'s Toughened Coif',
+        slot: 'head',
+        id: 201946,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.WHELPLING_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Pendant of Impending Perils',
+        slot: 'neck',
+        id: 192996,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.WHELPLING_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Trailblazer\'s Toughened Spikes',
+        slot: 'shoulder',
+        id: 201947,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.WHELPLING_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Surveyor\'s Tailored Cloak',
+        slot: 'back',
+        id: 193500,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.WHELPLING_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Trailblazer\'s Scale Vest',
+        slot: 'chest',
+        id: 193394,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.WHELPLING_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Trailblazer\'s Scale Bracers',
+        slot: 'wrist',
+        id: 193393,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.WHELPLING_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Trailblazer\'s Toughened Grips',
+        slot: 'hands',
+        id: 201948,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.WHELPLING_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Trailblazer\'s Toughened Chainbelt',
+        slot: 'waist',
+        id: 201950,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.WHELPLING_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Trailblazer\'s Toughened Legguards',
+        slot: 'legs',
+        id: 201949,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.WHELPLING_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Trailblazer\'s Scale Boots',
+        slot: 'feet',
+        id: 193392,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.WHELPLING_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Band of New Beginnings',
+        slot: 'finger1',
+        id: 194082,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.WHELPLING_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Draconium Axe',
+        slot: 'main_hand',
+        id: 190487,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.WHELPLING_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Draconium Defender',
+        slot: 'off_hand',
+        id: 201322,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.WHELPLING_CRAFTED,
+            quality: 5,
+        },
+    },
+];
+
+/** @type item.Item[] */
 exports.sparkCloth = [
     {
         name: 'Torc of Passed Time',
