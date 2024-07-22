@@ -1,0 +1,202 @@
+# Raidbots-generated SimC input for Armory character US Thunderhorn Andaman
+# On 2024-07-12T13:41:27.055Z
+
+shaman=Andaman
+level=70
+race=dwarf
+region=us
+server=thunderhorn
+role=healer
+spec=restoration
+talents=BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIhkkkkSSJpIJNBNIpEESJJAg0SCKhQSSkEIA
+
+back=,id=207204,bonus_id=6652/9556/1485/8767,context=54
+chest=,id=207212,bonus_id=6652/9515/9559/1494/8767,context=42
+feet=,id=207145,bonus_id=41/9507/7982/9555/1481/8767,context=4
+finger1=,id=210376,bonus_id=8902/10344/6652/10532/1520/8767,context=94
+finger2=,id=210377,bonus_id=8902/10341/6652/10533/1511/8767,context=90
+hands=,id=207210,bonus_id=9514/9556/1485/8767,context=42
+head=,id=210701,bonus_id=9560/9506/9599/1511/8767,context=55
+legs=,id=207208,bonus_id=6652/7982/9512/9558/1491/8767,context=4
+main_hand=,id=210398,bonus_id=8902/10341/6652/1511/8767,context=90
+neck=,id=210379,bonus_id=10305/8902/6652/8784/10244/1498/8766,context=72
+off_hand=,id=210383,bonus_id=10305/8902/6652/1498/8766,context=72
+shoulder=,id=207207,bonus_id=6652/7982/8096/9511/9559/1494/8767,context=4
+tabard=,id=65907
+trinket1=,id=193568,bonus_id=8902/6652/9551/1559/8766,context=36
+trinket2=,id=198695,bonus_id=8902/6652/9551/1511/8766,context=27
+waist=,id=207146,bonus_id=6652/9600/9507/7982/9556/1485/8767,context=4
+wrist=,id=207205,bonus_id=6652/9600/9556/1485/8767,context=53
+
+### Weekly Reward Choices
+#
+# Trailblazer's Toughened Coif (486)
+# head=,id=201946,bonus_id=10357/9405/8851/8790,crafted_stats=32/36,crafting_quality=5
+# Trailblazer's Toughened Coif (486)
+# head=,id=201946,bonus_id=10357/9405/8851/8795,crafted_stats=32/40,crafting_quality=5
+# Trailblazer's Toughened Coif (486)
+# head=,id=201946,bonus_id=10357/9405/8851/8791,crafted_stats=32/49,crafting_quality=5
+# Trailblazer's Toughened Coif (486)
+# head=,id=201946,bonus_id=10357/9405/8851/8792,crafted_stats=36/40,crafting_quality=5
+# Trailblazer's Toughened Coif (486)
+# head=,id=201946,bonus_id=10357/9405/8851/8793,crafted_stats=36/49,crafting_quality=5
+# Trailblazer's Toughened Coif (486)
+# head=,id=201946,bonus_id=10357/9405/8851/8794,crafted_stats=40/49,crafting_quality=5
+#
+# Pendant of Impending Perils (486)
+# neck=,id=192996,bonus_id=10357/9405/8851/8790,crafted_stats=32/36,crafting_quality=5
+# Pendant of Impending Perils (486)
+# neck=,id=192996,bonus_id=10357/9405/8851/8795,crafted_stats=32/40,crafting_quality=5
+# Pendant of Impending Perils (486)
+# neck=,id=192996,bonus_id=10357/9405/8851/8791,crafted_stats=32/49,crafting_quality=5
+# Pendant of Impending Perils (486)
+# neck=,id=192996,bonus_id=10357/9405/8851/8792,crafted_stats=36/40,crafting_quality=5
+# Pendant of Impending Perils (486)
+# neck=,id=192996,bonus_id=10357/9405/8851/8793,crafted_stats=36/49,crafting_quality=5
+# Pendant of Impending Perils (486)
+# neck=,id=192996,bonus_id=10357/9405/8851/8794,crafted_stats=40/49,crafting_quality=5
+#
+# Trailblazer's Toughened Spikes (486)
+# shoulder=,id=201947,bonus_id=10357/9405/8851/8790,crafted_stats=32/36,crafting_quality=5
+# Trailblazer's Toughened Spikes (486)
+# shoulder=,id=201947,bonus_id=10357/9405/8851/8795,crafted_stats=32/40,crafting_quality=5
+# Trailblazer's Toughened Spikes (486)
+# shoulder=,id=201947,bonus_id=10357/9405/8851/8791,crafted_stats=32/49,crafting_quality=5
+# Trailblazer's Toughened Spikes (486)
+# shoulder=,id=201947,bonus_id=10357/9405/8851/8792,crafted_stats=36/40,crafting_quality=5
+# Trailblazer's Toughened Spikes (486)
+# shoulder=,id=201947,bonus_id=10357/9405/8851/8793,crafted_stats=36/49,crafting_quality=5
+# Trailblazer's Toughened Spikes (486)
+# shoulder=,id=201947,bonus_id=10357/9405/8851/8794,crafted_stats=40/49,crafting_quality=5
+#
+# Surveyor's Tailored Cloak (486)
+# back=,id=193500,bonus_id=10357/9405/8851/8790,crafted_stats=32/36,crafting_quality=5
+# Surveyor's Tailored Cloak (486)
+# back=,id=193500,bonus_id=10357/9405/8851/8795,crafted_stats=32/40,crafting_quality=5
+# Surveyor's Tailored Cloak (486)
+# back=,id=193500,bonus_id=10357/9405/8851/8791,crafted_stats=32/49,crafting_quality=5
+# Surveyor's Tailored Cloak (486)
+# back=,id=193500,bonus_id=10357/9405/8851/8792,crafted_stats=36/40,crafting_quality=5
+# Surveyor's Tailored Cloak (486)
+# back=,id=193500,bonus_id=10357/9405/8851/8793,crafted_stats=36/49,crafting_quality=5
+# Surveyor's Tailored Cloak (486)
+# back=,id=193500,bonus_id=10357/9405/8851/8794,crafted_stats=40/49,crafting_quality=5
+#
+# Trailblazer's Scale Vest (486)
+# chest=,id=193394,bonus_id=10357/9405/8851/8790,crafted_stats=32/36,crafting_quality=5
+# Trailblazer's Scale Vest (486)
+# chest=,id=193394,bonus_id=10357/9405/8851/8795,crafted_stats=32/40,crafting_quality=5
+# Trailblazer's Scale Vest (486)
+# chest=,id=193394,bonus_id=10357/9405/8851/8791,crafted_stats=32/49,crafting_quality=5
+# Trailblazer's Scale Vest (486)
+# chest=,id=193394,bonus_id=10357/9405/8851/8792,crafted_stats=36/40,crafting_quality=5
+# Trailblazer's Scale Vest (486)
+# chest=,id=193394,bonus_id=10357/9405/8851/8793,crafted_stats=36/49,crafting_quality=5
+# Trailblazer's Scale Vest (486)
+# chest=,id=193394,bonus_id=10357/9405/8851/8794,crafted_stats=40/49,crafting_quality=5
+#
+# Trailblazer's Scale Bracers (486)
+# wrist=,id=193393,bonus_id=10357/9405/8851/8790,crafted_stats=32/36,crafting_quality=5
+# Trailblazer's Scale Bracers (486)
+# wrist=,id=193393,bonus_id=10357/9405/8851/8795,crafted_stats=32/40,crafting_quality=5
+# Trailblazer's Scale Bracers (486)
+# wrist=,id=193393,bonus_id=10357/9405/8851/8791,crafted_stats=32/49,crafting_quality=5
+# Trailblazer's Scale Bracers (486)
+# wrist=,id=193393,bonus_id=10357/9405/8851/8792,crafted_stats=36/40,crafting_quality=5
+# Trailblazer's Scale Bracers (486)
+# wrist=,id=193393,bonus_id=10357/9405/8851/8793,crafted_stats=36/49,crafting_quality=5
+# Trailblazer's Scale Bracers (486)
+# wrist=,id=193393,bonus_id=10357/9405/8851/8794,crafted_stats=40/49,crafting_quality=5
+#
+# Trailblazer's Toughened Grips (486)
+# hands=,id=201948,bonus_id=10357/9405/8851/8790,crafted_stats=32/36,crafting_quality=5
+# Trailblazer's Toughened Grips (486)
+# hands=,id=201948,bonus_id=10357/9405/8851/8795,crafted_stats=32/40,crafting_quality=5
+# Trailblazer's Toughened Grips (486)
+# hands=,id=201948,bonus_id=10357/9405/8851/8791,crafted_stats=32/49,crafting_quality=5
+# Trailblazer's Toughened Grips (486)
+# hands=,id=201948,bonus_id=10357/9405/8851/8792,crafted_stats=36/40,crafting_quality=5
+# Trailblazer's Toughened Grips (486)
+# hands=,id=201948,bonus_id=10357/9405/8851/8793,crafted_stats=36/49,crafting_quality=5
+# Trailblazer's Toughened Grips (486)
+# hands=,id=201948,bonus_id=10357/9405/8851/8794,crafted_stats=40/49,crafting_quality=5
+#
+# Trailblazer's Toughened Chainbelt (486)
+# waist=,id=201950,bonus_id=10357/9405/8851/8790,crafted_stats=32/36,crafting_quality=5
+# Trailblazer's Toughened Chainbelt (486)
+# waist=,id=201950,bonus_id=10357/9405/8851/8795,crafted_stats=32/40,crafting_quality=5
+# Trailblazer's Toughened Chainbelt (486)
+# waist=,id=201950,bonus_id=10357/9405/8851/8791,crafted_stats=32/49,crafting_quality=5
+# Trailblazer's Toughened Chainbelt (486)
+# waist=,id=201950,bonus_id=10357/9405/8851/8792,crafted_stats=36/40,crafting_quality=5
+# Trailblazer's Toughened Chainbelt (486)
+# waist=,id=201950,bonus_id=10357/9405/8851/8793,crafted_stats=36/49,crafting_quality=5
+# Trailblazer's Toughened Chainbelt (486)
+# waist=,id=201950,bonus_id=10357/9405/8851/8794,crafted_stats=40/49,crafting_quality=5
+#
+# Trailblazer's Toughened Legguards (486)
+# legs=,id=201949,bonus_id=10357/9405/8851/8790,crafted_stats=32/36,crafting_quality=5
+# Trailblazer's Toughened Legguards (486)
+# legs=,id=201949,bonus_id=10357/9405/8851/8795,crafted_stats=32/40,crafting_quality=5
+# Trailblazer's Toughened Legguards (486)
+# legs=,id=201949,bonus_id=10357/9405/8851/8791,crafted_stats=32/49,crafting_quality=5
+# Trailblazer's Toughened Legguards (486)
+# legs=,id=201949,bonus_id=10357/9405/8851/8792,crafted_stats=36/40,crafting_quality=5
+# Trailblazer's Toughened Legguards (486)
+# legs=,id=201949,bonus_id=10357/9405/8851/8793,crafted_stats=36/49,crafting_quality=5
+# Trailblazer's Toughened Legguards (486)
+# legs=,id=201949,bonus_id=10357/9405/8851/8794,crafted_stats=40/49,crafting_quality=5
+#
+# Trailblazer's Scale Boots (486)
+# feet=,id=193392,bonus_id=10357/9405/8851/8790,crafted_stats=32/36,crafting_quality=5
+# Trailblazer's Scale Boots (486)
+# feet=,id=193392,bonus_id=10357/9405/8851/8795,crafted_stats=32/40,crafting_quality=5
+# Trailblazer's Scale Boots (486)
+# feet=,id=193392,bonus_id=10357/9405/8851/8791,crafted_stats=32/49,crafting_quality=5
+# Trailblazer's Scale Boots (486)
+# feet=,id=193392,bonus_id=10357/9405/8851/8792,crafted_stats=36/40,crafting_quality=5
+# Trailblazer's Scale Boots (486)
+# feet=,id=193392,bonus_id=10357/9405/8851/8793,crafted_stats=36/49,crafting_quality=5
+# Trailblazer's Scale Boots (486)
+# feet=,id=193392,bonus_id=10357/9405/8851/8794,crafted_stats=40/49,crafting_quality=5
+#
+# Band of New Beginnings (486)
+# finger1=,id=194082,bonus_id=10357/9405/8851/8790,crafted_stats=32/36,crafting_quality=5
+# Band of New Beginnings (486)
+# finger1=,id=194082,bonus_id=10357/9405/8851/8795,crafted_stats=32/40,crafting_quality=5
+# Band of New Beginnings (486)
+# finger1=,id=194082,bonus_id=10357/9405/8851/8791,crafted_stats=32/49,crafting_quality=5
+# Band of New Beginnings (486)
+# finger1=,id=194082,bonus_id=10357/9405/8851/8792,crafted_stats=36/40,crafting_quality=5
+# Band of New Beginnings (486)
+# finger1=,id=194082,bonus_id=10357/9405/8851/8793,crafted_stats=36/49,crafting_quality=5
+# Band of New Beginnings (486)
+# finger1=,id=194082,bonus_id=10357/9405/8851/8794,crafted_stats=40/49,crafting_quality=5
+#
+# Draconium Axe (486)
+# main_hand=,id=190487,bonus_id=10357/9405/8851/8790,crafted_stats=32/36,crafting_quality=5
+# Draconium Axe (486)
+# main_hand=,id=190487,bonus_id=10357/9405/8851/8795,crafted_stats=32/40,crafting_quality=5
+# Draconium Axe (486)
+# main_hand=,id=190487,bonus_id=10357/9405/8851/8791,crafted_stats=32/49,crafting_quality=5
+# Draconium Axe (486)
+# main_hand=,id=190487,bonus_id=10357/9405/8851/8792,crafted_stats=36/40,crafting_quality=5
+# Draconium Axe (486)
+# main_hand=,id=190487,bonus_id=10357/9405/8851/8793,crafted_stats=36/49,crafting_quality=5
+# Draconium Axe (486)
+# main_hand=,id=190487,bonus_id=10357/9405/8851/8794,crafted_stats=40/49,crafting_quality=5
+#
+# Draconium Defender (486)
+# off_hand=,id=201322,bonus_id=10357/9405/8851/8790,crafted_stats=32/36,crafting_quality=5
+# Draconium Defender (486)
+# off_hand=,id=201322,bonus_id=10357/9405/8851/8795,crafted_stats=32/40,crafting_quality=5
+# Draconium Defender (486)
+# off_hand=,id=201322,bonus_id=10357/9405/8851/8791,crafted_stats=32/49,crafting_quality=5
+# Draconium Defender (486)
+# off_hand=,id=201322,bonus_id=10357/9405/8851/8792,crafted_stats=36/40,crafting_quality=5
+# Draconium Defender (486)
+# off_hand=,id=201322,bonus_id=10357/9405/8851/8793,crafted_stats=36/49,crafting_quality=5
+# Draconium Defender (486)
+# off_hand=,id=201322,bonus_id=10357/9405/8851/8794,crafted_stats=40/49,crafting_quality=5
+#
+### End of Weekly Reward Choices
