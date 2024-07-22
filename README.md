@@ -69,7 +69,9 @@
 
 ## Crafted
 
-### Stat Values
+### Stats 
+
+#### Stat Values
 
 | Stat        | Value |
 | ----------- | ----- |
@@ -77,6 +79,19 @@
 | Haste       | 36    |
 | Mastery     | 49    |
 | Versatility | 40    |
+
+### Bonus Ids
+
+Stat additions require `8851` bonus id in addition to one of the below:
+
+| Stats         | Bonus Id |
+| ------------- | -------- |
+| Crit/Haste    | 8790     |
+| Crit/Mastery  | 8791     |
+| Crit/Vers     | 8795     |
+| Mastery/Haste | 8793     |
+| Mastery/Vers  | 8794     |
+| Vers/Haste    | 8792     |
 
 ### Embellishments
 

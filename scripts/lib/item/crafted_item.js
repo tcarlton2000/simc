@@ -22,6 +22,16 @@ const CraftedStats = {
     VERS_MASTERY: '40/49',
 };
 
+/** @typedef {number} CraftedStatsBonusIds */
+const CraftedStatsBonusIds = {
+    [CraftedStats.CRIT_HASTE]: 8851,
+    [CraftedStats.CRIT_MASTERY]: 8791,
+    [CraftedStats.CRIT_VERS]: 8795,
+    [CraftedStats.HASTE_MASTERY]: 8793,
+    [CraftedStats.HASTE_VERS]: 8792,
+    [CraftedStats.VERS_MASTERY]: 8794,
+}
+
 /**
  * @typedef {Object} CraftedProps
  * @property {CraftedTypes} type Type of craft used for the item
