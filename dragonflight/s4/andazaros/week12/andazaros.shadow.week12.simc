@@ -1,0 +1,188 @@
+# Andazaros - Shadow - 2024-07-22 16:20 - US/Thunderhorn
+# SimC Addon 10.2.0-01
+# WoW 10.2.7.55664, TOC 100207
+# Requires SimulationCraft 1000-01 or newer
+
+priest="Andazaros"
+level=70
+race=human
+region=us
+server=thunderhorn
+role=spell
+professions=tailoring=100/enchanting=100
+spec=shadow
+
+talents=BIQA/KVNHBYFUG61hTBXiMbcYGSiQAAAAAAAAAAAAAioIRSSDSSSSkIINSSSkGBJIki0CJBQSA
+
+# Saved Loadout: Icy Veins EZ Mode
+# talents=BIQA/KVNHBYFUG61hTBXiMbcYGSiEBAAAAAAAAAAAAIkmEhUCSSSSkIINSSSkGBJIki0CJBQSA
+# Saved Loadout: Wowhead M+
+# talents=BIQA/KVNHBYFUG61hTBXiMbcYGSiQAAAAAAAAAAAAAioIRSSDSSSSkIINSSSkGBJIki0CJBQSA
+
+# Mask of the Furnace Seraph (502)
+head=,id=217202,enchant_id=7052,bonus_id=10348/10532/8096/10867/1494
+# Pendant of Impending Perils  (486)
+neck=,id=192996,gem_id=192912,bonus_id=8837/8838/4785/8784/8780/9405/8793/10357,crafted_stats=36/49,crafting_quality=5
+# Devotion of the Furnace Seraph (502)
+shoulder=,id=217204,bonus_id=6652/10348/8096/10869/1494
+# Winter Forager's Cape (480)
+back=,id=210407,enchant_id=6591,bonus_id=8902/10341/10871/6652/1511/8767
+# Command of the Furnace Seraph (502)
+chest=,id=217205,enchant_id=6625,bonus_id=10348/8096/10865/1494
+# Bands of Negation (476)
+wrist=,id=127256,enchant_id=6573,bonus_id=7756/10533/10870/10308/9887/8766
+# Prismatic Mittens of Mending (476)
+hands=,id=188370,bonus_id=7756/10870/10308/9887/8766
+# Discarded Creation's Restraint (496)
+waist=,id=202652,bonus_id=6652/10533/10872/7979/10314/10884/1550/8767
+# Breeches of the Furnace Seraph (502)
+legs=,id=217203,enchant_id=6829,bonus_id=10348/8096/10868/1494
+# Vibrant Wildercloth Slippers  (502)
+feet=,id=193519,enchant_id=6612,bonus_id=8836/8840/8902/9405/8793/8932/8960/10249,crafted_stats=40/32,crafting_quality=5
+# Band of New Beginnings  (486)
+finger1=,id=194082,enchant_id=6555,gem_id=192912,bonus_id=8837/8838/4785/8780/9405/8793/10357,crafted_stats=36/40,crafting_quality=5
+# Signet of Titanic Insight  (502)
+finger2=,id=192999,enchant_id=6555,gem_id=192912,bonus_id=8836/8840/8902/8780/9405/8793/8932/8960/10249,crafted_stats=40/49,crafting_quality=5
+# Sustaining Alchemist Stone  (502)
+trinket1=,id=191491,bonus_id=8836/8840/8902/9405/10249,crafting_quality=5
+# Dancing Dream Blossoms (489)
+trinket2=,id=209953,bonus_id=8902/6652/10344/1533/8767
+# Frigid Conservator's Cane (502)
+main_hand=,id=210394,enchant_id=6654,bonus_id=8902/10316/6652/1533/8767
+
+### Gear from Bags
+#
+# Vibrant Wildercloth Headcover  (424)
+# head=,id=193523,bonus_id=8836/8840/8902/9405/9366/9415,crafted_stats=49/40,crafting_quality=5
+#
+# Attendant's Concocting Cover (480)
+# head=,id=202579,bonus_id=6652/10532/10871/7982/10341/10884/1537/8767
+#
+# Jingoist's Greathelm (1)
+# head=,id=206873
+#
+# Cold Crisp Collar (480)
+# neck=,id=210379,bonus_id=8902/10341/6652/8784/10244/1511/8767
+#
+# Vibrant Wildercloth Shoulderspikes  (424)
+# shoulder=,id=193508,bonus_id=8836/8840/8902/9405/9366,crafted_stats=49/32,crafting_quality=5
+#
+# Arctic Warden's Cloak (489)
+# back=,id=210408,bonus_id=8902/10344/10871/6652/1520/8767
+#
+# Arctic Warden's Cloak (480)
+# back=,id=210408,bonus_id=8902/10341/10871/6652/1511/8767
+#
+# Suffused Greatcloak (480)
+# back=,id=204896,bonus_id=8902/10341/10871/1602/8767
+#
+# Obsidian Cape (398)
+# back=,id=200971
+#
+# Vibrant Wildercloth Shawl  (408)
+# back=,id=193511,enchant_id=6597,bonus_id=8836/8840/8902/9405/8845/8790/9365,crafted_stats=32/40,crafting_quality=5
+#
+# Reanimator's Wicked Cassock (480)
+# chest=,id=202600,bonus_id=42/10871/7982/10341/10884/1537/8767
+#
+# Fading Flame Wristbands (486)
+# wrist=,id=210204,bonus_id=6652/10533/10871/7982/10343/10884/1517/8767
+#
+# Vibrant Wildercloth Handwraps  (424)
+# hands=,id=193504,bonus_id=8836/8840/8902/9405/9366,crafted_stats=36/32,crafting_quality=5
+#
+# Touch of Lunar Communion (463)
+# hands=,id=207282,bonus_id=9514/9559/1494/8767
+#
+# Frigid Conservator's Sash (480)
+# waist=,id=210369,bonus_id=8902/10341/10871/6652/10532/1511/8767
+#
+# Suffused Leggings (480)
+# legs=,id=204785,bonus_id=8902/10341/10871/6652/1602/8767
+#
+# Frigid Conservator's Leggings (502)
+# legs=,id=210361,bonus_id=8902/10316/10872/6652/1533/8767
+#
+# Leggings of Lunar Communion (463)
+# legs=,id=207280,bonus_id=6652/9512/9559/1494/8767
+#
+# Vibrant Wildercloth Slippers  (424)
+# feet=,id=193519,enchant_id=6607,bonus_id=8836/8840/8902/9405/8790/9366,crafted_stats=40/49,crafting_quality=5
+#
+# Lifewoven Slippers (486)
+# feet=,id=207123,bonus_id=6652/10871/7982/10343/10884/1517/8767
+#
+# Exacting Augmenter's Sabatons (483)
+# feet=,id=202588,bonus_id=6652/10871/7982/10342/10884/1537/8767
+#
+# Frigid Conservator's Slippers (480)
+# feet=,id=210391,bonus_id=8902/10341/10871/6652/1511/8767
+#
+# Suffused Signet (476)
+# finger1=,id=204745,bonus_id=8902/10328/1598/8766
+#
+# Rime Ridden Ring (476)
+# finger1=,id=210378,bonus_id=8902/6652/10533/10308/1507/8766
+#
+# Snipping Sleet Circle (480)
+# finger1=,id=210377,bonus_id=8902/10341/6652/10533/1511/8767
+#
+# Friendship Censer (493)
+# trinket1=,id=204728,bonus_id=8902/10313/6652/3172/8767
+#
+# Alacritous Alchemist Stone  (424)
+# trinket1=,id=191492,bonus_id=8836/8840/8902/9405/9366,crafting_quality=5
+#
+# Broodkeeper's Promise (489)
+# trinket1=,id=194307,bonus_id=6652/7982/10344/10884/1563/8767
+#
+# Nymue's Unraveling Spindle (486)
+# trinket1=,id=208615,bonus_id=6652/7982/10343/10884/1517/8767
+#
+# Azure Arcanic Amplifier (460)
+# trinket1=,id=198407,bonus_id=10323/6652/8902/1534/8766
+#
+# Dreamscape Prism (457)
+# trinket1=,id=198489,bonus_id=10322/6652/8902/1531
+#
+# Suspended Sulfuric Droplet (454)
+# trinket1=,id=204805,bonus_id=10321/8902/3133
+#
+# Primal Molten Spellblade  (424)
+# main_hand=,id=190506,enchant_id=6643,bonus_id=8836/8840/8902/9405/8790/8913/8960/9366,crafted_stats=36/40,crafting_quality=5
+#
+# Frigid Conservator's Mallet (493)
+# main_hand=,id=210399,bonus_id=8902/10313/6652/1524/8767
+#
+# Suffused Censer (480)
+# main_hand=,id=204742,bonus_id=8902/10341/1602/8767
+#
+# Crackling Codex of the Isles  (408)
+# off_hand=,id=194879,bonus_id=8836/8840/8902/9405/8790/8845/9365,crafted_stats=40/49,crafting_quality=5
+#
+# Hortus' Seal of Brilliance (467)
+# off_hand=,id=123995,bonus_id=10305/7756/9878/8766
+#
+# Frigid Conservator's Implement (480)
+# off_hand=,id=210384,bonus_id=8902/10341/6652/1511/8767
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+#
+# Scripture of Primal Devotion (493)
+# off_hand=,id=195513,bonus_id=6652/7982/10884/10345/1570/8767
+#
+# Frigid Conservator's Implement (480)
+# off_hand=,id=210384,bonus_id=8902/10341/6652/1511/8767
+
+### Weekly Reward Choices
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2122:4/c:1792:3316/c:2245:442/i:206959:9/i:206960:1/i:204682:1
+#
+# slot_high_watermarks=0:502:556/1:486:502/2:502:556/3:502:556/4:496:556/5:502:556/6:502:556/7:486:556/8:480:556/9:486:502/10:493:515/11:489:502/12:502:556/13:493:499/14:418:502/15:1:493/16:493:502
+
+# Checksum: ecce90c7
