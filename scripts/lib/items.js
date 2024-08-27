@@ -491,3 +491,401 @@ exports.sparkCloth = [
         },
     },
 ];
+
+exports.sparkMail = [
+    {
+        name: 'Flame-Touched Treads',
+        slot: 'feet',
+        id: 193421,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.SPARK_CRAFTED,
+            quality: 5,
+            embellishment: Embellishments.BLUE_SILKEN_LINING,
+        },
+    },
+    {
+        name: 'Flame-Touched Chain',
+        slot: 'waist',
+        id: 193425,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.SPARK_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Flame-Touched Helmet',
+        slot: 'head',
+        id: 193423,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.SPARK_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Flame-Touched Spaulders',
+        slot: 'shoulder',
+        id: 193424,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.SPARK_CRAFTED,
+            quality: 5,
+            embellishment: Embellishments.BLUE_SILKEN_LINING,
+        },
+    },
+    {
+        name: 'Flame-Touched Chainmail',
+        slot: 'chest',
+        id: 193422,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.SPARK_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Flame-Touched Handguards',
+        slot: 'hands',
+        id: 193427,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.SPARK_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Flame-Touched Legguards',
+        slot: 'legs',
+        id: 193426,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.SPARK_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Flame-Touched Cuffs',
+        slot: 'wrist',
+        id: 193428,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.SPARK_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Vibrant Wildercloth Shawl',
+        slot: 'back',
+        id: 193511,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.SPARK_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Torc of Passed Time',
+        slot: 'neck',
+        id: 201759,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.SPARK_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Signet of Titanic Insight',
+        slot: 'finger1',
+        id: 192999,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.SPARK_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Ring-Bound Hourglass',
+        slot: 'finger1',
+        id: 193000,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.SPARK_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Bow of the Dragon Hunter',
+        slot: 'main_hand',
+        id: 193449,
+        type: ItemTypes.CRAFTED,
+        craftedProperties: {
+            type: CraftedTypes.SPARK_CRAFTED,
+            quality: 5,
+        },
+    },
+    {
+        name: 'Dalaran Defender\'s Helmet',
+        slot: 'head',
+        id: 218073,
+        type: ItemTypes.TRACK,
+        trackProperties: {
+            baseItemLevel: 350,
+            trackInfo: {
+                track: 'Veteran',
+                trackNumber: 8,
+            }
+        }
+    },
+    {
+        name: 'Dalaran Defender\'s Armguards',
+        slot: 'wrist',
+        id: 218077,
+        type: ItemTypes.TRACK,
+        trackProperties: {
+            baseItemLevel: 350,
+            trackInfo: {
+                track: 'Veteran',
+                trackNumber: 8,
+            }
+        }
+    },
+    {
+        name: 'Dalaran Defender\'s Bolter',
+        slot: 'main_hand',
+        id: 219232,
+        type: ItemTypes.TRACK,
+        trackProperties: {
+            baseItemLevel: 350,
+            trackInfo: {
+                track: 'Veteran',
+                trackNumber: 8,
+            }
+        }
+    },
+    {
+        name: 'Dalaran Defender\'s Drape',
+        slot: 'back',
+        id: 218081,
+        type: ItemTypes.TRACK,
+        trackProperties: {
+            baseItemLevel: 350,
+            trackInfo: {
+                track: 'Veteran',
+                trackNumber: 8,
+            }
+        }
+    },
+    {
+        name: 'Dalaran Defender\'s Cloak',
+        slot: 'back',
+        id: 218080,
+        type: ItemTypes.TRACK,
+        trackProperties: {
+            baseItemLevel: 350,
+            trackInfo: {
+                track: 'Veteran',
+                trackNumber: 8,
+            }
+        }
+    },
+    {
+        name: 'Dalaran Defender\'s Shawl',
+        slot: 'back',
+        id: 218079,
+        type: ItemTypes.TRACK,
+        trackProperties: {
+            baseItemLevel: 350,
+            trackInfo: {
+                track: 'Veteran',
+                trackNumber: 8,
+            }
+        }
+    },
+    {
+        name: 'Dalaran Defender\'s Cape',
+        slot: 'back',
+        id: 218078,
+        type: ItemTypes.TRACK,
+        trackProperties: {
+            baseItemLevel: 350,
+            trackInfo: {
+                track: 'Veteran',
+                trackNumber: 8,
+            }
+        }
+    },
+    {
+        name: 'Dalaran Defender\'s Cinch',
+        slot: 'waist',
+        id: 218076,
+        type: ItemTypes.TRACK,
+        trackProperties: {
+            baseItemLevel: 350,
+            trackInfo: {
+                track: 'Veteran',
+                trackNumber: 8,
+            }
+        }
+    },
+    {
+        name: 'Dalaran Defender\'s Stompers',
+        slot: 'feet',
+        id: 218071,
+        type: ItemTypes.TRACK,
+        trackProperties: {
+            baseItemLevel: 350,
+            trackInfo: {
+                track: 'Veteran',
+                trackNumber: 8,
+            }
+        }
+    },
+];
+
+exports.custom = [
+    {
+        name: 'Stormwing Harrier\'s Skullmask',
+        slot: 'head',
+        id: 217183,
+        type: ItemTypes.TRACK,
+        trackProperties: {
+            baseItemLevel: 480,
+            trackInfo: {
+                track: 'Veteran',
+                trackNumber: 8,
+            }
+        }
+    },
+    {
+        name: 'Cold Crisp Collar',
+        slot: 'neck',
+        id: 210379,
+        type: ItemTypes.TRACK,
+        trackProperties: {
+            baseItemLevel: 441,
+            trackInfo: {
+                track: 'Veteran',
+                trackNumber: 8,
+            }
+        }
+    },
+    {
+        name: 'Stormwing Harrier\'s Pinions',
+        slot: 'shoulder',
+        id: 217185,
+        type: ItemTypes.TRACK,
+        trackProperties: {
+            baseItemLevel: 480,
+            trackInfo: {
+                track: 'Veteran',
+                trackNumber: 8,
+            }
+        }
+    },
+    {
+        name: 'Suffused Greatcloak',
+        slot: 'back',
+        id: 204896,
+        type: ItemTypes.TRACK,
+        trackProperties: {
+            baseItemLevel: 350,
+            trackInfo: {
+                track: 'Veteran',
+                trackNumber: 8,
+            }
+        }
+    },
+    {
+        name: 'Stormwing Harrier\'s Cuirass',
+        slot: 'chest',
+        id: 217181,
+        type: ItemTypes.TRACK,
+        trackProperties: {
+            baseItemLevel: 480,
+            trackInfo: {
+                track: 'Veteran',
+                trackNumber: 8,
+            }
+        }
+    },
+    {
+        name: 'Stormwing Harrier\'s Handguards',
+        slot: 'hands',
+        id: 217182,
+        type: ItemTypes.TRACK,
+        trackProperties: {
+            baseItemLevel: 480,
+            trackInfo: {
+                track: 'Veteran',
+                trackNumber: 8,
+            }
+        }
+    },
+    {
+        name: 'Winter Forager\'s Waistguard',
+        slot: 'waist',
+        id: 210370,
+        type: ItemTypes.TRACK,
+        trackProperties: {
+            baseItemLevel: 441,
+            trackInfo: {
+                track: 'Veteran',
+                trackNumber: 8,
+            }
+        }
+    },
+    {
+        name: 'Stormwing Harrier\'s Greaves',
+        slot: 'legs',
+        id: 217184,
+        type: ItemTypes.TRACK,
+        trackProperties: {
+            baseItemLevel: 480,
+            trackInfo: {
+                track: 'Champion',
+                trackNumber: 4,
+            }
+        }
+    },
+    {
+        name: 'Rime Ridden Ring',
+        slot: 'finger1',
+        id: 210378,
+        type: ItemTypes.TRACK,
+        trackProperties: {
+            baseItemLevel: 441,
+            trackInfo: {
+                track: 'Veteran',
+                trackNumber: 8,
+            }
+        }
+    },
+    {
+        name: 'Beautiful Blizzard Binding',
+        slot: 'finger2',
+        id: 210376,
+        type: ItemTypes.TRACK,
+        trackProperties: {
+            baseItemLevel: 441,
+            trackInfo: {
+                track: 'Veteran',
+                trackNumber: 8,
+            }
+        }
+    },
+    {
+        name: 'Winter Forager\'s Curve',
+        slot: 'main_hand',
+        id: 210404,
+        type: ItemTypes.TRACK,
+        trackProperties: {
+            baseItemLevel: 441,
+            trackInfo: {
+                track: 'Veteran',
+                trackNumber: 8,
+            }
+        }
+    },
+]
