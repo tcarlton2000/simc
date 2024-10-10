@@ -1,0 +1,1 @@
+( Pawn: v1: "Hunterra - Beast Mastery - Patchwerk (Raidbots)": Class=Hunter, Spec=BeastMastery, Agility=8.57, CritRating=7.79, HasteRating=7.09, MasteryRating=7.53, Versatility=5.58, Dps=49.12 )

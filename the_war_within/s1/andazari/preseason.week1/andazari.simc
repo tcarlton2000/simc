@@ -1,0 +1,216 @@
+# Andazari - Frost - 2024-08-30 06:44 - US/Thunderhorn
+# SimC Addon 10.2.0-01
+# WoW 11.0.2.56313, TOC 110002
+# Requires SimulationCraft 1000-01 or newer
+
+deathknight="Andazari"
+level=80
+race=human
+region=us
+server=thunderhorn
+role=attack
+professions=blacksmithing=61/mining=100
+spec=frost
+
+talents=CsPAAAAAAAAAAAAAAAAAAAAAAAgZGzMjxYYmxMzMzMGzMZGYYmhxYmhZmZmZmZZmBAAAAAAAAAAAAsY2MMwAzGDNshZGjZGA
+
+# Saved Loadout: Original
+# talents=CsPAtbMOTHlnKIwUyAn+DK70SDgkIJREhkIJJJRkESgQSIikQSSSSSJJAAAAAAAAAAAAgi0ECEINCCBJRkEA
+
+# Saved Loadout: 2H Build
+# talents=CsPAAAAAAAAAAAAAAAAAAAAAAAgZGzMjxYYmxMzMzMGzMZGYGMMGzMmZmZmZmZZmBAAAAAAAAAAAAsY2MMwAzGDNshZGjZGA
+
+# Saved Loadout: Icy Veins EZ 2H
+# talents=CsPAtbMOTHlnKIwUyAn+DK70SDAJSSERIRSSSSkIhERCQSikQSSSSSJJAAAAAAAAAAAAgGgAANgQQSSkAA
+# Saved Loadout: Wowhead TWW S1 Delves
+# talents=CsPAtbMOTHlnKIwUyAn+DK70SDgkIJREhkIJJJRkESgQSIikQSSSSSJJAAAAAAAAAAAAgi0ECEINCCBJRkEA
+
+# Vilewing Visor (554)
+head=,id=223405,bonus_id=11061,drop_level=80
+# Gem-Studded Pendant of the Harmonious (571)
+neck=,id=224665,bonus_id=10297/6652/10395/10393/1777/1643/10254
+# Mantle of the Weaver (558)
+shoulder=,id=223466,bonus_id=10289/1485
+# Gem-Woven Cloak of the Harmonious (564)
+back=,id=224664,bonus_id=10287/6652/1716/1636
+# Sedimentary Breastplate of the Harmonious (571)
+chest=,id=224690,bonus_id=10297/6652/1716/1643/10254
+# Stormrider's Armplates (558)
+wrist=,id=223468,bonus_id=10289/1485
+# Secret-Dredger's Gauntlets (548)
+hands=,id=211032,bonus_id=11306/6652,drop_level=79
+# Secret-Dredger's Girdle (548)
+waist=,id=211035,bonus_id=11306/6652,drop_level=79
+# Lightning-Scarred Legguards (558)
+legs=,id=223465,bonus_id=10289/1485
+# Footguards of Shallow Waters (541)
+feet=,id=223340,bonus_id=11061,drop_level=78
+# The Fallen Queen's Band (558)
+finger1=,id=223431,bonus_id=10289/1485
+# Gem-Studded Band of the Feverflare (558)
+finger2=,id=224660,bonus_id=10289/6652/10395/10392/1768/1630
+# Ravenous Honey Buzzer (571)
+trinket1=,id=219298,bonus_id=10297/10388/6652/1606/10254
+# Shining Arathor Insignia (571)
+trinket2=,id=225647,bonus_id=10297/6652/1643/10254
+# Profit Divider (571)
+main_hand=,id=221068,enchant_id=3370,bonus_id=10297/10388/6652/1606/10254
+# Algari Mace (558)
+off_hand=,id=223872,enchant_id=3368,bonus_id=10289/1485
+
+### Gear from Bags
+#
+# Secret-Dredger's Helm (522)
+# head=,id=211029,bonus_id=11306/6652,drop_level=75
+#
+# Fallen Protector Greathelm (454)
+# head=,id=210705,bonus_id=9560/9506/9599/1511/8767
+#
+# Secret-Dredger's Helm (421)
+# head=,id=211029,bonus_id=11306/6652,drop_level=70
+#
+# Wolf Packleader's Visor (467)
+# head=,id=223370,bonus_id=11061,drop_level=72
+#
+# Glittering Gelid Goldchain (480)
+# neck=,id=210380,bonus_id=8902/10341/6652/8784/10244/1511/8767
+#
+# Blood-Soaked Saronite Plated Spaulders (29)
+# shoulder=,id=38663
+#
+# Sedimentary Mantle of the Fireflash (408)
+# shoulder=,id=224695,bonus_id=10382/6652/1695,drop_level=70
+#
+# Secret-Dredger's Mantle (548)
+# shoulder=,id=211034,bonus_id=11306/6652,drop_level=79
+#
+# Dredger's Developed Pauldrons  (545)
+# shoulder=,id=222478,bonus_id=11297/11298/9623,crafted_stats=40/32,crafting_quality=1
+#
+# Sedimentary Mantle of the Fireflash (515)
+# shoulder=,id=224695,bonus_id=10382/6652/1694,drop_level=75
+#
+# Treasure-Seeker's Shawl (522)
+# back=,id=211062,bonus_id=11306/6652/11228,drop_level=75
+#
+# Secret-Dredger's Cloak (512)
+# back=,id=211006,bonus_id=11306/6652,drop_level=74
+#
+# Breastplate of Soaring Terror (372)
+# chest=,id=193753,enchant_id=6620,bonus_id=7977/6652/8816/1594/8767
+#
+# Nerubian Weaver's Chestplate (554)
+# chest=,id=223379,bonus_id=11061,drop_level=80
+#
+# Dredger's Plate Breastplate  (518)
+# chest=,id=222472,bonus_id=11295/11296/4785/9624,crafted_stats=36/32,crafting_quality=2
+#
+# Underscout's Jerkin of the Peerless (532)
+# chest=,id=224606,bonus_id=10382/6652/1688/10844,drop_level=77
+#
+# Secret-Dredger's Breastplate (535)
+# chest=,id=211030,bonus_id=11306/6652,drop_level=77
+#
+# Secret-Dredger's Armplates (447)
+# wrist=,id=211036,bonus_id=11306/6652,drop_level=71
+#
+# Olbarig's Old Vambraces (525)
+# wrist=,id=228373,bonus_id=11128,drop_level=76
+#
+# Dredger's Plate Vambraces  (515)
+# wrist=,id=222477,bonus_id=11295/11296/4785/9623/10877,crafted_stats=36/49,crafting_quality=1
+#
+# Bloodbane's Gauntlets of Command (29)
+# hands=,id=38667
+#
+# Murkshade Handguards (554)
+# hands=,id=223383,bonus_id=11061,drop_level=80
+#
+# Sedimentary Gauntlets of the Aurora (506)
+# hands=,id=224692,bonus_id=10382/6652/1710,drop_level=74
+#
+# Viper's Stone Handguards (467)
+# hands=,id=223346,bonus_id=11061,drop_level=72
+#
+# Secret-Dredger's Girdle (447)
+# waist=,id=211035,bonus_id=11306/6652,drop_level=71
+#
+# Monstrous Fungal Cord (571)
+# waist=,id=221227,bonus_id=10297/42/10877/1606/10254
+#
+# Expeditionary Shinguards of the Quickblade (532)
+# legs=,id=224612,bonus_id=10382/6652/1678/10844,drop_level=77
+#
+# Waterskipper's Legplates (509)
+# legs=,id=223352,bonus_id=11061,drop_level=74
+#
+# Earthforged Faulds of the Aurora (545)
+# legs=,id=224620,bonus_id=10382/6652/1704/10844,drop_level=79
+#
+# Deep-Dweller's Leggings of the Quickblade (545)
+# legs=,id=224598,bonus_id=10382/6652/1677/10844,drop_level=79
+#
+# Legplates of Dark Hunger (441)
+# legs=,id=223389,bonus_id=11061,drop_level=71
+#
+# Secret-Dredger's Legguards (548)
+# legs=,id=211033,bonus_id=11306/6652/11228,drop_level=79
+#
+# Dredger's Plate Sabatons  (518)
+# feet=,id=222471,bonus_id=11295/11296/4785/9624,crafted_stats=49/40,crafting_quality=2
+#
+# Compiler's Greaves (538)
+# feet=,id=228674,bonus_id=11128,drop_level=78
+#
+# Gem-Studded Band of the Feverflare (515)
+# finger1=,id=224660,bonus_id=10382/6652/10394/10393/1766,drop_level=75
+#
+# Band of Elemental Chaos (545)
+# finger1=,id=226672,bonus_id=11128,drop_level=79
+#
+# Luminescent Pearl Band (525)
+# finger1=,id=219764,bonus_id=11128,drop_level=76
+#
+# Brax's Brass Knuckle (532)
+# finger1=,id=219379,bonus_id=11128,drop_level=77
+#
+# Beautiful Blizzard Binding (467)
+# finger1=,id=210376,bonus_id=10305/8902/6652/10533/1498/8766
+#
+# Oppressive Orator's Larynx (571)
+# trinket1=,id=219318,bonus_id=10297/10388/6652/1606/10254
+#
+# Imperfect Ascendancy Serum (447)
+# trinket1=,id=225654,bonus_id=6652/11306,drop_level=71
+#
+# Imperfect Ascendancy Serum (522)
+# trinket1=,id=225654,bonus_id=6652/11306,drop_level=75
+#
+# Stormrider Flight Badge (558)
+# trinket1=,id=224161,bonus_id=10289/1485
+#
+# Horn of Declaration (441)
+# trinket1=,id=217041,bonus_id=11128/11054,drop_level=71
+#
+# Earthen Traveler's Gavel (548)
+# main_hand=,id=219461,enchant_id=3370,bonus_id=11128/11054,drop_level=79
+#
+# Algari Short Axe (558)
+# main_hand=,id=223564,enchant_id=3370,bonus_id=10289/1485
+#
+# Surgical Heartstopper (571)
+# main_hand=,id=221184,enchant_id=3368,bonus_id=10297/10388/6652/1606/10254
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2122:2/i:206959:2
+#
+# slot_high_watermarks=0:554:556/1:571:571/2:558:571/3:571:571/4:548:556/5:558:558/6:541:556/7:558:558/8:554:561/9:558:558/10:571:571/11:564:564/12:571:571/13:0:499/14:571:571/15:558:558/16:0:502
+
+# Checksum: a862dcc9

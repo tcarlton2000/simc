@@ -1,0 +1,200 @@
+# Hunterra - Beast Mastery - 2024-09-21 22:08 - US/Thunderhorn
+# SimC Addon 10.2.0-01
+# WoW 11.0.2.56625, TOC 110002
+# Requires SimulationCraft 1000-01 or newer
+
+hunter="Hunterra"
+level=80
+race=draenei
+region=us
+server=thunderhorn
+role=attack
+professions=mining=72/skinning=100
+spec=beast_mastery
+
+talents=C0PAFBU0uAhOaNI6RqWjIx917BMmxGDZBWGN0wGAAAAAAGAAAAAAADbzYMzYGmZMDjZGzMGzMzkZMjZGzMjZGzwYYmZMGmxMA
+
+# Saved Loadout: wowhead s1 delve
+# talents=C0PAFBU0uAhOaNI6RqWjIx917BMmxGDZBWGN0wGAAAAAAGAAAAAAADbzYMzYGmZMDjZGzMGzMzkZMjZGzMjZGzwYYmZMGmxMA
+
+# Unmelting Ironworker Helmet (584)
+head=,id=223293,bonus_id=10281/10377/1656/10255/10876
+# Queensfang Choker (545)
+neck=,id=225561,bonus_id=11128,drop_level=79
+# Chitinoid Shoulderguards of the Peerless (587)
+shoulder=,id=224687,bonus_id=10280/6652/1683/1659/10255/10377
+# Torchbearer's Greatcloak (603)
+back=,id=211007,bonus_id=10271/6652/10377/1508/10255
+# Lightless Scavenger's Tunic (616)
+chest=,id=212023,bonus_id=10373/6652/10263/1517/10255
+# Torchbearer's Bracers (603)
+wrist=,id=211028,bonus_id=10271/6652/10877/10377/3182/10255
+# Torchbearer's Grips (610)
+hands=,id=211023,bonus_id=10265/6652/10377/3189/10255
+# Sash of the Stygian Sea (603)
+waist=,id=219160,bonus_id=10271/6652/10876/10377/3182/10255
+# Entwined Chimeric Legguards (584)
+legs=,id=221186,bonus_id=10388/41/10293/1619/10255
+# Striders of Restless Malice (584)
+feet=,id=178745,bonus_id=10388/6652/10375/12045/10293/9849/10255
+# Fuzzy Molding Halo (603)
+finger1=,id=219189,bonus_id=10271/6652/10394/10392/3182/10255
+# Gem-Studded Band of the Peerless (584)
+finger2=,id=224660,bonus_id=6652/10394/10878/1755/10293/1656/10255
+# Imperfect Ascendancy Serum (580)
+trinket1=,id=225654,bonus_id=6652/10282/1652/10254
+# Nizrek's Holographic Manipulator (545)
+trinket2=,id=225970,bonus_id=11128,drop_level=79
+# Ancient Forged Slugthrower of the Feverflare (587)
+main_hand=,id=224704,bonus_id=10280/41/1698/1659/10255
+
+### Gear from Bags
+#
+# Final Meal's Horns (584)
+# head=,id=212428,bonus_id=6652/10877/10378/10353/10281/1485/10255
+#
+# Telonicus' Pendant of Mayhem (32)
+# neck=,id=30017
+#
+# Long-Lost Choker (548)
+# neck=,id=211063,bonus_id=9637/6652/10395/10393,drop_level=80
+#
+# Strapped Rescue-Keg (571)
+# neck=,id=221060,bonus_id=10297/10388/6652/10395/10393/1606/10254
+#
+# Chitinoid Shoulderguards of the Peerless (571)
+# shoulder=,id=224687,bonus_id=10297/6652/1689/1643/10254
+#
+# Chitinoid Shoulderguards of the Fireflash (571)
+# shoulder=,id=224687,bonus_id=10297/6652/1696/1643/10254
+#
+# Chitinoid Shoulderguards of the Feverflare (567)
+# shoulder=,id=224687,bonus_id=10286/6652/1698/1639
+#
+# Gem-Woven Cloak of the Quickblade (574)
+# back=,id=224664,bonus_id=10296/6652/1680/1646/10254
+#
+# Chef Chewie's Towel (584)
+# back=,id=221054,bonus_id=10388/6652/10293/1619/10255
+#
+# Gem-Woven Cloak of the Harmonious (567)
+# back=,id=224664,bonus_id=10286/6652/1713/1639
+#
+# Gem-Woven Shawl of the Quickblade (571)
+# back=,id=224663,bonus_id=10297/6652/1677/1643/10254
+#
+# Lightless Scavenger's Tunic (590)
+# chest=,id=212023,bonus_id=10279/10353/10373/41/1491/10255
+#
+# Torchbearer's Chainmail (584)
+# chest=,id=211021,bonus_id=10281/6652/10377/3163/10255
+#
+# Goresplattered Membrane (584)
+# chest=,id=212421,bonus_id=6652/10378/10353/10281/1485/10255
+#
+# Chainmail of Depleting Brilliance (584)
+# chest=,id=223298,bonus_id=10281/10377/1656/10255
+#
+# Chitinoid Bracers of the Aurora (571)
+# wrist=,id=224689,bonus_id=10297/6652/10876/1706/1643/10254
+#
+# Chitinoid Bracers of the Aurora (567)
+# wrist=,id=224689,bonus_id=10286/6652/10877/1707/1639
+#
+# Wrist Bindings of the Stygian Sea (603)
+# wrist=,id=219159,bonus_id=10271/6652/10877/10377/3182/10255
+#
+# Claws of Tainted Ichor (580)
+# hands=,id=221162,bonus_id=10294/10388/6652/10375/12045/1615/10254
+#
+# Torchbearer's Grips (603)
+# hands=,id=211023,bonus_id=10271/6652/10377/3182/10255
+#
+# Chitinoid Grips of the Quickblade (571)
+# hands=,id=224684,bonus_id=6652/1676/10285/1643/10254
+#
+# Cinch of Lingering Influence (571)
+# waist=,id=221168,bonus_id=10297/10388/6652/10876/1606/10254
+#
+# Torchbearer's Cinch (554)
+# waist=,id=211027,bonus_id=11306/6652/10375,drop_level=80
+#
+# Anchor Chain Girdle (584)
+# waist=,id=159386,bonus_id=10388/6652/10876/10375/12045/10293/9992/10255
+#
+# Chitinoid Greaves of the Peerless (561)
+# legs=,id=224686,bonus_id=10288/6652/1684/1633
+#
+# Chitinoid Striders of the Aurora (564)
+# feet=,id=224683,bonus_id=10287/6652/1710/10375/1636
+#
+# Silksteel Striders (580)
+# feet=,id=221152,bonus_id=10294/10388/6652/10375/12045/1615/10254
+#
+# Silksteel Striders (580)
+# feet=,id=221152,bonus_id=10294/10388/42/10375/12045/1615/10254
+#
+# Ring of Dun Algaz (580)
+# finger1=,id=133287,bonus_id=10294/10388/6652/10395/10393/12045/10010/10254
+#
+# Gem-Studded Signet of the Aurora (571)
+# finger1=,id=224661,bonus_id=10297/41/10395/10392/1775/1643/10254
+#
+# Ring-Bound Hourglass  (502)
+# finger1=,id=193000,enchant_id=6549,gem_id=192922,bonus_id=8836/8840/8902/8780/9405/8791/10249,crafted_stats=32/36,crafting_quality=5
+#
+# Gem-Studded Ring of the Aurora (584)
+# finger1=,id=224662,bonus_id=10281/6652/10395/10392/1773/1656/10255
+#
+# Commemorative Light's Gambit Championship Signet (571)
+# finger1=,id=223432,bonus_id=10285/1498/10254
+#
+# Gem-Studded Band of the Aurora (558)
+# finger1=,id=224660,bonus_id=10289/6652/10395/10393/1771/1630
+#
+# Gem-Studded Signet of the Feverflare (564)
+# finger1=,id=224661,bonus_id=10287/6652/10395/10392/1769/1636
+#
+# Gem-Studded Band of the Fireflash (561)
+# finger1=,id=224660,bonus_id=10288/6652/10394/10392/1762/1633
+#
+# Esteemed Earthen Emblem (515)
+# trinket1=,id=219018,bonus_id=11128,drop_level=75
+#
+# Vengeful Fire Spirit (506)
+# trinket1=,id=219014,bonus_id=11128,drop_level=74
+#
+# Arathi Demolition Charge (532)
+# trinket1=,id=220118,bonus_id=11128,drop_level=77
+#
+# Detachable Fang (512)
+# trinket1=,id=225657,bonus_id=6652/11306,drop_level=74
+#
+# Concoction: Kiss of Death (535)
+# trinket1=,id=215174,bonus_id=11306/6652,drop_level=77
+#
+# Stormpike Insignia Rank 6 (29)
+# trinket1=,id=17904
+#
+# Ancient Forged Slugthrower of the Peerless (561)
+# main_hand=,id=224704,bonus_id=10288/6652/1689/1633
+#
+# Ancient Forged Slugthrower of the Aurora (584)
+# main_hand=,id=224704,bonus_id=10281/6652/1704/1656/10255
+#
+# The Devouring Cold (220)
+# main_hand=,id=187056,bonus_id=7186/6652/1459/6646/7723
+#
+# Ancient Forged Slugthrower of the Fireflash (567)
+# main_hand=,id=224704,bonus_id=10286/6652/1694/1639
+#
+# Ancient Forged Slugthrower of the Feverflare (567)
+# main_hand=,id=224704,bonus_id=10286/6652/1701/1639
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2122:7/i:206959:7/i:190453:3
+#
+# slot_high_watermarks=0:584:584/1:571:584/2:587:587/3:616:616/4:603:603/5:584:584/6:584:584/7:603:603/8:610:610/9:584:584/10:545:584/11:603:603/12:587:587/13:0:574/14:1:584/15:0:584/16:0:561
+
+# Checksum: d43a354
