@@ -1,0 +1,262 @@
+# Carlement - Elemental - 2024-11-29 09:00 - US/Blade's Edge
+# SimC Addon 11.0.5-01
+# WoW 11.0.5.57689, TOC 110005
+# Requires SimulationCraft 1000-01 or newer
+
+shaman="Carlement"
+level=80
+race=maghar_orc
+region=us
+server=blades_edge
+role=spell
+
+spec=elemental
+
+talents=CYQAYp+JUk5Lea12OyacsLNThAAAAAAMbzyyMzMGzitZMgZmZAAAAAwmZWgBMBzCTIzCAY2mmhhtFzMTYmZGDmxM22mlBLmxYMzMzCDA
+
+# Saved Loadout: wowhead tww s1 delve
+# talents=CYQAYp+JUk5Lea12OyacsLNThAAAAAAMbzyyMzMGzitZMgZmZAAAAAwmZWgBMgZhBYWAAz2YGG2WMzMwMzMGMjZstNLDWMjxYmZmFGA
+
+# Charred Nerubian Helm (483)
+head=,id=219749,bonus_id=11128,drop_level=73
+# Empowered Tinderbox (584)
+neck=,id=220157,bonus_id=10281/6652/10395/10392/1656/10255
+# Mana-Frosted Pauldrons (590)
+shoulder=,id=150544,bonus_id=10279/10376/10383/10028/10255
+# Gem-Woven Shawl of the Peerless (587)
+back=,id=224663,bonus_id=10280/6652/1684/10377/1659/10255
+# Deathdealer Breastplate (600)
+chest=,id=231431,bonus_id=6652/10376/10272/12093/10383/1488/10255
+# Malevolent Gladiator's Armbands of Prowess (590)
+wrist=,id=227624,bonus_id=10279/10376/10876/10383/10018/10255
+# Darkspinner Claws (567)
+hands=,id=13532,bonus_id=6652/10286/7756/12090/10007
+# Streamtalker Girdle (467)
+waist=,id=154007,bonus_id=11073,drop_level=70
+# Liquified Defector's Leggings (593)
+legs=,id=212435,bonus_id=6652/10378/10353/10278/1494/10255
+# The Fifth's Linked Treads (600)
+feet=,id=231473,bonus_id=6652/10376/10272/12093/10383/1488/10255
+# Unearthed Relic Band (509)
+finger1=,id=211061,bonus_id=11190/6652,drop_level=74
+# Emperor's Seal (593)
+finger2=,id=231437,bonus_id=6652/10395/10393/10278/12092/10383/1481/10255
+# Unstable Power Suit Core (590)
+trinket1=,id=225668,bonus_id=10279/42/1662/10255
+# Streamtalker Stone of Wisdom (467)
+trinket2=,id=153997,bonus_id=11073,drop_level=70
+# The Hammer of Grace (587)
+main_hand=,id=231428,bonus_id=6652/10280/12092/10384/1475/10255
+# Stoneshell Guard (584)
+off_hand=,id=231394,bonus_id=6652/10281/12092/10383/1472/10255
+
+### Gear from Bags
+#
+# Streamtalker Cowl (467)
+# head=,id=154003,bonus_id=11073,drop_level=70
+#
+# Honorary Tinderbox (571)
+# neck=,id=219503,bonus_id=10297/6652/10395/10393/1643/10254
+#
+# Streamtalker Necklace (467)
+# neck=,id=153993,bonus_id=11073,drop_level=70
+#
+# Remembrance of the Fallen City (483)
+# neck=,id=219754,bonus_id=11128,drop_level=73
+#
+# Nacreous Shell Necklace (567)
+# neck=,id=22403,bonus_id=6652/8811/10286/7756/10395/10393/12090/10009
+#
+# Nerubian Mantle (462)
+# shoulder=,id=188428,bonus_id=11069/7756,drop_level=72
+#
+# Torchbearer's Shoulderguards (545)
+# shoulder=,id=211026,bonus_id=11190/6652/10375,drop_level=79
+#
+# Streamtalker Spaulders (467)
+# shoulder=,id=154006,bonus_id=11073,drop_level=70
+#
+# Streamtalker Cloak of Wisdom (467)
+# back=,id=153992,bonus_id=11073,drop_level=70
+#
+# Secret-Dredger's Cloak (519)
+# back=,id=211006,bonus_id=11190/6652/10375,drop_level=75
+#
+# Sporefused Chainmail (515)
+# chest=,id=219769,bonus_id=11128,drop_level=75
+#
+# Hauberk of Totemic Mastery (415)
+# chest=,id=127535,bonus_id=11069/7756,drop_level=70
+#
+# Valorous Worldbreaker Hauberk (610)
+# chest=,id=156134,bonus_id=10265/7756/10376/8902/10383/10042/10255
+#
+# Streamtalker Vest (467)
+# chest=,id=154000,bonus_id=11073,drop_level=70
+#
+# Streamtalker Bracers (467)
+# wrist=,id=154008,bonus_id=11073,drop_level=70
+#
+# Wanted Nerubian's Bands (538)
+# wrist=,id=227918,bonus_id=11128,drop_level=78
+#
+# Olbarig's Old Cuffs (539)
+# wrist=,id=228372,bonus_id=11128/11055,drop_level=77
+#
+# Bracers of the Titancap (509)
+# wrist=,id=223366,bonus_id=11061,drop_level=74
+#
+# Bands of Channeled Energy (462)
+# wrist=,id=127582,bonus_id=11069/7756,drop_level=72
+#
+# Streamtalker Grips (467)
+# hands=,id=154002,bonus_id=11073,drop_level=70
+#
+# Dracorian Gauntlets (567)
+# hands=,id=13344,bonus_id=6652/10286/7756/12090/10007
+#
+# Viper's Stone Gauntlets (518)
+# hands=,id=223348,bonus_id=11061,drop_level=75
+#
+# Gossamer Belt of the Fireflash (357)
+# waist=,id=7526,bonus_id=6654/1691,drop_level=80
+#
+# Wanderer's Belt of the Fireflash (357)
+# waist=,id=10109,bonus_id=6654/1694,drop_level=80
+#
+# Streamtalker Leggings (467)
+# legs=,id=154004,bonus_id=11073,drop_level=70
+#
+# Torchbearer's Greaves (548)
+# legs=,id=211025,bonus_id=11190/11310/6652/10375,drop_level=79
+#
+# Valorous Legguards (357)
+# legs=,id=8280,bonus_id=6654,drop_level=80
+#
+# Patroller's War-Kilt (438)
+# legs=,id=127505,bonus_id=11069/7756,drop_level=71
+#
+# Timmy's Galoshes (567)
+# feet=,id=13402,bonus_id=6652/10286/7756/12090/10009
+#
+# Sezz'ziz's Captive Kickers (567)
+# feet=,id=151458,bonus_id=6652/10286/7756/12090/10009
+#
+# Streamtalker Sabatons (467)
+# feet=,id=154001,bonus_id=11073,drop_level=70
+#
+# Regal Boots of the Aurora (357)
+# feet=,id=7472,bonus_id=6654/1707,drop_level=80
+#
+# Boots of Kix'arak's Bane (525)
+# feet=,id=228376,bonus_id=11128,drop_level=76
+#
+# Band of the Relic Bearer (528)
+# finger1=,id=223376,bonus_id=11061,drop_level=76
+#
+# Naglering (600)
+# finger1=,id=231396,bonus_id=6652/10395/10392/10272/12093/10383/1488/10255
+#
+# Luminescent Pearl Band (515)
+# finger1=,id=219764,bonus_id=11128,drop_level=75
+#
+# Streamtalker Ring of Wisdom (467)
+# finger1=,id=153995,bonus_id=11073,drop_level=70
+#
+# Streamtalker Band of Wisdom (467)
+# finger1=,id=153996,bonus_id=11073,drop_level=70
+#
+# Streamtalker Idol of Wisdom (467)
+# trinket1=,id=153994,bonus_id=11073,drop_level=70
+#
+# Winged Talisman (438)
+# trinket1=,id=127512,bonus_id=11069/7756,drop_level=71
+#
+# Kaheti Shadeweaver's Emblem (538)
+# trinket1=,id=225651,bonus_id=6652/11190,drop_level=78
+#
+# Moon Cleaver of the Fireflash (357)
+# main_hand=,id=15236,bonus_id=6655/1693,drop_level=80
+#
+# Guiding Stave of Wisdom (590)
+# main_hand=,id=231435,bonus_id=6652/10279/12092/10384/1478/10255
+#
+# Smashing Star of the Aurora (357)
+# main_hand=,id=15228,bonus_id=6655/1706,drop_level=80
+#
+# Guiding Stave of Wisdom (603)
+# main_hand=,id=231435,bonus_id=6652/10271/12093/10384/1491/10255
+#
+# Streamtalker Talons (467)
+# main_hand=,id=170726,bonus_id=11073,drop_level=70
+#
+# Guiding Stave of Wisdom (590)
+# main_hand=,id=231435,bonus_id=6652/10279/12092/10384/1478/10255
+#
+# Streamtalker Talons (467)
+# main_hand=,id=170726,bonus_id=11073,drop_level=70
+#
+# War Mace of Unrequited Love (462)
+# main_hand=,id=127596,bonus_id=11069/7756,drop_level=72
+#
+# Arachnophobic Spelunker's Scepter (506)
+# main_hand=,id=219792,bonus_id=11128,drop_level=74
+#
+# Luminous Lampspire (538)
+# main_hand=,id=211059,bonus_id=11190/6652,drop_level=78
+#
+# Streamtalker Claws (467)
+# main_hand=,id=170724,bonus_id=11073,drop_level=70
+#
+# Arm Blade of Augelmir (554)
+# main_hand=,id=188432,bonus_id=11069/7756,drop_level=80
+#
+# Lapidarius Gemcutter (545)
+# main_hand=,id=211047,bonus_id=11190/6652,drop_level=79
+#
+# Gift of the Elven Magi (567)
+# main_hand=,id=13360,bonus_id=6652/10286/7756/12091/10009
+#
+# Streamtalker Slicers (467)
+# main_hand=,id=153999,bonus_id=11073,drop_level=70
+#
+# Streamtalker Shield (467)
+# off_hand=,id=154005,bonus_id=11073,drop_level=70
+#
+# Streamtalker Aegis (467)
+# off_hand=,id=170725,bonus_id=11073,drop_level=70
+#
+# Cured Terracotta Shield (506)
+# off_hand=,id=219798,bonus_id=11128,drop_level=74
+
+### Weekly Reward Choices
+#
+# Rattling Deadeye Hood (593)
+# head=,id=178738,bonus_id=10278/10388/6652/10876/10377/10383/9878/10255
+#
+# Candle Confidant (584)
+# trinket1=,id=225648,bonus_id=6652/10281/1656/10255
+#
+# Vestments of the Forgotten Reservoir (584)
+# chest=,id=212014,bonus_id=10373/6652/10281/1485/10255
+#
+# Final Meal's Horns (584)
+# head=,id=212428,bonus_id=6652/10877/10378/10353/10281/1485/10255
+#
+# Mad Queen's Mandate (593)
+# trinket1=,id=212454,bonus_id=6652/10353/10278/1494/10255
+#
+# Husk of Swallowing Darkness (584)
+# off_hand=,id=212386,bonus_id=6652/10353/10281/1485/10255
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2915:319/c:2914:381/c:3008:1808
+#
+# slot_high_watermarks=0:483:619/1:584:606/2:590:619/3:610:619/4:467:616/5:593:619/6:600:610/7:590:616/8:567:616/9:593:619/10:538:610/11:587:616/12:603:619/13:587:610/14:554:616/15:467:606/16:584:606
+#
+# upgrade_achievements=40107/40115
+
+# Checksum: a7232bca

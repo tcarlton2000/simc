@@ -1,0 +1,249 @@
+# Andazaros - Holy - 2024-10-17 20:05 - US/Thunderhorn
+# SimC Addon 11.0.2-02
+# WoW 11.0.2.56819, TOC 110002
+# Requires SimulationCraft 1000-01 or newer
+
+priest="Andazaros"
+level=80
+race=human
+region=us
+server=thunderhorn
+role=attack
+professions=tailoring=69/enchanting=40
+spec=holy
+
+talents=CEQAJSbRac/22NxZbHdYKOQzcwYAAAAAAAYZYGLPwgZmZMwMmhxyMzsMAAAAAWmthlZGYWYWmxMjxYhNmZmaWAwMLYhwYWGQjFYB
+
+# Saved Loadout: Icy Veins
+# talents=CEQAJSbRac/22NxZbHdYKOQzcwAAAAAAAAAz2D4CmZmxMMLDzMzGLzwyAAAAAMbXw2w2MzAYMzMzYMWAzMDzCAAAAAAA
+# Saved Loadout: Icy Veins Lightweaver
+# talents=CEQAJSbRac/22NxZbHdYKOQzcwAAAAAAAALDjZBDjxMGmZmZcBWmZGAAAAAmtLYbYZm5BwswYGjxYssBzMDzCAAAAAAA
+# Saved Loadout: incorporeal
+# talents=CEQAJSbRac/22NxZbHdYKOQzcwYAAAAAAAYZYGLPwgZmZMwMmhxyMzsMAAAAAWmthlZGYWYWmxMjxYhNmZGmFAMzCWAGzyAMWgF
+
+# Living Luster's Semblance (584)
+head=,id=212083,bonus_id=10371/6652/10877/10281/1485/10255
+# Gem-Studded Pendant of the Harmonious (584)
+neck=,id=224665,bonus_id=10281/6652/10394/10393/1779/1656/10255
+# Mineral-Sparkled Mantle (584)
+shoulder=,id=223289,bonus_id=10281/10377/1656/10255
+# Gem-Woven Cloak of the Feverflare (571)
+back=,id=224664,bonus_id=6652/1697/10375/10285/1643/10254
+# Alighted Robes of the Fireflash (590)
+chest=,id=224666,bonus_id=6652/1694/10291/1662/10255
+# Vitriolic Veinwoven Wraps (571)
+wrist=,id=221182,bonus_id=10297/10388/6652/10397/1606/10254
+# Living Luster's Touch (584)
+hands=,id=212084,bonus_id=10372/40/10281/1485/10255
+# Cave Topographer's Cord (603)
+waist=,id=211013,bonus_id=10271/6652/10877/10377/3182/10255
+# Archaic Venomancer's Footwraps (580)
+legs=,id=221164,bonus_id=10294/10388/6652/10375/12045/1615/10254
+# Cave Topographer's Sandals (603)
+feet=,id=211009,bonus_id=10271/6652/10377/3182/10255
+# Band of the Ancient Dredger (580)
+finger1=,id=159461,bonus_id=10294/10388/6652/10395/10392/12045/9988/10254
+# Fuzzy Molding Halo (603)
+finger2=,id=219189,bonus_id=10271/6652/10394/10878/3182/10255
+# Mereldar's Toll (580)
+trinket1=,id=219313,bonus_id=10294/10388/6652/12045/1615/10254
+# Unstable Power Suit Core (574)
+trinket2=,id=225668,bonus_id=10296/40/6652/1646/10254
+# Scalding Queenmaker's Shiv (584)
+main_hand=,id=221062,bonus_id=10388/6652/10293/1619/10255
+# Ancient Forged Curio of the Aurora (584)
+off_hand=,id=224711,bonus_id=10281/6652/1709/1656/10255
+
+### Gear from Bags
+#
+# Elysian Flame Crown (571)
+# head=,id=221131,bonus_id=10297/10388/6652/10877/1606/10254
+#
+# Alighted Cowl of the Quickblade (574)
+# head=,id=224669,bonus_id=10296/6652/10877/1677/1646/10254
+#
+# Alighted Cowl of the Peerless (564)
+# head=,id=224669,bonus_id=10287/6652/10876/1686/10375/1636
+#
+# Pioneer's Perfected Mantle  (548)
+# shoulder=,id=222839,bonus_id=11297/11298/9624,crafted_stats=49/40,crafting_quality=2
+#
+# Alighted Shoulderpads of the Peerless (584)
+# shoulder=,id=224671,bonus_id=10281/6652/1688/10377/1656/10255
+#
+# Pioneer's Perfected Mantle  (548)
+# shoulder=,id=222839,bonus_id=11297/11298/9624,crafted_stats=49/36,crafting_quality=2
+#
+# Gem-Woven Cloak of the Harmonious (564)
+# back=,id=224664,bonus_id=10287/6652/1714/1636
+#
+# Warphorn's Resilient Mane (554)
+# chest=,id=223341,bonus_id=11061,drop_level=80
+#
+# Alighted Robes of the Fireflash (590)
+# chest=,id=224666,bonus_id=10279/6652/1696/1662/10255
+#
+# Alighted Robes of the Fireflash (584)
+# chest=,id=224666,bonus_id=10281/6652/1692/1656/10255
+#
+# Living Luster's Raiment (590)
+# chest=,id=212086,bonus_id=10279/10353/10373/41/1491/10255
+#
+# Expeditionary Gauntlets of the Feverflare (564)
+# hands=,id=224610,bonus_id=10287/6652/1702/10844/1491
+#
+# Alighted Handwraps of the Feverflare (584)
+# hands=,id=224668,bonus_id=10281/6652/1699/10377/1656/10255
+#
+# Alighted Handwraps of the Peerless (584)
+# hands=,id=224668,bonus_id=10281/43/1689/10377/1656/10255
+#
+# Pioneer's Perfected Gloves  (548)
+# hands=,id=222840,bonus_id=11297/11298/9624,crafted_stats=36/40,crafting_quality=2
+#
+# Earthforged Handguards of the Aurora (558)
+# hands=,id=224619,bonus_id=10289/6652/1710/10844/1485
+#
+# Shattered Eye Cincture (610)
+# waist=,id=212430,bonus_id=6652/10877/10379/10355/10265/1511/10255
+#
+# Redhook's Cummerbund (580)
+# waist=,id=159965,bonus_id=10294/10388/6652/10877/10375/12045/9988/10254
+#
+# Pioneer's Perfected Cord  (554)
+# waist=,id=222834,bonus_id=11297/11298/9626/10877,crafted_stats=49/40,crafting_quality=4
+#
+# Burrower's Cinch (541)
+# waist=,id=221158,bonus_id=10385/10387/6652,drop_level=78
+#
+# Alighted Cord of the Aurora (571)
+# waist=,id=224672,bonus_id=10297/6652/10877/1705/1643/10254
+#
+# Pioneer's Perfected Leggings  (554)
+# legs=,id=222838,bonus_id=11297/11298/9626,crafted_stats=32/49,crafting_quality=4
+#
+# Pioneer's Perfected Leggings  (570)
+# legs=,id=222838,bonus_id=11297/11298/9626/11331/8793,crafted_stats=49/40,crafting_quality=4
+#
+# Waterskipper's Trousers (554)
+# legs=,id=223353,bonus_id=11061,drop_level=80
+#
+# Alighted Sandals of the Fireflash (564)
+# feet=,id=224667,bonus_id=10287/6652/1690/10375/1636
+#
+# Tainted Earthshard Walkers (548)
+# feet=,id=221082,bonus_id=10385/10387/6652,drop_level=79
+#
+# Cloudstrider Soles (541)
+# feet=,id=221043,bonus_id=10385/10387/6652,drop_level=78
+#
+# Deep-Dweller's Slippers of the Peerless (571)
+# feet=,id=224595,bonus_id=6652/1685/10844/10285/1498/10254
+#
+# Tainted Earthshard Walkers (528)
+# feet=,id=221082,bonus_id=10385/10387/6652,drop_level=76
+#
+# Cloudstrider Soles (571)
+# feet=,id=221043,bonus_id=10297/10388/6652/1606/10254
+#
+# Radiant Necromancer's Band (541)
+# finger1=,id=221200,bonus_id=10385/10387/6652/10395/10392,drop_level=78
+#
+# Hollow Ring (400)
+# finger1=,id=226245
+#
+# Rime Ridden Ring (476)
+# finger1=,id=210378,bonus_id=8902/6652/10533/10308/1507/8766
+#
+# 85-Year Tenure Ring (554)
+# finger1=,id=221198,bonus_id=10385/10387/6652/10394/10392,drop_level=80
+#
+# Gem-Studded Band of the Harmonious (561)
+# finger1=,id=224660,bonus_id=10288/6652/10395/10878/1780/1633
+#
+# Earthmender's Signet (554)
+# finger1=,id=228380,enchant_id=7335,bonus_id=11128/11054,drop_level=80
+#
+# Signet of Titanic Insight  (502)
+# finger1=,id=192999,enchant_id=6555,gem_id=192912,bonus_id=8836/8840/8902/8780/9405/8793/8932/8960/10249,crafted_stats=40/49,crafting_quality=5
+#
+# Wick's Golden Loop (554)
+# finger1=,id=221099,bonus_id=11338/10386/6652/10395/10392
+#
+# Devout Zealot's Ring (580)
+# finger1=,id=221136,bonus_id=10294/10388/6652/10395/10392/12045/1615/10254
+#
+# Gem-Studded Band of the Feverflare (571)
+# finger1=,id=224660,enchant_id=7335,bonus_id=10297/6652/10395/10392/1767/1643/10254
+#
+# Signet of the Priory (574)
+# trinket1=,id=219308,bonus_id=10388/6652/10296/1609/10254
+#
+# Bitterest Balebrew Charm (571)
+# trinket1=,id=117361,bonus_id=10297/9994/10254
+#
+# Imperfect Ascendancy Serum (561)
+# trinket1=,id=225654,bonus_id=10288/6652/1633
+#
+# Imperfect Ascendancy Serum (561)
+# trinket1=,id=225654,bonus_id=10288/6652/1633
+#
+# Unstable Power Suit Core (554)
+# trinket1=,id=225668,bonus_id=11306,drop_level=80
+#
+# Horn of Declaration (545)
+# trinket1=,id=217041,bonus_id=11128,drop_level=79
+#
+# Harvester's Edict (580)
+# trinket1=,id=219317,bonus_id=10294/10388/6652/12045/1615/10254
+#
+# Shining Arathor Insignia (584)
+# trinket1=,id=225647,bonus_id=10281/6652/1656/10255
+#
+# Ara-Kara Sacbrood (580)
+# trinket1=,id=219314,bonus_id=10294/10388/42/12045/1615/10254
+#
+# Unstable Power Suit Core (567)
+# trinket1=,id=225668,bonus_id=10286/6652/1639
+#
+# Cirral Concoctory (571)
+# trinket1=,id=219321,bonus_id=10297/10388/6652/1606/10254
+#
+# Entropic Skardyn Core (541)
+# trinket1=,id=219296,bonus_id=10385/10387/6652,drop_level=78
+#
+# Krix'vizk's Speech Rod (580)
+# main_hand=,id=221166,bonus_id=10294/10388/6652/12046/1615/10254
+#
+# Ancient Forged Spellstaff of the Aurora (567)
+# main_hand=,id=224710,bonus_id=10286/6652/1708/1639
+#
+# Takazj's Entropic Edict (593)
+# main_hand=,id=212397,bonus_id=6652/10353/10278/1494/10255
+#
+# Ancient Forged Spellstaff of the Harmonious (584)
+# main_hand=,id=224710,bonus_id=10281/6652/1717/1656/10255
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+
+### Weekly Reward Choices
+#
+# Trailspinner Pendant (593)
+# neck=,id=178707,bonus_id=10278/10388/6652/10395/10392/10383/9878/10255
+#
+# Living Luster's Touch (616)
+# hands=,id=212084,bonus_id=10372/6652/10263/1517/10255
+#
+# Living Luster's Trousers (584)
+# legs=,id=212082,bonus_id=10370/6652/10281/1485/10255
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2915:260/c:2916:6/c:2122:4/c:2914:295/c:3008:1937/i:206959:9/i:228339:2/i:206960:1/i:204682:1
+#
+# slot_high_watermarks=0:584:610/1:584:606/2:584:619/3:590:619/4:610:610/5:580:606/6:603:606/7:571:606/8:584:610/9:580:610/10:580:610/11:571:616/12:584:619/13:584:597/14:418:603/15:1:584/16:584:603
+
+# Checksum: 1f38986c

@@ -1,0 +1,297 @@
+# Forfite - Balance - 2024-11-19 15:40 - US/Thunderhorn
+# SimC Addon 11.0.5-01
+# WoW 11.0.5.57637, TOC 110005
+# Requires SimulationCraft 1000-01 or newer
+
+druid="Forfite"
+level=80
+race=night_elf
+region=us
+server=thunderhorn
+role=attack
+professions=leatherworking=83/alchemy=26
+spec=balance
+
+talents=CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUwMzwYmZAzMMzMgZbmZzsMz2MzixMzMzsZMGmZsBWAwAstNWw0Mz2IAAAAbmZMA
+
+# Saved Loadout: Icy Veins M+
+# talents=CkGAvcQZXENQPQXqed372Hg2KiZmxmZmZmZxsdBzAPwyGbbz2MAAAAAAAAAAAAWmBcBz4CYAmh5CGz8BDYmtZAAAAAAGAAAAAAAAAAAAA
+# Saved Loadout: wowhead m+
+# talents=CkGAvcQZXENQPQXqed372Hg2KuxMzYjZmZmFz2FMD8ALLstNmBAAAAAAAAAAAgBDzMGGgZghxAYDAAAAAgBAgZAAAAAAAAAAA
+# Saved Loadout: wowhead s1 raid
+# talents=CkGAvcQZXENQPQXqed372Hg2KuNmZGLbjZmxiZBzYstNsYbGAAAAAAAAAAAALzAmhxMMzAmxMzMzwM2mBAAAAAYAAwAWWGLYMzsMAAAAWYMAmB
+
+# Inflammable Forging Goggles (593)
+head=,id=212107,bonus_id=10377/10876/10278/1665/10255
+# Gem-Studded Pendant of the Aurora (597)
+neck=,id=224665,bonus_id=6652/10395/10393/1773/10277/1669/10255
+# Runetotem's Mantle (610)
+shoulder=,id=171480,bonus_id=10265/7756/10376/8902/10383/10017/10255
+# Torchbearer's Greatcloak (616)
+back=,id=211007,bonus_id=10263/6652/10377/1521/10255
+# Omnivore's Venomous Camouflage (593)
+chest=,id=212433,bonus_id=6652/10378/10353/10278/1494/10255
+# Treasure-Seeker's Bindings (603)
+wrist=,id=211020,bonus_id=10271/6652/10877/10377/3182/10255
+# Myconic Clutches (610)
+hands=,id=219172,bonus_id=10265/6652/10377/3189/10255
+# Lockstitch Sash of the Feverflare (593)
+waist=,id=224680,bonus_id=6652/10877/1698/10377/10278/1665/10255
+# Leggings of Frenzied Magic (597)
+legs=,id=231449,bonus_id=10376/6652/10273/12093/10383/1485/10255
+# Deep Dweller's Tabi (603)
+feet=,id=225732,bonus_id=6652/10376/10354/10271/1504/10255
+# Emperor's Seal (606)
+finger1=,id=231437,bonus_id=6652/10394/10393/10270/12093/10383/1494/10255
+# Gem-Studded Ring of the Fireflash (593)
+finger2=,id=224662,bonus_id=6652/10394/10393/1761/10278/1665/10255
+# Mad Queen's Mandate (603)
+trinket1=,id=212454,bonus_id=6652/10353/10275/1504/10255
+# Concoction: Kiss of Death (603)
+trinket2=,id=215174,bonus_id=10271/6652/3282/10255
+# Takazj's Entropic Edict (593)
+main_hand=,id=212397,bonus_id=41/10353/10278/1494/10255
+
+### Gear from Bags
+#
+# Drowsed Shepherd's Hood (454)
+# head=,id=210707,enchant_id=7052,bonus_id=9560/9506/9599/1511/8767
+#
+# The Horseman's Horrific Hood (584)
+# head=,id=117355,bonus_id=10281/10397/10007/10255
+#
+# Lockstitch Headgear of the Fireflash (558)
+# head=,id=224677,bonus_id=10289/6652/10876/1694/10375/1630
+#
+# Honorary Tinderbox (571)
+# neck=,id=219503,bonus_id=10297/6652/10394/10392/1643/10254
+#
+# Empowered Tinderbox (584)
+# neck=,id=220157,bonus_id=10281/6652/10394/10392/1656/10255
+#
+# "Emergency Stop" Keychain (535)
+# neck=,id=221077,bonus_id=10385/10387/6652/10395/10392,drop_level=77
+#
+# "Emergency Stop" Keychain (580)
+# neck=,id=221077,bonus_id=10294/10388/6652/10395/10393/12045/1615/10254
+#
+# Slumbering Ursine Talisman (499)
+# neck=,id=208443,bonus_id=6652/8784/10244/7979/10315/10884/1530/8767
+#
+# Cold Crisp Collar (502)
+# neck=,id=210379,bonus_id=8902/10316/6652/8784/10244/1533/8767
+#
+# Darkened Tinderbox (597)
+# neck=,id=220158,bonus_id=10273/6652/10394/10392/1669/10255
+#
+# Whispering Umbral Mantle (580)
+# shoulder=,id=221094,bonus_id=10294/10388/6652/10375/12045/1615/10254
+#
+# Shoulderpads of the Steamsurger (554)
+# shoulder=,id=223356,bonus_id=11061,drop_level=80
+#
+# Lockstitch Epaulets of the Fireflash (584)
+# shoulder=,id=224679,bonus_id=10281/6652/1694/10377/1656/10255
+#
+# Flamewalker Scale Spaulders (603)
+# shoulder=,id=231485,bonus_id=43/10376/10271/12093/10383/1491/10255
+#
+# Treasure-Seeker's Shawl (603)
+# back=,id=211062,bonus_id=10271/6652/10377/1508/10255
+#
+# Cave Topographer's Drape (603)
+# back=,id=211005,bonus_id=10271/6652/10377/1508/10255
+#
+# Treasure-Seeker's Shawl (548)
+# back=,id=211062,bonus_id=9637/6652/10375,drop_level=80
+#
+# Gem-Woven Shawl of the Fireflash (584)
+# back=,id=224663,bonus_id=10281/6652/1694/10377/1656/10255
+#
+# Amice of Hidden Stars (603)
+# back=,id=219183,bonus_id=10271/6652/10377/3182/10255
+#
+# Warphorn's Resilient Vest (554)
+# chest=,id=223344,bonus_id=11061,drop_level=80
+#
+# Flamestrider Robes (603)
+# chest=,id=231401,bonus_id=6652/10376/10271/12093/10383/1491/10255
+#
+# Lockstitch Vest of the Quickblade (577)
+# chest=,id=224674,bonus_id=10295/6652/1677/10375/1649/10254
+#
+# Tabard of Summer Flames (1)
+# tabard=,id=35280
+#
+# Wristguards of Renown (603)
+# wrist=,id=231441,bonus_id=6652/10877/10376/12093/10383/10271/1491/10255
+#
+# Cinderhide Armsplints (600)
+# wrist=,id=231404,bonus_id=6652/10876/10376/10272/12093/10383/1488/10255
+#
+# Cuffs of the Titancap (554)
+# wrist=,id=223367,bonus_id=11061,drop_level=80
+#
+# Lockstitch Grips of the Peerless (564)
+# hands=,id=224676,bonus_id=10287/6652/1689/10375/1636
+#
+# Myconic Strap (603)
+# waist=,id=219168,bonus_id=10271/6652/10876/10377/3182/10255
+#
+# Inflammable Forging Cinch (597)
+# waist=,id=223306,bonus_id=10273/10377/10876/1669/10255
+#
+# Umbrahide Waistguard (190)
+# waist=,id=172320,bonus_id=6716/7194/8156/1487
+#
+# Brewery Toiler's Waistband (518)
+# waist=,id=221058,bonus_id=10385/10387/6652,drop_level=75
+#
+# Treasure-Seeker's Breeches (554)
+# legs=,id=211018,bonus_id=11306/6652/10375,drop_level=80
+#
+# Waterskipper's Leggings (554)
+# legs=,id=223355,bonus_id=11061,drop_level=80
+#
+# Elize's Everlasting Encasement (251)
+# legs=,id=137067,bonus_id=3459/3630,drop_level=45
+#
+# Trousers of Dark Hunger (554)
+# legs=,id=223392,bonus_id=11061,drop_level=80
+#
+# Lockstitch Waders of the Aurora (567)
+# feet=,id=224675,bonus_id=10286/6652/1709/10375/1639
+#
+# Swiftwalker Boots (593)
+# feet=,id=231438,bonus_id=6652/10378/10278/12092/10383/1481/10255
+#
+# Lockstitch Waders of the Quickblade (564)
+# feet=,id=224675,bonus_id=10287/6652/1679/10375/1636
+#
+# Beautiful Blizzard Binding (480)
+# finger1=,id=210376,bonus_id=8902/10341/6652/10533/1511/8767
+#
+# Clutch of Fortification (35)
+# finger1=,id=47731
+#
+# Band of Burning Thorns (450)
+# finger1=,id=207159,enchant_id=6556,bonus_id=41/9599/7982/9555/1481/8767
+#
+# Hoop of the Blighted (528)
+# finger1=,id=221197,bonus_id=10385/10387/6652/10395/10392,drop_level=76
+#
+# Ancient Fungarian's Fingerwrap (554)
+# finger1=,id=223377,bonus_id=11061,drop_level=80
+#
+# The Horseman's Ring (593)
+# finger1=,id=143903,bonus_id=10395/10392/10278/10016/10255
+#
+# Band of the Relic Bearer (554)
+# finger1=,id=223376,bonus_id=11061,drop_level=80
+#
+# Spelunker's Waning Candle (603)
+# trinket1=,id=225638,bonus_id=40/10271/3132/10255
+#
+# Detachable Fang (603)
+# trinket1=,id=225657,bonus_id=6652/10275/3132/10255
+#
+# Glyph of Indomitability (35)
+# trinket1=,id=47735
+#
+# Philosopher's Stone (24)
+# trinket1=,id=9149
+#
+# Carved Blazikon Wax (548)
+# trinket1=,id=219305,bonus_id=10385/10387/6652,drop_level=79
+#
+# Smoldering Seedling (486)
+# trinket1=,id=207170,bonus_id=6652/7982/10343/10884/1517/8767
+#
+# Echoing Tyrstone (463)
+# trinket1=,id=207552,bonus_id=9636/40/9144/9559/1514/8767
+#
+# Spelunker's Waning Candle (584)
+# trinket1=,id=225638,bonus_id=10281/6652/1656/10255
+#
+# Detachable Fang (590)
+# trinket1=,id=225657,bonus_id=10279/6652/1662/10255
+#
+# Blossom of Amirdrassil (496)
+# trinket1=,id=207171,bonus_id=6652/7982/10314/10884/1527/8767
+#
+# Bitterer Balebrew Charm (37)
+# trinket1=,id=71333
+#
+# Detachable Fang (558)
+# trinket1=,id=225657,bonus_id=10289/6652/1630
+#
+# Imperfect Ascendancy Serum (561)
+# trinket1=,id=225654,bonus_id=10288/6652/1633
+#
+# Harvester's Edict (509)
+# trinket1=,id=219317,bonus_id=10385/10387/6652,drop_level=74
+#
+# High Speaker's Accretion (541)
+# trinket1=,id=219303,bonus_id=10385/10387/6652,drop_level=78
+#
+# Scroll of Momentum (593)
+# trinket1=,id=226539,bonus_id=6652/10278/1665/10255
+#
+# Sovereign's Disdain (593)
+# main_hand=,id=212394,bonus_id=6652/10353/10278/1494/10255
+#
+# Ancient Forged Mace of the Feverflare (567)
+# main_hand=,id=224705,bonus_id=10286/6652/1702/1639
+#
+# Ancient Forged Staff of the Feverflare (593)
+# main_hand=,id=224709,bonus_id=6652/1697/10278/1665/10255
+#
+# Ancient Forged Mace of the Feverflare (584)
+# main_hand=,id=224705,bonus_id=10281/6652/1698/1656/10255
+#
+# Wardbreaker of the Fractured (535)
+# main_hand=,id=221083,bonus_id=10385/10387/6652,drop_level=77
+#
+# The Hammer of Grace (600)
+# main_hand=,id=231428,bonus_id=6652/10272/12093/10384/1488/10255
+#
+# Handbook of Obscure Remedies (35)
+# off_hand=,id=40699
+#
+# Arcane Scuttle (528)
+# off_hand=,id=221097,bonus_id=10385/10387/6652,drop_level=76
+#
+# Thaurissan's Royal Scepter (606)
+# off_hand=,id=231433,bonus_id=6652/10270/12093/10383/1494/10255
+
+### Weekly Reward Choices
+#
+# Melodious Iron Songspire (593)
+# main_hand=,id=221085,bonus_id=10278/10388/6652/10384/1628/10255
+#
+# Lapidarius Gemcutter (616)
+# main_hand=,id=211047,bonus_id=10263/6652/1521/10255
+#
+# Mask of the Greatlynx (616)
+# head=,id=212056,bonus_id=10371/6652/10876/10263/1517/10255
+#
+# Maw of the Greatlynx (584)
+# shoulder=,id=212054,bonus_id=10369/6652/10281/1485/10255
+#
+# Polluted Spectre's Wraps (584)
+# wrist=,id=212438,bonus_id=6652/10876/10378/10353/10281/1485/10255
+#
+# Key to the Unseeming (584)
+# finger1=,id=212447,bonus_id=6652/10395/10393/10353/10281/1485/10255
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2915:682/c:2917:3/c:2916:14/c:2914:129/c:3008:1469/i:206959:6/i:211516:2/i:206960:2
+#
+# slot_high_watermarks=0:593:619/1:597:606/2:610:619/3:603:619/4:603:616/5:597:619/6:603:610/7:603:606/8:610:616/9:593:619/10:603:610/11:616:616/12:593:619/13:600:610/14:0:616/15:0:606/16:606:606
+#
+# upgrade_achievements=40107/40115
+
+# Checksum: a2e6885a

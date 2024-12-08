@@ -1,0 +1,197 @@
+# Chelary - Frost - 2024-10-20 11:01 - US/Llane
+# SimC Addon 11.0.2-02
+# WoW 11.0.2.56819, TOC 110002
+# Requires SimulationCraft 1000-01 or newer
+
+mage="Chelary"
+level=80
+race=blood_elf
+region=us
+server=llane
+role=spell
+professions=mining=49/jewelcrafting=75
+spec=frost
+
+talents=CAEArhxZfsv/vllYUrQS3iw2nPzYzsZBzwMziBmZmGjxYmZGGmBmZmZmZmZmZmZmZGzMLz0Mz2sABAAtAAAAAAgZBAAAAAAAA
+
+# Saved Loadout: wowhead s1 delve
+# talents=CAEArhxZfsv/vllYUrQS3iw2nPzYzsZBzwMziBmZGjxYMzMDDzAzMzMzMzMzMzMzMjZmlZMzsNLAAAwCAAAAAAmFAAAAAAAAA
+
+# Cave Topographer's Cowl (610)
+head=,id=211011,bonus_id=10265/6652/10876/10377/3189/10255
+# Honorary Tinderbox (571)
+neck=,id=219503,bonus_id=10297/6652/10395/10393/1643/10254
+# Cave Topographer's Shoulders (600)
+shoulder=,id=211039,bonus_id=10272/6652/10377/3179/10255
+# Gem-Woven Cloak of the Feverflare (603)
+back=,id=224664,bonus_id=6652/1699/10377/10275/3132/10255
+# Alighted Robes of the Aurora (603)
+chest=,id=224666,bonus_id=43/1704/10275/3132/10255
+# Orgrimmar Tabard (1)
+tabard=,id=45581
+# Alighted Cuffs of the Feverflare (580)
+wrist=,id=224673,bonus_id=6652/10397/1699/10282/1652/10254
+# Jeweled Gauntlets of Violet Rebirth (606)
+hands=,id=212093,bonus_id=10372/6652/10270/1507/10255
+# Unkindled Waxweave Belt (610)
+waist=,id=219176,bonus_id=10265/6652/10876/10377/3189/10255
+# Cave Topographer's Leggings (603)
+legs=,id=211012,bonus_id=10271/6652/10377/3182/10255
+# Assimilated Eggshell Slippers (590)
+feet=,id=225582,bonus_id=6652/10378/10353/10279/1491/10255
+# Dark Abyss Hoop (590)
+finger1=,id=219188,bonus_id=6652/10395/10392/10279/3169/10255
+# Seal of the Broken Mountain (603)
+finger2=,id=225751,bonus_id=6652/10395/10392/10354/10271/1504/10255
+# Kaheti Shadeweaver's Emblem (590)
+trinket1=,id=225651,bonus_id=6652/10279/1662/10255
+# Treacherous Transmitter (590)
+trinket2=,id=221023,bonus_id=6652/10353/10279/1491/10255
+# Arathi Holy Standard (590)
+main_hand=,id=219203,bonus_id=10279/6652/3169/10255
+
+### Gear from Bags
+#
+# Cave Topographer's Cowl (603)
+# head=,id=211011,bonus_id=10271/6652/10876/10377/3182/10255
+#
+# Remembrance of the Fallen City (532)
+# neck=,id=219754,bonus_id=11128,drop_level=77
+#
+# Malleable Pendant  (518)
+# neck=,id=215131,bonus_id=11295/11296/4785/10878/10395/9624,crafted_stats=40/49,crafting_quality=2
+#
+# Clattering Chitin Necklace (518)
+# neck=,id=223375,bonus_id=11061,drop_level=75
+#
+# Basilisk Scale Pauldrons (574)
+# shoulder=,id=221220,bonus_id=10296/6652/1609/10254
+#
+# Myconic Wrap (603)
+# back=,id=219186,bonus_id=10271/6652/10377/3182/10255
+#
+# Torchbearer's Greatcloak (597)
+# back=,id=211007,bonus_id=10273/6652/10377/1502/10255
+#
+# Gem-Woven Cloak of the Fireflash (587)
+# back=,id=224664,bonus_id=10280/6652/1691/10377/1659/10255
+#
+# Gem-Woven Cloak of the Harmonious (571)
+# back=,id=224664,bonus_id=10297/6652/1712/1643/10254
+#
+# Darkspear Shroud (29)
+# back=,id=54617
+#
+# Gem-Woven Shawl of the Quickblade (587)
+# back=,id=224663,bonus_id=10280/6652/1680/10377/1659/10255
+#
+# Bile-Soaked Harness (597)
+# chest=,id=212419,bonus_id=6652/10376/10354/10273/1498/10255
+#
+# Lightseeker's Robes (603)
+# chest=,id=225731,bonus_id=6652/10376/10354/10271/1504/10255
+#
+# Alighted Robes of the Quickblade (561)
+# chest=,id=224666,bonus_id=10288/6652/1676/1633
+#
+# Alighted Handwraps of the Feverflare (571)
+# hands=,id=224668,bonus_id=10297/6652/1699/1643/10254
+#
+# Jeweled Gauntlets of Violet Rebirth (584)
+# hands=,id=212093,bonus_id=10372/6652/10281/1485/10255
+#
+# Alighted Handwraps of the Fireflash (587)
+# hands=,id=224668,bonus_id=10280/41/1694/10377/1659/10255
+#
+# Embrace of the Leviathan (610)
+# waist=,id=155932,bonus_id=10265/7756/10376/8902/10876/10042/10255
+#
+# Unkindled Waxweave Buskins (603)
+# legs=,id=219178,bonus_id=10271/6652/10377/3182/10255
+#
+# Underscout's Striders of the Quickblade (558)
+# feet=,id=224600,bonus_id=10289/6652/1682/10844/1485
+#
+# Sollerets of Hidden Stars (584)
+# feet=,id=219157,bonus_id=10281/6652/11215/10377/3163/10255
+#
+# Unkindled Waxweave Slippers (603)
+# feet=,id=219181,bonus_id=10271/6652/10377/3182/10255
+#
+# Cosmic-Tinged Treads (587)
+# feet=,id=212416,bonus_id=41/10378/10353/10280/1488/10255
+#
+# Gem-Studded Ring of the Feverflare (590)
+# finger1=,id=224662,bonus_id=10279/41/10395/10392/1764/1662/10255
+#
+# Gem-Studded Band of the Quickblade (587)
+# finger1=,id=224660,bonus_id=10280/10395/10393/1742/1659/10255
+#
+# Gem-Studded Ring of the Quickblade (571)
+# finger1=,id=224662,bonus_id=10297/6652/10395/10393/1744/1643/10254
+#
+# Gem-Studded Signet of the Feverflare (584)
+# finger1=,id=224661,bonus_id=10281/6652/10395/10392/1769/1656/10255
+#
+# Unstable Power Suit Core (603)
+# trinket1=,id=225668,bonus_id=6652/10271/3132/10255
+#
+# Everburning Lantern (603)
+# trinket1=,id=215169,bonus_id=10271/6652/3282/10255
+#
+# Shining Arathor Insignia (567)
+# trinket1=,id=225647,bonus_id=10286/6652/1639
+#
+# Imperfect Ascendancy Serum (590)
+# trinket1=,id=225654,bonus_id=6652/10279/1662/10255
+#
+# Imperfect Ascendancy Serum (587)
+# trinket1=,id=225654,bonus_id=10280/6652/1659/10255
+#
+# Shining Arathor Insignia (590)
+# trinket1=,id=225647,bonus_id=10279/6652/1662/10255
+#
+# Talisman of Resurgence (35)
+# trinket1=,id=48724
+#
+# Nurturing Touch (597)
+# main_hand=,id=156284,bonus_id=10273/7756/10029/10255
+#
+# Ancient Forged Ritual Knife of the Fireflash (574)
+# main_hand=,id=224699,bonus_id=10296/41/1690/1646/10254
+#
+# Petrified Ivy Sprig (597)
+# main_hand=,id=156023,bonus_id=10273/7756/10029/10255
+#
+# Argent Lance (1)
+# main_hand=,id=46106
+#
+# Ancient Forged Spellstaff of the Fireflash (590)
+# main_hand=,id=224710,bonus_id=10279/6652/1691/1662/10255
+#
+# Ancient Forged Curio of the Fireflash (561)
+# off_hand=,id=224711,bonus_id=10288/6652/1694/1633
+#
+# Igniter Rod (597)
+# off_hand=,id=156042,bonus_id=10273/7756/10029/10255
+
+### Weekly Reward Choices
+#
+# Beacons of Violet Rebirth (616)
+# shoulder=,id=212090,bonus_id=10369/6652/10263/1517/10255
+#
+# Unkindled Waxweave Veil (616)
+# head=,id=219179,bonus_id=10263/6652/10876/10377/3195/10255
+#
+# Unkindled Waxweave Slippers (584)
+# feet=,id=219181,bonus_id=10281/43/10377/3163/10255
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2915:264/c:2917:6/c:2916:20/c:2914:106/c:3008:1908/i:211516:2
+#
+# slot_high_watermarks=0:610:610/1:571:606/2:600:619/3:603:619/4:610:610/5:603:606/6:603:606/7:580:606/8:606:616/9:590:610/10:603:610/11:603:616/12:590:619/13:597:597/14:0:603/15:0:584/16:597:603
+
+# Checksum: 4c8a01a3

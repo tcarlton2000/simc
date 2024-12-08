@@ -1,0 +1,258 @@
+# Andarii - Protection - 2024-11-05 21:19 - US/Thunderhorn
+# SimC Addon 11.0.5-01
+# WoW 11.0.5.57292, TOC 110005
+# Requires SimulationCraft 1000-01 or newer
+
+warrior="Andarii"
+level=80
+race=night_elf
+region=us
+server=thunderhorn
+role=tank
+professions=mining=57/skinning=63
+spec=protection
+
+talents=CkEAmidFBOBFf5oKuZ7r/WeW7YEDAAAAzMzMmxMmZbmlZmZWYGDTjxDYMDglBG2YmZMDzYYAAAAAAAzMAALbbAGGYBWWMaMDgZJ2Y2A
+
+# Saved Loadout: wowhead delve
+# talents=CkEAmidFBOBFf5oKuZ7r/WeW7YgBAAAgZmZGzYGzsNzyMzMLMjhxY8AGzAYZghNmZGzwMGGAAAAAAwMDAwy2GghBWglFDjZAMLYjZD
+
+# Sedimentary Helm of the Aurora (584)
+head=,id=224693,bonus_id=6652/10876/1706/10293/1656/10255
+# Enkindled Locket (603)
+neck=,id=219184,bonus_id=10271/6652/10395/10392/3182/10255
+# Sedimentary Mantle of the Fireflash (587)
+shoulder=,id=224695,bonus_id=10280/6652/1692/10377/1659/10255
+# Unkindled Waxweave Mozzetta (603)
+back=,id=219190,bonus_id=10271/6652/10377/3182/10255
+# Warsculptor's Furred Plastron (616)
+chest=,id=211987,bonus_id=10373/6652/10263/1517/10255
+# Green Holiday Shirt (1)
+shirt=,id=17723
+# Armguards of Dimming Fluorescence (597)
+wrist=,id=223311,bonus_id=10273/10377/10876/1669/10255
+# Secret-Dredger's Gauntlets (603)
+hands=,id=211032,bonus_id=10271/6652/10377/3182/10255
+# Nether Bounty's Greatbelt (600)
+waist=,id=225589,bonus_id=6652/10877/10378/10353/10276/1501/10255
+# Warsculptor's Cuisses (590)
+legs=,id=211983,bonus_id=10279/10353/10370/6652/1491/10255
+# Chiseled Boulder Crushers (600)
+feet=,id=223301,bonus_id=10377/10272/1672/10255
+# Gem-Studded Ring of the Quickblade (584)
+finger1=,id=224662,bonus_id=6652/10395/10392/1742/10293/1656/10255
+# Bone-Carved Circlet (603)
+finger2=,id=219187,bonus_id=10271/6652/10395/10393/3182/10255
+# Shadow-Binding Ritual Knife (603)
+trinket1=,id=215178,bonus_id=10271/6652/3282/10255
+# Coren's Cold Chromium Coaster (593)
+trinket2=,id=117360,bonus_id=10290/10016/10255
+# Pathfinder's Stonecarver (603)
+main_hand=,id=211048,bonus_id=10271/6652/1508/10255
+# Unscathed Rampart (603)
+off_hand=,id=219200,bonus_id=10271/6652/3182/10255
+
+### Gear from Bags
+#
+# Sedimentary Helm of the Harmonious (561)
+# head=,id=224693,bonus_id=10288/6652/10877/1713/10375/1633
+#
+# Wolf Packleader's Visor (554)
+# head=,id=223370,bonus_id=11061,drop_level=80
+#
+# Sedimentary Helm of the Quickblade (558)
+# head=,id=224693,bonus_id=10289/6652/10877/1682/10375/1630
+#
+# Sedimentary Helm of the Feverflare (584)
+# head=,id=224693,bonus_id=10281/6652/10877/1700/10377/1656/10255
+#
+# Cold Crisp Collar (480)
+# neck=,id=210379,bonus_id=8902/10341/6652/8783/10245/1511/8767
+#
+# Long-Lost Choker (528)
+# neck=,id=211063,bonus_id=11306/6652/10394/10393,drop_level=76
+#
+# Clattering Chitin Necklace (554)
+# neck=,id=223375,bonus_id=11061,drop_level=80
+#
+# Enkindled Locket (603)
+# neck=,id=219184,bonus_id=10271/6652/10395/10393/3182/10255
+#
+# Sedimentary Mantle of the Aurora (584)
+# shoulder=,id=224695,bonus_id=10281/6652/1709/10377/1656/10255
+#
+# Secret-Dredger's Mantle (603)
+# shoulder=,id=211034,bonus_id=10271/6652/10377/3182/10255
+#
+# Sedimentary Mantle of the Peerless (558)
+# shoulder=,id=224695,bonus_id=10289/6652/1689/10375/1630
+#
+# Sedimentary Mantle of the Peerless (564)
+# shoulder=,id=224695,bonus_id=10287/6652/1688/10375/1636
+#
+# Spaulders of the Steamsurger (554)
+# shoulder=,id=223357,bonus_id=11061,drop_level=80
+#
+# Sedimentary Mantle of the Harmonious (558)
+# shoulder=,id=224695,bonus_id=10289/42/1713/10375/1630
+#
+# Gem-Woven Shawl of the Harmonious (587)
+# back=,id=224663,bonus_id=10280/6652/1717/10377/1659/10255
+#
+# Flamekeeper's Fire Blanket (600)
+# back=,id=231468,bonus_id=6652/10376/10272/12093/10383/1488/10255
+#
+# Gem-Woven Cloak of the Aurora (584)
+# back=,id=224664,bonus_id=10281/6652/1709/10377/1656/10255
+#
+# Battleplate of Dimming Fluorescence (584)
+# chest=,id=223296,bonus_id=10281/10377/1656/10255
+#
+# Sedimentary Armplates of the Fireflash (571)
+# wrist=,id=224697,bonus_id=10297/6652/10876/1692/1643/10254
+#
+# Gauntlets of the Lost Catacomb (590)
+# hands=,id=227575,bonus_id=10279/10376/10383/10018/10255
+#
+# Sedimentary Gauntlets of the Quickblade (590)
+# hands=,id=224692,bonus_id=10279/6652/1677/10377/1662/10255
+#
+# Fists of Hidden Stars (603)
+# hands=,id=219156,bonus_id=10271/6652/10377/3182/10255
+#
+# Underscout's Cord of the Quickblade (561)
+# waist=,id=224604,bonus_id=10288/6652/10876/1676/10844/1488
+#
+# Secret-Dredger's Girdle (554)
+# waist=,id=211035,bonus_id=11306/6652/10375,drop_level=80
+#
+# Sedimentary Girdle of the Aurora (584)
+# waist=,id=224696,bonus_id=10281/6652/10876/1704/10377/1656/10255
+#
+# Girdle of the Gleaming Dawn (603)
+# waist=,id=225746,bonus_id=6652/10876/10376/10354/10271/1504/10255
+#
+# Secret-Dredger's Legguards (603)
+# legs=,id=211033,bonus_id=10271/6652/10377/3182/10255
+#
+# Secret-Dredger's Legguards (554)
+# legs=,id=211033,bonus_id=11306/6652/10375,drop_level=80
+#
+# Crystal Star Cuisses (603)
+# legs=,id=225745,bonus_id=6652/10376/10354/10271/1504/10255
+#
+# Sedimentary Legguards of the Aurora (584)
+# legs=,id=224694,bonus_id=10281/6652/1709/10377/1656/10255
+#
+# Timely Tourist's Legguards (584)
+# legs=,id=226072,bonus_id=10281/6652/11311/1656/10255
+#
+# Entrenching Boots (603)
+# feet=,id=231448,bonus_id=6652/10376/10271/12093/10383/1491/10255
+#
+# Sedimentary Sabatons of the Peerless (590)
+# feet=,id=224691,bonus_id=10279/6652/1687/10377/1662/10255
+#
+# Sollerets of Hidden Stars (603)
+# feet=,id=219157,bonus_id=10271/6652/10377/3182/10255
+#
+# Slippers of Delirium (577)
+# feet=,id=221243,bonus_id=10295/6652/1612/10254
+#
+# Unearthed Relic Band (603)
+# finger1=,id=211061,bonus_id=10271/6652/10395/10392/1508/10255
+#
+# Gem-Studded Band of the Feverflare (584)
+# finger1=,id=224660,bonus_id=10281/6652/10394/10393/1764/1656/10255
+#
+# Gem-Studded Band of the Peerless (587)
+# finger1=,id=224660,bonus_id=10280/6652/10395/10393/3402/1659/10255
+#
+# Gem-Studded Ring of the Harmonious (587)
+# finger1=,id=224662,bonus_id=10280/6652/10394/10878/1782/1659/10255
+#
+# Fuzzy Molding Halo (603)
+# finger1=,id=219189,bonus_id=10271/6652/10395/10393/3182/10255
+#
+# Signet of Titanic Insight  (476)
+# finger1=,id=192999,enchant_id=6568,gem_id=192938,bonus_id=8836/8840/8902/8780/9405/8794/9499/9498,crafted_stats=49/36,crafting_quality=5
+#
+# Seal of the Void-Touched (603)
+# finger1=,id=225749,bonus_id=6652/10394/10878/10354/10271/1504/10255
+#
+# Gem-Studded Ring of the Aurora (567)
+# finger1=,id=224662,bonus_id=10286/6652/10395/10393/1771/1639
+#
+# Fuzzy Molding Halo (603)
+# finger1=,id=219189,bonus_id=10271/6652/10395/10392/3182/10255
+#
+# Bone-Carved Circlet (603)
+# finger1=,id=219187,bonus_id=10271/6652/10395/10393/3182/10255
+#
+# Quickwick Candlestick (603)
+# trinket1=,id=225649,bonus_id=6652/10271/3132/10255
+#
+# Imperfect Ascendancy Serum (587)
+# trinket1=,id=225654,bonus_id=10280/6652/1659/10255
+#
+# Detachable Fang (567)
+# trinket1=,id=225657,bonus_id=10286/6652/1639
+#
+# Ara-Kara Sacbrood (580)
+# trinket1=,id=219314,bonus_id=10294/10388/6652/12045/1615/10254
+#
+# Spelunker's Waning Candle (603)
+# trinket1=,id=225638,bonus_id=6652/10271/3132/10255
+#
+# Spelunker's Waning Candle (587)
+# trinket1=,id=225638,bonus_id=10280/6652/1659/10255
+#
+# Shadow-Binding Ritual Knife (603)
+# trinket1=,id=215178,bonus_id=10271/6652/3282/10255
+#
+# Siphoning Lightbrand (584)
+# trinket1=,id=225653,bonus_id=10281/6652/1656/10255
+#
+# Quickwick Candlestick (584)
+# trinket1=,id=225649,bonus_id=6652/10281/11215/1656/10255
+#
+# Wildfire Wick (597)
+# trinket1=,id=218307,bonus_id=10273/1669/10255
+#
+# Ancient Forged Warhammer of the Fireflash (587)
+# main_hand=,id=224706,bonus_id=10280/6652/1691/1659/10255
+#
+# Arathi Claymore of the Feverflare (580)
+# main_hand=,id=224628,bonus_id=6652/1699/10844/10282/1507/10254
+#
+# Rotfist Flesh Carver (587)
+# main_hand=,id=226112,bonus_id=6652/10292/1622/10255
+#
+# Arathi Claymore of the Feverflare (580)
+# main_hand=,id=224628,bonus_id=6652/1698/10844/10282/1507/10254
+#
+# Slime Deflecting Stopper (574)
+# off_hand=,id=223920,bonus_id=10296/6652/1609/10254
+
+### Weekly Reward Choices
+#
+# Secret-Dredger's Girdle (616)
+# waist=,id=211035,bonus_id=10263/40/10877/10377/3195/10255
+#
+# Warsculptor's Cuisses (616)
+# legs=,id=211983,bonus_id=10370/6652/10263/1517/10255
+#
+# Warsculptor's Crushers (584)
+# hands=,id=211985,bonus_id=10372/6652/10281/1485/10255
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2915:488/c:2916:68/c:2914:255/c:3008:1536/i:211516:6
+#
+# slot_high_watermarks=0:584:619/1:603:606/2:603:619/3:616:619/4:603:610/5:603:610/6:603:610/7:597:606/8:603:616/9:603:619/10:603:610/11:603:616/12:587:619/13:0:600/14:603:616/15:587:606/16:603:603
+#
+# upgrade_achievements=40107/40115
+
+# Checksum: e2e4646d

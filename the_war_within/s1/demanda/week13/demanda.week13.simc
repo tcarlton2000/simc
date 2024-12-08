@@ -1,0 +1,324 @@
+# Demanda - Havoc - 2024-12-07 21:56 - US/Thunderhorn
+# SimC Addon 11.0.5-02
+# WoW 11.0.5.57689, TOC 110005
+# Requires SimulationCraft 1000-01 or newer
+
+demonhunter="Demanda"
+level=80
+race=night_elf
+region=us
+server=thunderhorn
+role=attack
+
+spec=havoc
+
+talents=CEkAEDLOxe3SEPP2R8Hw6bhoSYmZmZmZGMzMjxMhZGAAAAAAwsMMmZMzgZmtZbMmBzshlNYb2MjhZTTjxMzYwG
+
+# Saved Loadout: Icy Veins Easy Mode
+# talents=CEkAEDLOxe3SEPP2R8Hw6bhoSYmZmxMzgZmZMmBmZAAAAAAAz2wYmxMzsNzMbw8ADMzmxyGAAAMmZGDA
+# Saved Loadout: wowhead delve
+# talents=CEkAEDLOxe3SEPP2R8Hw6bhoSYmZmZmZGMzMjxMwMDAAAAAAYWGGzMmZwMz2sNGzgZ2wyGsNbmxwsxYMmZGD2A
+
+# Beyond's Dark Visage (584)
+head=,id=212417,bonus_id=6652/10877/10378/10353/10281/1485/10255
+# Darkened Tinderbox (597)
+neck=,id=220158,bonus_id=10273/6652/10394/10392/1669/10255
+# Flamewalker Scale Spaulders (603)
+shoulder=,id=231485,bonus_id=6652/10376/10271/12093/10383/1491/10255
+# Gem-Woven Shawl of the Aurora (584)
+back=,id=224663,bonus_id=10281/6652/1707/10377/1656/10255
+# United Arathi's Jerkin (545)
+chest=,id=228436,bonus_id=11128,drop_level=79
+# Sanguine Experiment's Bandages (590)
+wrist=,id=225588,bonus_id=6652/10877/10378/10353/10279/1491/10255
+# Grips of the Unbroken (610)
+hands=,id=156224,bonus_id=10265/7756/10376/8902/10383/10042/10255
+# Belt of the Eminent Mason (600)
+waist=,id=231450,bonus_id=6652/10397/10376/10272/12093/10383/1488/10255
+# Pantaloons of the Hypogeal Nemesis (590)
+legs=,id=212064,bonus_id=10279/10353/10370/6652/1491/10255
+# Fleeting Massacre Footpads (590)
+feet=,id=225591,bonus_id=6652/10378/10353/10279/1491/10255
+# Bottle-Popper Ring (587)
+finger1=,id=231493,bonus_id=6652/10395/10392/10280/12092/10383/1475/10255
+# Flameguard's Band (545)
+finger2=,id=220133,bonus_id=11128,drop_level=79
+# Spelunker's Waning Candle (564)
+trinket1=,id=225638,bonus_id=10287/40/1636
+# Golem Gearbox (587)
+trinket2=,id=231471,bonus_id=6652/10280/12092/10383/1475/10255
+# Bloodfist (600)
+main_hand=,id=231399,bonus_id=6652/10272/12093/10384/1488/10255
+# Bedrock Breaker (597)
+off_hand=,id=219355,bonus_id=10273/6652/1502/10255
+
+### Gear from Bags
+#
+# Helm of Sina's Stalwarts (538)
+# head=,id=220108,bonus_id=11128,drop_level=78
+#
+# Lockstitch Headgear of the Aurora (545)
+# head=,id=224677,bonus_id=10382/6652/1705/10375,drop_level=79
+#
+# Drowsed Shepherd's Hood (454)
+# head=,id=210707,bonus_id=9560/9506/9599/1511/8767
+#
+# Vilewing Cap (554)
+# head=,id=223388,bonus_id=11061,drop_level=80
+#
+# Violent Gravemask (480)
+# head=,id=202602,bonus_id=40/10532/10871/7982/10341/10884/1537/8767
+#
+# Sporefused Cowl (509)
+# head=,id=219767,bonus_id=11128/11054,drop_level=74
+#
+# Gem-Studded Pendant of the Aurora (571)
+# neck=,id=224665,bonus_id=10297/6652/10395/10393/1775/1643/10254
+#
+# Remembrance of the Fallen City (441)
+# neck=,id=219754,bonus_id=11128/11054,drop_level=71
+#
+# Glittering Gelid Goldchain (441)
+# neck=,id=210380,bonus_id=9552/6652/8784/10245/1472/8767
+#
+# Empowered Tinderbox (584)
+# neck=,id=220157,bonus_id=10281/6652/10395/10392/1656/10255
+#
+# Honorary Tinderbox (571)
+# neck=,id=219503,bonus_id=10297/6652/10395/10393/1643/10254
+#
+# Clattering Chitin Necklace (554)
+# neck=,id=223375,bonus_id=11061,drop_level=80
+#
+# Slumbering Ursine Talisman (499)
+# neck=,id=208443,bonus_id=6652/8783/10531/7979/10315/10884/1530/8767
+#
+# Frame of Felled Insurgents (593)
+# shoulder=,id=212444,bonus_id=6652/10378/10353/10278/1494/10255
+#
+# Treasure-Seeker's Epaulets (548)
+# shoulder=,id=211038,bonus_id=9637/6652/10375,drop_level=80
+#
+# War-Mantle of the Hypogeal Nemesis (587)
+# shoulder=,id=212063,bonus_id=10280/10353/10369/6652/1488/10255
+#
+# Deepfiend Spaulders (541)
+# shoulder=,id=223393,bonus_id=11061,drop_level=78
+#
+# Suffused Epaulets (460)
+# shoulder=,id=204759,bonus_id=10323/8902/10870/9218/1582/8766
+#
+# Adult-Sized Arathi Epaulets (1)
+# shoulder=,id=225949
+#
+# Treasure-Seeker's Epaulets (421)
+# shoulder=,id=211038,bonus_id=11306/6652,drop_level=70
+#
+# Lamplighter's Epaulets (538)
+# shoulder=,id=220125,bonus_id=11128,drop_level=78
+#
+# Acid-Proof Webbing (493)
+# back=,id=195511,bonus_id=40/10871/7982/10884/10345/1576/8767
+#
+# Treasure-Seeker's Shawl (548)
+# back=,id=211062,bonus_id=9637/6652/10375,drop_level=80
+#
+# Secret-Dredger's Cloak (525)
+# back=,id=211006,bonus_id=11190/6652/10375,drop_level=76
+#
+# Nerubian Weaver's Vest (541)
+# chest=,id=223381,bonus_id=11061,drop_level=78
+#
+# Warphorn's Resilient Vest (518)
+# chest=,id=223344,bonus_id=11061,drop_level=75
+#
+# Robes of the Ashen Grove (486)
+# chest=,id=207129,bonus_id=6652/10871/7982/10343/10884/1517/8767
+#
+# Olbarig's Old Bracers (515)
+# wrist=,id=228371,bonus_id=11128,drop_level=75
+#
+# Lockstitch Bindings of the Peerless (584)
+# wrist=,id=224681,bonus_id=10281/6652/10876/1689/10377/1656/10255
+#
+# Corrupted Earthen Cuffs (528)
+# wrist=,id=223404,bonus_id=11061,drop_level=76
+#
+# Ottuk Hide Bindings (489)
+# wrist=,id=191996,bonus_id=10344/10871/1611/8767/10532
+#
+# Cuffs of the Titancap (467)
+# wrist=,id=223367,bonus_id=11061,drop_level=72
+#
+# Boroughbreaker's Cuffs (515)
+# wrist=,id=227917,bonus_id=11128,drop_level=75
+#
+# Claws of the Hypogeal Nemesis (587)
+# hands=,id=212066,bonus_id=10280/10353/10372/6652/1488/10255
+#
+# Suffused Grips (493)
+# hands=,id=204781,bonus_id=8902/10313/10872/6652/1615/8767
+#
+# Treasure-Seeker's Grips (525)
+# hands=,id=211016,bonus_id=11190/41/10375,drop_level=76
+#
+# Viper's Stone Grips (490)
+# hands=,id=223345,bonus_id=11061,drop_level=73
+#
+# Tower-Keeper's Grips (538)
+# hands=,id=220111,bonus_id=11128,drop_level=78
+#
+# Lockstitch Grips of the Feverflare (584)
+# hands=,id=224676,bonus_id=10281/6652/1703/10377/1656/10255
+#
+# Murkshade Grips (541)
+# hands=,id=223382,bonus_id=11061,drop_level=78
+#
+# Anvilrage Rogue's Belt of Knives (590)
+# waist=,id=231479,bonus_id=6652/10876/10378/10279/12092/10383/1478/10255
+#
+# Belt of Kix'arak's Bane (483)
+# waist=,id=228375,bonus_id=11128,drop_level=73
+#
+# Dalaran Defender's Buckle (493)
+# waist=,id=218059,bonus_id=10313/10533/8902/10872/1615/8767
+#
+# Treasure-Seeker's Breeches (532)
+# legs=,id=211018,bonus_id=11190/41/10375,drop_level=77
+#
+# Crystalline Tender's Trousers (493)
+# legs=,id=210363,bonus_id=8902/10313/10872/6652/1524/8767
+#
+# Charred Nerubian Leggings (434)
+# legs=,id=219747,bonus_id=11128,drop_level=71
+#
+# Treasure-Seeker's Breeches (421)
+# legs=,id=211018,bonus_id=11306/6652,drop_level=70
+#
+# Suffused Breeches (489)
+# legs=,id=204779,bonus_id=8902/10344/10871/6652/1611/8767
+#
+# Ohn'ahran Plainswalker Moccasins (376)
+# feet=,id=200460,enchant_id=6612,bonus_id=1472
+#
+# Treads of the Nerubian Twins (554)
+# feet=,id=223408,bonus_id=11061,drop_level=80
+#
+# Ottuk Hide Waders (480)
+# feet=,id=191991,bonus_id=10341/10871/1602/8767
+#
+# Deep-Dweller's Slippers of the Fireflash (434)
+# feet=,id=224595,bonus_id=10382/6652/1690/10844,drop_level=71
+#
+# Beautiful Blizzard Binding (447)
+# finger1=,id=210376,bonus_id=9554/6652/9516/1478/8767
+#
+# Luminescent Pearl Band (483)
+# finger1=,id=219764,bonus_id=11128,drop_level=73
+#
+# Band of the Relic Bearer (509)
+# finger1=,id=223376,bonus_id=11061,drop_level=74
+#
+# Suffused Signet (476)
+# finger1=,id=204745,bonus_id=8902/10328/1598/8766
+#
+# Wildfire Wick (548)
+# trinket1=,id=218307,bonus_id=9637,drop_level=80
+#
+# Dancing Dream Blossoms (493)
+# trinket1=,id=209953,bonus_id=8902/10313/6652/1537/8767
+#
+# Quickwick Candlestick (548)
+# trinket1=,id=225649,bonus_id=6652/9637,drop_level=80
+#
+# Abyssal Trap (519)
+# trinket1=,id=215170,bonus_id=11190/6652,drop_level=75
+#
+# Pip's Emerald Friendship Badge (483)
+# trinket1=,id=207168,bonus_id=6652/7982/10342/10884/1514/8767
+#
+# Arathi Demolition Charge (538)
+# trinket1=,id=220118,bonus_id=11128,drop_level=78
+#
+# Shadow-Binding Ritual Knife (467)
+# trinket1=,id=215178,bonus_id=11190/6652,drop_level=72
+#
+# Imperfect Ascendancy Serum (548)
+# trinket1=,id=225654,bonus_id=40/9637,drop_level=80
+#
+# Twinblades of the Deceiver (10)
+# main_hand=,id=127829,bonus_id=719
+#
+# Bedrock Breaker (447)
+# main_hand=,id=219355,bonus_id=11306/6652,drop_level=71
+#
+# Expeditionary Blade of the Harmonious (564)
+# main_hand=,id=227693,bonus_id=10287/6652/1711/10844/1491
+#
+# Dalaran Defender's Carver (493)
+# main_hand=,id=219231,bonus_id=10313/8902/1615/8767
+#
+# Winter Forager's Chopper (476)
+# main_hand=,id=210397,bonus_id=8902/6652/10308/1507/8766
+#
+# Bedrock Breaker (532)
+# main_hand=,id=219355,bonus_id=11190/6652,drop_level=77
+#
+# Cured Terracotta Axe (460)
+# main_hand=,id=219795,bonus_id=11128,drop_level=72
+#
+# Ancient Forged Glaive of the Aurora (587)
+# main_hand=,id=224713,bonus_id=10280/6652/1706/1659/10255
+#
+# Winter Forager's Chopper (480)
+# main_hand=,id=210397,bonus_id=8902/10341/6652/1511/8767
+#
+# Arachnophobic Spelunker's Striker (467)
+# main_hand=,id=219787,bonus_id=11128/11054,drop_level=72
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+
+### Weekly Reward Choices
+#
+# Detachable Fang (584)
+# trinket1=,id=225657,bonus_id=6652/10281/1656/10255
+#
+# Quickwick Candlestick (584)
+# trinket1=,id=225649,bonus_id=6652/10281/1656/10255
+#
+# Sikran's Endless Arsenal (587)
+# trinket1=,id=212449,bonus_id=6652/10353/10280/1488/10255
+#
+# Venom-Etched Claw (584)
+# main_hand=,id=212409,bonus_id=6652/10353/10281/1485/10255
+#
+# Claws of the Hypogeal Nemesis (587)
+# hands=,id=212066,bonus_id=10280/10353/10372/6652/1488/10255
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2915:329/c:2914:357/c:3008:2000/i:206959:5/i:211516:6/i:190453:3/i:206960:1
+#
+# slot_high_watermarks=0:584:619/1:597:606/2:603:619/3:545:619/4:600:616/5:590:619/6:590:610/7:590:616/8:610:616/9:545:619/10:564:610/11:584:616/12:0:619/13:10:610/14:600:616/15:597:606/16:10:606
+#
+# upgrade_achievements=40107/40115
+
+# Checksum: d733f908

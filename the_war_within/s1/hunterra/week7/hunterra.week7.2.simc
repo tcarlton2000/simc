@@ -1,0 +1,271 @@
+# Hunterra - Beast Mastery - 2024-10-30 20:11 - US/Thunderhorn
+# SimC Addon 11.0.5-01
+# WoW 11.0.5.57292, TOC 110005
+# Requires SimulationCraft 1000-01 or newer
+
+hunter="Hunterra"
+level=80
+race=draenei
+region=us
+server=thunderhorn
+role=attack
+professions=mining=81/skinning=100
+spec=beast_mastery
+
+talents=C0PAjWdaYGhrXhCioy+K0kCnAastMjZmNGTWYWWmlGaGLAAAAAAYAAAAAAAmx2MGzMGmZGzwYmxDMjxMzMZGGzMmZGzMMMGzYYWmhZZGsB
+
+# Saved Loadout: Icy Veins Leveling
+# talents=C0PAjWdaYGhrXhCioy+K0kCnACMmxGDsALDDG2AAAAAAwAAAAAAAGzYGDzYGzMjhZMzYmxYGzwMMmZMzMMjZYMMzMYYmlZYWA
+# Saved Loadout: wowhead s1 delve
+# talents=C0PAjWdaYGhrXhCioy+K0kCnACMmxGDsALDDG2AAAAAAwAAAAAAAMsNjxMjZYmxMMmZMzYMzMDzYGzMmZGzMmhxwMzYMMjZA
+# Saved Loadout: wowhead s1 raid
+# talents=C0PAjWdaYGhrXhCioy+K0kCnAastMjZmNGDLMLLziBzYBAAAAAADAAAAAAwMWGGzMGmZYmLwwMmZMmZmhZYMzYmZMzYGGjZmBmhxMMb
+# Saved Loadout: wowhead s1 m+/aoe
+# talents=C0PAjWdaYGhrXhCioy+K0kCnAastMjZmNGDLMLLziBzYBAAAAAADAAAAAAwM2mxYmxwMzYGGzMegZMmZmhZYMzYmZMzwwYMjhZZGmlZwG
+
+# Lightless Scavenger's Skull (619)
+head=,id=212020,bonus_id=6652/10877/10371/10266/1520/10255
+# Sureki Zealot's Insignia (606)
+neck=,id=225577,bonus_id=6652/10395/10392/10353/10274/1507/10255
+# Lightless Scavenger's Taxidermy (619)
+shoulder=,id=212018,bonus_id=10369/6652/10262/1520/10255
+# Myconic Wrap (616)
+back=,id=219186,bonus_id=10263/6652/10377/3195/10255
+# Lightless Scavenger's Tunic (619)
+chest=,id=212023,bonus_id=10373/6652/10262/1520/10255
+# Torchbearer's Bracers (606)
+wrist=,id=211028,bonus_id=6652/10877/10377/10270/3185/10255
+# Torchbearer's Grips (610)
+hands=,id=211023,bonus_id=10265/6652/10377/3189/10255
+# Sash of the Stygian Sea (606)
+waist=,id=219160,bonus_id=6652/10876/10377/10270/3185/10255
+# Lightless Scavenger's Stalkings (606)
+legs=,id=212019,bonus_id=6652/10354/10270/10370/1507
+# Treads of the Stygian Sea (606)
+feet=,id=219165,bonus_id=6652/10377/10270/3185/10255
+# Unearthed Relic Band (619)
+finger1=,id=211061,bonus_id=6652/10395/10393/10266/1524/10255
+# Bone-Carved Circlet (619)
+finger2=,id=219187,gem_id=192919,bonus_id=6652/10395/10878/10266/3198/10255
+# Concoction: Kiss of Death (619)
+trinket1=,id=215174,bonus_id=6652/10262/3298/10255
+# Void Reaper's Contract (606)
+trinket2=,id=212456,bonus_id=6652/10353/10274/1507/10255
+# Shooting Starquebus (619)
+main_hand=,id=219205,bonus_id=6652/10266/3198/10255
+
+### Gear from Bags
+#
+# Magma Giant's Crown (597)
+# head=,id=231461,bonus_id=10376/41/10876/10273/12093/10383/1485/10255
+#
+# Magma Giant's Crown (597)
+# head=,id=231461,bonus_id=10376/6652/10876/10273/12093/10383/1485/10255
+#
+# Torchbearer's Coif (603)
+# head=,id=211024,bonus_id=10271/6652/10877/10377/3182/10255
+#
+# Imperial Jewel (593)
+# neck=,id=231436,bonus_id=6652/10394/10878/10278/12092/10383/1481/10255
+#
+# Strapped Rescue-Keg (593)
+# neck=,id=221060,bonus_id=10388/6652/10395/10393/10290/1628/10255
+#
+# Long-Lost Choker (606)
+# neck=,id=211063,bonus_id=6652/10394/10392/10270/1511/10255
+#
+# Gold-Thread Choker (603)
+# neck=,id=219217,bonus_id=10271/41/10394/10393/3182/10255
+#
+# Torchbearer's Shoulderguards (603)
+# shoulder=,id=211026,bonus_id=10271/6652/10377/3182/10255
+#
+# Spaulders of the Stygian Sea (603)
+# shoulder=,id=219161,bonus_id=10271/6652/10377/3182/10255
+#
+# Whispering Voidlight Spaulders (619)
+# shoulder=,id=212429,bonus_id=6652/10379/10355/10262/1520/10255
+#
+# Torchbearer's Greatcloak (603)
+# back=,id=211007,bonus_id=10271/6652/10377/1508/10255
+#
+# Secret-Dredger's Cloak (603)
+# back=,id=211006,bonus_id=10271/6652/10377/1508/10255
+#
+# Myconic Wrap (606)
+# back=,id=219186,bonus_id=41/10377/10270/3185/10255
+#
+# Cloak of the Illidari Council (616)
+# back=,id=150483,bonus_id=10377/7756/10267/10051/10255
+#
+# Hauberk of the Stygian Sea (610)
+# chest=,id=219166,bonus_id=10265/6652/10377/3189/10255
+#
+# Torchbearer's Chainmail (603)
+# chest=,id=211021,bonus_id=10271/6652/10377/3182/10255
+#
+# Wrist Bindings of the Stygian Sea (603)
+# wrist=,id=219159,bonus_id=10271/6652/10877/10377/3182/10255
+#
+# Wrist Bindings of the Stygian Sea (603)
+# wrist=,id=219159,bonus_id=10271/6652/10877/10377/3182/10255
+#
+# Chitinoid Grips of the Aurora (584)
+# hands=,id=224684,bonus_id=10281/6652/1704/10377/1656/10255
+#
+# Molten Fists (603)
+# hands=,id=231416,bonus_id=6652/10376/10271/12093/10383/1491/10255
+#
+# Torchbearer's Grips (610)
+# hands=,id=211023,bonus_id=10265/6652/10377/3189/10255
+#
+# Torchbearer's Grips (610)
+# hands=,id=211023,bonus_id=10265/6652/10377/3189/10255
+#
+# Torchbearer's Grips (603)
+# hands=,id=211023,bonus_id=10271/6652/10377/3182/10255
+#
+# Sash of the Stygian Sea (603)
+# waist=,id=219160,bonus_id=10271/6652/10877/10377/3182/10255
+#
+# Chitinoid Belt of the Feverflare (584)
+# waist=,id=224688,bonus_id=10281/6652/10877/1700/10377/1656/10255
+#
+# Anchor Chain Girdle (584)
+# waist=,id=159386,bonus_id=10388/6652/10876/10375/12045/10293/9992/10255
+#
+# Torchbearer's Greaves (603)
+# legs=,id=211025,bonus_id=10271/6652/10377/3182/10255
+#
+# Poleyns of the Stygian Sea (603)
+# legs=,id=219162,bonus_id=10271/6652/10377/3182/10255
+#
+# Tempered Mercury Greaves (597)
+# feet=,id=156328,bonus_id=10273/10377/7756/10029/10255
+#
+# Sturdy Chitinous Striders (603)
+# feet=,id=225734,bonus_id=41/10376/10354/10271/1504/10255
+#
+# Ceremonial Song Ring (610)
+# finger1=,id=219221,bonus_id=10265/6652/10394/10878/3189/10255
+#
+# Ring of Endless Coils (610)
+# finger1=,id=171478,bonus_id=10265/7756/8902/10017/10255
+#
+# Ceremonial Song Ring (603)
+# finger1=,id=219221,bonus_id=10271/6652/10394/10393/3182/10255
+#
+# Gem-Studded Ring of the Harmonious (584)
+# finger1=,id=224662,bonus_id=10281/6652/10394/10393/1783/1656/10255
+#
+# Seal of Ghoulish Glee (584)
+# finger1=,id=143904,bonus_id=10281/10394/10393/10007/10255
+#
+# Fuzzy Molding Halo (603)
+# finger1=,id=219189,bonus_id=10271/6652/10394/10392/3182/10255
+#
+# Gem-Studded Ring of the Aurora (584)
+# finger1=,id=224662,bonus_id=10281/6652/10395/10392/1773/1656/10255
+#
+# Stormrage Signet Ring (597)
+# finger1=,id=150524,bonus_id=10273/7756/41/10031/10255
+#
+# Bone-Carved Circlet (619)
+# finger1=,id=219187,bonus_id=6652/10394/10392/10266/3198/10255
+#
+# Gem-Studded Signet of the Fireflash (587)
+# finger1=,id=224661,bonus_id=10280/10395/10392/1759/1659/10255
+#
+# Olden Signet (603)
+# finger1=,id=211052,bonus_id=10271/6652/10395/10393/1508/10255
+#
+# Ring-Bound Hourglass  (502)
+# finger1=,id=193000,enchant_id=6549,gem_id=192922,bonus_id=8836/8840/8902/8780/9405/8791/10249,crafted_stats=32/36,crafting_quality=5
+#
+# Scroll of Momentum (603)
+# trinket1=,id=226539,bonus_id=6652/10271/3132/10255
+#
+# Imperfect Ascendancy Serum (603)
+# trinket1=,id=225654,bonus_id=6652/10271/3132/10255
+#
+# Hand of Justice (593)
+# trinket1=,id=231417,bonus_id=6652/10278/12092/10383/1481/10255
+#
+# Vanquished Clutches of Yogg-Saron (610)
+# trinket1=,id=156458,bonus_id=10265/7756/8902/10042/10255
+#
+# Ovi'nax's Mercurial Egg (603)
+# trinket1=,id=220305,bonus_id=6652/10354/10271/1504/10255
+#
+# Concoction: Kiss of Death (603)
+# trinket1=,id=215174,bonus_id=10271/6652/3282/10255
+#
+# Empowering Crystal of Anub'ikkaj (580)
+# trinket1=,id=219312,bonus_id=10294/10388/6652/12045/1615/10254
+#
+# Quickwick Candlestick (603)
+# trinket1=,id=225649,bonus_id=6652/10271/3132/10255
+#
+# Stormpike Insignia Rank 6 (29)
+# trinket1=,id=17904
+#
+# Hand of Justice (593)
+# trinket1=,id=231417,bonus_id=6652/10278/12092/10383/1481/10255
+#
+# Spelunker's Waning Candle (603)
+# trinket1=,id=225638,bonus_id=6652/10271/3132/10255
+#
+# Imperfect Ascendancy Serum (603)
+# trinket1=,id=225654,bonus_id=6652/10271/3132/10255
+#
+# Shadow-Binding Ritual Knife (603)
+# trinket1=,id=215178,bonus_id=10271/41/3282/10255
+#
+# Everburning Lantern (603)
+# trinket1=,id=215169,bonus_id=10271/6652/3282/10255
+#
+# Quickwick Candlestick (603)
+# trinket1=,id=225649,bonus_id=6652/10271/3132/10255
+#
+# Ancient Forged Slugthrower of the Harmonious (584)
+# main_hand=,id=224704,bonus_id=10281/6652/1711/1656/10255
+#
+# Magma-Shot Boomstick (597)
+# main_hand=,id=231454,bonus_id=6652/10273/12093/10384/1485/10255
+#
+# Ancient Forged Slugthrower of the Feverflare (587)
+# main_hand=,id=224704,bonus_id=10280/41/1698/1659/10255
+#
+# Ancient Forged Slugthrower of the Aurora (584)
+# main_hand=,id=224704,bonus_id=10281/6652/1704/1656/10255
+#
+# Ancient Forged Slugthrower of the Harmonious (584)
+# main_hand=,id=224704,bonus_id=10281/6652/1716/1656/10255
+#
+# Trailblazer's Hookshoot (603)
+# main_hand=,id=219353,bonus_id=10271/6652/1508/10255
+#
+# Legionkiller (597)
+# main_hand=,id=150451,bonus_id=10273/7756/10032/10255
+#
+# Trailblazer's Hookshoot (610)
+# main_hand=,id=219353,bonus_id=10265/41/1515/10255
+#
+# Siren's Cry (597)
+# main_hand=,id=156054,bonus_id=10273/7756/10029/10255
+#
+# Splintershot Silkbow (606)
+# main_hand=,id=212399,bonus_id=6652/10353/10274/1507/10255
+#
+# Shade-Touched Silencer (590)
+# main_hand=,id=212400,bonus_id=41/10353/10279/1491/10255
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2915:35/c:2917:18/c:1792:574/c:2916:39/c:2122:7/c:2914:15/c:3008:1874/i:224072:1/i:206959:7/i:190453:3
+#
+# slot_high_watermarks=0:619:619/1:606:606/2:619:619/3:619:619/4:606:610/5:606:606/6:606:606/7:606:606/8:610:616/9:619:619/10:610:610/11:616:616/12:619:619/13:0:597/14:1:603/15:0:584/16:0:603
+#
+# upgrade_achievements=40107/40115
+
+# Checksum: 92d5f2b7
