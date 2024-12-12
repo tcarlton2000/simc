@@ -1,0 +1,236 @@
+# Carlement - Restoration - 2024-12-12 00:07 - US/Blade's Edge
+# SimC Addon 11.0.5-02
+# WoW 11.0.5.57689, TOC 110005
+# Requires SimulationCraft 1000-01 or newer
+
+shaman="Carlement"
+level=80
+race=maghar_orc
+region=us
+server=blades_edge
+role=attack
+
+spec=restoration
+
+talents=CgQAYp+JUk5Lea12OyacsLNThAAAAAAGAAAAAzMzMzyMWmZmZGsMYGYzMLwAmgZjJkxCzMzyYmlZmZkZDmpxMjZYsYMjFzywswAAYA
+
+
+# Timely Tourist's Coif (593)
+head=,id=226079,bonus_id=6652/10876/11311/10378/10377/10278/1665/10255
+# Darkened Tinderbox (597)
+neck=,id=220158,bonus_id=10273/6652/10394/10393/1669/10255
+# Mana-Frosted Pauldrons (593)
+shoulder=,id=150544,bonus_id=10376/10383/10278/10031/10255
+# Myconic Wrap (603)
+back=,id=219186,bonus_id=10271/6652/10377/3182/10255
+# Valorous Worldbreaker Hauberk (610)
+chest=,id=156134,bonus_id=10265/7756/10376/8902/10383/10042/10255
+# Malevolent Gladiator's Armbands of Prowess (593)
+wrist=,id=227624,bonus_id=10376/10876/10383/10278/10021/10255
+# Torchbearer's Grips (603)
+hands=,id=211023,bonus_id=10271/6652/10377/3182/10255
+# Unmelting Ironworker Clasp (597)
+waist=,id=223307,bonus_id=10273/10377/10876/1669/10255
+# Liquified Defector's Leggings (593)
+legs=,id=212435,bonus_id=6652/10378/10353/10278/1494/10255
+# The Fifth's Linked Treads (600)
+feet=,id=231473,bonus_id=6652/10376/10272/12093/10383/1488/10255
+# Timely Tourist's Signet (593)
+finger1=,id=226047,bonus_id=42/10394/10393/11311/10278/1665/10255
+# Emperor's Seal (606)
+finger2=,id=231437,bonus_id=6652/10394/10393/10270/12093/10383/1494/10255
+# Kaheti Shadeweaver's Emblem (593)
+trinket1=,id=225651,bonus_id=6652/11215/10278/1665/10255
+# Candle Confidant (593)
+trinket2=,id=225648,bonus_id=6652/10278/1665/10255
+# The Hammer of Grace (603)
+main_hand=,id=231428,bonus_id=6652/12092/10384/10275/1491/10255
+# Stoneshell Guard (603)
+off_hand=,id=231394,bonus_id=6652/12092/10383/10275/1491/10255
+
+### Gear from Bags
+#
+# Magma Giant's Crown (597)
+# head=,id=231461,bonus_id=10376/6652/10877/10273/12093/10383/1485/10255
+#
+# Bascinet of the Stygian Sea (603)
+# head=,id=219163,bonus_id=10271/6652/10877/10377/3182/10255
+#
+# Honorary Tinderbox (571)
+# neck=,id=219503,bonus_id=10297/6652/10395/10393/1643/10254
+#
+# Empowered Tinderbox (584)
+# neck=,id=220157,bonus_id=10281/6652/10395/10392/1656/10255
+#
+# Nacreous Shell Necklace (567)
+# neck=,id=22403,bonus_id=6652/8811/10286/7756/10395/10393/12090/10009
+#
+# Streamtalker Necklace (467)
+# neck=,id=153993,bonus_id=11073,drop_level=70
+#
+# Torchbearer's Shoulderguards (554)
+# shoulder=,id=211026,bonus_id=11306/6652/10375,drop_level=80
+#
+# Timely Tourist's Shoulderguards (552)
+# shoulder=,id=226081,bonus_id=12070/6652,drop_level=79
+#
+# Spaulders of the Stygian Sea (603)
+# shoulder=,id=219161,bonus_id=10271/6652/10377/3182/10255
+#
+# Royal Tribunal Cloak (567)
+# back=,id=13376,bonus_id=6652/10286/7756/12090/10007
+#
+# Gem-Woven Shawl of the Peerless (593)
+# back=,id=224663,bonus_id=6652/1684/10377/10278/1665/10255
+#
+# Chitinoid Chainmail of the Peerless (587)
+# chest=,id=224682,bonus_id=10280/6652/1688/10377/1659/10255
+#
+# Deathdealer Breastplate (600)
+# chest=,id=231431,bonus_id=6652/10376/10272/12093/10383/1488/10255
+#
+# Streamtalker Bracers (467)
+# wrist=,id=154008,bonus_id=11073,drop_level=70
+#
+# Wrist Bindings of the Stygian Sea (610)
+# wrist=,id=219159,bonus_id=10265/6652/10877/10377/3189/10255
+#
+# Rubicund Armguards (584)
+# wrist=,id=231397,bonus_id=10378/40/10877/10281/12092/10383/1472/10255
+#
+# Darkspinner Claws (580)
+# hands=,id=13532,bonus_id=6652/7756/12090/10282/10020/10254
+#
+# Dracorian Gauntlets (567)
+# hands=,id=13344,bonus_id=6652/10286/7756/12090/10007
+#
+# Chitinoid Grips of the Harmonious (584)
+# hands=,id=224684,bonus_id=10281/6652/1714/10377/1656/10255
+#
+# Molten Fists (590)
+# hands=,id=231416,bonus_id=6652/10378/10279/12092/10383/1478/10255
+#
+# Grasps of the Stygian Sea (597)
+# hands=,id=219164,bonus_id=10273/6652/10377/3176/10255
+#
+# Sash of the Grand Hunt (593)
+# waist=,id=231442,bonus_id=6652/10876/10378/10278/12092/10383/1481/10255
+#
+# Lead Surveyor's Belt (600)
+# waist=,id=231388,bonus_id=6652/10876/10376/10272/12093/10383/1488/10255
+#
+# Poleyns of the Stygian Sea (603)
+# legs=,id=219162,bonus_id=10271/6652/10377/3182/10255
+#
+# Anvilrage Dragoon's Trousers (603)
+# legs=,id=231480,bonus_id=6652/10376/10271/12093/10383/1491/10255
+#
+# Torchbearer's Greaves (603)
+# legs=,id=211025,bonus_id=10271/40/10377/3182/10255
+#
+# Timmy's Galoshes (567)
+# feet=,id=13402,bonus_id=6652/10286/7756/12090/10009
+#
+# Sezz'ziz's Captive Kickers (567)
+# feet=,id=151458,bonus_id=6652/10286/7756/12090/10009
+#
+# Emperor's Seal (593)
+# finger1=,id=231437,bonus_id=6652/10395/10393/10278/12092/10383/1481/10255
+#
+# Streamtalker Ring of Wisdom (467)
+# finger1=,id=153995,bonus_id=11073,drop_level=70
+#
+# Naglering (600)
+# finger1=,id=231396,bonus_id=6652/10395/10392/10272/12093/10383/1488/10255
+#
+# Streamtalker Band of Wisdom (467)
+# finger1=,id=153996,bonus_id=11073,drop_level=70
+#
+# Streamtalker Idol of Wisdom (467)
+# trinket1=,id=153994,bonus_id=11073,drop_level=70
+#
+# Unstable Power Suit Core (590)
+# trinket1=,id=225668,bonus_id=10279/42/1662/10255
+#
+# Unstable Power Suit Core (584)
+# trinket1=,id=225668,bonus_id=10281/6652/1656/10255
+#
+# Candle Confidant (584)
+# trinket1=,id=225648,bonus_id=10281/6652/1656/10255
+#
+# Streamtalker Stone of Wisdom (467)
+# trinket1=,id=153997,bonus_id=11073,drop_level=70
+#
+# Concoction: Kiss of Death (603)
+# trinket1=,id=215174,bonus_id=10271/6652/3282/10255
+#
+# Gift of the Elven Magi (567)
+# main_hand=,id=13360,bonus_id=6652/10286/7756/12091/10009
+#
+# Guiding Stave of Wisdom (590)
+# main_hand=,id=231435,bonus_id=6652/10279/12092/10384/1478/10255
+#
+# Guiding Stave of Wisdom (603)
+# main_hand=,id=231435,bonus_id=6652/10271/12093/10384/1491/10255
+#
+# Timely Tourist's Blade (584)
+# main_hand=,id=226056,bonus_id=10281/6652/11311/1656/10255
+#
+# Luminous Lampspire (554)
+# main_hand=,id=211059,bonus_id=11306/6652,drop_level=80
+#
+# Scepter of the Unholy (567)
+# main_hand=,id=13349,bonus_id=6652/10286/7756/12091/10007
+#
+# Arm Blade of Augelmir (554)
+# main_hand=,id=188432,bonus_id=11069/7756,drop_level=80
+#
+# Guiding Stave of Wisdom (590)
+# main_hand=,id=231435,bonus_id=6652/10279/12092/10384/1478/10255
+#
+# Lapidarius Gemcutter (610)
+# main_hand=,id=211047,bonus_id=10265/6652/1515/10255
+#
+# Torchlit Pickaxe (603)
+# main_hand=,id=219356,bonus_id=10271/6652/1508/10255
+#
+# Torchlit Pickaxe (603)
+# main_hand=,id=219356,bonus_id=10271/42/1508/10255
+#
+# Molten Ironfoe (584)
+# main_hand=,id=231398,bonus_id=6652/11215/10281/12092/10384/1472/10255
+#
+# Talon of the Tempest (590)
+# main_hand=,id=186468,bonus_id=10279/10384/10025/10255
+
+### Weekly Reward Choices
+#
+# Everburning Lantern (616)
+# trinket1=,id=215169,bonus_id=10263/6652/3295/10255
+#
+# Cave Topographer's Drape (616)
+# back=,id=211005,bonus_id=10263/6652/10377/1521/10255
+#
+# Concoction: Kiss of Death (584)
+# trinket1=,id=215174,bonus_id=10281/6652/3263/10255
+#
+# Ovi'nax's Mercurial Egg (590)
+# trinket1=,id=220305,bonus_id=6652/10353/10279/1491/10255
+#
+# Silken Advisor's Favor (593)
+# neck=,id=225575,bonus_id=6652/10395/10878/10353/10278/1494/10255
+#
+# Sarong of the Forgotten Reservoir (590)
+# legs=,id=212010,bonus_id=10279/10353/10370/6652/1491/10255
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2915:737/c:2917:6/c:2916:18/c:2914:89/c:3008:1939
+#
+# slot_high_watermarks=0:603:619/1:597:606/2:603:619/3:610:619/4:600:616/5:603:619/6:600:610/7:610:616/8:603:616/9:600:619/10:593:610/11:603:616/12:603:619/13:610:610/14:554:616/15:467:606/16:603:606
+#
+# upgrade_achievements=40107/40115
+
+# Checksum: 50a02355

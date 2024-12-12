@@ -1,0 +1,246 @@
+# Revan - Retribution - 2024-12-10 15:45 - US/Thunderhorn
+# SimC Addon 11.0.5-02
+# WoW 11.0.5.57689, TOC 110005
+# Requires SimulationCraft 1000-01 or newer
+
+paladin="Revan"
+level=80
+race=draenei
+region=us
+server=thunderhorn
+role=attack
+professions=engineering=43/jewelcrafting=59
+spec=retribution
+
+talents=CYEA5ba6OK14IUITjS1kSUVJcBAAAYAgRstNzstsNzYzMz2iZbAAAAAAY2aaGGmZsNDmthxsMzy2YGMDDLLsBAAQmZaZWmtZAAbADAYYYA
+
+# Saved Loadout: Icy Veins EZMode
+# talents=CYEA5ba6OK14IUITjS1kSUVJcBAAAYAAMzy2Mz2ymZsMXwMLLsAAAAAAgBzMcBMDmBzywY2mxGzghZYZjtHAAAAAAAAAAAAA
+# Saved Loadout: wowhead m+
+# talents=CYEA5ba6OK14IUITjS1kSUVJcBAAAAAMwy2Mz2yGgxCAAAAAAgZDDAAAYWw2DADAWAAAAAAAAAAAAA
+
+# Entombed Seraph's Casque (616)
+head=,id=211993,bonus_id=10371/6652/10876/10263/1517/10255
+# Darkened Tinderbox (597)
+neck=,id=220158,bonus_id=10273/6652/10394/10392/1669/10255
+# Entombed Seraph's Plumes (597)
+shoulder=,id=211991,bonus_id=10277/41/10353/8096/10369/1498
+# Myconic Wrap (603)
+back=,id=219186,bonus_id=10271/6652/10377/3182/10255
+# Secret-Dredger's Breastplate (610)
+chest=,id=211030,bonus_id=10265/42/10377/3189/10255
+# Tabard of Therazane (33)
+tabard=,id=65907
+# Sedimentary Armplates of the Harmonious (593)
+wrist=,id=224697,bonus_id=6652/10877/1716/10377/10278/1665/10255
+# Entombed Seraph's Castigation (593)
+hands=,id=211994,bonus_id=6652/10372/10278/1494/10255
+# Slag Accruing Waistguard (603)
+waist=,id=223304,bonus_id=10377/10876/10271/3132/10255
+# Entombed Seraph's Greaves (603)
+legs=,id=211992,bonus_id=6652/10370/10271/1504/10255
+# Chiseled Boulder Crushers (597)
+feet=,id=223301,bonus_id=10273/10377/1669/10255
+# Loop of Vestigial Power (593)
+finger1=,id=211051,bonus_id=6652/10394/10392/11215/10290/1498/10255
+# Gem-Studded Ring of the Harmonious (580)
+finger2=,id=224662,bonus_id=6652/10394/10392/1777/10282/1652/10254
+# Sikran's Endless Arsenal (603)
+trinket1=,id=212449,bonus_id=6652/10353/10275/1504/10255
+# Detachable Fang (593)
+trinket2=,id=225657,bonus_id=6652/10290/1665/10255
+# Anub'arash's Colossal Mandible (603)
+main_hand=,id=212407,bonus_id=6652/10353/10275/1504/10255
+
+### Gear from Bags
+#
+# Visor of the Ascended Captain (587)
+# head=,id=212427,bonus_id=6652/10877/10378/10353/10280/1488/10255
+#
+# Visage of Hidden Stars (603)
+# head=,id=219155,bonus_id=10271/43/10876/10377/3182/10255
+#
+# Long-Lost Choker (603)
+# neck=,id=211063,bonus_id=10271/6652/10395/10393/1508/10255
+#
+# Gem-Studded Pendant of the Feverflare (587)
+# neck=,id=224665,bonus_id=10280/6652/10395/10393/1765/1659/10255
+#
+# Embershard Pendant (597)
+# neck=,id=231455,bonus_id=6652/10395/10392/10273/12093/10383/1485/10255
+#
+# Empowered Tinderbox (584)
+# neck=,id=220157,bonus_id=10281/6652/10395/10393/1656/10255
+#
+# Honorary Tinderbox (571)
+# neck=,id=219503,bonus_id=10297/6652/10394/10392/1643/10254
+#
+# Ebonsteel Spaulders (603)
+# shoulder=,id=231440,bonus_id=6652/10376/10271/12093/10383/1491/10255
+#
+# Shoulderplates of the Eternal (610)
+# shoulder=,id=156048,bonus_id=10265/7756/10376/8902/10383/10042/10255
+#
+# Secret-Dredger's Mantle (603)
+# shoulder=,id=211034,bonus_id=10271/43/10377/3182/10255
+#
+# Secret-Dredger's Cloak (603)
+# back=,id=211006,bonus_id=10271/40/10377/1508/10255
+#
+# Unkindled Waxweave Mozzetta (603)
+# back=,id=219190,bonus_id=10271/42/10377/3182/10255
+#
+# Black-Iron Battlecloak (590)
+# back=,id=186462,bonus_id=10279/10376/10383/10025/10255
+#
+# Gem-Woven Cloak of the Feverflare (564)
+# back=,id=224664,bonus_id=10287/6652/1699/10375/1636
+#
+# Treasure-Seeker's Shawl (610)
+# back=,id=211062,bonus_id=10265/6652/10377/1515/10255
+#
+# Cape of the Fire Salamander (590)
+# back=,id=231415,bonus_id=6652/10378/10279/12092/10383/1478/10255
+#
+# Spritecaster Cape (597)
+# back=,id=231390,bonus_id=10376/6652/10273/12093/10383/1485/10255
+#
+# Anvilrage Warden's Breastplate (584)
+# chest=,id=231488,bonus_id=10378/6652/10281/12092/10383/1472/10255
+#
+# Nerubian Weaver's Chestplate (554)
+# chest=,id=223379,bonus_id=11061,drop_level=80
+#
+# Wyrmforged Breastplate (480)
+# chest=,id=192006,bonus_id=10341/10871/6652/8902/1602/8767
+#
+# Battleplate of Dimming Fluorescence (584)
+# chest=,id=223296,bonus_id=10281/10377/1656/10255
+#
+# Dark Silk Shirt (1)
+# shirt=,id=4333
+#
+# Handguards of Hidden Stars (603)
+# wrist=,id=219151,bonus_id=10271/6652/10876/10377/3182/10255
+#
+# Handguards of Hidden Stars (610)
+# wrist=,id=219151,bonus_id=10265/6652/10877/10377/3189/10255
+#
+# Armguards of Dimming Fluorescence (597)
+# wrist=,id=223311,bonus_id=10273/10377/10876/1669/10255
+#
+# Secret-Dredger's Armplates (597)
+# wrist=,id=211036,bonus_id=10273/6652/10877/10377/3176/10255
+#
+# Burning Spirit Tender's Mitts (590)
+# hands=,id=231486,bonus_id=40/10378/10279/12092/10383/1478/10255
+#
+# Gauntlets of Dimming Fluorescence (528)
+# hands=,id=228428,bonus_id=11336,drop_level=76
+#
+# Sedimentary Gauntlets of the Peerless (587)
+# hands=,id=224692,bonus_id=10280/41/1689/10377/1659/10255
+#
+# Sedimentary Gauntlets of the Feverflare (564)
+# hands=,id=224692,bonus_id=10287/42/1698/10375/1636
+#
+# Secret-Dredger's Girdle (603)
+# waist=,id=211035,bonus_id=10271/6652/10877/10377/3182/10255
+#
+# Lavacrest Leggings (597)
+# legs=,id=231408,bonus_id=10376/6652/10273/12093/10383/1485/10255
+#
+# Crystal Star Cuisses (603)
+# legs=,id=225745,bonus_id=6652/10376/10354/10271/1504/10255
+#
+# Sedimentary Legguards of the Harmonious (584)
+# legs=,id=224694,bonus_id=10281/6652/1712/10377/1656/10255
+#
+# Deep-Dweller's Leggings of the Peerless (561)
+# legs=,id=224598,bonus_id=10288/6652/1687/10844/1488
+#
+# Sollerets of Hidden Stars (603)
+# feet=,id=219157,bonus_id=10271/6652/10377/3182/10255
+#
+# Liadrin's Fury Unleashed (251)
+# finger1=,id=137048,bonus_id=1811/3630,drop_level=45
+#
+# Signet of Titanic Insight  (424)
+# finger1=,id=192999,enchant_id=6549,gem_id=192947,bonus_id=8836/8840/8902/8780/9405/8790/9366,crafted_stats=49/40,crafting_quality=5
+#
+# Shining Arathor Insignia (587)
+# trinket1=,id=225647,bonus_id=10280/6652/1659/10255
+#
+# Shining Arathor Insignia (564)
+# trinket1=,id=225647,bonus_id=10287/6652/1636
+#
+# Heart of Roccor (597)
+# trinket1=,id=231456,bonus_id=6652/10273/12093/10383/1485/10255
+#
+# Golem Gearbox (600)
+# trinket1=,id=231471,bonus_id=6652/10272/12093/10383/1488/10255
+#
+# Hand of Justice (593)
+# trinket1=,id=231417,bonus_id=6652/10278/12092/10383/1481/10255
+#
+# Golem Gearbox (600)
+# trinket1=,id=231471,bonus_id=6652/10272/12093/10383/1488/10255
+#
+# Imperfect Ascendancy Serum (603)
+# trinket1=,id=225654,bonus_id=6652/10271/3132/10255
+#
+# Concoction: Kiss of Death (603)
+# trinket1=,id=215174,bonus_id=10271/6652/3282/10255
+#
+# Ancient Forged Warhammer of the Feverflare (584)
+# main_hand=,id=224706,bonus_id=10281/6652/1697/1656/10255
+#
+# Ancient Forged Warhammer of the Quickblade (587)
+# main_hand=,id=224706,bonus_id=10280/6652/1677/1659/10255
+#
+# Timely Tourist's Spellblade (584)
+# main_hand=,id=226168,bonus_id=10281/6652/11311/1656/10255
+#
+# Mountain Shaper's Greataxe (603)
+# main_hand=,id=219354,bonus_id=10271/6652/1508/10255
+#
+# Ancient Forged Warhammer of the Feverflare (593)
+# main_hand=,id=224706,bonus_id=6652/1701/10278/1665/10255
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+#
+# Dredger's Developed Defender  (570)
+# off_hand=,id=222474,bonus_id=11297/11298/9626/11331,crafted_stats=32/49,crafting_quality=4
+
+### Weekly Reward Choices
+#
+# Raiment of Hidden Stars (616)
+# chest=,id=219158,bonus_id=10263/6652/10377/3195/10255
+#
+# Concoction: Kiss of Death (616)
+# trinket1=,id=215174,bonus_id=10263/6652/3295/10255
+#
+# Abyssal Trap (584)
+# trinket1=,id=215170,bonus_id=10281/6652/3263/10255
+#
+# Writhing Ringworm (590)
+# finger1=,id=225576,bonus_id=6652/10394/10393/10353/10279/1491/10255
+#
+# Entombed Seraph's Castigation (587)
+# hands=,id=211994,bonus_id=10280/10353/10372/43/1488/10255
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2915:712/c:2917:9/c:2916:26/c:2122:15/c:2914:420/c:3008:1906/i:204440:1/i:206959:6/i:211516:1/i:190453:4/i:206960:1
+#
+# slot_high_watermarks=0:616:619/1:603:606/2:610:619/3:610:619/4:603:616/5:603:619/6:603:610/7:610:616/8:593:616/9:580:619/10:603:610/11:610:616/12:603:619/13:584:610/14:382:616/15:343:606/16:570:606
+#
+# upgrade_achievements=40107/40115
+
+# Checksum: bfede2b5
