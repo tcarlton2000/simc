@@ -1,58 +1,30 @@
-# Hunterra - Beast Mastery - 2024-10-30 20:11 - US/Thunderhorn
-# SimC Addon 11.0.5-01
-# WoW 11.0.5.57292, TOC 110005
-# Requires SimulationCraft 1000-01 or newer
+# Raidbots-generated SimC input for Armory character US Thunderhorn Hunterra
+# On 2024-12-13T23:17:03.648Z
 
-hunter="Hunterra"
+hunter=Hunterra
 level=80
 race=draenei
 region=us
 server=thunderhorn
-role=attack
-professions=mining=81/skinning=100
+role=ranged
 spec=beast_mastery
+talents=C0PAAAAAAAAAAAAAAAAAAAAAAAMmxGDsALjGaYDAAAAAADAAAAAAww2MGzMmhZGzwYmxMjxMzMZGzYmxMzYmxMMGmZGjhZMDA
 
-talents=C0PAjWdaYGhrXhCioy+K0kCnAastMjZmNGTWYWWmlGaGLAAAAAAYAAAAAAAmx2MGzMGmZGzwYmxDMjxMzMZGGzMmZGzMMMGzYYWmhZZGsB
-
-# Saved Loadout: Icy Veins Leveling
-# talents=C0PAjWdaYGhrXhCioy+K0kCnACMmxGDsALDDG2AAAAAAwAAAAAAAGzYGDzYGzMjhZMzYmxYGzwMMmZMzMMjZYMMzMYYmlZYWA
-# Saved Loadout: wowhead s1 delve
-# talents=C0PAjWdaYGhrXhCioy+K0kCnACMmxGDsALDDG2AAAAAAwAAAAAAAMsNjxMjZYmxMMmZMzYMzMDzYGzMmZGzMmhxwMzYMMjZA
-# Saved Loadout: wowhead s1 raid
-# talents=C0PAjWdaYGhrXhCioy+K0kCnAastMjZmNGDLMLLziBzYBAAAAAADAAAAAAwMWGGzMGmZYmLwwMmZMmZmhZYMzYmZMzYGGjZmBmhxMMb
-# Saved Loadout: wowhead s1 m+/aoe
-# talents=C0PAjWdaYGhrXhCioy+K0kCnAastMjZmNGDLMLLziBzYBAAAAAADAAAAAAwM2mxYmxwMzYGGzMegZMmZmhZYMzYmZMzwwYMjhZZGmlZwG
-
-# Lightless Scavenger's Skull (619)
-head=,id=212020,bonus_id=6652/10877/10371/10266/1520/10255
-# Sureki Zealot's Insignia (606)
-neck=,id=225577,bonus_id=6652/10395/10392/10353/10274/1507/10255
-# Lightless Scavenger's Taxidermy (619)
-shoulder=,id=212018,bonus_id=10369/6652/10262/1520/10255
-# Myconic Wrap (616)
-back=,id=219186,bonus_id=10263/6652/10377/3195/10255
-# Lightless Scavenger's Tunic (619)
-chest=,id=212023,bonus_id=10373/6652/10262/1520/10255
-# Torchbearer's Bracers (606)
-wrist=,id=211028,bonus_id=6652/10877/10377/10270/3185/10255
-# Torchbearer's Grips (610)
-hands=,id=211023,bonus_id=10265/6652/10377/3189/10255
-# Sash of the Stygian Sea (606)
-waist=,id=219160,bonus_id=6652/10876/10377/10270/3185/10255
-# Lightless Scavenger's Stalkings (606)
-legs=,id=212019,bonus_id=6652/10354/10270/10370/1507
-# Treads of the Stygian Sea (606)
-feet=,id=219165,bonus_id=6652/10377/10270/3185/10255
-# Unearthed Relic Band (619)
-finger1=,id=211061,bonus_id=6652/10395/10393/10266/1524/10255
-# Bone-Carved Circlet (619)
-finger2=,id=219187,gem_id=192919,bonus_id=6652/10395/10878/10266/3198/10255
-# Concoction: Kiss of Death (619)
-trinket1=,id=215174,bonus_id=6652/10262/3298/10255
-# Void Reaper's Contract (606)
-trinket2=,id=212456,bonus_id=6652/10353/10274/1507/10255
-# Shooting Starquebus (619)
-main_hand=,id=219205,bonus_id=6652/10266/3198/10255
+back=,id=150483,bonus_id=10377/7756/10267/10051/10255,context=54
+chest=,id=212023,bonus_id=10373/6652/10262/1520/10255,context=108
+feet=,id=219165,bonus_id=6652/10377/10269/3189/10255,context=109
+finger1=,id=211061,bonus_id=6652/10395/10393/10266/1524/10255,context=109
+finger2=,id=219187,bonus_id=6652/10395/10878/10266/3198/10255,gem_id=192919,context=109
+hands=,id=231416,bonus_id=6652/10376/12093/10383/10269/1498/10255,context=3
+head=,id=212020,bonus_id=6652/10877/10371/10266/1520/10255,context=109
+legs=,id=212019,bonus_id=6652/10354/10370/10266/1520/10255,context=3
+main_hand=,id=219205,bonus_id=6652/10266/3198/10255,context=109
+neck=,id=225577,bonus_id=6652/10395/10392/10353/10274/1507/10255,context=4
+shoulder=,id=212018,bonus_id=10369/6652/10262/1520/10255,context=108
+trinket1=,id=215174,bonus_id=6652/10262/3298/10255,context=108
+trinket2=,id=212456,bonus_id=6652/10353/10274/1507/10255,context=4
+waist=,id=219160,bonus_id=6652/10876/10377/10270/3185/10255,context=109
+wrist=,id=211028,bonus_id=6652/10877/10377/10270/3185/10255,context=109
 
 ### Gear from Bags
 #

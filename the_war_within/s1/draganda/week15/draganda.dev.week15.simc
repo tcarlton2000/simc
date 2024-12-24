@@ -1,0 +1,304 @@
+# Draganda - Devastation - 2024-12-18 22:31 - US/Thunderhorn
+# SimC Addon 11.0.7-01
+# WoW 11.0.7.58162, TOC 110007
+# Requires SimulationCraft 1000-01 or newer
+
+evoker="Draganda"
+level=80
+race=dracthyr
+region=us
+server=thunderhorn
+role=spell
+
+spec=devastation
+
+talents=CsbBV7//nP39x/JJympTqouKSAAAAAAAAAAAAzMzAzwMDDmZww0MmZysNz2MzMzYGzsNDYmZswMzyYGYAGsBLjRjtBkZCwGmB
+
+# Saved Loadout: Icy Veins Easy Mode
+# talents=CsbBV7//nP39x/JJympTqouKSAAAAAAAAAAAAuAzAzYmhZADGzYGzMMbjlZmZmhxMLzAMmZbMzsMzMwADAAAAAAA
+# Saved Loadout: wowhead tww s1 delve
+# talents=CsbBV7//nP39x/JJympTqouKSAAAAAAAAAAAAzMzAzwMDDmZwwYGzMMbzsNzMzMmxMbzAmZGLMzsMmBGgBbwyYYsNAmBgNMD
+
+# Chitinoid Coif of the Fireflash (584)
+head=,id=224685,bonus_id=10281/6652/10876/1692/10377/1656/10255
+# Embershard Pendant (597)
+neck=,id=231455,bonus_id=6652/10394/10392/10273/12093/10383/1485/10255
+# Fumaroles of the Destroyer (587)
+shoulder=,id=212027,bonus_id=10280/10353/10369/6652/1488/10255
+# Cape of the Fire Salamander (590)
+back=,id=231415,bonus_id=6652/10378/10279/12092/10383/1478/10255
+# Dornish Warden's Coat (603)
+chest=,id=225735,bonus_id=6652/10376/10354/10271/1504/10255
+# Corrupted Earthen Binds (528)
+wrist=,id=223403,bonus_id=11061,drop_level=76
+# Rippers of the Destroyer (587)
+hands=,id=212030,bonus_id=10280/10353/10372/6652/1488/10255
+# Sash of the Grand Hunt (606)
+waist=,id=231442,bonus_id=40/10876/10376/10270/12093/10383/1494/10255
+# Anvilrage Dragoon's Trousers (603)
+legs=,id=231480,bonus_id=6652/10376/10271/12093/10383/1491/10255
+# Undermoth-Lined Footpads (584)
+feet=,id=212431,bonus_id=6652/10378/10353/10281/1485/10255
+# Emperor's Seal (606)
+finger1=,id=231437,bonus_id=6652/10395/10878/10270/12093/10383/1494/10255
+# Gem-Studded Band of the Feverflare (584)
+finger2=,id=224660,bonus_id=10281/6652/10395/10392/1769/1656/10255
+# Aberrant Spellforge (584)
+trinket1=,id=212451,bonus_id=6652/10353/10281/1485/10255
+# Unstable Power Suit Core (584)
+trinket2=,id=225668,bonus_id=10281/6652/1656/10255
+# Flamelord's Emberstaff (600)
+main_hand=,id=231467,bonus_id=6652/10272/12093/10384/1488/10255
+
+### Gear from Bags
+#
+# Torchbearer's Coif (532)
+# head=,id=211024,bonus_id=11190/6652/10375,drop_level=77
+#
+# Suffused Coif (457)
+# head=,id=204773,bonus_id=10322/8902/6652/10533/1579
+#
+# Snake Eater's Cowl (454)
+# head=,id=207141,bonus_id=6652/9600/9507/7982/9556/1485/8767
+#
+# Charred Nerubian Helm (408)
+# head=,id=219749,bonus_id=11128,drop_level=70
+#
+# Coif of the Reckoning's Vengeance (545)
+# head=,id=220131,bonus_id=11128,drop_level=79
+#
+# Underscout's Cap of the Peerless (558)
+# head=,id=224602,bonus_id=10289/6652/10877/1688/10844/1485
+#
+# Honorary Tinderbox (571)
+# neck=,id=219503,bonus_id=10297/6652/10395/10392/1643/10254
+#
+# Suffused Choker (480)
+# neck=,id=204732,bonus_id=8902/10341/6652/8783/10244/1602/8767
+#
+# Remembrance of the Fallen City (408)
+# neck=,id=219754,bonus_id=11128,drop_level=70
+#
+# Deeprock Pendant (250)
+# neck=,id=204919,bonus_id=8902/6652/8784/10244
+#
+# Long-Lost Choker (525)
+# neck=,id=211063,bonus_id=11190/6652,drop_level=76
+#
+# Faultline Mantle (493)
+# shoulder=,id=195499,bonus_id=6652/10871/7982/10884/10345/1576/8767
+#
+# Tower-Keeper's Shoulderguards (538)
+# shoulder=,id=220113,bonus_id=11128,drop_level=78
+#
+# Deepfiend Shoulder Shells (541)
+# shoulder=,id=223396,bonus_id=11061,drop_level=78
+#
+# Underscout's Shoulderguards of the Harmonious (525)
+# shoulder=,id=224607,bonus_id=10382/6652/1717/10844,drop_level=76
+#
+# Adult-Sized Arathi Epaulets (1)
+# shoulder=,id=225949
+#
+# Chitinoid Shoulderguards of the Fireflash (587)
+# shoulder=,id=224687,bonus_id=10280/6652/1694/10377/1659/10255
+#
+# Suffused Drape (460)
+# back=,id=204898,bonus_id=10323/8902/1582/8766
+#
+# Secret-Dredger's Cloak (548)
+# back=,id=211006,bonus_id=9637/6652/10375,drop_level=80
+#
+# Torchbearer's Greatcloak (519)
+# back=,id=211007,bonus_id=11190/6652/10375,drop_level=75
+#
+# Gem-Woven Cloak of the Quickblade (587)
+# back=,id=224664,bonus_id=10280/6652/1682/10377/1659/10255
+#
+# Cave Topographer's Drape (441)
+# back=,id=211005,bonus_id=11190/6652/10375,drop_level=71
+#
+# Warphorn's Resilient Chainmail (509)
+# chest=,id=223343,bonus_id=11061,drop_level=74
+#
+# Hauberk of the Awakened (493)
+# chest=,id=217176,bonus_id=6652/7982/10865/10884/10345/1485/8767
+#
+# Sporefused Chainmail (483)
+# chest=,id=219769,bonus_id=11128,drop_level=73
+#
+# Nerubian Weaver's Chainmail (541)
+# chest=,id=223380,bonus_id=11061,drop_level=78
+#
+# Torchbearer's Chainmail (548)
+# chest=,id=211021,bonus_id=9637/6652/10375,drop_level=80
+#
+# Chainmail of Sina's Stalwarts (545)
+# chest=,id=220109,bonus_id=11128,drop_level=79
+#
+# Chitinoid Bracers of the Harmonious (506)
+# wrist=,id=224689,bonus_id=10382/6652/1715/10375,drop_level=74
+#
+# Wanted Nerubian's Bands (506)
+# wrist=,id=227918,bonus_id=11128,drop_level=74
+#
+# Twisted Flamecuffs (454)
+# wrist=,id=207143,bonus_id=6652/9599/9507/7982/9556/1485/8767
+#
+# Olbarig's Old Cuffs (506)
+# wrist=,id=228372,bonus_id=11128,drop_level=74
+#
+# Bracers of the Titancap (441)
+# wrist=,id=223366,bonus_id=11061,drop_level=71
+#
+# Chitinoid Grips of the Feverflare (564)
+# hands=,id=224684,bonus_id=10287/6652/1698/10375/1636
+#
+# Viper's Stone Gauntlets (441)
+# hands=,id=223348,bonus_id=11061,drop_level=71
+#
+# Torchbearer's Grips (548)
+# hands=,id=211023,bonus_id=9637/6652/10375,drop_level=80
+#
+# Winter Forager's Handguards (441)
+# hands=,id=210356,bonus_id=9552/9506/42/1472/8767
+#
+# Torchbearer's Grips (519)
+# hands=,id=211023,bonus_id=11190/6652/10375,drop_level=75
+#
+# Auburn Scavenger Gauntlets (447)
+# hands=,id=210700,bonus_id=9506/9554/1504/8767
+#
+# Templar Girdle of the Quickblade (357)
+# waist=,id=10166,bonus_id=6654/1677,drop_level=80
+#
+# Abyssal Hunter's Chain (548)
+# waist=,id=223399,bonus_id=11061,drop_level=79
+#
+# Hydratooth Girdle (493)
+# waist=,id=204395,bonus_id=6652/10532/10871/7982/10884/10345/1544/8767
+#
+# Lamplighter's Cinch (538)
+# waist=,id=220126,bonus_id=11128,drop_level=78
+#
+# Liquified Defector's Leggings (593)
+# legs=,id=212435,bonus_id=6652/10378/10353/10278/1494/10255
+#
+# Waterskipper's Chain Leggings (518)
+# legs=,id=223354,bonus_id=11061,drop_level=75
+#
+# Timely Tourist's Greaves (584)
+# legs=,id=226080,bonus_id=10281/6652/11311/10378/1656/10255
+#
+# Dalaran Defender's Legguards (493)
+# legs=,id=218074,bonus_id=10313/8902/10872/1615/8767
+#
+# Torchbearer's Striders (525)
+# feet=,id=211022,bonus_id=11190/43/10375,drop_level=76
+#
+# Boots of Kix'arak's Bane (460)
+# feet=,id=228376,bonus_id=11128,drop_level=72
+#
+# Weyrnkeeper's Timeless Treads (454)
+# feet=,id=207229,bonus_id=6652/9556/1485/8767
+#
+# Spinner's Circlet of the Harmonious (460)
+# finger1=,id=224593,bonus_id=10382/6652/1782/10844,drop_level=72
+#
+# Signet of Titanic Insight  (424)
+# finger1=,id=192999,enchant_id=6562,gem_id=192958,bonus_id=8836/8840/8902/8780/9405/8791/9366,crafted_stats=49/40,crafting_quality=5
+#
+# Beautiful Blizzard Binding (450)
+# finger1=,id=210376,bonus_id=6652/9600/9555/1481/8767
+#
+# Ancient Fungarian's Fingerwrap (548)
+# finger1=,id=223377,bonus_id=11061,drop_level=79
+#
+# Deeprock Signet (460)
+# finger1=,id=204918,bonus_id=10323/8902/6652/10533/3139/8766
+#
+# Unearthed Relic Band (532)
+# finger1=,id=211061,bonus_id=11190/6652,drop_level=77
+#
+# Band of Radiant Echoes (342)
+# finger1=,id=219325
+#
+# Band of the Relic Bearer (490)
+# finger1=,id=223376,bonus_id=11061,drop_level=73
+#
+# Luminescent Pearl Band (460)
+# finger1=,id=219764,bonus_id=11128,drop_level=72
+#
+# Suffused Signet (493)
+# finger1=,id=204745,bonus_id=8902/10313/6652/10533/1615/8767
+#
+# Flameguard's Band (545)
+# finger1=,id=220133,bonus_id=11128,drop_level=79
+#
+# Arathi Demolition Charge (538)
+# trinket1=,id=220118,bonus_id=11128,drop_level=78
+#
+# Conjured Chillglobe (480)
+# trinket1=,id=194300,bonus_id=6652/7982/10341/10884/1563/8767
+#
+# Paracausal Fragment of Thunderfin, Humid Blade of the Tideseeker (454)
+# trinket1=,id=207005,bonus_id=6652/10321/1524
+#
+# Quickwick Candlestick (519)
+# trinket1=,id=225649,bonus_id=6652/11190,drop_level=75
+#
+# Lapidarius Gemcutter (548)
+# main_hand=,id=211047,bonus_id=9637/6652,drop_level=80
+#
+# Dalaran Defender's Club (493)
+# main_hand=,id=219241,bonus_id=10313/8902/1615/8767
+#
+# Torchlit Pickaxe (538)
+# main_hand=,id=219356,bonus_id=11190/6652,drop_level=78
+#
+# Lamplighter's Unlit Torch (1)
+# main_hand=,id=220508
+#
+# Arachnophobic Spelunker's Spellsword (434)
+# main_hand=,id=219790,bonus_id=11128,drop_level=71
+#
+# Cured Terracotta Lantern (434)
+# off_hand=,id=219796,bonus_id=11128,drop_level=71
+#
+# Ancient Forged Curio of the Aurora (584)
+# off_hand=,id=224711,bonus_id=10281/6652/1709/1656/10255
+#
+# Brilliant Beacon (597)
+# off_hand=,id=211041,bonus_id=10273/6652/1502/10255
+
+### Weekly Reward Choices
+#
+# Torchbearer's Striders (584)
+# feet=,id=211022,bonus_id=10281/6652/10377/3163/10255
+#
+# Horns of the Destroyer (584)
+# head=,id=212029,bonus_id=10371/6652/10876/10281/1485/10255
+#
+# Unstable Power Suit Core (584)
+# trinket1=,id=225668,bonus_id=6652/10281/1656/10255
+#
+# Sovereign's Disdain (593)
+# main_hand=,id=212394,bonus_id=6652/10353/10278/1494/10255
+#
+# Scales of the Destroyer (590)
+# chest=,id=212032,bonus_id=10279/10353/10373/6652/1491/10255
+#
+# Rippers of the Destroyer (587)
+# hands=,id=212030,bonus_id=10280/10353/10372/6652/1488/10255
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2915:400/c:2914:350/c:3008:1998/i:206959:7/i:204673:1/i:206960:2
+#
+# slot_high_watermarks=0:584:619/1:597:619/2:587:619/3:603:619/4:606:619/5:603:619/6:584:619/7:528:619/8:587:619/9:584:619/10:584:619/11:590:619/12:600:636/13:548:610/14:0:616/15:0:606/16:597:606
+#
+# upgrade_achievements=40107/40115/40118
+
+# Checksum: 28fdc820
