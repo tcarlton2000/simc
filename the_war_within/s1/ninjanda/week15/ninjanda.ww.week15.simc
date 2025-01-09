@@ -1,0 +1,222 @@
+# Ninjanda - Windwalker - 2024-12-23 21:14 - US/Thunderhorn
+# SimC Addon 11.0.7-01
+# WoW 11.0.7.58238, TOC 110007
+# Requires SimulationCraft 1000-01 or newer
+
+monk="Ninjanda"
+level=80
+race=void_elf
+region=us
+server=thunderhorn
+role=attack
+professions=alchemy=1/
+spec=windwalker
+
+talents=C0QAqCjoPBi1F5zHY9mx8hvRaaGzMYGzMMzMMzMAAAAAAAAAAAYZZYmYmhxMgFmx2MzMMbDzglZCAglxMMzMmlZgAYDAaWmlmZmZBA
+
+# Saved Loadout: icy veins ez mode
+# talents=C0QAqCjoPBi1F5zHY9mx8hvRaCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+# Saved Loadout: wowhead tww s1 delve
+# talents=C0QAqCjoPBi1F5zHY9mx8hvRaaGzMYGzMMzMMzMAAAAAAAAAAAYZZYGMzwYGwCzYbmZGmthZwyMAAYZMDzMjZZGAAbAgZZWMzMzCA
+
+# Embrace of the Lycan (541)
+head=,id=9479,bonus_id=6652/8811/11069/7756,drop_level=78
+# Darkened Tinderbox (597)
+neck=,id=220158,bonus_id=10273/6652/10395/10393/1669/10255
+# Lockstitch Epaulets of the Peerless (571)
+shoulder=,id=224679,bonus_id=10297/6652/1688/10375/1643/10254
+# Gem-Woven Cloak of the Harmonious (571)
+back=,id=224664,bonus_id=10297/42/1716/10375/1643/10254
+# Blackened Defias Armor (534)
+chest=,id=10399,bonus_id=6652/11069/7756,drop_level=77
+# Red Linen Shirt (1)
+shirt=,id=2575
+# Lockstitch Bindings of the Harmonious (567)
+wrist=,id=224681,bonus_id=10286/6652/10397/1714/10375/1639
+# Mystic Heron's Glovebills (483)
+hands=,id=207246,bonus_id=6652/7980/9514/9581/1514/8767
+# Flamescarred Girdle (548)
+waist=,id=13526,bonus_id=6652/11069/7756,drop_level=79
+# Smelting Pants (548)
+legs=,id=5199,bonus_id=6652/11069/7756,drop_level=79
+# Fleeting Massacre Footpads (590)
+feet=,id=225591,bonus_id=6652/10378/10353/10279/1491/10255
+# Signet of the Fifth Circle (610)
+finger1=,id=171853,bonus_id=10265/7756/8902/10393/10394/10383/10017/10255
+# Emperor's Seal (606)
+finger2=,id=231437,bonus_id=6652/10394/10878/10270/12093/10383/1494/10255
+# Imperfect Ascendancy Serum (584)
+trinket1=,id=225654,bonus_id=10281/6652/1656/10255
+# Scroll of Momentum (564)
+trinket2=,id=226539,bonus_id=10287/1636
+# Spire of Transfused Horrors (590)
+main_hand=,id=212389,bonus_id=6652/10353/10279/1491/10255
+
+### Gear from Bags
+#
+# Embrace of the Lycan (509)
+# head=,id=9479,bonus_id=6652/8811/11069/7756,drop_level=74
+#
+# Drowsed Shepherd's Hood (454)
+# head=,id=210707,bonus_id=9560/9506/1511/8767/9599
+#
+# Begrimed Greathelm (362)
+# head=,id=220334,bonus_id=10350,drop_level=80
+#
+# Gem-Studded Pendant of the Feverflare (584)
+# neck=,id=224665,bonus_id=10281/6652/10394/10393/1766/1656/10255
+#
+# Nacreous Shell Necklace (518)
+# neck=,id=22403,bonus_id=6652/8812/11069/7756,drop_level=75
+#
+# Empowered Tinderbox (584)
+# neck=,id=220157,bonus_id=10281/6652/10394/10392/1656/10255
+#
+# Honorary Tinderbox (571)
+# neck=,id=219503,bonus_id=10297/6652/10395/10392/1643/10254
+#
+# Moneyed Mariner's Pendant (590)
+# neck=,id=229052,bonus_id=10279/11215/42/10394/10393/1452/10255
+#
+# Timely Tourist's Epaulets (552)
+# shoulder=,id=226089,bonus_id=12070/6652,drop_level=79
+#
+# Wyrmtongue Shoulders (528)
+# shoulder=,id=13358,bonus_id=6652/11069/7756,drop_level=76
+#
+# Deepfiend Spaulders (554)
+# shoulder=,id=223393,bonus_id=11061,drop_level=80
+#
+# Treasure-Seeker's Epaulets (548)
+# shoulder=,id=211038,bonus_id=9637/6652/10375,drop_level=80
+#
+# Cape of the Brotherhood (554)
+# back=,id=5193,bonus_id=6652/11069/7756,drop_level=80
+#
+# Webspeaker's Spiritual Cloak (554)
+# back=,id=223369,bonus_id=11061,drop_level=80
+#
+# 7th Legionnaire's Tunic (59)
+# chest=,id=163657,bonus_id=1473/4785
+#
+# Vest of the Champion (58)
+# chest=,id=159902
+#
+# Luminary Robe (600)
+# chest=,id=231389,bonus_id=6652/10376/10272/12093/10383/1488/10255
+#
+# Magistrate's Cuffs (541)
+# wrist=,id=18726,bonus_id=6652/8811/11069/7756,drop_level=78
+#
+# Eyestalk Cord (534)
+# waist=,id=18391,bonus_id=6652/8811/11069/7756,drop_level=77
+#
+# Lockstitch Waders of the Harmonious (584)
+# feet=,id=224675,bonus_id=10281/6652/1716/10377/1656/10255
+#
+# Earthen Islander's Striders (584)
+# feet=,id=229029,bonus_id=10281/11215/6652/10377/1446/10255
+#
+# Ring of Demonic Guile (518)
+# finger1=,id=18314,bonus_id=6652/8812/11069/7756,drop_level=75
+#
+# Signet of Titanic Insight  (476)
+# finger1=,id=192999,enchant_id=6556,gem_id=192919,bonus_id=8836/8840/8902/8780/9405/8790/9499/9614/8960/9498,crafted_stats=40/32,crafting_quality=5
+#
+# Writhing Ringworm (590)
+# finger1=,id=225576,bonus_id=6652/10395/10392/10353/10279/1491/10255
+#
+# Theka's Seal of Vigilance (534)
+# finger1=,id=151456,bonus_id=6652/8812/11069/7756,drop_level=77
+#
+# Signet of Dark Horizons (577)
+# finger1=,id=223006,bonus_id=10295/6652/10395/10393/1612/10254
+#
+# Ring-Bound Hourglass  (476)
+# finger1=,id=193000,enchant_id=6556,gem_id=192945,bonus_id=8836/8840/8902/8780/9405/8790/9499/9498,crafted_stats=40/32,crafting_quality=5
+#
+# Cyrce's Circlet (642)
+# finger1=,id=228411,gem_id=228638/0/228640,bonus_id=12013/1495
+#
+# Seafarer's Wandering Signet (584)
+# finger1=,id=229050,bonus_id=10281/11215/6652/10395/10392/1446/10255
+#
+# Seal of the Regal Loa (480)
+# finger1=,id=159458,bonus_id=9573/9639/6652/9600/9144/9844/8767
+#
+# Coagulated Genesaur Blood (476)
+# trinket1=,id=110004,bonus_id=9639/6652/9144/9567/9875/8767
+#
+# Fang of the Frenzied Nightclaw (457)
+# trinket1=,id=209957,bonus_id=10322/8902/6652/1501
+#
+# Mirror of Fractured Tomorrows (450)
+# trinket1=,id=207581,bonus_id=9636/42/9543/1501/8767
+#
+# Idol of the Life-Binder  (463)
+# trinket1=,id=193003,bonus_id=8836/8840/8902/9405/9498,crafting_quality=5
+#
+# Friendship Censer (480)
+# trinket1=,id=204728,bonus_id=8902/10341/6652/3159/8767
+#
+# Echoing Tyrstone (489)
+# trinket1=,id=207552,bonus_id=9639/6652/9144/9576/1540/8767
+#
+# Revitalizing Voodoo Totem (463)
+# trinket1=,id=158320,bonus_id=9563/9639/6652/9144/9458/8767
+#
+# Underscout's Kukri of the Feverflare (558)
+# main_hand=,id=224632,bonus_id=10289/40/1701/10844/1485
+#
+# Expeditionary Blade of the Quickblade (558)
+# main_hand=,id=227693,bonus_id=10289/6652/1677/10844/1485
+#
+# Arathi Arquebus of the Feverflare (561)
+# main_hand=,id=224627,bonus_id=10288/6652/1701/10844/1488
+#
+# Blackwater Cutlass (371)
+# main_hand=,id=1951,bonus_id=6710,drop_level=76
+#
+# Emberstone Staff (534)
+# main_hand=,id=5201,bonus_id=6652/11069/7756,drop_level=77
+#
+# Ancient Forged Blade of the Feverflare (584)
+# main_hand=,id=224702,bonus_id=10281/6652/1698/1656/10255
+#
+# Rubidium Hammer (584)
+# main_hand=,id=231410,bonus_id=6652/10281/12092/10384/1472/10255
+#
+# Scepter of the Unholy (548)
+# main_hand=,id=13349,bonus_id=6652/11069/7756,drop_level=79
+#
+# Blackwater Cutlass (371)
+# main_hand=,id=1951,bonus_id=6710,drop_level=76
+
+### Weekly Reward Choices
+#
+# Myconic Clutches (584)
+# hands=,id=219172,bonus_id=10281/6652/10377/3163/10255
+#
+# Myconic Wrap (584)
+# back=,id=219186,bonus_id=10281/6652/10377/3163/10255
+#
+# Wings of Shattered Sorrow (600)
+# back=,id=225574,bonus_id=10378/10353/10276/1501/10255
+#
+# Gatecrasher's Kilt (590)
+# legs=,id=212046,bonus_id=10279/10353/10370/6652/1491/10255
+#
+# Bludgeons of Blistering Wind (587)
+# main_hand=,id=212398,bonus_id=6652/10353/10280/1488/10255
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2915:255/c:2914:308/c:3008:1715/i:206959:1
+#
+# slot_high_watermarks=0:541:619/1:597:619/2:571:619/3:600:619/4:548:619/5:548:619/6:590:619/7:567:619/8:483:619/9:610:619/10:564:619/11:571:619/12:590:636/13:548:610/14:584:616/15:584:606/16:493:606
+#
+# upgrade_achievements=40107/40115/40118
+
+# Checksum: e8432465
