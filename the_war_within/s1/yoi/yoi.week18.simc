@@ -1,0 +1,225 @@
+# Yoi - Assassination - 2025-01-20 08:49 - US/Thunderhorn
+# SimC Addon 11.0.7-02
+# WoW 11.0.7.58630, TOC 110007
+# Requires SimulationCraft 1000-01 or newer
+
+rogue="Yoi"
+level=80
+race=human
+region=us
+server=thunderhorn
+role=attack
+professions=jewelcrafting=5/inscription=51
+spec=assassination
+
+talents=CMQAA0tw2gAD7pPTLoW5IGZDeMjZmZGmhHYAAAAAAYWgtZAAAAAAottZmhZmxYmZWmlxYwMzMzgZmZbbZMDwmZZgBsEsMMBGWA
+
+# Saved Loadout: wowhead s1 delve
+# talents=CMQAA0tw2gAD7pPTLoW5IGZDeMjZmZGmhHYAAAAAAYWgtZAAAAAAw22MzwMzYMzMLzyYMYmZmZwMzsttMmBYzsMwAWALDDwwCA
+
+# Ghostshroud (606)
+head=,id=231430,gem_id=192922,bonus_id=6652/10397/10376/12093/10383/10270/1494/10255
+# Silken Advisor's Favor (597)
+neck=,id=225575,bonus_id=6652/10394/10392/10353/10277/1498/10255
+# Dark Warder's Pauldrons (597)
+shoulder=,id=231489,bonus_id=10376/6652/10273/12093/10383/1485/10255
+# Shadowmoon Destroyer's Drape (610)
+back=,id=150475,bonus_id=10265/7756/10376/8902/10383/10045/10255
+# Insolent Dark Iron's Vest (597)
+chest=,id=231458,bonus_id=10376/6652/10273/12093/10383/1485/10255
+# Illustrious Guild Tabard (1)
+tabard=,id=69209
+# Treasure-Seeker's Bindings (616)
+wrist=,id=211020,bonus_id=10263/42/10877/10377/3195/10255
+# Treasure-Seeker's Grips (606)
+hands=,id=211016,bonus_id=6652/10377/10270/3185/10255
+# Inflammable Forging Cinch (597)
+waist=,id=223306,bonus_id=10273/10377/10876/1669/10255
+# K'areshi Phantom's Leggings (616)
+legs=,id=212037,bonus_id=10370/6652/10263/1517/10255
+# Swiftwalker Boots (606)
+feet=,id=231438,bonus_id=6652/10376/10270/12093/10383/1494/10255
+# Bone-Carved Circlet (606)
+finger1=,id=219187,gem_id=192922,bonus_id=6652/10394/10878/10270/3185/10255
+# Olden Signet (606)
+finger2=,id=211052,bonus_id=6652/10395/10392/10270/1511/10255
+# Mad Queen's Mandate (606)
+trinket1=,id=212454,bonus_id=6652/10353/10274/1507/10255
+# Imperfect Ascendancy Serum (616)
+trinket2=,id=225654,bonus_id=6652/10263/3145/10255
+# Flamelash's Fiery Spike (593)
+main_hand=,id=231483,bonus_id=6652/12092/10384/10278/1481/10255
+# Ancient Forged Shank of the Peerless (593)
+off_hand=,id=224698,bonus_id=6652/1686/10290/1665/10255
+
+### Gear from Bags
+#
+# Lockstitch Headgear of the Harmonious (587)
+# head=,id=224677,bonus_id=10280/6652/10876/1716/10377/1659/10255
+#
+# Lockstitch Headgear of the Harmonious (584)
+# head=,id=224677,bonus_id=10281/6652/10876/1713/10377/1656/10255
+#
+# Ghostshroud (600)
+# head=,id=231430,bonus_id=6652/10877/10376/10272/12093/10383/1488/10255
+#
+# Treasure-Seeker's Helm (603)
+# head=,id=211017,bonus_id=10271/6652/10877/10377/3182/10255
+#
+# Empowered Tinderbox (584)
+# neck=,id=220157,bonus_id=10281/6652/10395/10393/1656/10255
+#
+# Darkened Tinderbox (597)
+# neck=,id=220158,bonus_id=10273/6652/10395/10392/1669/10255
+#
+# Honorary Tinderbox (571)
+# neck=,id=219503,bonus_id=10297/6652/10395/10393/1643/10254
+#
+# Hellstitched Mantle (590)
+# shoulder=,id=186475,bonus_id=10279/10376/10383/10025/10255
+#
+# Flamewalker Scale Spaulders (590)
+# shoulder=,id=231485,bonus_id=6652/10378/10279/12092/10383/1478/10255
+#
+# Dark Warder's Pauldrons (584)
+# shoulder=,id=231489,bonus_id=10378/41/10281/12092/10383/1472/10255
+#
+# Hellstitched Mantle (590)
+# shoulder=,id=186475,bonus_id=10279/10376/10383/10025/10255
+#
+# Myconic Shoulderstrap (603)
+# shoulder=,id=219169,bonus_id=10271/6652/10377/3182/10255
+#
+# Abjurer's Mantle of the Quickblade (357)
+# shoulder=,id=9941,bonus_id=6654/1681,drop_level=80
+#
+# Frame of Felled Insurgents (593)
+# shoulder=,id=212444,bonus_id=6652/10378/10353/10278/1494/10255
+#
+# Gem-Woven Shawl of the Peerless (584)
+# back=,id=224663,bonus_id=10281/40/1687/10377/1656/10255
+#
+# Malevolent Gladiator's Drape of Prowess (590)
+# back=,id=227640,bonus_id=10279/10376/10383/10018/10255
+#
+# Luminary Robe (587)
+# chest=,id=231389,bonus_id=6652/10378/10280/12092/10383/1475/10255
+#
+# Wristwraps of Fading Luminescence (597)
+# wrist=,id=223310,bonus_id=10273/10377/10876/1669/10255
+#
+# Cinderhide Armsplints (584)
+# wrist=,id=231404,bonus_id=6652/10876/10378/10281/12092/10383/1472/10255
+#
+# Mechanist's Bindings (610)
+# wrist=,id=155922,bonus_id=10265/7756/10376/8902/10397/10383/43/10042/10255
+#
+# Doomhide Gauntlets (590)
+# hands=,id=150382,bonus_id=10279/10376/10383/10028/10255
+#
+# Treasure-Seeker's Grips (603)
+# hands=,id=211016,bonus_id=10271/6652/10377/3182/10255
+#
+# Thousand-Scar Impalers (593)
+# hands=,id=212432,bonus_id=6652/10378/10353/10278/1494/10255
+#
+# Lockstitch Sash of the Feverflare (564)
+# waist=,id=224680,bonus_id=10287/6652/10877/1700/10375/1636
+#
+# Heroes' Bonescythe Legplates (593)
+# legs=,id=227256,bonus_id=10376/10383/10278/10025/10255
+#
+# Lockstitch Breeches of the Quickblade (584)
+# legs=,id=224678,bonus_id=10281/6652/1680/10377/1656/10255
+#
+# Waterskipper's Leggings (554)
+# legs=,id=223355,bonus_id=11061,drop_level=80
+#
+# Myconic Waders (603)
+# feet=,id=219173,bonus_id=10271/6652/10377/3182/10255
+#
+# Gem-Studded Band of the Aurora (593)
+# finger1=,id=224660,bonus_id=6652/10394/10392/3405/10278/1665/10255
+#
+# Naglering (600)
+# finger1=,id=231396,bonus_id=6652/10394/10393/10272/12093/10383/1488/10255
+#
+# Gem-Studded Ring of the Feverflare (593)
+# finger1=,id=224662,bonus_id=6652/10395/10392/1767/10278/1665/10255
+#
+# Bloodclot Band (603)
+# finger1=,id=231447,bonus_id=6652/10394/10393/12093/10383/10271/1491/10255
+#
+# Emperor's Seal (606)
+# finger1=,id=231437,bonus_id=6652/10395/10393/10270/12093/10383/1494/10255
+#
+# Detachable Fang (584)
+# trinket1=,id=225657,bonus_id=10281/6652/1656/10255
+#
+# Concoction: Kiss of Death (603)
+# trinket1=,id=215174,bonus_id=10271/6652/3282/10255
+#
+# Imperfect Ascendancy Serum (567)
+# trinket1=,id=225654,bonus_id=10286/6652/1639
+#
+# Hand of Justice (606)
+# trinket1=,id=231417,bonus_id=6652/10270/12093/10383/1494/10255
+#
+# Spelunker's Waning Candle (564)
+# trinket1=,id=225638,bonus_id=10287/6652/1636
+#
+# Scroll of Momentum (584)
+# trinket1=,id=226539,bonus_id=10281/40/1656/10255
+#
+# Imperfect Ascendancy Serum (603)
+# trinket1=,id=225654,bonus_id=40/10271/3132/10255
+#
+# Shining Arathor Insignia (584)
+# trinket1=,id=225647,bonus_id=10281/6652/1656/10255
+#
+# Quickwick Candlestick (561)
+# trinket1=,id=225649,bonus_id=10288/6652/1633
+#
+# Shining Arathor Insignia (584)
+# trinket1=,id=225647,bonus_id=10281/41/1656/10255
+#
+# Ancient Forged Shank of the Feverflare (558)
+# main_hand=,id=224698,bonus_id=10289/41/1700/1630
+#
+# Arachnophobic Spelunker's Knife (545)
+# main_hand=,id=219788,bonus_id=11128,drop_level=79
+#
+# Flamelash's Fiery Spike (603)
+# main_hand=,id=231483,bonus_id=43/10271/12093/10384/1491/10255
+#
+# Umbral Artist's Chisel (548)
+# main_hand=,id=211046,bonus_id=11306/6652,drop_level=79
+#
+# Expeditionary Blade of the Feverflare (558)
+# main_hand=,id=227693,bonus_id=10289/6652/1701/10844/1485
+#
+# Cured Terracotta Stabber (548)
+# main_hand=,id=219800,bonus_id=11128/11054,drop_level=79
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+#
+# Rock of Aegis (1)
+# off_hand=,id=198357
+
+### Weekly Reward Choices
+#
+# Treasure-Seeker's Sash (584)
+# waist=,id=211019,bonus_id=10281/6652/10876/10377/3163/10255
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2914:308/c:2916:18/c:2122:24/c:2915:666/c:3008:1899/i:206960:1/i:206959:9/i:190453:3
+#
+# slot_high_watermarks=0:606:619/1:597:619/2:603:619/3:597:619/4:597:619/5:616:619/6:606:619/7:616:619/8:606:619/9:606:619/10:606:619/11:610:619/12:1:636/13:0:610/14:603:616/15:593:606/16:1:606
+#
+# upgrade_achievements=40107/40115/40118
+
+# Checksum: eef5001a

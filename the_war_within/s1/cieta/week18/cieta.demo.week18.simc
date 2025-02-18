@@ -1,0 +1,266 @@
+# Cieta - Demonology - 2025-01-15 20:32 - US/Thunderhorn
+# SimC Addon 11.0.7-02
+# WoW 11.0.7.58630, TOC 110007
+# Requires SimulationCraft 1000-01 or newer
+
+warlock="Cieta"
+level=80
+race=void_elf
+region=us
+server=thunderhorn
+role=spell
+professions=alchemy=75/herbalism=8
+spec=demonology
+
+talents=CoQAA81jxQD71lYhS/t8p6HgAAmZmZmZEzmhxsZmZY2GAAAAAAAAAAzM2WGYATwMsFyYjZGzMbjZ2MzMzMGzYGzYMjBzAAAA
+
+# Saved Loadout: Naked Tyrant M+
+# talents=CoQAA81jxQD71lYhS/t8p6HgAAmZmZmZgZzwY2MzMMbDAAAAAAAAAgZGbLDMgBMDbAjNmZMzsNmZzMzMzYMjZMjxMGMDAAA
+
+# Chief Architect's Monocle (600)
+head=,id=231425,bonus_id=6652/10877/10376/10272/12093/10383/1488/10255
+# Enkindled Locket (603)
+neck=,id=219184,bonus_id=10271/40/10394/10392/3182/10255
+# Earthen Scallywag's Mantle (597)
+shoulder=,id=229016,bonus_id=10273/6652/10377/1459/10255
+# Gem-Woven Cloak of the Feverflare (590)
+back=,id=224664,bonus_id=10279/6652/1702/10377/1662/10255
+# Cave Topographer's Vestment (610)
+chest=,id=211008,bonus_id=10265/6652/10377/3189/10255
+# Unkindled Waxweave Clasps (603)
+wrist=,id=219175,bonus_id=10271/42/10877/10377/3182/10255
+# Alighted Handwraps of the Quickblade (584)
+hands=,id=224668,bonus_id=10281/6652/1679/10377/1656/10255
+# Flying Kobold's Seatbelt (554)
+waist=,id=223361,bonus_id=11061,drop_level=80
+# Cave Topographer's Leggings (603)
+legs=,id=211012,bonus_id=10271/6652/10377/3182/10255
+# Omnicast Boots (600)
+feet=,id=231423,bonus_id=43/10376/10272/12093/10383/1488/10255
+# Cyrce's Circlet (652)
+finger1=,id=228411,gem_id=228638/228639/228640,bonus_id=12026/1505
+# Gem-Studded Ring of the Quickblade (584)
+finger2=,id=224662,bonus_id=10281/6652/10395/10878/1742/1656/10255
+# Imperfect Ascendancy Serum (603)
+trinket1=,id=225654,bonus_id=6652/10271/3132/10255
+# Kaheti Shadeweaver's Emblem (571)
+trinket2=,id=225651,bonus_id=10297/6652/1643/10254
+# Luminous Lampspire (603)
+main_hand=,id=211059,bonus_id=10271/6652/1508/10255
+
+### Gear from Bags
+#
+# Grimhorns of the Sinister Savant (506)
+# head=,id=217212,enchant_id=7052,bonus_id=10532/10317/10867/1498
+#
+# Sporefused Hood (483)
+# head=,id=219766,bonus_id=11128,drop_level=73
+#
+# Cave Topographer's Cowl (512)
+# head=,id=211011,bonus_id=11306/6652/10375,drop_level=74
+#
+# City Guard's Coronet (408)
+# head=,id=224453,bonus_id=11128,drop_level=70
+#
+# Torc of Passed Time  (502)
+# neck=,id=201759,gem_id=192991/192938/192938,bonus_id=8836/8840/8902/9477/8782/9405/8795/10249,crafted_stats=49/40,crafting_quality=5
+#
+# Long-Lost Choker (447)
+# neck=,id=211063,bonus_id=11306/6652/10395,drop_level=71
+#
+# Imperial Jewel (606)
+# neck=,id=231436,bonus_id=6652/10395/10393/10270/12093/10383/1494/10255
+#
+# Long-Lost Choker (538)
+# neck=,id=211063,bonus_id=11190/6652,drop_level=78
+#
+# Remembrance of the Fallen City (434)
+# neck=,id=219754,bonus_id=11128,drop_level=71
+#
+# Cave Topographer's Shoulders (538)
+# shoulder=,id=211039,bonus_id=11190/6652/10375,drop_level=78
+#
+# Shoulders of Kix'arak's Bane (483)
+# shoulder=,id=228374,bonus_id=11128,drop_level=73
+#
+# Amice of the Sinister Savant (512)
+# shoulder=,id=217214,bonus_id=6652/10869/9639/10884/10331/1504/8767
+#
+# Shawl of the Sinister Savant (506)
+# back=,id=202528,bonus_id=6652/10317/9639/1563
+#
+# Treasure-Seeker's Shawl (512)
+# back=,id=211062,bonus_id=11306/6652/10375,drop_level=74
+#
+# Torchbearer's Greatcloak (545)
+# back=,id=211007,bonus_id=11190/6652/10375,drop_level=79
+#
+# Unkindled Waxweave Garb (603)
+# chest=,id=219182,bonus_id=10271/6652/10377/3182/10255
+#
+# Charred Nerubian Robes (460)
+# chest=,id=219746,bonus_id=11128,drop_level=72
+#
+# Warphorn's Resilient Mane (528)
+# chest=,id=223341,bonus_id=11061,drop_level=76
+#
+# Cursed Robes of the Sinister Savant (506)
+# chest=,id=217215,enchant_id=6625,bonus_id=6652/9639/10865/10317/1498/8767
+#
+# Unkindled Waxweave Garb (603)
+# chest=,id=219182,bonus_id=10271/6652/10377/3182/10255
+#
+# Alighted Robes of the Harmonious (574)
+# chest=,id=224666,bonus_id=10296/6652/1717/10375/1646/10254
+#
+# Alighted Robes of the Quickblade (525)
+# chest=,id=224666,bonus_id=10382/6652/1678/10375,drop_level=76
+#
+# Tabard of Summer Flames (1)
+# tabard=,id=35280
+#
+# Wristwraps of the Sinister Savant (515)
+# wrist=,id=202529,enchant_id=6574,bonus_id=6652/10332/10531/9639/1572
+#
+# Skeinspinner's Duplicitous Cuffs (593)
+# wrist=,id=225584,bonus_id=6652/10876/10378/10353/10278/1494/10255
+#
+# Olbarig's Old Wristwraps (525)
+# wrist=,id=228370,bonus_id=11128,drop_level=76
+#
+# Wristwraps of the Titancap (467)
+# wrist=,id=223364,bonus_id=11061,drop_level=72
+#
+# Chitinous Wristwraps (506)
+# wrist=,id=227916,bonus_id=11128,drop_level=74
+#
+# Grips of the Sinister Savant (512)
+# hands=,id=217211,bonus_id=6652/7980/10331/10866/10884/1504/8767
+#
+# Cave Topographer's Handwraps (473)
+# hands=,id=211010,bonus_id=11306/6652/10375,drop_level=72
+#
+# Congealed Cinderbrew Gloves (506)
+# hands=,id=219750,bonus_id=11128,drop_level=74
+#
+# Viper's Stone Mitts (490)
+# hands=,id=223347,bonus_id=11061,drop_level=73
+#
+# Alighted Handwraps of the Harmonious (567)
+# hands=,id=224668,bonus_id=10286/42/1712/10375/1639
+#
+# Earthen Traveler's Cord (545)
+# waist=,id=219361,bonus_id=11128,drop_level=79
+#
+# Skullstrap of the Sinister Savant (515)
+# waist=,id=202530,enchant_id=6904,bonus_id=6652/10332/10533/9639/1572
+#
+# Cave Topographer's Leggings (532)
+# legs=,id=211012,bonus_id=11190/6652/10375,drop_level=77
+#
+# Leggings of the Sinister Savant (506)
+# legs=,id=217213,enchant_id=6541,bonus_id=42/9639/10868/10317/1498/8767
+#
+# Senior Designer's Pantaloons (587)
+# legs=,id=231426,bonus_id=6652/10378/10280/12092/10383/1475/10255
+#
+# Voidspoken Sarong (593)
+# legs=,id=212434,bonus_id=6652/10378/10353/10278/1494/10255
+#
+# Alighted Leggings of the Quickblade (590)
+# legs=,id=224670,bonus_id=10279/6652/1682/10377/1662/10255
+#
+# Vibrant Wildercloth Slippers  (502)
+# feet=,id=193519,enchant_id=6613,bonus_id=8836/8840/8902/9405/8795/8932/8960/10249,crafted_stats=49/36,crafting_quality=5
+#
+# Unkindled Waxweave Slippers (603)
+# feet=,id=219181,bonus_id=10271/6652/10377/3182/10255
+#
+# Cloudstrider Soles (509)
+# feet=,id=221043,bonus_id=10385/10387/6652/10375,drop_level=74
+#
+# Ring-Bound Hourglass  (476)
+# finger1=,id=193000,enchant_id=6568,gem_id=192932,bonus_id=8836/8840/8902/8780/9405/8795/9499/9498,crafted_stats=40/36,crafting_quality=5
+#
+# Onyx Impostor's Birthright (502)
+# finger1=,id=204398,bonus_id=6652/10533/7979/10316/10884/1550/8767
+#
+# Signet of Titanic Insight  (502)
+# finger1=,id=192999,enchant_id=6568,gem_id=192938,bonus_id=8836/8840/8902/8780/9405/8795/8932/8960/10249,crafted_stats=40/32,crafting_quality=5
+#
+# Seal of Diurna's Chosen (515)
+# finger1=,id=195480,enchant_id=6562,bonus_id=6652/10532/10414/1592/8767
+#
+# Sparkling Pearl Ring (515)
+# finger1=,id=219765,bonus_id=11128,drop_level=75
+#
+# Band of the Relic Bearer (518)
+# finger1=,id=223376,bonus_id=11061,drop_level=75
+#
+# Imperfect Ascendancy Serum (421)
+# trinket1=,id=225654,bonus_id=6652/11306,drop_level=70
+#
+# Kaheti Shadeweaver's Emblem (567)
+# trinket1=,id=225651,bonus_id=10286/6652/1639
+#
+# Imperfect Ascendancy Serum (587)
+# trinket1=,id=225654,bonus_id=10280/6652/1659/10255
+#
+# Belor'relos, the Suncaller (515)
+# trinket1=,id=207172,bonus_id=6652/10414/1546/8767
+#
+# Quickwick Candlestick (554)
+# trinket1=,id=225649,bonus_id=6652/11306,drop_level=80
+#
+# Imperfect Ascendancy Serum (584)
+# trinket1=,id=225654,bonus_id=10281/6652/1656/10255
+#
+# Nymue's Unraveling Spindle (515)
+# trinket1=,id=208615,bonus_id=10414/1546/8767
+#
+# Shining Arathor Insignia (561)
+# trinket1=,id=225647,bonus_id=10288/6652/1633
+#
+# Dreambinder, Loom of the Great Cycle (515)
+# main_hand=,id=208616,enchant_id=6643,bonus_id=9418/10414/1546/8767
+#
+# Radiant Steelglaives (584)
+# main_hand=,id=219199,bonus_id=10281/6652/11215/3163/10255
+#
+# Arachnophobic Spelunker's Spellsword (460)
+# main_hand=,id=219790,bonus_id=11128,drop_level=72
+#
+# Lapidarius Gemcutter (532)
+# main_hand=,id=211047,bonus_id=11190/6652,drop_level=77
+#
+# Cured Terracotta Lantern (467)
+# off_hand=,id=219796,bonus_id=11128/11054,drop_level=72
+#
+# Brilliant Beacon (545)
+# off_hand=,id=211041,bonus_id=11190/6652,drop_level=79
+#
+# Vessel of Sacred Flame (603)
+# off_hand=,id=219201,bonus_id=10271/6652/3182/10255
+
+### Weekly Reward Choices
+#
+# Hexflame Coven's Sleeves (584)
+# hands=,id=212075,bonus_id=10372/6652/10281/1485/10255
+#
+# Shattered Eye Cincture (584)
+# waist=,id=212430,bonus_id=43/10877/10378/10353/10281/1485/10255
+#
+# Hexflame Coven's Ritual Harness (590)
+# chest=,id=212077,bonus_id=10279/10353/10373/40/1491/10255
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2914:239/c:2916:18/c:2915:341/c:2917:3/c:3008:1964/i:211516:1/i:206959:4
+#
+# slot_high_watermarks=0:600:619/1:606:619/2:597:619/3:610:619/4:554:619/5:603:619/6:603:619/7:603:619/8:584:619/9:584:619/10:571:619/11:590:619/12:603:636/13:532:610/14:371:616/15:148:606/16:603:606
+#
+# upgrade_achievements=40107/40115/40118
+
+# Checksum: 2bf1f5d6

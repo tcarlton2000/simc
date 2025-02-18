@@ -1,0 +1,208 @@
+# Draganda - Devastation - 2025-01-09 22:09 - US/Thunderhorn
+# SimC Addon 11.0.7-01
+# WoW 11.0.7.58238, TOC 110007
+# Requires SimulationCraft 1000-01 or newer
+
+evoker="Draganda"
+level=80
+race=dracthyr
+region=us
+server=thunderhorn
+role=spell
+
+spec=devastation
+
+talents=CsbBV7//nP39x/JJympTqouKSAAAAAAAAAAAAzMzAzwMDDmZww0MmZysNz2MzMzYGzsNDYmZswMzyYGYAGsBLjRjtBkZCwGmB
+
+# Saved Loadout: Icy Veins Easy Mode
+# talents=CsbBV7//nP39x/JJympTqouKSAAAAAAAAAAAAuAzAzYmhZADGzYGzMMbjlZmZmhxMLzAMmZbMzsMzMwADAAAAAAA
+# Saved Loadout: wowhead tww s1 delve
+# talents=CsbBV7//nP39x/JJympTqouKSAAAAAAAAAAAAzMzAzwMDDmZwwYGzMMbzsNzMzMmxMbzAmZGLMzsMmBGgBbwyYYsNAmBgNMD
+
+# Chitinoid Coif of the Fireflash (593)
+head=,id=224685,bonus_id=6652/10876/1692/10377/10278/1665/10255
+# Timely Tourist's Pendant (597)
+neck=,id=226049,bonus_id=40/10395/10393/11311/10277/1669/10255
+# Fumaroles of the Destroyer (593)
+shoulder=,id=212027,bonus_id=10353/10369/6652/10278/1494/10255
+# Cape of the Fire Salamander (593)
+back=,id=231415,bonus_id=6652/10378/12092/10383/10278/1481/10255
+# Dornish Warden's Coat (603)
+chest=,id=225735,bonus_id=6652/10376/10354/10271/1504/10255
+# Rubicund Armguards (597)
+wrist=,id=231397,bonus_id=10376/6652/10876/10273/12093/10383/1485/10255
+# Rippers of the Destroyer (593)
+hands=,id=212030,bonus_id=10353/10372/6652/10278/1494/10255
+# Sash of the Grand Hunt (606)
+waist=,id=231442,bonus_id=40/10876/10376/10270/12093/10383/1494/10255
+# Liquified Defector's Leggings (606)
+legs=,id=212435,bonus_id=6652/10378/10353/10274/1507/10255
+# Undermoth-Lined Footpads (593)
+feet=,id=212431,bonus_id=6652/10378/10353/10278/1494/10255
+# Cyrce's Circlet (645)
+finger1=,id=228411,gem_id=228638/228639/228646,bonus_id=12014/1498
+# Gem-Studded Band of the Feverflare (593)
+finger2=,id=224660,bonus_id=6652/10395/10392/1769/10278/1665/10255
+# Aberrant Spellforge (593)
+trinket1=,id=212451,bonus_id=6652/10353/10278/1494/10255
+# Unstable Power Suit Core (603)
+trinket2=,id=225668,bonus_id=6652/10271/3132/10255
+# Flamelord's Emberstaff (600)
+main_hand=,id=231467,bonus_id=6652/10272/12093/10384/1488/10255
+
+### Gear from Bags
+#
+# Deep-Dweller's Cowl of the Fireflash (558)
+# head=,id=224590,bonus_id=10289/6652/10877/1695/10844/1485
+#
+# Chitinoid Coif of the Harmonious (584)
+# head=,id=224685,bonus_id=10281/6652/10877/1715/10377/1656/10255
+#
+# Bascinet of the Stygian Sea (603)
+# head=,id=219163,bonus_id=10271/6652/10397/10377/3182/10255
+#
+# Embershard Pendant (597)
+# neck=,id=231455,bonus_id=6652/10394/10392/10273/12093/10383/1485/10255
+#
+# Honorary Tinderbox (571)
+# neck=,id=219503,bonus_id=10297/6652/10395/10392/1643/10254
+#
+# Gem-Studded Pendant of the Peerless (584)
+# neck=,id=224665,bonus_id=10281/6652/10395/10392/1753/1656/10255
+#
+# Deeprock Pendant (250)
+# neck=,id=204919,bonus_id=8902/6652/8784/10244
+#
+# Adult-Sized Arathi Epaulets (1)
+# shoulder=,id=225949
+#
+# Whispering Voidlight Spaulders (593)
+# shoulder=,id=212429,bonus_id=6652/10378/10353/10278/1494/10255
+#
+# Chitinoid Shoulderguards of the Harmonious (584)
+# shoulder=,id=224687,bonus_id=10281/6652/1715/10377/1656/10255
+#
+# Chitinoid Shoulderguards of the Fireflash (587)
+# shoulder=,id=224687,bonus_id=10280/6652/1694/10377/1659/10255
+#
+# Gem-Woven Cloak of the Quickblade (587)
+# back=,id=224664,bonus_id=10280/6652/1682/10377/1659/10255
+#
+# Flamekeeper's Fire Blanket (600)
+# back=,id=231468,bonus_id=6652/10376/10272/12093/10383/1488/10255
+#
+# Webspeaker's Spiritual Cloak (554)
+# back=,id=223369,bonus_id=11061,drop_level=80
+#
+# Cape of the Fire Salamander (590)
+# back=,id=231415,bonus_id=6652/10378/10279/12092/10383/1478/10255
+#
+# Gem-Woven Cloak of the Aurora (571)
+# back=,id=224664,bonus_id=10297/6652/1707/10375/1643/10254
+#
+# Earthen Scallywag's Cloak (597)
+# back=,id=229010,bonus_id=10273/6652/10377/1459/10255
+#
+# Torchbearer's Chainmail (603)
+# chest=,id=211021,bonus_id=10271/41/10377/3182/10255
+#
+# Flamestrider Robes (587)
+# chest=,id=231401,bonus_id=6652/10375/11215/10292/12092/10383/1475/10255
+#
+# Chitinoid Grips of the Feverflare (564)
+# hands=,id=224684,bonus_id=10287/6652/1698/10375/1636
+#
+# Auburn Scavenger Gauntlets (447)
+# hands=,id=210700,bonus_id=9506/9554/1504/8767
+#
+# Sash of the Stygian Sea (603)
+# waist=,id=219160,bonus_id=10271/6652/10877/10377/3182/10255
+#
+# Torchbearer's Cinch (554)
+# waist=,id=211027,bonus_id=11306/6652/10375,drop_level=80
+#
+# Chitinoid Belt of the Aurora (590)
+# waist=,id=224688,bonus_id=10279/6652/10876/1708/10377/1662/10255
+#
+# Earthen Islander's Greaves (587)
+# legs=,id=229032,bonus_id=10280/11215/6652/10377/1449/10255
+#
+# Searingscale Leggings (603)
+# legs=,id=231402,bonus_id=6652/10376/10271/12093/10383/1491/10255
+#
+# Anvilrage Dragoon's Trousers (603)
+# legs=,id=231480,bonus_id=6652/10376/10271/12093/10383/1491/10255
+#
+# The Fifth's Linked Treads (584)
+# feet=,id=231473,bonus_id=6652/10378/10281/12092/10383/1472/10255
+#
+# Signet of Titanic Insight  (424)
+# finger1=,id=192999,enchant_id=6562,gem_id=192958,bonus_id=8836/8840/8902/8780/9405/8791/9366,crafted_stats=49/40,crafting_quality=5
+#
+# Emperor's Seal (606)
+# finger1=,id=231437,bonus_id=6652/10395/10878/10270/12093/10383/1494/10255
+#
+# Unearthed Relic Band (603)
+# finger1=,id=211061,bonus_id=10271/6652/10395/10392/1508/10255
+#
+# Band of Radiant Echoes (342)
+# finger1=,id=219325
+#
+# Everburning Lantern (603)
+# trinket1=,id=215169,bonus_id=10271/6652/3282/10255
+#
+# Candle Confidant (603)
+# trinket1=,id=225648,bonus_id=6652/10271/3132/10255
+#
+# Spymaster's Web (593)
+# trinket1=,id=220202,bonus_id=6652/10353/10278/1494/10255
+#
+# Unstable Power Suit Core (593)
+# trinket1=,id=225668,bonus_id=6652/10278/1665/10255
+#
+# Timely Tourist's Drill-Tipped Stave (584)
+# main_hand=,id=226063,bonus_id=10281/42/11311/1656/10255
+#
+# Lamplighter's Unlit Torch (1)
+# main_hand=,id=220508
+#
+# Firethorn Mindslicer (610)
+# main_hand=,id=173275,bonus_id=10265/7756/8902/10384/10017/10255
+#
+# Luminous Lampspire (603)
+# main_hand=,id=211059,bonus_id=10271/6652/1508/10255
+#
+# Ancient Forged Curio of the Aurora (584)
+# off_hand=,id=224711,bonus_id=10281/6652/1709/1656/10255
+#
+# Deep-Dweller's Orb of the Peerless (558)
+# off_hand=,id=224637,bonus_id=10289/6652/1684/10844/1485
+#
+# Brilliant Beacon (597)
+# off_hand=,id=211041,bonus_id=10273/6652/1502/10255
+
+### Weekly Reward Choices
+#
+# Wrist Bindings of the Stygian Sea (616)
+# wrist=,id=219159,bonus_id=10263/6652/10876/10377/3195/10255
+#
+# Unstable Power Suit Core (616)
+# trinket1=,id=225668,bonus_id=6652/10263/3145/10255
+#
+# Bone-Carved Circlet (584)
+# finger1=,id=219187,bonus_id=10281/6652/10395/10878/3163/10255
+#
+# Mad Queen's Mandate (593)
+# trinket1=,id=212454,bonus_id=6652/10353/10278/1494/10255
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2915:569/c:2916:16/c:2914:268/c:3008:1971/i:206959:7/i:204673:1/i:206960:2
+#
+# slot_high_watermarks=0:603:619/1:597:619/2:593:619/3:603:619/4:606:619/5:606:619/6:593:619/7:597:619/8:593:619/9:606:619/10:603:619/11:600:619/12:603:636/13:610:610/14:0:616/15:0:606/16:597:606
+#
+# upgrade_achievements=40107/40115/40118
+
+# Checksum: 3ae39b69

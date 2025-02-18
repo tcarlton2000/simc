@@ -1,0 +1,243 @@
+# Ninjanda - Mistweaver - 2025-02-18 16:53 - US/Thunderhorn
+# SimC Addon 11.1.0-01
+# WoW 11.0.7.58911, TOC 110007
+# Requires SimulationCraft 1000-01 or newer
+
+monk="Ninjanda"
+level=80
+race=void_elf
+region=us
+server=thunderhorn
+role=attack
+professions=alchemy=1/
+spec=mistweaver
+
+talents=C4QAqCjoPBi1F5zHY9mx8hvRaCAAAAAAAAGWYmlxsY2mZmxG2mlZbgtZbZZmZZBmYmBmhZWMwyMzMMLMzglZCAAAAACwilZbbWmZmgAA2A
+
+# Saved Loadout: wowhead
+# talents=C4QAqCjoPBi1F5zHY9mx8hvRaCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+# Saved Loadout: wowhead tww s1 m+
+# talents=C4QAqCjoPBi1F5zHY9mx8hvRaCAAAAAAAAGWYmlxsY2mZmxG2mlZbgtZbZZmZZBGMzAzwMLGYZmZGmFmZwyMAAAAAAAWsMbbzyMzAAAsB
+
+# Gatecrasher's Horns (606)
+head=,id=212047,bonus_id=6652/10877/10371/10270/1507/10255
+# Gem-Studded Pendant of the Feverflare (606)
+neck=,id=224665,bonus_id=6652/10394/10393/1766/10274/3135/10255
+# Gatecrasher's Enduring Effigy (593)
+shoulder=,id=212045,bonus_id=6652/10369/10278/1494/10255
+# Earthen Landlubber's Drape (593)
+back=,id=229036,bonus_id=11215/6652/10377/10278/1455/10255
+# Treasure-Seeker's Vest (616)
+chest=,id=211037,bonus_id=10263/6652/10377/3195/10255
+# Red Linen Shirt (1)
+shirt=,id=2575
+# Wristwraps of Fading Luminescence (600)
+wrist=,id=223310,bonus_id=10377/10876/10272/1672/10255
+# Gatecrasher's Protectors (593)
+hands=,id=212048,bonus_id=6652/8096/10372/10278/1494/10255
+# Inflammable Forging Cinch (597)
+waist=,id=223306,bonus_id=10273/10377/10876/1669/10255
+# Gatecrasher's Kilt (610)
+legs=,id=212046,bonus_id=6652/10265/10370/1511
+# Gem-Wadded Footwraps (597)
+feet=,id=223303,bonus_id=10273/10377/1669/10255
+# Cyrce's Circlet (658)
+finger1=,id=228411,gem_id=228638/228644/228646,bonus_id=12028/1511
+# Key to the Unseeming (610)
+finger2=,id=212447,bonus_id=6652/10395/10393/10355/10265/1511/10255
+# Ovi'nax's Mercurial Egg (590)
+trinket1=,id=220305,bonus_id=6652/10353/10279/1491/10255
+# Imperfect Ascendancy Serum (593)
+trinket2=,id=225654,bonus_id=6652/10278/1665/10255
+# Spire of the Furious Construct (567)
+main_hand=,id=110031,bonus_id=6652/10286/7756/12091/9990
+
+### Gear from Bags
+#
+# head=,id=49715
+#
+# Drowsed Shepherd's Hood (454)
+# head=,id=210707,bonus_id=9560/9506/1511/8767/9599
+#
+# head=,id=212107,bonus_id=10377/10876/10278/1665/10255
+#
+# head=,id=211017,bonus_id=10265/6652/10877/10377/3189/10255
+#
+# Myconic Hood (603)
+# head=,id=219171,bonus_id=10271/6652/10877/10377/3182/10255
+#
+# head=,id=49715
+#
+# neck=,id=143907,bonus_id=10297/10395/10393/9994/10254
+#
+# neck=,id=231436,bonus_id=6652/10394/10393/10270/12093/10383/1494/10255
+#
+# Empowered Tinderbox (584)
+# neck=,id=220157,bonus_id=10281/6652/10394/10392/1656/10255
+#
+# Gem-Studded Pendant of the Harmonious (584)
+# neck=,id=224665,bonus_id=10281/41/10395/10393/1783/1656/10255
+#
+# neck=,id=220158,bonus_id=10273/6652/10395/10393/1669/10255
+#
+# Long-Lost Choker (603)
+# neck=,id=211063,bonus_id=10271/6652/10395/10392/1508/10255
+#
+# shoulder=,id=229024,bonus_id=10278/11215/6652/10377/1455/10255
+#
+# Spaulders of the Stygian Sea (584)
+# shoulder=,id=219161,bonus_id=10281/6652/11215/10377/3163/10255
+#
+# Gatecrasher's Enduring Effigy (616)
+# shoulder=,id=212045,bonus_id=10369/6652/10263/1517/10255
+#
+# shoulder=,id=226089,bonus_id=12070/6652,drop_level=79
+#
+# shoulder=,id=231485,bonus_id=6652/10377/11215/12092/10383/10278/1481/10255
+#
+# Flamekeeper's Fire Blanket (587)
+# back=,id=231468,bonus_id=6652/10378/10280/12092/10383/1475/10255
+#
+# back=,id=211007,bonus_id=10271/6652/10377/1508/10255
+#
+# chest=,id=163657,bonus_id=1473/4785
+#
+# chest=,id=212433,bonus_id=6652/10379/10355/10262/1520/10255
+#
+# Treasure-Seeker's Vest (603)
+# chest=,id=211037,bonus_id=10271/6652/10377/3182/10255
+#
+# chest=,id=231389,bonus_id=6652/10376/10272/12093/10383/1488/10255
+#
+# Gatecrasher's Gi (600)
+# chest=,id=212050,bonus_id=6652/10272/10373/1501
+#
+# chest=,id=159902
+#
+# wrist=,id=211020,bonus_id=10271/6652/10876/10377/3182/10255
+#
+# wrist=,id=155948,bonus_id=10265/7756/10376/8902/10876/10383/10042/10255
+#
+# wrist=,id=231441,bonus_id=6652/10877/10376/10272/12093/10383/1488/10255
+#
+# hands=,id=211016,bonus_id=6652/11215/10375/10290/3172/10255
+#
+# hands=,id=212432,bonus_id=6652/10379/10355/10262/1520/10255
+#
+# hands=,id=227598,bonus_id=10279/10376/10383/10018/10255
+#
+# Lockstitch Sash of the Aurora (587)
+# waist=,id=224680,bonus_id=10280/6652/10877/1705/10377/1659/10255
+#
+# Myconic Strap (603)
+# waist=,id=219168,bonus_id=10271/41/10876/10377/3182/10255
+#
+# waist=,id=211019,bonus_id=10271/6652/10877/10377/3182/10255
+#
+# Abyssal Tendril Tights (603)
+# legs=,id=225733,bonus_id=6652/10376/10354/10271/1504/10255
+#
+# legs=,id=231422,bonus_id=6652/10377/11215/12092/10383/10278/1481/10255
+#
+# legs=,id=212423,bonus_id=6652/10378/10353/10281/1485/10255
+#
+# legs=,id=224620,bonus_id=10289/6652/1680/10844/1485
+#
+# Abyssal Tendril Tights (603)
+# legs=,id=225733,bonus_id=6652/10376/10354/10271/1504/10255
+#
+# feet=,id=231438,bonus_id=6652/10378/10278/12092/10383/1481/10255
+#
+# feet=,id=224675,bonus_id=10281/6652/1716/10377/1656/10255
+#
+# feet=,id=224675,bonus_id=10281/6652/1686/10377/1656/10255
+#
+# feet=,id=225591,bonus_id=6652/10378/10353/10279/1491/10255
+#
+# finger1=,id=231437,bonus_id=6652/10394/10878/12093/10383/10269/1498/10255
+#
+# finger1=,id=193000,enchant_id=6556,gem_id=192945,bonus_id=8836/8840/8902/8780/9405/8790/9499/9498,crafted_stats=40/32,crafting_quality=5
+#
+# finger1=,id=188297,bonus_id=10286/7756/10395/10878/12090/10002
+#
+# finger1=,id=171853,bonus_id=10265/7756/8902/10393/10394/10383/10017/10255
+#
+# Lavishly Jeweled Ring (567)
+# finger1=,id=1156,bonus_id=6652/8811/10286/7756/10394/10393/12090/10022
+#
+# finger1=,id=211061,bonus_id=10271/6652/10394/10393/1508/10255
+#
+# finger1=,id=225576,bonus_id=6652/10395/10392/10353/10279/1491/10255
+#
+# finger1=,id=192999,enchant_id=6556,gem_id=192919,bonus_id=8836/8840/8902/8780/9405/8790/9499/9614/8960/9498,crafted_stats=40/32,crafting_quality=5
+#
+# trinket1=,id=231118,bonus_id=10279/11215/6652/1452/10255
+#
+# trinket1=,id=226539,bonus_id=10282/1652/10254
+#
+# Fang of the Frenzied Nightclaw (457)
+# trinket1=,id=209957,bonus_id=10322/8902/6652/1501
+#
+# trinket1=,id=225649,bonus_id=10281/6652/1656/10255
+#
+# Imperfect Ascendancy Serum (616)
+# trinket1=,id=225654,bonus_id=6652/10263/3145/10255
+#
+# Imperfect Ascendancy Serum (584)
+# trinket1=,id=225654,bonus_id=10281/6652/1656/10255
+#
+# trinket1=,id=225638,bonus_id=6652/10265/3139/10255
+#
+# trinket1=,id=158320,bonus_id=9563/9639/6652/9144/9458/8767
+#
+# trinket1=,id=226539,bonus_id=6652/10271/3132/10255
+#
+# main_hand=,id=231472,bonus_id=6652/10272/12093/10384/1488/10255
+#
+# main_hand=,id=231410,bonus_id=6652/12092/10384/10274/1494/10255
+#
+# main_hand=,id=2632
+#
+# main_hand=,id=212389,bonus_id=6652/10353/10279/1491/10255
+#
+# main_hand=,id=229172,bonus_id=10280/11215/6652/1449/10255
+#
+# Luminous Lampspire (584)
+# main_hand=,id=211059,bonus_id=10281/6652/11215/1489/10255
+#
+# main_hand=,id=219204,bonus_id=10271/42/3182/10255
+#
+# main_hand=,id=219352,bonus_id=10271/6652/1508/10255
+#
+# Bludgeons of Blistering Wind (593)
+# main_hand=,id=212398,bonus_id=6652/10353/10278/1494/10255
+#
+# main_hand=,id=224702,bonus_id=6652/1698/10274/3135/10255
+#
+# Bedrock Breaker (603)
+# main_hand=,id=219355,bonus_id=10271/6652/1508/10255
+#
+# main_hand=,id=219208,bonus_id=10271/6652/3182/10255
+
+### Weekly Reward Choices
+#
+# Unbound Changeling (593)
+# trinket1=,id=178708,bonus_id=10278/10388/6652/10383/6917/9878/10255
+#
+# Bands of the Undergrowth (593)
+# wrist=,id=178702,bonus_id=10278/10388/6652/10877/10377/10383/9878/10255
+#
+# Myconic Shoulderstrap (616)
+# shoulder=,id=219169,bonus_id=10263/6652/10377/3195/10255
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:1792:1816/c:2914:473/c:2916:28/c:2915:628/c:2917:9/c:3008:1826/i:224072:1/i:206959:1
+#
+# slot_high_watermarks=0:610:619/1:606:619/2:616:619/3:619:619/4:603:619/5:610:619/6:597:619/7:610:619/8:619:619/9:610:619/10:610:619/11:603:619/12:603:636/13:548:610/14:606:619/15:606:606/16:493:606
+#
+# upgrade_achievements=40107/40115/40118
+
+# Checksum: ad28525e

@@ -1,0 +1,250 @@
+# Chelary - Frost - 2025-01-20 08:51 - US/Llane
+# SimC Addon 11.0.7-02
+# WoW 11.0.7.58630, TOC 110007
+# Requires SimulationCraft 1000-01 or newer
+
+mage="Chelary"
+level=80
+race=blood_elf
+region=us
+server=llane
+role=spell
+professions=mining=51/jewelcrafting=75
+spec=frost
+
+talents=CAEAjd9IgsSkCmGQ8vOmZtyV7MzYzsZBzMmZWMwMz0YMGzMzwwMwMzMzMzMzMzMzMzYMLz0Mz2sABAAtAAAAAAgZBAAAAAAAA
+
+# Saved Loadout: wowhead s1 delve
+# talents=CAEAjd9IgsSkCmGQ8vOmZtyV7MzYzsZBzwMziBmZGjxYMzMDDzAzMzMzMzMzMzMzMjZmlZMzsNLAAAwCAAAAAAmFAAAAAAAAA
+
+# Cave Topographer's Cowl (610)
+head=,id=211011,bonus_id=10265/6652/10876/10377/3189/10255
+# Honorary Tinderbox (593)
+neck=,id=219503,bonus_id=6652/10395/10393/10290/1665/10255
+# Beacons of Violet Rebirth (616)
+shoulder=,id=212090,bonus_id=10369/6652/10263/1517/10255
+# Gem-Woven Cloak of the Fireflash (603)
+back=,id=224664,bonus_id=6652/1691/10377/10275/3132/10255
+# Alighted Robes of the Aurora (603)
+chest=,id=224666,bonus_id=43/1704/10275/3132/10255
+# Orgrimmar Tabard (1)
+tabard=,id=45581
+# Bindings of Irradiating Imprisonment (597)
+wrist=,id=223309,bonus_id=10273/10377/10876/1669/10255
+# Jeweled Gauntlets of Violet Rebirth (606)
+hands=,id=212093,bonus_id=10372/6652/10270/1507/10255
+# Embrace of the Leviathan (610)
+waist=,id=155932,bonus_id=10265/7756/10376/8902/10876/10042/10255
+# Unkindled Waxweave Buskins (603)
+legs=,id=219178,bonus_id=10271/6652/10377/3182/10255
+# Unkindled Waxweave Slippers (603)
+feet=,id=219181,bonus_id=10271/6652/10377/3182/10255
+# Cyrce's Circlet (655)
+finger1=,id=228411,gem_id=228638/228639/228646,bonus_id=12027/1508
+# Seal of the Broken Mountain (603)
+finger2=,id=225751,bonus_id=6652/10395/10392/10354/10271/1504/10255
+# Kaheti Shadeweaver's Emblem (603)
+trinket1=,id=225651,bonus_id=6652/10275/3132/10255
+# Everburning Lantern (603)
+trinket2=,id=215169,bonus_id=10271/6652/3282/10255
+# Arathi Holy Standard (597)
+main_hand=,id=219203,bonus_id=6652/10277/3176/10255
+
+### Gear from Bags
+#
+# Cave Topographer's Cowl (603)
+# head=,id=211011,bonus_id=10271/6652/10876/10377/3182/10255
+#
+# Remembrance of the Fallen City (532)
+# neck=,id=219754,bonus_id=11128,drop_level=77
+#
+# Conch Collector's Locket (584)
+# neck=,id=229053,bonus_id=10281/11215/6652/10394/10393/1446/10255
+#
+# Malleable Pendant  (518)
+# neck=,id=215131,bonus_id=11295/11296/4785/10878/10395/9624,crafted_stats=40/49,crafting_quality=2
+#
+# Clattering Chitin Necklace (518)
+# neck=,id=223375,bonus_id=11061,drop_level=75
+#
+# Alighted Shoulderpads of the Aurora (584)
+# shoulder=,id=224671,bonus_id=10281/6652/1706/10377/1656/10255
+#
+# Cave Topographer's Shoulders (600)
+# shoulder=,id=211039,bonus_id=10272/6652/10377/3179/10255
+#
+# Gem-Woven Cloak of the Feverflare (603)
+# back=,id=224664,bonus_id=6652/1699/10377/10275/3132/10255
+#
+# Gem-Woven Shawl of the Quickblade (587)
+# back=,id=224663,bonus_id=10280/6652/1680/10377/1659/10255
+#
+# Drape of the Lithe (610)
+# back=,id=155966,bonus_id=10265/7756/10376/8902/10383/10042/10255
+#
+# Darkspear Shroud (29)
+# back=,id=54617
+#
+# Torchbearer's Greatcloak (597)
+# back=,id=211007,bonus_id=10273/6652/10377/1502/10255
+#
+# Green Dragonskin Cloak (590)
+# back=,id=150411,bonus_id=10279/10376/10383/10028/10255
+#
+# Gem-Woven Cloak of the Harmonious (571)
+# back=,id=224664,bonus_id=10297/6652/1712/1643/10254
+#
+# Drape of Benediction (590)
+# back=,id=150417,bonus_id=10279/10376/10383/10028/10255
+#
+# Myconic Wrap (603)
+# back=,id=219186,bonus_id=10271/6652/10377/3182/10255
+#
+# Lightseeker's Robes (603)
+# chest=,id=225731,bonus_id=6652/10376/10354/10271/1504/10255
+#
+# Underscout's Jerkin of the Feverflare (564)
+# chest=,id=224606,bonus_id=10287/6652/1701/10844/1491
+#
+# Alighted Robes of the Quickblade (561)
+# chest=,id=224666,bonus_id=10288/6652/1676/1633
+#
+# Bile-Soaked Harness (597)
+# chest=,id=212419,bonus_id=6652/10376/10354/10273/1498/10255
+#
+# Expeditionary Bracers of the Feverflare (564)
+# wrist=,id=224615,bonus_id=10287/6652/10876/1700/10844/1491
+#
+# Alighted Cuffs of the Feverflare (580)
+# wrist=,id=224673,bonus_id=6652/10397/1699/10282/1652/10254
+#
+# Earthforged Cuffs of the Harmonious (564)
+# wrist=,id=224623,bonus_id=10287/6652/10876/1716/10844/1491
+#
+# Cave Topographer's Handwraps (603)
+# hands=,id=211010,bonus_id=10271/6652/10377/3182/10255
+#
+# Jeweled Gauntlets of Violet Rebirth (584)
+# hands=,id=212093,bonus_id=10372/6652/10281/1485/10255
+#
+# Alighted Handwraps of the Fireflash (587)
+# hands=,id=224668,bonus_id=10280/41/1694/10377/1659/10255
+#
+# Alighted Handwraps of the Feverflare (571)
+# hands=,id=224668,bonus_id=10297/6652/1699/1643/10254
+#
+# Unkindled Waxweave Belt (610)
+# waist=,id=219176,bonus_id=10265/6652/10876/10377/3189/10255
+#
+# Ferrous Cord (600)
+# waist=,id=231451,bonus_id=6652/10877/10376/10272/12093/10383/1488/10255
+#
+# Cave Topographer's Leggings (603)
+# legs=,id=211012,bonus_id=10271/6652/10377/3182/10255
+#
+# Assimilated Eggshell Slippers (590)
+# feet=,id=225582,bonus_id=6652/10378/10353/10279/1491/10255
+#
+# Unkindled Waxweave Slippers (603)
+# feet=,id=219181,bonus_id=10271/43/10377/3182/10255
+#
+# Cosmic-Tinged Treads (587)
+# feet=,id=212416,bonus_id=41/10378/10353/10280/1488/10255
+#
+# Olden Signet (554)
+# finger1=,id=211052,bonus_id=11306/6652,drop_level=80
+#
+# Gem-Studded Signet of the Feverflare (584)
+# finger1=,id=224661,bonus_id=10281/6652/10395/10392/1769/1656/10255
+#
+# Dark Abyss Hoop (590)
+# finger1=,id=219188,bonus_id=6652/10395/10392/10279/3169/10255
+#
+# Gem-Studded Ring of the Quickblade (571)
+# finger1=,id=224662,bonus_id=10297/6652/10395/10393/1744/1643/10254
+#
+# Gem-Studded Band of the Quickblade (587)
+# finger1=,id=224660,bonus_id=10280/10395/10393/1742/1659/10255
+#
+# Gem-Studded Ring of the Feverflare (590)
+# finger1=,id=224662,bonus_id=10279/41/10395/10392/1764/1662/10255
+#
+# Treacherous Transmitter (590)
+# trinket1=,id=221023,bonus_id=6652/10353/10279/1491/10255
+#
+# Unstable Power Suit Core (603)
+# trinket1=,id=225668,bonus_id=6652/10271/3132/10255
+#
+# Shining Arathor Insignia (567)
+# trinket1=,id=225647,bonus_id=10286/6652/1639
+#
+# Shining Arathor Insignia (590)
+# trinket1=,id=225647,bonus_id=10279/6652/1662/10255
+#
+# Talisman of Resurgence (35)
+# trinket1=,id=48724
+#
+# Unstable Power Suit Core (603)
+# trinket1=,id=225668,bonus_id=6652/10271/3132/10255
+#
+# Imperfect Ascendancy Serum (587)
+# trinket1=,id=225654,bonus_id=10280/6652/1659/10255
+#
+# Imperfect Ascendancy Serum (590)
+# trinket1=,id=225654,bonus_id=6652/10279/1662/10255
+#
+# Fang of the Mystics (590)
+# main_hand=,id=150423,bonus_id=10279/10384/10028/10255
+#
+# Underscout's Glaive of the Quickblade (561)
+# main_hand=,id=224638,bonus_id=10288/6652/1682/10844/1488
+#
+# Ancient Forged Ritual Knife of the Fireflash (574)
+# main_hand=,id=224699,bonus_id=10296/41/1690/1646/10254
+#
+# Ancient Forged Spellstaff of the Fireflash (590)
+# main_hand=,id=224710,bonus_id=10279/6652/1691/1662/10255
+#
+# Nurturing Touch (597)
+# main_hand=,id=156284,bonus_id=10273/7756/10029/10255
+#
+# Underscout's Kukri of the Peerless (561)
+# main_hand=,id=224632,bonus_id=10288/6652/1689/10844/1488
+#
+# Petrified Ivy Sprig (597)
+# main_hand=,id=156023,bonus_id=10273/7756/10029/10255
+#
+# Argent Lance (1)
+# main_hand=,id=46106
+#
+# Ancient Forged Spellstaff of the Aurora (584)
+# main_hand=,id=224710,bonus_id=10281/41/1706/1656/10255
+#
+# Igniter Rod (597)
+# off_hand=,id=156042,bonus_id=10273/7756/10029/10255
+#
+# Ancient Forged Curio of the Fireflash (561)
+# off_hand=,id=224711,bonus_id=10288/6652/1694/1633
+
+### Weekly Reward Choices
+#
+# Serape of the Stygian Sea (616)
+# back=,id=219185,bonus_id=10263/6652/10377/3195/10255
+#
+# Hand of Piety (616)
+# main_hand=,id=219206,bonus_id=10263/6652/3195/10255
+#
+# Amice of Hidden Stars (584)
+# back=,id=219183,bonus_id=10281/6652/10377/3163/10255
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2914:119/c:2916:26/c:2915:371/c:2917:6/c:3008:1801/i:211516:2
+#
+# slot_high_watermarks=0:610:619/1:593:619/2:616:619/3:603:619/4:610:619/5:603:619/6:603:619/7:597:619/8:606:619/9:603:619/10:603:619/11:610:619/12:597:636/13:597:610/14:0:616/15:0:606/16:597:606
+#
+# upgrade_achievements=40107/40115/40118
+
+# Checksum: 9929cbee

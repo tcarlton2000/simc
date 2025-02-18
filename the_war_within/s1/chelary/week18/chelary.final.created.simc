@@ -1,0 +1,63 @@
+# Chelary - Frost - 2025-01-20 08:51 - US/Llane
+# SimC Addon 11.0.7-02
+# WoW 11.0.7.58630, TOC 110007
+# Requires SimulationCraft 1000-01 or newer
+
+mage="Chelary"
+level=80
+race=blood_elf
+region=us
+server=llane
+role=spell
+professions=mining=51/jewelcrafting=75
+spec=frost
+
+talents=CAEAjd9IgsSkCmGQ8vOmZtyV7MzYzsZBzMmZWMwMz0YMGzMzwwMwMzMzMzMzMzMzMzYMLz0Mz2sABAAtAAAAAAgZBAAAAAAAA
+
+# Cave Topographer's Cowl (610)
+head=,id=211011,bonus_id=10265/6652/10876/10377/10255/10262/3198
+# Darkened Tinderbox (619)
+neck=,id=220158,bonus_id=3148/10262/10376
+# Beacons of Violet Rebirth (619)
+shoulder=,id=212090,bonus_id=10369/6652/10263/10255/10262/1520
+# Ward of Violet Rebirth (619)
+back=,id=212087,bonus_id=10271/10266/1520
+# Runecoat of Violet Rebirth (619)
+chest=,id=212095,bonus_id=10271/10266/1520
+# Bindings of Irradiating Imprisonment (619)
+wrist=,id=223309,bonus_id=10273/10377/10876/10255/10266/3148
+# Jeweled Gauntlets of Violet Rebirth (619)
+hands=,id=212093,bonus_id=10372/6652/10270/10255/10266/1520
+# Embrace of the Leviathan (619)
+waist=,id=155932,bonus_id=10265/7756/10376/8902/10876/10255/10262/10051
+# Coattails of Violet Rebirth (619)
+legs=,id=212091,bonus_id=10271/10266/1520
+# Mineral-Sparkled Sandals (619)
+feet=,id=223300,bonus_id=3148/10262/10376
+# Cyrce's Circlet (655)
+finger1=,id=228411,gem_id=228638/228639/228646,bonus_id=12027/1508
+# Ring of Earthen Craftsmanship (619)
+finger2=,id=215135,bonus_id=10421/10878/1498,crafted_stats=40/36,crafting_quality=8
+# Everburning Lantern (619)
+trinket1=,id=215169,bonus_id=10271/6652/10255/10266/3298
+# Treacherous Transmitter (619)
+trinket2=,id=221023,bonus_id=6652/10353/10279/10255/10274/1507
+# Nurturing Touch (619)
+main_hand=,id=156284,bonus_id=10273/7756/10255/10266/10051
+# Igniter Rod (619)
+off_hand=,id=156042,bonus_id=10273/7756/10255/10266/10051
+
+### Gear from Bags
+#
+# Seal of the Broken Mountain (619)
+# finger2=id=225751,bonus_id=6652/10395/10392/10354/10271/10255/10266/1520
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2914:119/c:2916:26/c:2915:371/c:2917:6/c:3008:1801/i:211516:2
+#
+# slot_high_watermarks=0:610:619/1:593:619/2:616:619/3:603:619/4:610:619/5:603:619/6:603:619/7:597:619/8:606:619/9:603:619/10:603:619/11:610:619/12:597:636/13:597:610/14:0:616/15:0:606/16:597:606
+#
+# upgrade_achievements=40107/40115/40118
+
+# Checksum: 9929cbee
