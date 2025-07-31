@@ -1,0 +1,339 @@
+# Ninjanda - Mistweaver - 2025-03-11 20:38 - US/Thunderhorn
+# SimC Addon 11.1.0-02
+# WoW 11.1.0.59570, TOC 110100
+# Requires SimulationCraft 1000-01 or newer
+
+monk="Ninjanda"
+level=80
+race=void_elf
+region=us
+server=thunderhorn
+role=attack
+professions=alchemy=1/
+spec=mistweaver
+
+talents=C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAADLWmZZMLmtZMjNstsMbjHAz2yyMzyCjJmZgZYGGYbmZGmNmZYWegJAAAAAz20ysNzysZZWWmtZmJIAwGA
+
+# Saved Loadout: wowhead
+# talents=C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+# Saved Loadout: wowhead tww s1 m+
+# talents=C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAADLMzyYWMbzMzYDbLLz2Abz2yyMzyCMYmBmhZWMwyMzMMLMzglZAAAAAAAsYZ22mlZmBAAsB
+# Saved Loadout: wowhead tww s2 raid
+# talents=C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAADLWmhxGmxMzywG2mZ2sNLbbzMLLMDzMzAzwMMw2MzMMbjxgFDAAAAAAgFLzyysNzMAAgNA
+# Saved Loadout: wowhead tww s2 delve
+# talents=C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAADLWmZZMLmtZMjNstsMbjHAz2yyMzyCjBzMwMMDDsNzMDzGzMMLPwAAAAAwsN2mtZWmNLzyysNzMAAgNA
+# Saved Loadout: wowhead twww s2 m+
+# talents=C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAADLWmZZMLmtZMjNstsMbjHAz2yyMzyCjBzMwMMDDsNzMDzGzMMLPwAAAAAwsNWmtZWmNLzyysNzMAAgNA
+
+# Nitroclad Hood (649)
+head=,id=235442,bonus_id=11985/6652/12176/11964/9457/10255
+# Darkened Tinderbox (619)
+neck=,id=220158,bonus_id=6652/10395/10393/10266/3148/10255
+# Nitroclad Motorpads (639)
+shoulder=,id=235444,bonus_id=11978/6652/11964/3322/10255
+# Might-Be-Invisible Drape (623)
+back=,id=235507,bonus_id=11969/6652/11964/1495/10255
+# Darkfuse Dinner Jacket (642)
+chest=,id=232728,bonus_id=6652/11966/10354/11979/1491/10255
+# Red Linen Shirt (1)
+shirt=,id=2575
+# Killer Queen's Wristflickers (639)
+wrist=,id=228869,bonus_id=6652/12176/11966/10354/11978/1488/10255
+# Gatecrasher's Protectors (619)
+hands=,id=212048,bonus_id=6652/10355/10262/8094/10372/1520
+# Myconic Strap (619)
+waist=,id=219168,bonus_id=41/10876/10377/10266/3198/10255
+# Gatecrasher's Kilt (619)
+legs=,id=212046,bonus_id=6652/10370/10262/1520/10255
+# Rushed Beta Launchers (642)
+feet=,id=228888,bonus_id=41/11966/10354/11979/1491/10255
+# Cyrce's Circlet (658)
+finger1=,id=228411,gem_id=228638/228644/228646,bonus_id=12028/1511
+# Lucky-Streak Ring (623)
+finger2=,id=233483,bonus_id=11969/6652/10395/10392/1495/10255
+# Quickwick Candlestick (639)
+trinket1=,id=225649,bonus_id=6652/11974/3168/10255
+# Dr. Scrapheal (639)
+trinket2=,id=234185,bonus_id=6652/11978/1511/10255
+# Vagabond's Bounding Baton  (636)
+main_hand=,id=222568,enchant_id=7442,bonus_id=10421/9633/8902/9627/10222/11300/8960/8790/11144,crafted_stats=36/40,crafting_quality=5
+
+### Gear from Bags
+#
+# Elite Golfer's Headgear (597)
+# head=,id=232749,bonus_id=11942/40/12176/11968/1469
+#
+# Gatecrasher's Horns (619)
+# head=,id=212047,bonus_id=6652/10877/10371/10266/1520/10255
+#
+# Rebel Spike Headgear (603)
+# head=,id=233468,bonus_id=11944/6652/12176/11968/1475/10254
+#
+# Headgear of the Undermine Revolutionary (603)
+# head=,id=232406,bonus_id=11944/6652/12176/11968/1475/10254
+#
+# Gem-Studded Pendant of the Feverflare (606)
+# neck=,id=224665,bonus_id=6652/10394/10393/1766/10274/3135/10255
+#
+# Necklace of Eternal Love (597)
+# neck=,id=232737,bonus_id=11942/42/10394/10878/1469
+#
+# Shockwave Pendant (610)
+# neck=,id=235302,bonus_id=11951/11311/6652/10395/10393/1482/10254
+#
+# Imperial Jewel (606)
+# neck=,id=231436,bonus_id=6652/10394/10393/10270/12093/10383/1494/10255
+#
+# Shoulderguards of the Liberator (603)
+# shoulder=,id=232401,bonus_id=11944/6652/11968/1475/10254
+#
+# Ooze-fused Mantle (610)
+# shoulder=,id=235306,bonus_id=11951/11311/6652/11968/1482/10254
+#
+# Spaulders of Lost Inspiration (619)
+# shoulder=,id=232746,bonus_id=6652/11968/11949/1491/10254
+#
+# Torchbearer's Shoulderguards (350)
+# shoulder=,id=211026,bonus_id=6652/11215/10377
+#
+# Gatecrasher's Enduring Effigy (619)
+# shoulder=,id=212045,bonus_id=10369/6652/10262/1520/10255
+#
+# Gatecrasher's Mantle (619)
+# back=,id=212042,bonus_id=6652/10266/1520/10255
+#
+# Might-Be-Invisible Cloak (603)
+# back=,id=233481,bonus_id=11944/6652/11968/1475/10254
+#
+# Kaja-Infused Cloak (603)
+# back=,id=232763,bonus_id=11944/6652/11968/1475/10254
+#
+# Might-Be-Invisible Shawl (613)
+# back=,id=233482,bonus_id=11952/6652/11968/1485/10254
+#
+# Treasure-Seeker's Shawl (554)
+# back=,id=211062,bonus_id=11306/10375,drop_level=80
+#
+# Silent Veil (597)
+# back=,id=232735,bonus_id=11942/6652/11968/1469
+#
+# Treasure-Seeker's Vest (619)
+# chest=,id=211037,bonus_id=6652/10377/10262/3198/10255
+#
+# Myconic Frock (603)
+# chest=,id=219174,bonus_id=10271/6652/10377/3182/10255
+#
+# Underscout's Jerkin (597)
+# chest=,id=224606,bonus_id=11942/6652/11968/1524
+#
+# Slimediver's Vest (603)
+# chest=,id=232785,bonus_id=11944/6652/11968/1475/10254
+#
+# Silent Strike Chestguard (597)
+# chest=,id=232353,bonus_id=11942/40/11968/1469
+#
+# Wristguards of Renown (619)
+# wrist=,id=231441,bonus_id=6652/10877/10376/12093/10383/10266/1507/10255
+#
+# Wristwraps of the Certified Hunter (603)
+# wrist=,id=232787,bonus_id=11944/6652/12176/11968/1475/10254
+#
+# Green Knight's Wristguards (597)
+# wrist=,id=232744,bonus_id=11942/6652/12176/11968/1469
+#
+# Earthforged Cuffs of the Aurora (597)
+# wrist=,id=224623,bonus_id=11942/6652/12176/1710/10844/1524
+#
+# Nitroclad Armguards (639)
+# wrist=,id=235446,bonus_id=11978/6652/12176/11964/3322/10255
+#
+# Treasure-Seeker's Bindings (554)
+# wrist=,id=211020,bonus_id=11306/6652/10375,drop_level=80
+#
+# Zirdo's Dirty Grips (597)
+# hands=,id=232393,bonus_id=11942/40/11968/1469
+#
+# Treasure-Seeker's Grips (639)
+# hands=,id=211016,bonus_id=11978/6652/11964/3218/10255
+#
+# Upcycled Gloves of the Quickblade (610)
+# hands=,id=233337,bonus_id=11951/6652/12054/1682/3139/10254
+#
+# Rusthide Gloves (610)
+# hands=,id=235325,bonus_id=11951/11311/41/11968/1482/10254
+#
+# Bug Exterminator's Gloves (597)
+# hands=,id=235619,bonus_id=11942/6652/11968/1469
+#
+# Apprentice Knight's Belt (613)
+# waist=,id=232745,bonus_id=41/12176/11968/11947/1485/10254
+#
+# Sewer Wanderer's Belt (603)
+# waist=,id=232783,bonus_id=11944/6652/12176/11968/1475/10254
+#
+# Maniac Biker's Legguards (597)
+# legs=,id=235148,bonus_id=11942/6652/11968/1469
+#
+# Suspiciously Stained Legguards (597)
+# legs=,id=232747,bonus_id=11942/6652/11968/1469
+#
+# Underscout's Striders of the Aurora (603)
+# feet=,id=224600,bonus_id=11944/6652/1709/10844/1530/10254
+#
+# Whisperer's Echoing Steps (593)
+# feet=,id=221169,bonus_id=10278/10388/6652/10377/10383/1628/10255
+#
+# Myconic Waders (603)
+# feet=,id=219173,bonus_id=10271/6652/10377/3182/10255
+#
+# Boots of the Silver Tongue (610)
+# feet=,id=235328,bonus_id=11951/11311/6652/11968/1482/10254
+#
+# Treasure-Seeker's Boots (610)
+# feet=,id=211015,bonus_id=11951/6652/3189/10254
+#
+# Guardbreaker's Boots (603)
+# feet=,id=232400,bonus_id=11944/6652/11968/1475/10254
+#
+# Gem-Wadded Footwraps (619)
+# feet=,id=223303,bonus_id=10377/10266/3148/10255
+#
+# Treasure-Seeker's Boots (610)
+# feet=,id=211015,bonus_id=11951/6652/3189/10254
+#
+# Desperate Goblin's Boots (597)
+# feet=,id=232748,bonus_id=11942/6652/11968/1469
+#
+# Signet of Titanic Insight  (476)
+# finger1=,id=192999,enchant_id=6556,gem_id=192919,bonus_id=8836/8840/8902/8780/9405/8790/9499/9614/8960/9498,crafted_stats=40/32,crafting_quality=5
+#
+# Emperor's Seal (619)
+# finger1=,id=231437,bonus_id=6652/10394/10878/12093/10383/10266/1507/10255
+#
+# Lucky-Streak Band (610)
+# finger1=,id=233485,bonus_id=11951/6652/10395/10392/1482/10254
+#
+# Ring of Purification (619)
+# finger1=,id=232418,bonus_id=6652/10395/10393/11949/1491/10254
+#
+# Cubic Zirconia Ring (12)
+# finger1=,id=7341
+#
+# Band of the Relic Bearer (554)
+# finger1=,id=223376,bonus_id=11061,drop_level=80
+#
+# Ring-Bound Hourglass  (476)
+# finger1=,id=193000,enchant_id=6556,gem_id=192945,bonus_id=8836/8840/8902/8780/9405/8790/9499/9498,crafted_stats=40/32,crafting_quality=5
+#
+# Turbo-Drain 5000 (619)
+# trinket1=,id=232883,bonus_id=42/11949/1491/10254
+#
+# Goldenglow Censer (639)
+# trinket1=,id=225656,bonus_id=41/11974/3168/10255
+#
+# Suspicious Energy Drink (639)
+# trinket1=,id=235363,bonus_id=6652/11974/1511/10255
+#
+# Papa's Prized Putter (597)
+# trinket1=,id=234821,bonus_id=11942/6652/1469
+#
+# Funhouse Lens (619)
+# trinket1=,id=234217,bonus_id=6652/11949/1491/10254
+#
+# Harvester's Edict (580)
+# trinket1=,id=219317,bonus_id=10294/10388/6652/12045/1615/10254
+#
+# Spelunker's Waning Candle (619)
+# trinket1=,id=225638,bonus_id=6652/10262/3148/10255
+#
+# Gallagio Bottle Service (642)
+# trinket1=,id=230188,bonus_id=6652/10354/11979/1491/10255
+#
+# Noggenfogger Ultimate Deluxe (619)
+# trinket1=,id=232486,bonus_id=40/11949/1491/10254
+#
+# Quickwick Candlestick (606)
+# trinket1=,id=225649,bonus_id=6652/10274/3135/10255
+#
+# Bashful Book (597)
+# trinket1=,id=235283,bonus_id=11942/6652/1469
+#
+# Ovi'nax's Mercurial Egg (606)
+# trinket1=,id=220305,bonus_id=6652/10353/10274/1507/10255
+#
+# Blight Hunter's Scalpelglaive (567)
+# main_hand=,id=221160,bonus_id=10286/6652/12046/11215/1602
+#
+# Pyrotechnic Needle-Dropper (623)
+# main_hand=,id=228897,bonus_id=42/11969/11215/1472/10255
+#
+# Boreal Spellstaff (597)
+# main_hand=,id=232435,bonus_id=11942/6652/1469
+#
+# Expeditionary Spear of the Feverflare (619)
+# main_hand=,id=224625,bonus_id=6652/1703/10844/11949/1546/10254
+#
+# Expeditionary Chopper (600)
+# main_hand=,id=224639,bonus_id=11943/6652/1527
+#
+# Skypiercing Drillstaff (626)
+# main_hand=,id=219352,bonus_id=11970/43/11215/1531/10255
+#
+# Ancient Forged Blade of the Feverflare (606)
+# main_hand=,id=224702,bonus_id=6652/1698/10274/3135/10255
+#
+# Deep-Dweller's Staff of the Feverflare (597)
+# main_hand=,id=224626,bonus_id=11942/6652/1701/10844/1524
+#
+# Rubidium Hammer (606)
+# main_hand=,id=231410,bonus_id=6652/12092/10384/10274/1494/10255
+#
+# Flawless Phase Blade (587)
+# main_hand=,id=212405,bonus_id=6652/10353/10280/1488/10255
+#
+# Brilliant Beacon (603)
+# off_hand=,id=211041,bonus_id=10271/6652/1508/10255
+#
+# Grateful Goblin's Water Bottle (597)
+# off_hand=,id=235661,bonus_id=11942/6652/1469
+#
+# Gold-Plated Cinderbrew Bottle (639)
+# off_hand=,id=233529,bonus_id=6652/11974/1511/10255
+#
+# Brilliant Beacon (639)
+# off_hand=,id=211041,bonus_id=11978/6652/1544/10255
+
+### Weekly Reward Choices
+#
+# Strapped Rescue-Keg (649)
+# neck=,id=221060,bonus_id=11985/10390/6652/10395/10393/10383/3141/10255
+#
+# Nitroclad Armguards (649)
+# wrist=,id=235446,bonus_id=11985/6652/12176/11964/9457/10255
+#
+# Funhouse Lens (649)
+# trinket1=,id=234217,bonus_id=6652/11985/1521/10255
+#
+# Ignited Flare Jar (649)
+# off_hand=,id=235493,bonus_id=11985/9457/10255
+#
+# Operator's Fraud Detector (642)
+# off_hand=,id=228906,bonus_id=6652/10354/11979/1491/10255
+#
+# Semi-Charmed Amulet (639)
+# neck=,id=228841,bonus_id=6652/10394/10393/10354/11978/1488/10255
+#
+# Ageless Serpent's Inked Coils (642)
+# chest=,id=229301,bonus_id=11979/10354/11958/6652/12178/1491/10255
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:1792:1816/c:3108:196/c:3110:31/c:3008:1659/c:3107:212/c:3109:90/i:210233:9/i:230906:1/i:224072:1/i:230936:1/i:206959:1
+#
+# slot_high_watermarks=0:649:649/1:619:629/2:639:649/3:642:642/4:619:626/5:619:623/6:642:642/7:639:639/8:639:639/9:623:626/10:639:639/11:623:649/12:636:639/13:587:629/14:606:626/15:606:626/16:639:639
+#
+# upgrade_achievements=40107/40115/40118
+
+# Checksum: 691c1b14

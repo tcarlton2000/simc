@@ -1,0 +1,45 @@
+# Raidbots-generated SimC input for Armory character US Thunderhorn Ninjanda
+# On 2025-04-23T14:59:34.298Z
+
+monk=Ninjanda
+level=80
+race=void_elf
+region=us
+server=thunderhorn
+role=attack
+spec=mistweaver
+talents=C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADLWmZZMLmtZMjNstsMbjHAz2yyMzyCjJmZgZYGGYbmZGmNmZYWegJAAAAAz20ysNzysZZWWmtZmJAAYD
+
+head=,id=235442,bonus_id=11988/9835
+neck=,id=235429,bonus_id=11984/9835/12055/10878
+shoulder=,id=229296,bonus_id=6652/11988/12179/11962/1507,context=110
+back=,id=235427,bonus_id=11984/9835
+chest=,id=229301,bonus_id=6652/11988/12178/11958/1507,enchant_id=7364,context=110
+wrist=,id=235446,bonus_id=11988/9835
+hands=,id=229299,bonus_id=1507
+waist=,id=219331,bonus_id=10421/9633/8902/9627/12043/11109/8960/8792/12040/12176,context=13,crafted_stats=32/40
+legs=,id=229297,bonus_id=1507
+feet=,id=228888,bonus_id=1507
+finger1=,id=228411,bonus_id=12028/1511,gem_id=228638/228644/228646,context=25
+finger2=,id=235423,bonus_id=40/12055/11984/9835
+trinket1=,id=234217,bonus_id=11984/1530
+trinket2=,id=230186,bonus_id=10353/11976/1494/10255,context=4
+main_hand=,id=222568,bonus_id=10421/9633/8902/9627/12040/11300/8960/8790/12043,enchant_id=7442,context=13,crafted_stats=36/40
+
+# Original
+# back=,id=235427,bonus_id=6652/11964/11980/3328/10255,context=109
+# chest=,id=229301,bonus_id=6652/11988/12178/11958/1507,enchant_id=7364,context=110
+# feet=,id=228888,bonus_id=41/11966/10354/11981/1498/10255,context=3
+# finger1=,id=228411,bonus_id=12028/1511,gem_id=228638/228644/228646,context=25
+# finger2=,id=235423,bonus_id=40/10394/10878/11982/9460/10255,context=109
+# hands=,id=211016,bonus_id=6652/11964/11980/3224/10255,context=109
+# head=,id=235442,bonus_id=11985/6652/12176/11964/9457/10255,context=110
+# legs=,id=235443,bonus_id=6652/11964/11980/3328/10255,context=137
+# main_hand=,id=222568,bonus_id=10421/9633/8902/9627/12040/11300/8960/8790/12043,enchant_id=7442,context=13,crafted_stats=36/40
+# neck=,id=235429,bonus_id=6652/10394/10393/11980/3328/10255,context=109
+# shirt=,id=2575,context=11
+# shoulder=,id=229296,bonus_id=6652/11988/12179/11962/1507,context=110
+# trinket1=,id=225649,bonus_id=6652/11976/3174/10255,context=42
+# trinket2=,id=230186,bonus_id=10353/11976/1494/10255,context=4
+# waist=,id=219331,bonus_id=10421/9633/8902/9627/12043/11109/8960/8792/12040/12176,context=13,crafted_stats=32/40
+# wrist=,id=235446,bonus_id=11985/6652/12176/11964/9457/10255,context=110

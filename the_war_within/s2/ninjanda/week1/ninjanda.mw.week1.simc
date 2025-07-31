@@ -1,0 +1,213 @@
+# Ninjanda - Mistweaver - 2025-03-04 06:19 - US/Thunderhorn
+# SimC Addon 11.1.0-01
+# WoW 11.1.0.59466, TOC 110100
+# Requires SimulationCraft 1000-01 or newer
+
+monk="Ninjanda"
+level=80
+race=void_elf
+region=us
+server=thunderhorn
+role=attack
+professions=alchemy=1/
+spec=mistweaver
+
+talents=C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAADLMzyYWMbzMzYDbLLz2Abz2yyMzyCMxMDMDzsYglZmZYWYmBLzEAAAAAEgFLz22sMzMBBA2A
+
+# Saved Loadout: wowhead
+# talents=C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+# Saved Loadout: wowhead tww s1 m+
+# talents=C4QACdq2zyOHcHaPcZ/HhhelgDAAAAAAAADLMzyYWMbzMzYDbLLz2Abz2yyMzyCMYmBmhZWMwyMzMMLMzglZAAAAAAAsYZ22mlZmBAAsB
+
+# Gatecrasher's Horns (619)
+head=,id=212047,bonus_id=6652/10877/10371/10266/1520/10255
+# Darkened Tinderbox (619)
+neck=,id=220158,bonus_id=6652/10395/10393/10266/3148/10255
+# Gatecrasher's Enduring Effigy (619)
+shoulder=,id=212045,bonus_id=10369/6652/10262/1520/10255
+# Gatecrasher's Mantle (619)
+back=,id=212042,bonus_id=6652/10266/1520/10255
+# Treasure-Seeker's Vest (619)
+chest=,id=211037,bonus_id=6652/10377/10262/3198/10255
+# Red Linen Shirt (1)
+shirt=,id=2575
+# Wristguards of Renown (619)
+wrist=,id=231441,bonus_id=6652/10877/10376/12093/10383/10266/1507/10255
+# Gatecrasher's Protectors (619)
+hands=,id=212048,bonus_id=6652/10355/10262/8094/10372/1520
+# Myconic Strap (619)
+waist=,id=219168,bonus_id=41/10876/10377/10266/3198/10255
+# Gatecrasher's Kilt (619)
+legs=,id=212046,bonus_id=6652/10370/10262/1520/10255
+# Gem-Wadded Footwraps (619)
+feet=,id=223303,bonus_id=10377/10266/3148/10255
+# Cyrce's Circlet (658)
+finger1=,id=228411,gem_id=228638/228644/228646,bonus_id=12028/1511
+# Emperor's Seal (619)
+finger2=,id=231437,bonus_id=6652/10394/10878/12093/10383/10266/1507/10255
+# Goldenglow Censer (626)
+trinket1=,id=225656,bonus_id=11970/41/3155/10255
+# Suspicious Energy Drink (626)
+trinket2=,id=235363,bonus_id=11970/6652/1498/10255
+# Vagabond's Bounding Baton  (636)
+main_hand=,id=222568,bonus_id=10421/9633/8902/9627/10222/11300/8960/8790/11144,crafted_stats=36/40,crafting_quality=5
+
+### Gear from Bags
+#
+# head=,id=233468,bonus_id=11944/6652/12176/11968/1475/10254
+#
+# head=,id=224590,bonus_id=11943/6652/12176/1676/10844/1527
+#
+# head=,id=232749,bonus_id=11942/40/12176/11968/1469
+#
+# neck=,id=235302,bonus_id=11951/11311/6652/10395/10393/1482/10254
+#
+# neck=,id=231436,bonus_id=6652/10394/10393/10270/12093/10383/1494/10255
+#
+# neck=,id=232737,bonus_id=11942/42/10394/10878/1469
+#
+# neck=,id=224665,bonus_id=6652/10394/10393/1766/10274/3135/10255
+#
+# shoulder=,id=232401,bonus_id=11944/6652/11968/1475/10254
+#
+# shoulder=,id=232746,bonus_id=11942/6652/11968/1469
+#
+# shoulder=,id=235306,bonus_id=11951/11311/6652/11968/1482/10254
+#
+# shoulder=,id=224621,bonus_id=11942/6652/1688/10844/1524
+#
+# Torchbearer's Shoulderguards (350)
+# shoulder=,id=211026,bonus_id=6652/11215/10377
+#
+# Treasure-Seeker's Shawl (554)
+# back=,id=211062,bonus_id=11306/10375,drop_level=80
+#
+# back=,id=232735,bonus_id=11942/6652/11968/1469
+#
+# back=,id=232763,bonus_id=11944/6652/11968/1475/10254
+#
+# chest=,id=224606,bonus_id=11942/6652/11968/1524
+#
+# chest=,id=232785,bonus_id=11944/6652/11968/1475/10254
+#
+# chest=,id=232353,bonus_id=11942/40/11968/1469
+#
+# chest=,id=224597,bonus_id=11942/6652/1682/10844/1524
+#
+# chest=,id=219174,bonus_id=10271/6652/10377/3182/10255
+#
+# wrist=,id=232744,bonus_id=11942/6652/12176/11968/1469
+#
+# wrist=,id=232787,bonus_id=11944/6652/12176/11968/1475/10254
+#
+# wrist=,id=211020,bonus_id=11306/6652/10375,drop_level=80
+#
+# wrist=,id=224591,bonus_id=11942/6652/12176/1699/10844/1524
+#
+# hands=,id=232393,bonus_id=11942/40/11968/1469
+#
+# hands=,id=235619,bonus_id=11942/6652/11968/1469
+#
+# hands=,id=224610,bonus_id=11943/43/1710/10844/1527
+#
+# Rusthide Gloves (610)
+# hands=,id=235325,bonus_id=11951/11311/41/11968/1482/10254
+#
+# waist=,id=232745,bonus_id=11942/41/12176/11968/1469
+#
+# waist=,id=232783,bonus_id=11944/6652/12176/11968/1475/10254
+#
+# legs=,id=224620,bonus_id=11942/6652/1694/10844/1524
+#
+# legs=,id=232747,bonus_id=11942/6652/11968/1469
+#
+# legs=,id=235148,bonus_id=11942/6652/11968/1469
+#
+# feet=,id=219173,bonus_id=10271/6652/10377/3182/10255
+#
+# feet=,id=232400,bonus_id=11944/6652/11968/1475/10254
+#
+# feet=,id=232748,bonus_id=11942/6652/11968/1469
+#
+# feet=,id=224618,bonus_id=11944/6652/1706/10844/1530/10254
+#
+# finger1=,id=192999,enchant_id=6556,gem_id=192919,bonus_id=8836/8840/8902/8780/9405/8790/9499/9614/8960/9498,crafted_stats=40/32,crafting_quality=5
+#
+# Band of the Relic Bearer (554)
+# finger1=,id=223376,bonus_id=11061,drop_level=80
+#
+# Cubic Zirconia Ring (12)
+# finger1=,id=7341
+#
+# finger1=,id=232418,bonus_id=11942/6652/10395/10393/1469
+#
+# finger1=,id=224592,bonus_id=11944/42/10394/10392/1781/10844/1530/10254
+#
+# finger1=,id=193000,enchant_id=6556,gem_id=192945,bonus_id=8836/8840/8902/8780/9405/8790/9499/9498,crafted_stats=40/32,crafting_quality=5
+#
+# trinket1=,id=225649,bonus_id=6652/10274/3135/10255
+#
+# trinket1=,id=225638,bonus_id=6652/10262/3148/10255
+#
+# Bashful Book (597)
+# trinket1=,id=235283,bonus_id=11942/6652/1469
+#
+# Papa's Prized Putter (597)
+# trinket1=,id=234821,bonus_id=11942/6652/1469
+#
+# trinket1=,id=220305,bonus_id=6652/10353/10274/1507/10255
+#
+# trinket1=,id=219317,bonus_id=10294/10388/6652/12045/1615/10254
+#
+# trinket1=,id=232883,bonus_id=11943/42/1472
+#
+# main_hand=,id=224639,bonus_id=11943/6652/1527
+#
+# main_hand=,id=232435,bonus_id=11942/6652/1469
+#
+# main_hand=,id=224629,bonus_id=11944/6652/1712/10844/1530/10254
+#
+# main_hand=,id=224702,bonus_id=6652/1698/10274/3135/10255
+#
+# main_hand=,id=231410,bonus_id=6652/12092/10384/10274/1494/10255
+#
+# main_hand=,id=221160,bonus_id=10286/6652/12046/11215/1602
+#
+# off_hand=,id=235661,bonus_id=11942/6652/1469
+#
+# off_hand=,id=211041,bonus_id=10271/6652/1508/10255
+
+### Weekly Reward Choices
+#
+# Whispering Umbral Mantle (593)
+# shoulder=,id=221094,bonus_id=10278/10388/41/10377/10383/1628/10255
+#
+# Guise of the Construct (593)
+# head=,id=221081,bonus_id=10278/10388/6652/10877/10377/10383/1628/10255
+#
+# Torchbearer's Greatcloak (616)
+# back=,id=211007,bonus_id=10263/6652/10377/1521/10255
+#
+# Torchlit Pickaxe (584)
+# main_hand=,id=219356,bonus_id=10281/6652/1489/10255
+#
+# Flawless Phase Blade (587)
+# main_hand=,id=212405,bonus_id=6652/10353/10280/1488/10255
+#
+# Creeping Coagulum (584)
+# trinket1=,id=219917,bonus_id=42/10353/10281/1485/10255
+#
+# Scepter of Manifested Miasma (584)
+# main_hand=,id=212404,bonus_id=6652/10353/10281/1485/10255
+#
+### End of Weekly Reward Choices
+
+### Additional Character Info
+#
+# upgrade_currencies=c:1792:1816/c:3108:36/c:3008:2000/c:3107:90/i:210233:9/i:224072:1/i:206959:1
+#
+# slot_high_watermarks=0:619:619/1:619:619/2:619:619/3:619:619/4:619:626/5:619:623/6:619:629/7:619:626/8:619:623/9:619:623/10:626:626/11:619:629/12:636:636/13:548:629/14:606:626/15:606:619/16:603:606
+#
+# upgrade_achievements=40107/40115/40118
+
+# Checksum: 35662e2e
