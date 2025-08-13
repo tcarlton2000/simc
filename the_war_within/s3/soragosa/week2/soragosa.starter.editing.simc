@@ -1,0 +1,150 @@
+mage=Soragosa
+level=80
+race=dracthyr
+region=us
+server=nathrezim
+role=caster
+spec=frost
+talents=CAEAAAAAAAAAAAAAAAAAAAAAAMzYzsZwMMzsYgZmpxYMmZGMMDzMzMzMzMzMzMmZmxMzyMNzsNLAAAoFAAAAAAYBAAAAAAAA
+
+# Reshii Wraps (714)
+back=,id=235499,gem_id=238045,bonus_id=12399/9877/12258
+# Pioneer's Cloth Robe (675) - Crit/Vers
+chest=,id=222837,bonus_id=12051/9627/8795
+# Pioneer's Cloth Slippers (675) - Crit/Mastery
+feet=,id=222832,bonus_id=12051/9627/8791
+# Malleable Band (675) - Crit/Haste
+finger1=,id=215130,bonus_id=12051/9627/8790
+# Malleable Band (675) - Vers/Haste
+finger2=,id=215130,bonus_id=12051/9627/8792
+# Pioneer's Perfected Gloves (675) - Crit/Vers
+hands=,id=222840,bonus_id=12051/9627/8795
+# Pioneer's Perfected Hood (675) - Crit/Vers
+head=,id=222836,bonus_id=12051/9627/8795
+# Pioneer's Perfected Leggings (675) - Vers/Haste
+legs=,id=222838,bonus_id=12051/9627/8792
+# Inquisitor's Baton (675) - Crit/Haste
+main_hand=,id=222570,bonus_id=12051/9627/8790
+# Malleable Pendant (675) - Crit/Haste
+neck=,id=215131,bonus_id=12051/9627/8790
+# Pioneer's Perfected Mantle (675) - Crit/Vers
+shoulder=,id=222839,bonus_id=12051/9627/8795
+trinket1=,id=235363,bonus_id=6652/12048,context=125
+trinket2=,id=153819,bonus_id=9836,context=61
+# Durable Information Securing Container (701)
+waist=,id=242664,bonus_id=12533/1489,titan_disc_id=1236279
+# Pioneer's Cloth Cuffs (675) - Crit/Mastery
+wrist=,id=222833,bonus_id=12051/9627/8791
+
+
+### Weekly Reward Choices
+#
+# --- Cloth Armor ---
+
+# Pioneer's Perfected Hood (675)
+# Crit/Mastery
+# head=,id=222836,bonus_id=12051/9627/8791
+# Mastery/Haste
+# head=,id=222836,bonus_id=12051/9627/8793
+# Vers/Haste
+# head=,id=222836,bonus_id=12051/9627/8792
+# Pioneer's Perfected Hood (675) - Crit/Haste
+# head=,id=222836,bonus_id=12051/9627/8790
+
+# Pioneer's Perfected Mantle (675)
+# Crit/Haste
+# shoulder=,id=222839,bonus_id=12051/9627/8790
+# Crit/Mastery
+# shoulder=,id=222839,bonus_id=12051/9627/8791
+# Mastery/Haste
+# shoulder=,id=222839,bonus_id=12051/9627/8793
+# Vers/Haste
+# shoulder=,id=222839,bonus_id=12051/9627/8792
+
+# Pioneer's Cloth Robe (675)
+# Crit/Haste
+# chest=,id=222837,bonus_id=12051/9627/8790
+# Crit/Mastery
+# chest=,id=222837,bonus_id=12051/9627/8791
+# Mastery/Haste
+# chest=,id=222837,bonus_id=12051/9627/8793
+# Vers/Haste
+# chest=,id=222837,bonus_id=12051/9627/8792
+
+# Pioneer's Cloth Cuffs (675)
+# Crit/Haste
+# wrist=,id=222833,bonus_id=12051/9627/8790
+# Crit/Vers
+# wrist=,id=222833,bonus_id=12051/9627/8795
+# Mastery/Haste
+# wrist=,id=222833,bonus_id=12051/9627/8793
+# Vers/Haste
+# wrist=,id=222833,bonus_id=12051/9627/8792
+
+# Pioneer's Perfected Gloves (675)
+# Crit/Haste
+# hands=,id=222840,bonus_id=12051/9627/8790
+# Crit/Mastery
+# hands=,id=222840,bonus_id=12051/9627/8791
+# Mastery/Haste
+# hands=,id=222840,bonus_id=12051/9627/8793
+# Vers/Haste
+# hands=,id=222840,bonus_id=12051/9627/8792
+
+# Pioneer's Perfected Leggings (675)
+# Crit/Haste
+# legs=,id=222838,bonus_id=12051/9627/8790
+# Crit/Mastery
+# legs=,id=222838,bonus_id=12051/9627/8791
+# Crit/Vers
+# legs=,id=222838,bonus_id=12051/9627/8795
+# Mastery/Haste
+# legs=,id=222838,bonus_id=12051/9627/8793
+
+# Pioneer's Cloth Slippers (675)
+# Crit/Haste
+# feet=,id=222832,bonus_id=12051/9627/8790
+# Crit/Vers
+# feet=,id=222832,bonus_id=12051/9627/8795
+# Mastery/Haste
+# feet=,id=222832,bonus_id=12051/9627/8793
+# Vers/Haste
+# feet=,id=222832,bonus_id=12051/9627/8792
+
+# --- Jewelry ---
+
+# Malleable Pendant (675)
+# Crit/Mastery
+# neck=,id=215131,bonus_id=12051/9627/8791
+# Crit/Vers
+# neck=,id=215131,bonus_id=12051/9627/8795
+# Mastery/Haste
+# neck=,id=215131,bonus_id=12051/9627/8793
+# Vers/Haste
+# neck=,id=215131,bonus_id=12051/9627/8792
+
+# Malleable Band (675)
+# Crit/Haste
+# finger1=,id=215130,bonus_id=12051/9627/8790
+# Crit/Mastery
+# finger1=,id=215130,bonus_id=12051/9627/8791
+# Crit/Vers
+# finger1=,id=215130,bonus_id=12051/9627/8795
+# Mastery/Haste
+# finger1=,id=215130,bonus_id=12051/9627/8793
+# Vers/Haste
+# finger1=,id=215130,bonus_id=12051/9627/8792
+
+# --- Weapon ---
+
+# Inquisitor's Baton (675)
+# Crit/Mastery
+# main_hand=,id=222570,bonus_id=12051/9627/8791
+# Crit/Vers
+# main_hand=,id=222570,bonus_id=12051/9627/8795
+# Mastery/Haste
+# main_hand=,id=222570,bonus_id=12051/9627/8793
+# Vers/Haste
+# main_hand=,id=222570,bonus_id=12051/9627/8792
+#
+### End of Weekly Reward Choices

@@ -1,0 +1,192 @@
+# Kirika - Marksmanship - 2025-08-07 08:18 - US/Nathrezim
+# SimC Addon 11.2.0-alpha06
+# WoW 11.2.0.62438, TOC 110200
+# Requires SimulationCraft 1000-01 or newer
+
+hunter="Kirika"
+level=80
+race=night_elf
+region=us
+server=nathrezim
+role=attack
+professions=herbalism=57/
+spec=marksmanship
+# loot_spec=marksmanship
+
+talents=C4PA11Mk8aZ38kAf+zso3nZ9IYmZZMM2Gz0YZswWmtMbAAAAAAAAAAAAAwMmxMmZGmRzMGDzMMGmllZw2YYmZZbbbmxAzMjZmZmFGzywMD
+
+# Saved Loadout: tww s3 sentinel m{
+# talents=C4PA11Mk8aZ38kAf+zso3nZ9IYmZZMM2GzYsMWYjZjZDAAAAAAAAAAAAAmxMmxMzwMMzYMMzwYYWWmBbjhZmltttZGDMzMmZmZWYMLDzM
+# Saved Loadout: tww s3 sentinel delve
+# talents=C4PA11Mk8aZ38kAf+zso3nZ9IYmZZMM2GzYsMWYjZjZDAAAAAAAAAAAAAmxMmxMzwMMzYMMzwYYWWmBbjhZmltttZGDMzMmZmZWYMbDzM
+
+# Trackers Toughened Headgear (675) - Crit/Vers
+head=,id=219481,bonus_id=12051/9627/8795
+# Malleable Pendant (675) - Crit/Mastery
+neck=,id=215131,bonus_id=12051/9627/8791
+# Trackers Toughened Shoulderguards (675) - Crit/Mastery
+shoulders=,id=219482,bonus_id=12051/9627/8791
+# Reshii Wraps (707)
+back=,id=235499,gem_id=238044,bonus_id=12398/9850/12257
+# Trackers Chitin Hauberk (675) - Crit/Mastery
+chest=,id=219475,bonus_id=12051/9627/8791
+# Trackers Chitin Cuffs (675) - Crit/Mastery
+wrist=,id=219474,bonus_id=12051/9627/8791
+# Trackers Toughened Handguards (675) - Crit/Vers
+hands=,id=219483,bonus_id=12051/9627/8795
+# Durable Information Securing Container (701)
+waist=,id=245965,gem_id=213458,bonus_id=12533/1489,titan_disc_id=1236272
+# Trackers Toughened Links (675) - Crit/Mastery
+legs=,id=219484,bonus_id=12051/9627/8791
+# Trackers Chitin Galoshes (675) - Crit/Vers
+feet=,id=219473,bonus_id=12051/9627/8795
+# Malleable Band (675) - Crit/Mastery
+finger1=,id=215130,bonus_id=12051/9627/8791
+# Malleable Band (675) - Crit/Mastery
+finger2=,id=215130,bonus_id=12051/9627/8791
+# House of Cards (658)
+trinket1=,id=230027,bonus_id=6652/10355/11988/1507/10255
+# Spelunker's Waning Candle (662)
+trinket2=,id=225638,bonus_id=12277/42/3194/10254
+# 4Ut0 41M3R (675) - Crit/Vers
+main_hand=,id=225646,bonus_id=12051/9627/8795
+
+### Gear from Bags
+#
+# Chitinoid Coif of the Feverflare (629)
+# head=,id=224685,bonus_id=11971/6652/12055/11964/1700/3158/10255
+#
+# Tireless Collector's Chained Cowl (629)
+# head=,id=229271,bonus_id=11971/10353/11960/6652/12055/12178/1478/10255
+#
+# Void-Scarred Brooch (658)
+# neck=,id=237963,bonus_id=12275/6652/10395/10393/11215/9835/10254
+#
+# Pendant of Arcane Havoc (652)
+# neck=,id=237894,bonus_id=6652/10395/10878/12268/3181/10254
+#
+# Worn Shadowguard Pendant (642)
+# neck=,id=244476,bonus_id=12265/6652/10395/10393/10844/3171
+#
+# Semi-Charmed Amulet (626)
+# neck=,id=228841,bonus_id=6652/10394/10878/10353/11970/1475/10255
+#
+# Underscout's Shoulderguards of the Harmonious (600)
+# shoulder=,id=224607,bonus_id=11943/6652/1714/10844/1527
+#
+# Blastborne Missile Pads (610)
+# shoulder=,id=235452,bonus_id=11951/6652/13250/3293/10254
+#
+# Torchbearer's Shoulderguards (623)
+# shoulder=,id=211026,bonus_id=11969/6652/11215/11964/13250/3202/10255
+#
+# Treasure-Seeker's Shawl (623)
+# back=,id=211062,bonus_id=11969/6652/11215/11964/13250/1528/10255
+#
+# Spinner's Shawl of the Fireflash (600)
+# back=,id=224624,bonus_id=11943/6652/1696/10844/1527
+#
+# Torchbearer's Chainmail (623)
+# chest=,id=211021,bonus_id=11969/6652/11215/11964/13250/3202/10255
+#
+# Torchbearer's Bracers (623)
+# wrist=,id=211028,bonus_id=11969/6652/12176/11215/11964/13250/3202/10255
+#
+# Blastborne Grips (636)
+# hands=,id=235449,bonus_id=11977/6652/11964/13250/3319/10255
+#
+# Gravi-Gunk Handlers (629)
+# hands=,id=228867,bonus_id=6652/11965/10353/11971/1478/10255
+#
+# Torchbearer's Grips (652)
+# hands=,id=211023,bonus_id=12268/6652/3231/10254
+#
+# Cinch of the First Oath (642)
+# waist=,id=245715,bonus_id=12265/6652/12921/12244/3171
+#
+# Shadowguard's Rift Wrap (688)
+# waist=,id=243043,bonus_id=6652/12921/12239/10354/12292/1498/10255
+#
+# Eco-Stabilizer's Cinch (642)
+# waist=,id=237876,bonus_id=12265/6652/12921/12244/3171
+#
+# Blastborne Legguards (636)
+# legs=,id=235451,bonus_id=11977/6652/11964/13250/3319/10255
+#
+# Shrapnel-Ridden Sabatons (623)
+# feet=,id=228862,bonus_id=6652/11965/10353/11969/1472/10255
+#
+# Dubious Table-Runners (629)
+# feet=,id=228883,bonus_id=6652/11965/10353/11971/1478/10255
+#
+# Hoop of the Blighted (639)
+# finger1=,id=221197,bonus_id=12367/10386/40/10394/10393
+#
+# Unearthed Relic Band (623)
+# finger1=,id=211061,bonus_id=11969/6652/10394/10392/11215/13250/1528/10255
+#
+# Terraformer's Seal (642)
+# finger1=,id=245712,bonus_id=12265/6652/10394/10393/3171
+#
+# Loop of Vestigial Power (623)
+# finger1=,id=211051,bonus_id=11969/6652/10394/10392/11215/13250/1528/10255
+#
+# Wastelander's Gilded Loop (655)
+# finger1=,id=243498,bonus_id=12274/6652/10395/10392/3184/10254
+#
+# Spelunker's Waning Candle (662)
+# trinket1=,id=225638,bonus_id=12276/42/3191/10254
+#
+# Reverb Radio (626)
+# trinket1=,id=230194,bonus_id=6652/10353/11970/1475/10255
+#
+# Ratfang Toxin (636)
+# trinket1=,id=235359,bonus_id=6652/11977/1508/10255
+#
+# Zee's Thug Hotline (632)
+# trinket1=,id=230199,bonus_id=6652/10353/11972/1481/10255
+#
+# Blastmaster3000 (636)
+# trinket1=,id=234717,bonus_id=6652/11977/1508/10255
+#
+# Void-Touched Fragment (642)
+# trinket1=,id=238386,bonus_id=12265/6652/1514
+#
+# Garbagemancer's Last Resort (636)
+# trinket1=,id=235984,bonus_id=11977/6652/13250/3315/10255
+#
+# Quickwick Candlestick (658)
+# trinket1=,id=225649,bonus_id=12275/6652/3187/10254
+#
+# "Tiny Pal" (636)
+# main_hand=,id=228893,bonus_id=6652/10353/12060/11973/1485/10255
+#
+# Lamplighter's Unlit Torch (1)
+# main_hand=,id=220508
+#
+# Trailblazer's Hookshoot (636)
+# main_hand=,id=219353,bonus_id=11977/6652/13250/1541/10255
+#
+# Ancient Forged Slugthrower of the Harmonious (623)
+# main_hand=,id=224704,bonus_id=11969/6652/1713/3152/10255
+#
+# Entropic-Shadow Sharpshooter (642)
+# main_hand=,id=238062,bonus_id=12265/6652/3171
+#
+# Worn Shadowguard Censer (649)
+# off_hand=,id=244525,bonus_id=12267/6652/10844/3178/10254
+#
+
+
+
+### Additional Character Info
+#
+# catalyst_currencies=3269:0/2813:8/3116:8
+#
+# upgrade_currencies=c:3284:137/c:3286:36/c:3008:1880/i:231756:1
+#
+# slot_high_watermarks=0:652:681/1:668:681/2:652:671/3:652:671/4:701:701/5:652:671/6:652:681/7:652:681/8:652:671/9:655:681/10:658:671/11:707:707/12:655:681/13:0:662/14:0:662/15:0:649/16:0:662
+#
+# upgrade_achievements=19326/19397/19398/19577/19578/19579/40107/40115/40118/40942/40943/40944/40945
+
+# Checksum: 187909b8

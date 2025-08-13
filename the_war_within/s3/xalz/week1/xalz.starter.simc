@@ -1,0 +1,169 @@
+# Xalz - Discipline - 2025-08-10 14:16 - US/Illidan
+# SimC Addon 11.2.0-alpha06
+# WoW 11.2.0.62438, TOC 110200
+# Requires SimulationCraft 1000-01 or newer
+
+priest="Xalz"
+level=80
+race=void_elf
+region=us
+server=illidan
+role=spell
+
+spec=discipline
+# loot_spec=discipline
+
+talents=CAQAJVmtV83otBfEj5bt80waBAglZmZ8AGjxMzYmNz2MzMzMGAAAAAAAAAAwilZbwMzgZhxMmZMYhtZamJWGYmBAFgZZ22AjNbAAA
+
+# Saved Loadout: wowhead tww s3 delve
+# talents=CAQAJVmtV83otBfEj5bt80waBAglZmZ8AGjxMzYmNz2MzMzMGAAAAAAAAAAwilZbwMzgZhxMmZMYhtZMzglBmZAAAmlZbDM2sBAA
+
+# Sporefused Hood (483)
+head=,id=219766,bonus_id=11128,drop_level=73
+# Mysterious Pendant (528)
+neck=,id=235976,bonus_id=10385/4785,drop_level=76
+# Cave Topographer's Shoulders (613)
+shoulder=,id=211039,bonus_id=11952/40/13250/3192/10254
+# Reshii Wraps (707)
+back=,id=235499,gem_id=238045,bonus_id=12398/9850/12258
+# Warphorn's Resilient Mane (509)
+chest=,id=223341,bonus_id=11061,drop_level=74
+# Mysterious Cuffs (532)
+wrist=,id=235942,bonus_id=12070,drop_level=76
+# Mysterious Handwraps (541)
+hands=,id=235947,bonus_id=10385/4785,drop_level=78
+# Durable Information Securing Container (691)
+waist=,id=242664,bonus_id=12533/1489,titan_disc_id=1236273
+# Communal Leggings (467)
+legs=,id=153924,bonus_id=11073,drop_level=70
+# Mysterious Sandals (548)
+feet=,id=235948,bonus_id=10385/4785,drop_level=79
+# Band of the Relic Bearer (490)
+finger1=,id=223376,bonus_id=11061,drop_level=73
+# Mysterious Band (518)
+finger2=,id=235979,bonus_id=10385/4785,drop_level=75
+# Candle Confidant (535)
+trinket1=,id=225648,bonus_id=6652/12048/11310,drop_level=77
+# Suspicious Energy Drink (590)
+trinket2=,id=235363,bonus_id=6652/12048
+# Lapidarius Gemcutter (590)
+main_hand=,id=211047,bonus_id=12048/6652
+# Mysterious Lantern (539)
+off_hand=,id=235923,bonus_id=12070,drop_level=77
+
+### Gear from Bags
+#
+# Communal Necklace (467)
+# neck=,id=153925,bonus_id=11073,drop_level=70
+#
+# Mysterious Cloak (513)
+# back=,id=235974,bonus_id=12070,drop_level=74
+#
+# Moth-Ridden Robe (362)
+# chest=,id=220307,bonus_id=10350,drop_level=80
+#
+# Mysterious Cord (545)
+# waist=,id=235943,bonus_id=12070,drop_level=78
+#
+# Begrimed Greatbelt (362)
+# waist=,id=220337,bonus_id=10350,drop_level=80
+#
+# Communal Band of Wisdom (467)
+# finger1=,id=153927,bonus_id=11073,drop_level=70
+#
+# Communal Ring of Wisdom (467)
+# finger1=,id=153928,bonus_id=11073,drop_level=70
+#
+# Communal Stone of Wisdom (467)
+# trinket1=,id=153930,bonus_id=11073,drop_level=70
+#
+# Communal Idol of Wisdom (467)
+# trinket1=,id=153926,bonus_id=11073,drop_level=70
+#
+# Deep-Dweller's Staff of the Fireflash (483)
+# main_hand=,id=224626,bonus_id=10382/6652/1696/10844,drop_level=73
+
+# Pioneers Cloth Cuffs (675) - Crit/Haste
+# wrists=,id=222833,bonus_id=12051/9627/8790
+# Pioneers Cloth Cuffs (675) - Crit/Mastery
+# wrists=,id=222833,bonus_id=12051/9627/8791
+# Pioneers Cloth Cuffs (675) - Mastery/Haste
+# wrists=,id=222833,bonus_id=12051/9627/8793
+# Pioneers Perfected Leggings (675) - Crit/Haste
+# legs=,id=222838,bonus_id=12051/9627/8790
+# Pioneers Perfected Leggings (675) - Crit/Mastery
+# legs=,id=222838,bonus_id=12051/9627/8791
+# Pioneers Perfected Leggings (675) - Mastery/Haste
+# legs=,id=222838,bonus_id=12051/9627/8793
+# Pioneers Perfected Gloves (675) - Crit/Haste
+# hands=,id=222840,bonus_id=12051/9627/8790
+# Pioneers Perfected Gloves (675) - Crit/Mastery
+# hands=,id=222840,bonus_id=12051/9627/8791
+# Pioneers Perfected Gloves (675) - Mastery/Haste
+# hands=,id=222840,bonus_id=12051/9627/8793
+# Pioneers Perfected Mantle (675) - Crit/Haste
+# shoulders=,id=222839,bonus_id=12051/9627/8790
+# Pioneers Perfected Mantle (675) - Crit/Mastery
+# shoulders=,id=222839,bonus_id=12051/9627/8791
+# Pioneers Perfected Mantle (675) - Mastery/Haste
+# shoulders=,id=222839,bonus_id=12051/9627/8793
+# Pioneers Perfected Hood (675) - Crit/Haste
+# head=,id=222836,bonus_id=12051/9627/8790
+# Pioneers Perfected Hood (675) - Crit/Mastery
+# head=,id=222836,bonus_id=12051/9627/8791
+# Pioneers Perfected Hood (675) - Mastery/Haste
+# head=,id=222836,bonus_id=12051/9627/8793
+# Pioneers Cloth Slippers (675) - Crit/Haste
+# feet=,id=222832,bonus_id=12051/9627/8790
+# Pioneers Cloth Slippers (675) - Crit/Mastery
+# feet=,id=222832,bonus_id=12051/9627/8791
+# Pioneers Cloth Slippers (675) - Mastery/Haste
+# feet=,id=222832,bonus_id=12051/9627/8793
+# Pioneers Cloth Robe (675) - Crit/Haste
+# chest=,id=222837,bonus_id=12051/9627/8790
+# Pioneers Cloth Robe (675) - Crit/Mastery
+# chest=,id=222837,bonus_id=12051/9627/8791
+# Pioneers Cloth Robe (675) - Mastery/Haste
+# chest=,id=222837,bonus_id=12051/9627/8793
+# Pioneers Perfected Cord (675) - Crit/Haste
+# waist=,id=222834,bonus_id=12051/9627/8790
+# Pioneers Perfected Cord (675) - Crit/Mastery
+# waist=,id=222834,bonus_id=12051/9627/8791
+# Pioneers Perfected Cord (675) - Mastery/Haste
+# waist=,id=222834,bonus_id=12051/9627/8793
+# Malleable Pendant (675) - Crit/Haste
+# neck=,id=215131,bonus_id=12051/9627/8790
+# Malleable Pendant (675) - Crit/Mastery
+# neck=,id=215131,bonus_id=12051/9627/8791
+# Malleable Pendant (675) - Mastery/Haste
+# neck=,id=215131,bonus_id=12051/9627/8793
+# Malleable Band (675) - Crit/Haste
+# finger=,id=215130,bonus_id=12051/9627/8790
+# Malleable Band (675) - Crit/Mastery
+# finger=,id=215130,bonus_id=12051/9627/8791
+# Malleable Band (675) - Mastery/Haste
+# finger=,id=215130,bonus_id=12051/9627/8793
+# Malleable Band (675) - Crit/Haste
+# finger=,id=215130,bonus_id=12051/9627/8790
+# Malleable Band (675) - Crit/Mastery
+# finger=,id=215130,bonus_id=12051/9627/8791
+# Malleable Band (675) - Mastery/Haste
+# finger=,id=215130,bonus_id=12051/9627/8793
+# Inquisitors Baton (675) - Crit/Haste
+# main_hand=,id=222570,bonus_id=12051/9627/8790
+# Inquisitors Baton (675) - Crit/Mastery
+# main_hand=,id=222570,bonus_id=12051/9627/8791
+# Inquisitors Baton (675) - Mastery/Haste
+# main_hand=,id=222570,bonus_id=12051/9627/8793
+
+### Additional Character Info
+#
+# catalyst_currencies=3269:0/2813:8/3116:8
+#
+# upgrade_currencies=c:3284:2/c:3008:8
+#
+# slot_high_watermarks=0:483:681/1:528:681/2:613:675/3:509:675/4:691:701/5:467:675/6:548:681/7:532:681/8:541:675/9:490:681/10:535:671/11:707:707/12:545:681/13:535:662/14:84:662/15:84:649/16:539:662
+#
+# upgrade_achievements=19326/19397/19398/19577/19578/19579/40107/40115/40118/40942/40943/40944/40945
+
+# Checksum: ff719328

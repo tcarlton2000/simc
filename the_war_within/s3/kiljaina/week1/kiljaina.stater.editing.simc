@@ -1,0 +1,133 @@
+# Raidbots-generated SimC input for Armory character US Illidan Kiljaina
+# On 2025-08-11T14:01:48.811Z
+
+warlock=Kiljaina
+level=80
+race=draenei
+region=us
+server=illidan
+role=caster
+spec=demonology
+talents=CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZEzmhxsZmZYWGAAAAAAAAAAzAGzYYBGYb0CNswYMjtxMbzYmZGjZMMzMzMzgZAAA
+
+back=,id=235499,gem_id=238045,bonus_id=12398/9850/12258
+# Pioneer's Cloth Robe (Crit/Haste) (675)
+chest=,id=222837,bonus_id=12051/9627/8790
+# Pioneer's Cloth Slippers (Crit/Vers) (675)
+feet=,id=222832,bonus_id=12051/9627/8795
+# Malleable Band (Crit/Haste) (675)
+finger1=,id=215130,bonus_id=12051/9627/8790
+# Malleable Band (Crit/Haste) (675)
+finger2=,id=215130,bonus_id=12051/9627/8790
+# Pioneer's Perfected Gloves (Crit/Vers) (675)
+hands=,id=222840,bonus_id=12051/9627/8795
+# Pioneer's Perfected Hood (Crit/Haste) (675)
+head=,id=222836,bonus_id=12051/9627/8790
+# Pioneer's Perfected Leggings (Crit/Haste) (675)
+legs=,id=222838,bonus_id=12051/9627/8790
+# Inquisitor's Baton (Crit/Vers) (675)
+main_hand=,id=222570,bonus_id=12051/9627/8795
+# Malleable Pendant (Crit/Vers) (675)
+neck=,id=215131,bonus_id=12051/9627/8795
+# Pioneer's Perfected Mantle (Crit/Vers) (675)
+shoulder=,id=222839,bonus_id=12051/9627/8795
+trinket1=,id=232883,bonus_id=6652/12048,context=125
+trinket2=,id=234717,bonus_id=6652/12048,context=125
+waist=,id=242664,bonus_id=12533/1489,titan_disc_id=1236275
+# Pioneer's Cloth Cuffs (Crit/Vers) (675)
+wrist=,id=222833,bonus_id=12051/9627/8795
+
+### Weekly Reward Choices
+#
+# Crit/Haste
+# Pioneer's Cloth Cuffs (Crit/Haste) (675)
+# wrist=,id=222833,bonus_id=12051/9627/8790
+# Pioneer's Perfected Gloves (Crit/Haste) (675)
+# hands=,id=222840,bonus_id=12051/9627/8790
+# Pioneer's Perfected Mantle (Crit/Haste) (675)
+# shoulder=,id=222839,bonus_id=12051/9627/8790
+# Pioneer's Cloth Slippers (Crit/Haste) (675)
+# feet=,id=222832,bonus_id=12051/9627/8790
+# Malleable Pendant (Crit/Haste) (675)
+# neck=,id=215131,bonus_id=12051/9627/8790
+# Inquisitor's Baton (Crit/Haste) (675)
+# main_hand=,id=222570,bonus_id=12051/9627/8790
+
+
+# Crit/Mastery
+# Pioneer's Cloth Cuffs (Crit/Mastery) (675)
+# wrist=,id=222833,bonus_id=12051/9627/8791
+# Pioneer's Perfected Leggings (Crit/Mastery) (675)
+# legs=,id=222838,bonus_id=12051/9627/8791
+# Pioneer's Perfected Gloves (Crit/Mastery) (675)
+# hands=,id=222840,bonus_id=12051/9627/8791
+# Pioneer's Perfected Mantle (Crit/Mastery) (675)
+# shoulder=,id=222839,bonus_id=12051/9627/8791
+# Pioneer's Perfected Hood (Crit/Mastery) (675)
+# head=,id=222836,bonus_id=12051/9627/8791
+# Pioneer's Cloth Slippers (Crit/Mastery) (675)
+# feet=,id=222832,bonus_id=12051/9627/8791
+# Pioneer's Cloth Robe (Crit/Mastery) (675)
+# chest=,id=222837,bonus_id=12051/9627/8791
+# Malleable Pendant (Crit/Mastery) (675)
+# neck=,id=215131,bonus_id=12051/9627/8791
+# Malleable Band (Crit/Mastery) (675)
+# finger1=,id=215130,bonus_id=12051/9627/8791
+# Inquisitor's Baton (Crit/Mastery) (675)
+# main_hand=,id=222570,bonus_id=12051/9627/8791
+
+# Crit/Vers
+# Pioneer's Perfected Leggings (Crit/Vers) (675)
+# legs=,id=222838,bonus_id=12051/9627/8795
+# Pioneer's Perfected Hood (Crit/Vers) (675)
+# head=,id=222836,bonus_id=12051/9627/8795
+# Pioneer's Cloth Robe (Crit/Vers) (675)
+# chest=,id=222837,bonus_id=12051/9627/8795
+# Malleable Band (Crit/Vers) (675)
+# finger1=,id=215130,bonus_id=12051/9627/8795
+
+# Mastery/Haste
+# Pioneer's Cloth Cuffs (Mastery/Haste) (675)
+# wrist=,id=222833,bonus_id=12051/9627/8793
+# Pioneer's Perfected Leggings (Mastery/Haste) (675)
+# legs=,id=222838,bonus_id=12051/9627/8793
+# Pioneer's Perfected Gloves (Mastery/Haste) (675)
+# hands=,id=222840,bonus_id=12051/9627/8793
+# Pioneer's Perfected Mantle (Mastery/Haste) (675)
+# shoulder=,id=222839,bonus_id=12051/9627/8793
+# Pioneer's Perfected Hood (Mastery/Haste) (675)
+# head=,id=222836,bonus_id=12051/9627/8793
+# Pioneer's Cloth Slippers (Mastery/Haste) (675)
+# feet=,id=222832,bonus_id=12051/9627/8793
+# Pioneer's Cloth Robe (Mastery/Haste) (675)
+# chest=,id=222837,bonus_id=12051/9627/8793
+# Malleable Pendant (Mastery/Haste) (675)
+# neck=,id=215131,bonus_id=12051/9627/8793
+# Malleable Band (Mastery/Haste) (675)
+# finger1=,id=215130,bonus_id=12051/9627/8793
+# Inquisitor's Baton (Mastery/Haste) (675)
+# main_hand=,id=222570,bonus_id=12051/9627/8793
+
+# Vers/Haste
+# Pioneer's Cloth Cuffs (Vers/Haste) (675)
+# wrist=,id=222833,bonus_id=12051/9627/8792
+# Pioneer's Perfected Leggings (Vers/Haste) (675)
+# legs=,id=222838,bonus_id=12051/9627/8792
+# Pioneer's Perfected Gloves (Vers/Haste) (675)
+# hands=,id=222840,bonus_id=12051/9627/8792
+# Pioneer's Perfected Mantle (Vers/Haste) (675)
+# shoulder=,id=222839,bonus_id=12051/9627/8792
+# Pioneer's Perfected Hood (Vers/Haste) (675)
+# head=,id=222836,bonus_id=12051/9627/8792
+# Pioneer's Cloth Slippers (Vers/Haste) (675)
+# feet=,id=222832,bonus_id=12051/9627/8792
+# Pioneer's Cloth Robe (Vers/Haste) (675)
+# chest=,id=222837,bonus_id=12051/9627/8792
+# Malleable Pendant (Vers/Haste) (675)
+# neck=,id=215131,bonus_id=12051/9627/8792
+# Malleable Band (Vers/Haste) (675)
+# finger1=,id=215130,bonus_id=12051/9627/8792
+# Inquisitor's Baton (Vers/Haste) (675)
+# main_hand=,id=222570,bonus_id=12051/9627/8792
+#
+### End of Weekly Reward Choices

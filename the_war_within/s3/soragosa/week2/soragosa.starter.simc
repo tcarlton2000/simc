@@ -1,0 +1,27 @@
+# Raidbots-generated SimC input for Armory character US Nathrezim Soragosa
+# On 2025-08-12T18:08:40.222Z
+
+mage=Soragosa
+level=80
+race=dracthyr
+region=us
+server=nathrezim
+role=caster
+spec=frost
+talents=CAEAAAAAAAAAAAAAAAAAAAAAAMzYzsNDmxMmFDMmpxYmxMmhxYwMzMzMmZmZmxMzMmZ2mpZmlZBAAAtAAAAAAgBAAAAAAAA
+
+back=,id=211006,bonus_id=12048/6652,context=125
+chest=,id=235949,bonus_id=10385/4785,drop_level=79,context=17
+feet=,id=235948,bonus_id=10385/4785,drop_level=79,context=17
+finger1=,id=223376,bonus_id=11061,drop_level=73
+finger2=,id=235979,bonus_id=10385/4785,drop_level=79,context=17
+hands=,id=235947,bonus_id=10385/4785,drop_level=74,context=17
+head=,id=235946,bonus_id=10385/4785,drop_level=78,context=17
+legs=,id=235945,bonus_id=12070,drop_level=77,context=19
+main_hand=,id=235925,bonus_id=10385/4785,drop_level=79,context=17
+neck=,id=235976,bonus_id=10385/4785,drop_level=78,context=17
+shoulder=,id=228374,bonus_id=11128,drop_level=73,context=25
+trinket1=,id=235363,bonus_id=6652/12048,context=125
+trinket2=,id=153819,bonus_id=9836,context=61
+waist=,id=219361,bonus_id=11128,drop_level=79,context=25
+wrist=,id=227916,bonus_id=11128,drop_level=76,context=25
